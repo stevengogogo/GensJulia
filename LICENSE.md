@@ -1,8 +1,8 @@
 # ODC Open Database License (ODbL)
 
-+ COPYRIGHT © 2013-Now [SVAKSHA](http://svaksha.com/pages/Bio).
-+ COPYRIGHT © 2021-Now Wen-Wei Tseng.
-+ The __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work.
+- COPYRIGHT © 2013-Now [SVAKSHA](http://svaksha.com/pages/Bio).
+- COPYRIGHT © 2021-Now Wen-Wei Tseng.
+- The __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work.
 
 # Preamble
 
