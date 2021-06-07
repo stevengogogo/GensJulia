@@ -30,7 +30,8 @@
 - [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl) : Graph-related recipes to be used with Plots.jl.
 - [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl): Graph-related recipes to be used with Plots.jl.
 - [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) : Dive deeper into your data with interactive graphics.
-- [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) : Julia package to facilitate graphing of implicit equations and inequalities.
+- [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) : Plotting implicit equations and inequalities.
+- [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : ImPlot.jl provides an interface to [cimplot](https://github.com/cimgui/cimplot), which is an auto-generated C API to [implot](https://github.com/epezent/implot), a C++ plotting extension library for [imgui](https://github.com/ocornut/imgui).
 - [Makie.jl](https://github.com/JuliaPlots/Makie.jl) : High level plotting on the GPU.
 - [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
 - [PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) : Seamlessly create plots in Julia using the PGFPlots LaTeX package.
