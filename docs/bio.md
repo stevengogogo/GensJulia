@@ -3,7 +3,6 @@
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...
 
 - [BioJulia](https://biojulia.net/)
-- [EcoJulia](https://ecojulia.org).
 - [Julia Health](https://juliahealth.org)
 
 ## API for biology and medicine databases
