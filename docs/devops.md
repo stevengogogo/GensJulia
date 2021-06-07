@@ -11,23 +11,23 @@
 
 ## Installing Julia
 
-- [jill.py](https://github.com/johnnychen94/jill.py) : Python port of the `jill` installer.
+Alternative to downloading an extracting [official Julia binaries](http://julialang.org/downloads/):
+
 - [jill](https://github.com/abelsiqueira/jill) :  Command line installer of the Julia Language for Linux and MacOS.
+- [jill.py](https://github.com/johnnychen94/jill.py) : Python port of the `jill` installer.
+- [JuliaUp](https://github.com/JuliaLang/juliaup) : Julia installer and updater in Windows Store.
 - [JuliaVM](https://github.com/pmargreff/juliavm) : Simple bash script to manage multiple Julia environments. Inspired by `nvm` and `npm`.
-- [Official Julia binaries](http://julialang.org/downloads/)
-- [Repology](https://repology.org/metapackage/julia/versions) tracks versions of julia across more than 120 package repositories.
+- [Repology](https://repology.org/metapackage/julia/versions) : versions of julia across more than 120 (Linux) package repositories.
 
 ## Developing Julia packages
 
 > Package/Infrastructure management tools and Documentation
+> - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) : Super-simple bottle-caching infrastructure for the site.
+> - [JuliaHub](https://juliahub.com/ui/Home)
+> - [Julia Package list](https://juliapackages.com/)
+> - [General registry](https://github.com/JuliaRegistries/General) : The official registry of general Julia packages.
 
-Websites:
-- [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) : Super-simple bottle-caching infrastructure for the site.
-- [JuliaHub](https://juliahub.com/ui/Home)
-- [Julia Package list](https://juliapackages.com/)
-- [General registry](https://github.com/JuliaRegistries/General) : The official registry of general Julia packages.
 
-Packages:
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
 - [Kip.jl](https://github.com/jkroso/Kip.jl) : An Python-like, alternative module system for Julia.
 - [Pkg.jl](https://github.com/JuliaLang/Pkg.jl) : Version 3 of package manager for Julia. [Documentation](https://pkgdocs.julialang.org/v1/).
