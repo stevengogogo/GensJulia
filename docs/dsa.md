@@ -64,7 +64,6 @@
 - [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) : A Julian abstraction layer over FreeType.jl.
 - [FunctionalCollections.jl](https://github.com/JuliaCollections/FunctionalCollections.jl) : Functional and and persistent data structures for Julia.
 - [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) : Functional, efficient data manipulation framework.
-- [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) : Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) light sheet microscopy file formats in Julia.
 - [MUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) : `channels()`, `tspaces(`)`, `kvspaces()` and more.
 - [ResultTypes.jl](https://github.com/iamed2/ResultTypes.jl) :  A Result type for Julia—it's like Nullables for Exceptions.
 - [TypeSortedCollections.jl](https://github.com/tkoolen/TypeSortedCollections.jl) : It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner.

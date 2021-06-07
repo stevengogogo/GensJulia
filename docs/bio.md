@@ -12,11 +12,6 @@
 - [PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) : Utilities to programmatically query the PubChem database.
 - [PubMedMiner.jl](https://github.com/JuliaHealth/PubMedMiner.jl) : Julia package for studying co-occurrences in PubMed articles.
 
-## Modeling
-
-- [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) : Stochastic Gillespie-type simulations using Julia.
-- [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) : Utilities to simulate and perform inference of disease dynamics.
-
 ## Bioinformatics
 
 As well as genomics.
@@ -101,8 +96,6 @@ Evolution trees from biosequences.
 
 - Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
 - [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
-
-
 - 🏚️ [BioTutorials](https://github.com/BioJulia/BioTutorials) :  Tutorial Notebooks of BioJulia
 
 ## Metabolic networks
@@ -119,16 +112,12 @@ Evolution trees from biosequences.
 ## BioStatistics
 
 - [ROC.jl](https://github.com/diegozea/ROC.jl) : Receiver Operating Characteristic (ROC) Curve for Julia Language.
-
-
 - 🏚️ [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) : Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
 
 
 ## Molecular Biology
 
 - [CellFishing.jl ](https://github.com/bicycle1885/CellFishing.jl) : (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing.
-
-
 - 🏚️ [EvoDuplexes.jl](https://github.com/timbitz/EvoDuplexes.jl) : A Julia package to fold all local and long-range RNA duplexes.
 
 ## Microscopy
@@ -136,6 +125,8 @@ Evolution trees from biosequences.
 [📖 Microscopy](https://en.wikipedia.org/wiki/Microscopy)
 
 - [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) : Embed annotations in your microscopy images.
+- [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) : Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) light sheet microscopy file formats in Julia.
+
 
 ## Neuroscience
 

@@ -23,7 +23,7 @@ General Concurrency Packages:
 - [Actors.jl](https://github.com/JuliaActors/Actors.jl) : An Actor Model implementation in Julia.
 - [FLoops.jl](https://github.com/JuliaFolds/FLoops.jl): provides a macro `@floop`. It can be used to generate a fast generic iteration over complex collections.
 - [Folds.jl](https://github.com/JuliaFolds/Folds.jl) : A unified interface for sequential, threaded, and distributed fold.
-- [Heptapus.jl](https://github.com/lcw/Heptapus.jl) : The roofline function is a translation of the roofline code from https://github.com/paranumal/libparanumal/. Accelerated finite element flow solvers
+- [Heptapus.jl](https://github.com/lcw/Heptapus.jl) : The roofline function is a translation of the roofline code from https://github.com/paranumal/libparanumal/. Accelerated finite element flow solvers.
 - [Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl) : The Portable Hardware Locality (hwloc) package wraps the hwloc library to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading.
 - [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) : Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 

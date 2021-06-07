@@ -44,7 +44,8 @@
 - [MotionCaptureJointCalibration.jl](https://github.com/JuliaRobotics/MotionCaptureJointCalibration.jl) : Kinematic calibration for robots using motion capture data.
 - [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) : Julia implementation of various rigid body dynamics and kinematics algorithms.
 - [RobotOS.jl](https://github.com/Julia-Embedded/RobotOS.jl) : Julia interface to [ROS](http://wiki.ros.org/) (Robot Operating System).
-
+- [RigidBodySim.jl](https://github.com/JuliaRobotics/RigidBodySim.jl) : Simulation and visualization of articulated rigid body systems in Julia.
+- [StrandbeestRobot.jl](https://github.com/rdeits/StrandbeestRobot.jl) : Simulation of a 12-legged parallel walking mechanism in Julia, inspired by Theo Jansen's Strandbeest.
 
 - 🏚️ [FPTControl.jl](https://github.com/krisztiankosi/FPTControl.jl) : Fixed Point Transformation Based Control.
 - 🏚️ [Robotics.jl](https://github.com/cdsousa/Robotics.jl) : Toolbox for (serial manipulator) robotics, focusing robot dynamics.

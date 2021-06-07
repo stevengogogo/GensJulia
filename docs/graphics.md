@@ -67,8 +67,6 @@
 - [RegisterQD.jl](https://github.com/HolyLab/RegisterQD.jl) : It performs image registration using the global optimization routine [QuadDIRECT](https://github.com/timholy/QuadDIRECT.jl). Unlike many other registration packages, this is not "greedy" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images.
 - [SubpixelRegistration.jl](https://github.com/romainFr/SubpixelRegistration.jl) : Efficient subpixel image registration algorithm implementation that allows you to register arrays of arbitrary dimensions (not just 2d). Functions are written for AbstractArrays and should work for Images.
 - [TestImages.jl](https://github.com/JuliaImages/TestImages.jl) : Loading standard test images into Julia.
-
-
 - 🏚️ [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) : Image processing with 🏚️ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl).
 
 ### OpenCV API
@@ -134,36 +132,27 @@ algebra library in Julia.
 [📖 Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 
 - [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) : ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
-- [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
 - [RayTraceEllipsoid.jl](https://github.com/JuliaGeometry/RayTraceEllipsoid.jl) : Ray trace ellipsoid-shaped domes i.e. finds intersection points and refract/reflect according to the refractive indices.
-
-
-- 🏚️ [FEM.jl](https://github.com/pjabardo/FEM.jl) : Simple finite elements in Julia.
 - 🏚️ [ols.jl](https://github.com/forio/ols.jl) : Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
-- 🏚️ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) : A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
-- 🏚️ [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) : This is a package to plot trusses for finite element results.
 
 ### Computational Geometry
 
 - [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) : A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a __lower level__ using the API of cdd or using the higher level interface of Polyhedra.jl.
 - [Clipper.jl](https://github.com/JuliaGeometry/Clipper.jl) : Julia wrapper for Angus Johnson's [Clipper](http://www.angusj.com/delphi/clipper.php) library.
 - [ConvexHull.jl](https://github.com/JuliaPolyhedra/ConvexHull.jl) : A Julia library for polyhedral computations.
-- [Ganja.jl](https://github.com/chakravala/Ganja.jl) : Visualization for geometric algebra, not just algebra, using [Ganja.js](https://github.com/enkimute/ganja.js)- [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) : Differential geometric algebra.
+- [Ganja.jl](https://github.com/chakravala/Ganja.jl) : Visualization for geometric algebra, not just algebra, using [Ganja.js](https://github.com/enkimute/ganja.js)
 - [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) : Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
 - [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) : Geometry types and for Julia, based on FixedSizeArrays.
 - [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl) : A wrapper for [lrs](http://cgm.cs.mcgill.ca/~avis/C/lrs.html).
 - [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) : Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 - [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) : Fast quad and oct-trees.
 - [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl) : It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
-- [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
 - [QHull.jl](https://github.com/JuliaPolyhedra/QHull.jl) : A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
 - [SignedDistanceFields.jl](https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation.
 - [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) : [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen&lang=1) wrapper.
 - [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) : Fast ray-triangle intersections for raytracing.
 - [VoronoiCells.jl](https://github.com/JuliaGeometry/VoronoiCells.jl) : Manipulate Voronoi cells in 2D.
 - [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) : Fast and robust Voronoi & Delaunay tessellation creation with Julia.
-
-
 - 🏚️ [CHull2d.jl](https://github.com/cc7768/CHull2d.jl) : Variety of algorithms for taking the convex hull of 2 dimensional sets of points.
 
 ### Discrete Geometry

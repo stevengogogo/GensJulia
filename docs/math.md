@@ -161,15 +161,12 @@ Resources: [Ideles adeles algebraic number theory.](https://github.com/williamst
 - [DirectSum.jl](https://github.com/chakravala/DirectSum.jl) : Abstract tangent bundle vector space type operations.
 - [Divergences.jl](https://github.com/gragusa/Divergences.jl) : A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 - [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl) : A Julia interface to the [Elemental linear algebra library](http://libelemental.org/) with third-party interfaces. [Source code](https://github.com/elemental/Elemental).
-- [FEMBasis.jl](https://github.com/JuliaFEM/FEMBasis.jl) : Package contains interpolation routines for standard finite element function spaces.
 - [FGenerators.jl](https://github.com/JuliaFolds/FGenerators.jl) : A package for defining Transducers.jl-compatible extended foldl with a simple `@yield`-based syntax.
 - [GenericLinearAlgebra.jl](https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl) : Partly to extend linear algebra functionality in base to cover generic element types, e.g. `BigFloat` and `Quaternion`, and partly to be a place to experiment with fast linear algebra routines.
 - [IncrementalSVD.jl](https://github.com/aaw/IncrementalSVD.jl) : Simon Funk's approach to collaborative filtering using the singular value decomposition, implemented in Julia.
 - [IntelVectorMath.jl](https://github.com/JuliaMath/IntelVectorMath.jl) : Julia bindings for the Intel Vector Math Library.
 - [ITensors.jl](https://github.com/ITensor/ITensors.jl): A Julia library for efficient tensor calculations.
 - [IterativeSolvers.jl](https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl) : Iterative algorithms for solving linear systems, eigensystems, and singular value problems.
-- [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) : Finite Element method solver.
-- [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) : A Julia Basket of Hand-Picked Krylov Methods.
 - [Leibniz.jl](https://github.com/chakravala/Leibniz.jl) : Operator algebras for mixed-symmetry multivariate differentiable tensor fields.
 - [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) : A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 - [LLLplus.jl](https://github.com/christianpeel/LLLplus.jl) : LLL lattice reduction, sphere decoder, and related lattice tools.
@@ -177,7 +174,6 @@ Resources: [Ideles adeles algebraic number theory.](https://github.com/williamst
 - [MKL.jl](https://github.com/JuliaLinearAlgebra/MKL.jl) : Intel MKL linear algebra backend for Julia
 - [MUMPS](https://github.com/lruthotto/MUMPS) : A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 - [MUMPSjInv.jl](https://github.com/JuliaInv/MUMPSjInv.jl) : An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
-- [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) : This package provides a high level interface for [PETSc](https://www.mcs.anl.gov/petsc/), enabling the use of PETSc as an AbstractArray.
 - [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) : Syntactic sugar for BLAS polynomials.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) : Julia package for tensor contractions and related operations.
 - [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
@@ -378,26 +374,6 @@ Resources: [Ideles adeles algebraic number theory.](https://github.com/williamst
 - 🏚️ [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) : Automated differentiation by reverse accumulation. [Documentation](http://reversediffsourcejl.readthedocs.org/en/master/index.html).
 - 🏚️ [ReverseDiffTape.jl](https://github.com/fqiang/ReverseDiffTape.jl) : A Julia package for reverse mode differentiation on a tape.
 
-### Solving Differential equations
-
-[📖 Differential Equations](https://en.wikipedia.org/wiki/Differential_equation).
-
-- [DiffEqSensitivity.jl](https://github.com/SciML/DiffEqSensitivity.jl) : A component of the DiffEq ecosystem for sensitivity analysis.
-- [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) : Equations within the realm of this package include ordinary differential equations, stochastic ordinary differential equations (SODEs or SDEs), differential algebraic equations (DAEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
-- [DiffModels.jl](https://github.com/jdrugo/DiffModels.jl) : Diffusion Model simulation and first-passage time densities in Julia.
-- [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) : Julia software library for the exploration of chaos and nonlinear dynamics.
-- [RiemannHilbert.jl](https://github.com/JuliaHolomorphic/RiemannHilbert.jl) : A Julia package for solving Riemann–Hilbert problems.
-- [SingularIntegralEquations.jl](https://github.com/JuliaApproximation/SingularIntegralEquations.jl) : An experimental Julia package for solving singular integral equations.
-- [Sundials.jl](https://github.com/SciML/Sundials.jl) : A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
-- [WiltonInts84.jl](https://github.com/krcools/WiltonInts84.jl) : Integrals of arbitrary powers of R over flat triangles.
-
-
-- 🏚️ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) : A collection of Julia functions that produce the systems of ODEs for various dynamical systems.
-- 🏚️ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) : HP Finite elements in Julia.
-- 🏚️ JFinEALE.jl(404) : A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
-- 🏚️ [Makhno.jl](https://github.com/pjabardo/Makhno.jl) : Spectral element code implemented in Julia.
-- 🏚️ [MovcolN.jl](https://github.com/pwl/MovcolN.jl) : Moving collocation method to solve one dimensional partial differential equations.
-- 🏚️ [TetGen.jl](https://github.com/JuliaGeometry/Tetgen.jl) : Finite Element method solver, a Julia wrapper for the C+- project [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen&lang=1).
 
 ### Resources about calculus
 

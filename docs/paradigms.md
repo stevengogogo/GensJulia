@@ -65,12 +65,6 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 - [Reactive.jl](https://github.com/JuliaGizmos/Reactive.jl) : A package for reactive programming in Julia.
 - [Rocket.jl](https://github.com/biaslab/Rocket.jl) : A functional reactive programming extensions library for Julia.
 
-## Domain-specific language
-
-[📖 DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
-
-- [Catalyst.jl](https://github.com/SciML/Catalyst.jl) : Chemical reaction network and systems biology interface.
-
 ## Grammatical Evolution
 
 - 🏚️ [Evolution.jl](https://github.com/xenon-/Evolution.jl) : Evolutionary Computation in Julia.

@@ -15,6 +15,7 @@
 - [i18n](/i18n-L10n.md)
 - [Julia interop](/interop.md)
 - [Math](/math.md)
+- [Modeling and simulation](/modeling.md)
 - [Optimization](/optimization.md)
 - [Paradigms](/paradigms.md)
 - [Physics](/physics.md)
