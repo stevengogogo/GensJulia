@@ -1,6 +1,6 @@
 # Graphics in Julia
 
-> Computer Vision, Graphics, visualization, plotting libraries and packages
+> Computer Vision, Graphics, visualization, geometry packages
 
 - [Julia Geometry](https://github.com/JuliaGeometry)
 - [Julia GL](https://github.com/JuliaGL)
@@ -40,7 +40,6 @@
 - 🏚️ [Drawing.jl](https://github.com/andrewcooke/Drawing.jl) : A library for easy, extensible drawing (diagrams, lines, shapes).
 - 🏚️ [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) : Create a window with an OpenGL context.
 - 🏚️ [Konthe.jl](https://github.com/meggart/Konthe.jl) : Collection of convenience function for plotting using the OpenGL package.
-- 🏚️ [LatticeVis.jl](https://github.com/ffreyer/LatticeVis.jl).
 - 🏚️ [Layout.jl](https://github.com/timholy/Layout.jl) : Graphics layout management for Julia.
 - 🏚️ [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) :  Package to calculate Leaf Area Index from Hemisperical Images.
 - 🏚️ [LibOpenCV.jl](https://github.com/JuliaOpenCV/LibOpenCV.jl) : OpenCV library dependencies.
@@ -110,14 +109,11 @@
 - [Rsvg.jl](https://github.com/lobingera/Rsvg.jl) : An adaptation of the [librsvg](https://wiki.gnome.org/LibRsvg) to render SVG to Cairo surfaces.
 - [TikzGraphs.jl](https://github.com/JuliaTeX/TikzGraphs.jl) : Graph layout package using algorithms built into [PGF/TikZ 3.0+](http://www.ctan.org/pkg/pgf).
 - [TikzPictures.jl](https://github.com/JuliaTeX/TikzPictures.jl) : Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
-
-
 - 🏚️ [Smile.jl](https://github.com/sisl/Smile.jl) : A Julia wrapper for the Smile C+- Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks.
 
 ### OCR
 
 - [OCReract.jl](https://github.com/leferrad/OCReract.jl) : A simple Julia wrapper for Tesseract OCR.
-
 - 🏚️ [AttentionOCR.jl](https://github.com/GantZA/AttentionOCR.jl) : Julia and Flux adaptation of the python package [aocr.py](https://github.com/emedvedev/attention-ocr) using [Seq2seq with Attention](https://github.com/merckxiaan/flux-seq2seq).
 
 ## Geometry
@@ -125,8 +121,6 @@
 [📖 Geometry](http://en.wikipedia.org/wiki/Geometry)
 
 - [CoordinateTransformations.jl](https://github.com/JuliaGeometry/CoordinateTransformations.jl) : A fresh approach to coordinate transformations.
-
-
 - 🏚️ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) : Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
 - 🏚️ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) : Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 - 🏚️ [D4.jl](https://github.com/khwilson/D4.jl) : An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
@@ -137,7 +131,7 @@ algebra library in Julia.
 
 ### Algebraic Geometry
 
-[Wikiepedia | Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+[📖 Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 
 - [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) : ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
 - [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
@@ -171,6 +165,15 @@ algebra library in Julia.
 
 
 - 🏚️ [CHull2d.jl](https://github.com/cc7768/CHull2d.jl) : Variety of algorithms for taking the convex hull of 2 dimensional sets of points.
+
+### Discrete Geometry
+
+[📖 Discrete Geometry](https://en.wikipedia.org/wiki/Category:Discrete_geometry)
+
+
+- [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) : ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
+- [ImageMorphology.jl](https://github.com/JuliaImages/ImageMorphology.jl) : This package provides morphology-related functionality to the `Images.jl` project
+- 🏚️ [LatticeVis.jl](https://github.com/ffreyer/LatticeVis.jl).
 
 ### Solid Geometry
 
