@@ -73,11 +73,8 @@
 
 ## Benchmarking and profiling
 
-Links:
+- [Julia Microbenchmarks against other programming languages](https://julialang.org/benchmarks/)
 
-[Julia Microbenchmarks against other programming languages](https://julialang.org/benchmarks/)
-
-Packages:
 
 - [BenchmarksTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
 - [ConicBenchmarkUtilities.jl](https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl) : Julia utilities for the conic benchmark format for mathematical optimization.

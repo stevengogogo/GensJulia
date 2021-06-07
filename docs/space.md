@@ -5,7 +5,6 @@
 - [Julia space](https://github.com/JuliaSpace)
 - [Julia Astro](https://github.com/juliaastro)
 
-
 ## Aeronautics
 
 - 🏚️ [ices-desktop](https://github.com/abieler/ices-desktop).
@@ -41,7 +40,7 @@
 
 - 🏚️ [ioa-julia-tutorials](https://github.com/swt30/ioa-julia-tutorials) : An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge
 
-## Space
+## Spacecraft
 
 - [Airship.jl](https://github.com/ordovician/Airship.jl) : Julia code for performing temperature, pressure and volume and buoyancy calculations.
 - [SPICE.jl](https://github.com/JuliaAstro/SPICE.jl) : a Julia wrapper for the [SPICE toolkit](https://naif.jpl.nasa.gov/naif/index.html) which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles.

@@ -62,6 +62,8 @@ As well as genomics.
 
 ### BioJulia packages
 
+From the [BioJulia](https://biojulia.net/) organization.
+
 - [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) :  Sequence alignment tools in BioJulia
 - [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl) : Biological sequences for the julia language.
 - [BioServices.jl](https://github.com/BioJulia/BioServices.jl) : Julia interface to APIs for various bio-related web services

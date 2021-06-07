@@ -7,8 +7,6 @@
 ## Mathematica
 
 - [MathLink.jl][] : Julia language interface for Mathematica/Wolfram Engine.
-
-
 - 🏚️ [Mathematica.jl](https://github.com/MikeInnes/Mathematica.jl) : is a package that provides an interface for using Wolfram Mathematica™ from the Julia language. Use [MathLink.jl][] instead.
 
 [MathLink.jl]: https://github.com/JuliaInterop/MathLink.jl
@@ -17,21 +15,19 @@
 
 - [Git.jl](https://github.com/JuliaVersionControl/Git.jl) : Julia wrapper for command line Git.
 - [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) : A Julia package for interfacing with the GitHub API.
-
 - 🏚️ [MechaJulia](https://github.com/MechaJulia/MechaJulia) : A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
 - 🏚️ [Octokit.jl](https://github.com/Keno/Octokit.jl) : Julia package to access the GitHub API.
 
 ## C
 
-There is a [native c interface](https://docs.julialang.org/en/v1/manual/calling-c-and-fortran-code/).
+A [native c interface](https://docs.julialang.org/en/v1/manual/calling-c-and-fortran-code/) is available.
 
 - [Clang.jl](https://github.com/JuliaInterop/Clang.jl) : A Julia language wrapper for libclang: the stable, C-exported interface to the LLVM Clang compiler.
 
 ## Cpp
 
 - [CxxWrap.jl][] : A package to provide a Boost.Python-like wrapping for C+- types and functions to Julia.
-
-- 🏚️ [Cpp.jl](https://github.com/timholy/Cpp.jl) : Utilities for calling C+- from Julia. Superseded by [CxxWrap.jl][].
+- 🏚️ [Cpp.jl](https://github.com/timholy/Cpp.jl) : Utilities for calling C+- from Julia. Use [CxxWrap.jl][] instead.
 - 🏚️ [Cxx.jl](https://github.com/Keno/Cxx.jl) : The Julia C+- Foreign Function Interface (FFI) with `@cxx` macro. Only works (out of the box) currently with Julia 1.1.x to 1.3.x.
 - 🏚️ [CxxROOT.jl](https://github.com/Keno/CxxROOT.jl) : A Cxx.jl based interface to CERN's ROOT.
 
@@ -40,7 +36,6 @@ There is a [native c interface](https://docs.julialang.org/en/v1/manual/calling-
 ## Erlang
 
 - [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) : A Julia-Erlang module for use in the [erlport](http://erlport.org) project.
-
 - 🏚️ [FsBert](https://github.com/et4te/FsBert) : A Julia library for encoding / decoding binary Erlang terms.
 
 ## Fortran
@@ -61,8 +56,6 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 - [JSExpr.jl](https://github.com/JuliaGizmos/JSExpr.jl) : Translate Julia to JavaScript.
 - [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
-- [Plotly.jl](https://github.com/plotly/Plotly.jl) : A Julia interface to the plot.ly plotting library and cloud services.
-- [PlotlyJS.jl](https://github.com/JuliaPlots/PlotlyJS.jl) : Julia wrapper API for `plotly.js` by @spencerlyon2.
 - [TableView.jl](https://github.com/JuliaComputing/TableView.jl) : an ag-grid based table viewer built on [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl).
 
 
@@ -76,11 +69,7 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ## MATLAB
 
-Online tools:
-
-- [matlab-to-julia](https://lakras.github.io/matlab-to-julia/) translator.
-
-Packages:
+Also see [matlab-to-julia](https://lakras.github.io/matlab-to-julia/) online translator.
 
 - [MAT.jl](https://github.com/JuliaIO/MAT.jl) : A Julia module for reading MATLAB files.
 - [MATLAB.jl](https://github.com/lindahua/MATLAB.jl) : an interface for using MATLAB® from Julia using the MATLAB C api.
@@ -110,11 +99,7 @@ Packages:
 
 ## R
 
-Links:
-
-- [Julia in Rmarkdown](https://cran.r-project.org/web/packages/JuliaCall/vignettes/Julia_in_RMarkdown.html) using [JuliaCall](https://rpubs.com/Consistency/310507).
-
-Packages:
+> - [Julia in Rmarkdown](https://cran.r-project.org/web/packages/JuliaCall/vignettes/Julia_in_RMarkdown.html) using [JuliaCall](https://rpubs.com/Consistency/310507).
 
 - [RCall.jl](https://github.com/JuliaStats/RCall.jl) : Embedded R within Julia - ports all the `R` API functions from C into Julia.
 - [RData.jl](https://github.com/JuliaData/RData.jl) : CodeIssues 5Pull requests 0Projects 0WikiSecurityInsightsRead R data files from Julia.
@@ -141,7 +126,7 @@ Packages:
 
 ## Ruby
 
-[Ruby communicates with other Languages](https://github.com/arbox/ruby-interoperability)
+[Ruby interoperability](https://github.com/arbox/ruby-interoperability)
 
 
 - 🏚️ [guard-julia](https://github.com/svs14/guard-julia) : Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.

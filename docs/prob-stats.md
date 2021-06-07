@@ -1,5 +1,7 @@
 # Probability and Statistics in Julia
 
+> Probabilistic programming, Stochastic process, Statistics
+
 - [📖 Probability](https://en.wikipedia.org/wiki/Probability_theory) in Wikipedia.
 - [Julia stats](https://github.com/JuliaStats) organization.
 

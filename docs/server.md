@@ -2,7 +2,7 @@
 
 > Interface for generic external servers, web framework, ...
 
-- [Julia Web](https://github.com/JuliaWeb) organization
+- [Julia Web](https://github.com/JuliaWeb) organization.
 
 ## Server backends
 
@@ -54,6 +54,7 @@
 - [Rate Limiter.jl](https://github.com/chipkent/RateLimiter.jl) : Julia package for limiting the rate at which events occur.
 - [TimeZones.jl](https://github.com/JuliaTime/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language.
 
+
 - 🏚️ [Dates.jl](https://github.com/quinnj/Dates.jl) : A Date and DateTime implementation for Julia. Merged into the Base Standard Library
 - 🏚️ [Juliaflow](https://github.com/pchronz/juliaflow) : A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
 - 🏚️ [MsgPackRpcServer.jl](https://github.com/remore/MsgPackRpcServer.jl) : A Julia implementation of MessagePack-RPC Server Library.
@@ -91,6 +92,7 @@
 - [URITemplate.jl](https://github.com/JuliaWeb/URITemplate.jl) : This package provides URI Template interpolation by implementing (RFC 6570).
 - [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) : A WebSockets server library for Julia.
 
+
 - 🏚️ [Biryani.jl](https://github.com/eraviart/Biryani.jl) : A conversion and validation toolbox.
 - 🏚️ [Curl.jl](https://github.com/forio/Curl.jl) : A Julia HTTP curl library.
 - 🏚️ [Fuji.jl](https://github.com/jackcook/Fuji.jl) : A lightweight web server written in Julia.
@@ -115,6 +117,5 @@
 
 ## Static site generators
 
-- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation. [Examples](https://github.com/tlienart/Franklin.jl#docs).
+- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation. [Examples](https://github.com/tlienart/Franklin.jl#docs). [Templates](https://github.com/tlienart/FranklinTemplates.jl)
 - [PkgPage.jl](https://tlienart.github.io/PkgPage.jl/) for (package) front-pages, powered by `Franklin.jl`.
-- [Franklin.jl](https://github.com/tlienart/Franklin.jl) : static site generator in Julia. [Templates](https://github.com/tlienart/FranklinTemplates.jl).
