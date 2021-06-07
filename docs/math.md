@@ -141,8 +141,9 @@ Resources: [Ideles adeles algebraic number theory.](https://github.com/williamst
 - [LinearExpressions.jl](https://github.com/cdsousa/LinearExpressions.jl) : Linear symbolic expressions for the Julia language.
 - [NumericalAlgorithms.jl](https://github.com/mrtkp9993/NumericalAlgorithms.jl) : Statistics & Numerical algorithms implemented in Julia.
 - [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) : A simple interface for interpolations on timeseries with first order discontinuities (using `Dierckx.jl`).
+- [RollingFunctions.jl](https://github.com/JeffreySarnoff/RollingFunctions.jl) :: Roll a function over data, run a statistic along a `weighted` data window.
 - [Simplices.jl](https://github.com/JuliaDynamics/Simplices.jl) : Compute exact simplex intersections in N dimensions.
-- [Sobol.jl](https://github.com/stevengj/Sobol.jl) : is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates __quasi-random__ sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+- [Sobol.jl](https://github.com/stevengj/Sobol.jl) : is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates **quasi-random** sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 
 
 - 🏚️ [Dopri.jl](https://github.com/helgee/Dopri.jl) : A Julia wrapper for the DOPRI5 and DOP853 integrators.
@@ -270,6 +271,8 @@ Resources: [Ideles adeles algebraic number theory.](https://github.com/williamst
 - [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :Filter design, periodograms, window functions, and other digital signal processing functionality.
 - [ImageMethodReverb.jl](https://github.com/nantonel/ImageMethodReverb.jl) : Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
 - [MDCT.jl](https://github.com/stevengj/MDCT.jl) : This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
+- [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) : Fast moving quantile filters implemented as fast moving window sort algorithm. 
+
 
 
 - 🏚️ [APES.jl](https://github.com/codles/APES.jl) : Amplitude and Phase Estimation of a Sinusoid.
