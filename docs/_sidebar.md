@@ -1,5 +1,5 @@
 - [**Home**](/)
-- [Actuarial Science](/actuarial-science.md)
+- [Economics and Finance](/economics-finance.md)
 - [Artificial intelligence](/ai.md)
 - [Audio and Video](/audio-video.md)
 - [Biology](/bio.md)
