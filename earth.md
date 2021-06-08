@@ -14,14 +14,14 @@
 
 ## Climatology
 
-[📖 CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology)
+[📖 Climatology](https://en.wikipedia.org/wiki/Category:Climatology)
 
 - [ClimateTools.jl](https://github.com/Balinus/ClimateTools.jl) : This package is a collection of commonly-used tools in Climate Science.
 - [Mimi.jl](https://github.com/anthofflab/Mimi.jl) : Integrated Assessment Modeling Framework for climate change.
 
 ## Ecology
 
-[📖 ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology)
+[📖 Ecology](https://en.wikipedia.org/wiki/Category:Ecology)
 
 - [Diversity.jl](https://github.com/richardreeve/Diversity.jl) : Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
 - [EcologicalNetwork.jl](https://github.com/EcoJulia/EcologicalNetworks.jl) : Measure various aspects of the structure of ecological networks in Julia.
@@ -42,7 +42,7 @@
 
 ## Cartography
 
-[📖 CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography)
+[📖 Cartography](https://en.wikipedia.org/wiki/Category:Cartography)
 
 - [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) : Julia wrapper for PROJ.4 cartographic projections library.
 - 🏚️ [PyProj.jl](https://github.com/kshramt/PyProj.jl) :  A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations.
