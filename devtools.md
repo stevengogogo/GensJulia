@@ -48,14 +48,13 @@ Integrated development environment.
 
 See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
-- [CSSUtil](https://github.com/JuliaGizmos/CSSUtil)
+
 - [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) : A jEdit mode for Julia.
 - [Julia VSCode](https://www.julia-vscode.org/) : A powerful, free IDE for the Julia language.
 - [Julia.tmbundle](https://github.com/JuliaLang/Julia.tmbundle) : Julia language support for TextMate 2 (and Sublime Text).
 - [Liclipse](https://www.liclipse.com/) : LiClipse, Eclipse plus some customizations, supports Julia.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) : Syntax highlighting and other enhancements for the Julia REPL.
 - [Reminisce](https://github.com/JuliaIDE/Reminisce) : Sublime-style saving of tabs and content for Light Table.
-- [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl) : WebIO provides a simple abstraction for displaying and interacting with web content.
 
 
 - 🏚️ [Acorn.jl](https://github.com/nick-paul/Acorn.jl) : A pure julia text editor.
@@ -73,11 +72,11 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
 ### Atom
 
+!> The deelopment is shifted to Julia VSCode. Juno (Julia in Atom) is currently in maintenance mode.
+
 - [Atom.jl](https://github.com/JunoLab/Atom.jl) : Julia Client for Atom. Maintenance-only mode.
 - [atom-language-julia](https://github.com/JuliaLang/atom-language-julia) : A Julia language support package for the Atom editor.
 - [atom-julia-client](https://github.com/JunoLab/atom-julia-client) : Julia Eval in Atom.
-
-
 - 🏚️ [Electron.jl](https://github.com/jkroso/Electron.jl) : Provides easy access to atom/electron from Julia.
 - 🏚️ [Jude](https://github.com/jamesdanged/Jude) : A set of [development extensions](https://atom.io/packages/jude) for Julia in the Atom editor to improve developer productivity. Currently, it provides `autocomplete` and `jump to definition`.
 
@@ -100,7 +99,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 - [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) : Julia kernel for Jupyter. How to create a [Custom IJulia Widget](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/avrahamruderman/116845471f0d79942aff/raw/fb1f659e635f4585ebb449aa2519deffd15aba31/writing-custom-ijulia-widgets.ipynb)
 - [Interact.jl](https://github.com/JuliaLang/Interact.jl) : Library for interactive widgets in IJulia.
 - [IPython.jl](https://github.com/tkf/IPython.jl) : Launch IPython in Julia.
-- [jupyterhub](https://github.com/jupyterhub/jupyterhub) : Multi-user server for Jupyter notebooks. [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html)
+- [jupyterhub](https://github.com/jupyterhub/jupyterhub) : Multi-user server for Jupyter notebooks.
 - [NBInclude.jl](https://github.com/stevengj/NBInclude.jl) : Import code from IJulia Jupyter notebooks into Julia programs.
 - [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia) : is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend.
 
@@ -126,8 +125,7 @@ See also
 - [Nextjournal](https://nextjournal.com/)
 - [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
 
-Packages
-
+**Packages**
 - [CodeTools.jl](https://github.com/JunoLab/CodeTools.jl) : A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
 - [DevTools.jl](https://github.com/JunoLab/DevTools.jl) : provides a couple of useful graphical tools for working with Julia, built on top of Blink.jl.
 - [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl) : A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
@@ -155,8 +153,6 @@ Packages
 ### Qt
 
 - [QML.jl](https://github.com/barche/QML.jl) : Small example for starting an interface to Qt5 QML.
-
-
 - 🏚️ [PySide.jl](https://github.com/jverzani/PySide.jl) : A julia interface for accessing Qt via PyCall and PySide.
 - 🏚️ [Qt5.jl](https://github.com/tbreloff/Qt5.jl) : A wrapper around C+- library `Qt5`.
 
@@ -164,7 +160,5 @@ Packages
 
 - [Gtk.jl](https://github.com/JuliaLang/Gtk.jl) : Julia interface to the GTK windowing toolkit.
 - [GtkApps.jl](https://github.com/tknopp/GtkApps.jl) : GTK Apps by @tknopp.
-
-
 - 🏚️ [GI.jl](https://github.com/bfredl/GI.jl) : Julia bindings using libgobject-introspection.
 - 🏚️ [GtkInteract.jl](https://github.com/jverzani/GtkInteract.jl) : Part of Interact.jl functionality with Gtk.

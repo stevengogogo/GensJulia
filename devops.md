@@ -4,7 +4,6 @@
 
 - [awesome devops](https://github.com/wmariuss/awesome-devops)
 - [Devops Weekly](http://www.devopsweekly.com/) by email subscription.
-- [Test driven development (TDD)](https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia.
 - [julia-buildbot](https://github.com/staticfloat/julia-buildbot) : Buildbot configuration for [build.julialang.org](https://build.julialang.org/).
 - [Julia Server Status](http://status.julialang.org/) : Status page for services hosted by JuliaLang.
 - [Julia Packaging](https://github.com/JuliaPackaging) organization.
@@ -31,13 +30,15 @@ Alternative to downloading an extracting [official Julia binaries](http://julial
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
 - [Kip.jl](https://github.com/jkroso/Kip.jl) : An Python-like, alternative module system for Julia.
 - [Pkg.jl](https://github.com/JuliaLang/Pkg.jl) : Version 3 of package manager for Julia. [Documentation](https://pkgdocs.julialang.org/v1/).
-- [PkgSkeleton.jl](https://github.com/tpapp/PkgSkeleton.jl) : Generate Julia package skeletons using a simple template system.
-- [PkgTemplates.jl](https://github.com/invenia/PkgTemplates.jl) : Create new Julia packages, the easy way. Include templaye files for GitHub / GitLab CI.
+- [PkgSkeleton.jl][] : Generate Julia package skeletons using a simple template system.
+- [PkgTemplates.jl][] : Create new Julia packages, the easy way. Include templaye files for GitHub / GitLab CI.
 - [PkgUtils.jl](https://github.com/arnavs/PkgUtils.jl) by @arnavs : Some small utilities to help with Julia packages
 - [Registrator.jl](https://github.com/JuliaComputing/Registrator.jl) : Julia [package](https://pkg.julialang.org/) registration bot.
 - [Requires.jl](https://github.com/MikeInnes/Requires.jl) : Lazy code loading for Julia.
 - [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
 
+[PkgTemplates.jl]: https://github.com/invenia/PkgTemplates.jl
+[PkgSkeleton.jl]: https://github.com/tpapp/PkgSkeleton.jl
 
 - 🏗️ [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) : Julia Package Development Kit.
 - 🏚️ [attobot](https://github.com/attobot/attobot) : Julia package release bot. Use `Registrator.jl` now.
@@ -85,9 +86,9 @@ See also
 
 - [Unittest in Julia](https://docs.julialang.org/en/v1/stdlib/Test/)
 - [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
+- [Test driven development (TDD)](https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia.
 
-Packages
-
+**Packages**
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) : Tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov. Its base library is [CoverageBase.jl](https://github.com/JuliaCI/CoverageBase.jl).
 - [Jive.jl](https://github.com/wookay/Jive.jl) : run your test in parallel. Also supports watch folder function.
 - [Mocking.jl](https://github.com/invenia/Mocking.jl) : Allows temporary overwriting of Julia methods for testing purposes.
@@ -110,7 +111,7 @@ Packages
 
 ### Logging
 
-Please use Julia's [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) facilities.
+Use Julia's [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) facilities instead.
 
 - 🏚️ [Log4jl.jl](https://github.com/wildart/Log4jl.jl) : A comprehensive and flexible logging framework for Julia programs.
 - 🏚️ [Logging.jl](https://github.com/kmsquire/Logging.jl) : The Logging module.
@@ -126,9 +127,11 @@ Please use Julia's [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) f
 
 ## Continuous integration (CI) providers
 
+You can use [PkgTemplates.jl][] or [PkgSkeleton.jl][] to create the following CI/CD settings.
+
 ### Travis
 
-Sadly, [Travis does not love opensource anymore](https://www.theregister.com/2020/11/02/travis_ci_pricng/).
+Unfortunately, [Travis does not love opensource anymore](https://www.theregister.com/2020/11/02/travis_ci_pricng/).
 
 - 🏚️ [Travis-CI build server](https://travis-ci.org/JuliaLang/) for Julia.
 - 🏚️ [TestDocs.jl](https://github.com/simonbyrne/TestDocs.jl) : A test package to try to automatically build docs on travis.
@@ -155,17 +158,13 @@ Sadly, [Travis does not love opensource anymore](https://www.theregister.com/202
 
 - [Julia docker image](https://hub.docker.com/_/julia) and the packaging [`DOCKERFILE`](https://github.com/docker-library/julia).
 - [Kuber.jl](https://github.com/JuliaComputing/Kuber.jl) : A Julia Kubernetes Client.
-
-
 - 🏚️ [julia-vagrant](https://github.com/staticfloat/julia-vagrant) : Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 - 🏚️ [RudeOil.jl](https://github.com/UCL/RudeOil.jl) : A package to easily interact with docker and docker-machine.
 
 ## Sandbox
 
 - [Playground.jl](https://github.com/Rory-Finnegan/Playground.jl) : A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments.
-
-
-- 🏚️ [JDock](https://github.com/amitmurthy/JDock) : An IJulia sandboxed by Docker containers.
+- 🏚️ [JDock](https://github.com/amitmurthy/JDock) : An IJulia sandbox using Docker containers.
 
 ## Julia for shell scripting
 
@@ -176,8 +175,6 @@ Sadly, [Travis does not love opensource anymore](https://www.theregister.com/202
 - [Homebrew.jl](https://github.com/JuliaLang/Homebrew.jl/) : OSX Binary dependency provider for Julia.
 - [LibALPM.jl](https://github.com/yuyichao/LibALPM.jl) : Wrapper for libalpm, the ArchLinux package manager.
 - [WinRPM.jl](https://github.com/JuliaLang/WinRPM.jl) : RPM-md processing library to crosscompile code for Windows.
-
-
 - 🏚️ [APT.jl](https://github.com/bbshortcut/APT.jl) : A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
 - 🏚️ [DebbyPacker.jl](https://github.com/UCL/DebbyPacker.jl) : Set of scripts to easily create debian packages.
 - 🏚️ [Nix.jl](https://github.com/JuliaPackaging/Nix.jl) : Nix package manager for Julia.

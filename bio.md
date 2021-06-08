@@ -2,6 +2,7 @@
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...
 
+**Organizations**
 - [BioJulia](https://biojulia.net/)
 - [Julia Health](https://juliahealth.org)
 
@@ -73,7 +74,7 @@ From the [BioJulia](https://biojulia.net/) organization.
 
 ### Phylogeny
 
-Evolution trees from biosequences.
+Evolution trees deduced from biosequences.
 
 - [Phylogenies.jl](https://github.com/BioJulia/Phylogenies.jl) : Phylogenetic trees and geneologies
 - [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.

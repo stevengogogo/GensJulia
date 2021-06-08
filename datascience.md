@@ -28,7 +28,7 @@
 - 🏚️ [Q.jl](https://github.com/enlnt/Q.jl) : Julia for [kdb+](https://github.com/prologic/kdb) database.
 
 
-## HDF5
+## HDF5 format
 
 [HDF5](https://www.hdfgroup.org/solutions/hdf5/) format
 

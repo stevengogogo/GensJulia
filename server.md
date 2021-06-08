@@ -77,6 +77,7 @@
 ## Web
 
 - [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) : Web-based GUIs for Julia.
+- [CSSUtil](https://github.com/JuliaGizmos/CSSUtil) : utilities to create and align various web elements on the DOM.
 - [CutShortURL.jl](https://github.com/rahulkp220/CutShortURL.jl) : The simplest URL Shortener for Julia. A Julia wrapper around https://tinyurl.com/
 - [DandelionWebSockets.jl](https://github.com/dandeliondeathray/DandelionWebSockets.jl) : A Julia package for client side WebSockets.
 - [Diana.jl](https://github.com/codeneomatrix/Diana.jl) : GraphQL for Julia.
@@ -90,6 +91,7 @@
 - [Pages.jl](https://github.com/EricForgy/Pages.jl) : A simple way to create and interact with web pages.
 - [UAParser.jl](https://github.com/JuliaWeb/UAParser.jl) : UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 - [URITemplate.jl](https://github.com/JuliaWeb/URITemplate.jl) : This package provides URI Template interpolation by implementing (RFC 6570).
+- [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl) : WebIO provides a simple abstraction for displaying and interacting with web content.
 - [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) : A WebSockets server library for Julia.
 
 

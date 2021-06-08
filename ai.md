@@ -11,8 +11,8 @@
 - [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) : Basic functions for clustering data ==> k-means, dp-means, etc..
 - [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) : Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
-- [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. [Flux model-zoo](https://github.com/FluxML/model-zoo).
-- [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) : Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
+- [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. See also [Flux model-zoo](https://github.com/FluxML/model-zoo).
+- [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) : Utility functions for the FunctionalData package, mainly from the area of computer vision and machine learning.
 - [Glmnet.jl](https://github.com/simonster/Glmnet.jl) : Julia wrapper for fitting Lasso/ElasticNet GLM models using a R package glmnet.
 - [LIBLINEAR.jl](https://github.com/innerlee/LIBLINEAR.jl) : Liblinear binding to Julia.
 - [JuliaTorch](https://github.com/boathit/JuliaTorch) : Using PyTorch in Julia Language via PyCall.
@@ -166,8 +166,6 @@
 [📖 Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package.
-
-
 - 🏚️ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) : An implementation of DeepMind's Deep Q Learning algorithm.
 - 🏚️ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner : A Reinforcement Learning package.
 
@@ -176,8 +174,6 @@
 
 - [MFCC.jl](https://github.com/JuliaDSP/MFCC.jl) : Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
 - [WORLD.jl](https://github.com/r9y9/WORLD.jl) : A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system.
-
-
 - 🏚️ [MelGeneralizedCepstrums.jl](https://github.com/r9y9/MelGeneralizedCepstrums.jl) : It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia.
 - 🏚️ [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 - 🏚️ [SPTK.jl](https://github.com/r9y9/SPTK.jl) : A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.

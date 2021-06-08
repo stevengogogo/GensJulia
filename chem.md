@@ -6,7 +6,7 @@
 - [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 - 🏚️ [Dimers.jl](https://github.com/sswatson/Dimers.jl) : Oligomers with two structurally similar monomers.
 
-## Chemical File Formats and IO
+## File I/O
 
 - [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) : A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
 - [CrystalInfoFramework.jl](https://github.com/jamesrhester/CrystalInfoFramework.jl) : Support for reading and writing Crystallographic Information Framework data files and dictionaries.
@@ -34,7 +34,7 @@
 ## Simulation Methods
 
 Overview of Julia packages for simulation methods related to chemistry and [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),
-such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics), [Quantum dynamics](https://en.wikipedia.org/wiki/Quantum_dynamics) or electronic-structure theory.
+such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics), [Quantum dynamics](https://en.wikipedia.org/wiki/Quantum_dynamics) or electronic-structure theory. For general modeling and simulation, see [Modeling and simulation](modeling.md) section
 
 - [ACE.jl](https://github.com/ACEsuit/ACE.jl) : Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
 - [Elsa.jl](https://github.com/pablosanjose/Elsa.jl) : Simulation of tight-binding models on arbitrary lattices
