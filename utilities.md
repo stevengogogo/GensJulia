@@ -42,7 +42,7 @@
 - 🏚️ [WinReg.jl](https://github.com/simonbyrne/WinReg.jl) :  Windows Registry interface for Julia. (No `Project.toml`)
 - 🏚️ [WinUser.jl](https://github.com/JuliaGL/WinUser.jl) : wrapper for windows native windowing functions.
 
-## Terminal
+## Terminal and command prompt
 
 - [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) : Package for parsing command-line arguments to Julia programs.
 - [Comonicon.jl](https://github.com/Roger-luo/Comonicon.jl) : command line interfaces.
