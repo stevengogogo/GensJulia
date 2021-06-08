@@ -15,6 +15,7 @@
 
 - [AppleAccelerate.jl](https://github.com/JuliaMath/AppleAccelerate.jl) : Julia interface to OS X's Accelerate framework.
 - [EntropicCone.jl](https://github.com/blegat/EntropicCone.jl) : Entropic Cone approximation and optimization
+- [FastPow.jl](https://github.com/JuliaMath/FastPow.jl) : `@fastpow` speeds up the computation of integer powers in any Julia expression by transforming them into optimal sequences of multiplications, with a slight sacrifice in accuracy.
 - [GSL.jl](https://github.com/JuliaMath/GSL.jl) : Julia interface to the GNU Scientific Library - [GSL](https://www.gnu.org/software/gsl/doc/html/index.html).
 - [Hecke.jl](https://github.com/thofma/Hecke.jl) : Computational algebraic number theory
 - [Hexagons.jl](https://github.com/GiovineItalia/Hexagons.jl) : Useful tools for working with hexagonal grids.
@@ -24,7 +25,6 @@
 - [NLreg.jl](https://github.com/dmbates/NLreg.jl) : Nonlinear regression in Julia.
 - [Tau.jl](https://github.com/JuliaMath/Tau.jl) : A simple module providing definition of the Tau constant = 2pi.
 - [TSne.jl](https://github.com/lejon/TSne.jl) : Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique.
-
 
 - 🏚️ [ApApproximation.jl](https://github.com/dprn/ApApproximation.jl) : Implementation of the almost-periodic approximation.
 - 🏚️ [Cartesian.jl](https://github.com/timholy/Cartesian.jl) : Fast multidimensional algorithms. Now in Julia `Base`.
