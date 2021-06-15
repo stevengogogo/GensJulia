@@ -17,6 +17,7 @@
 > - [General registry](https://github.com/JuliaRegistries/General) : The official registry of general Julia packages.
 > - [Documentation](https://pkgdocs.julialang.org/v1/) of package manager for Julia.
 
+
 - [Cite.jl](https://github.com/SebastianM-C/Cite.jl) : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
 - [Kip.jl](https://github.com/jkroso/Kip.jl) : An Python-like, alternative module system for Julia.
@@ -27,8 +28,10 @@
 - [Requires.jl](https://github.com/MikeInnes/Requires.jl) : Lazy code loading for Julia.
 - [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
 
+
 [PkgTemplates.jl]: https://github.com/invenia/PkgTemplates.jl
 [PkgSkeleton.jl]: https://github.com/tpapp/PkgSkeleton.jl
+
 
 - 🏗️ [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) : Julia Package Development Kit.
 - 🏚️ [attobot](https://github.com/attobot/attobot) : Julia package release bot. Use `Registrator.jl` now.
@@ -72,11 +75,11 @@ Bridging pre-1.0 Julia code to 1.0+.
 
 ## Test-driven develpment
 
-See also
-
+**See also**
 - [Unittest in Julia](https://docs.julialang.org/en/v1/stdlib/Test/)
 - [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 - [Test driven development (TDD)](https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia.
+
 
 **Packages**
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) : Tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov. Its base library is [CoverageBase.jl](https://github.com/JuliaCI/CoverageBase.jl).
@@ -86,7 +89,6 @@ See also
 
 
 - 🏚️ [BaseTestDeprecated.jl](https://github.com/IainNZ/BaseTestDeprecated.jl) : Provides the `Base.Test` functionality removed in `Julia v0.5`.
-- 🏚️ [Debug.jl](https://github.com/toivoh/Debug.jl) : Prototype interactive debugger for Julia.
 - 🏚️ [FactCheck.jl](https://github.com/zachallaun/FactCheck.jl) : Midje-like testing framework written for Julia.
 - 🏚️ [Fixtures.jl](https://github.com/burrowsa/Fixtures.jl) : provides fixtures, mocks, matchers and patching to improve your tests with Julia.
 - 🏚️ [Jig.jl](https://github.com/milktrader/Jig.jl) : Testing framework for Julia.

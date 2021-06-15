@@ -10,12 +10,14 @@
 ## Debugger
 
 - [Debugger.jl](https://github.com/JuliaDebug/Debugger.jl) : Julia debugger using the `@enter` macro.
+- [Infiltrator.jl](https://github.com/JuliaDebug/Infiltrator.jl) : `@infiltrate` macro sets a "breakpoint" in a local context. All code is completely compiled.
 - [Rebugger.jl](https://github.com/timholy/Rebugger.jl) : An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks (see Gallium), but it can trace execution via the manipulation of Julia expressions.
 - [Suppressor.jl](https://github.com/Ismael-VC/Suppressor.jl) :  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
 - [ToggleableAsserts.jl](https://github.com/MasonProtter/ToggleableAsserts.jl) : Assertions that can be turned on or off with a switch, without runtime penalty when they're off.
 - [Traceur.jl](https://github.com/MikeInnes/Traceur.jl) : codified version of the [Julia performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/).
 
 
+- 🏚️ [Debug.jl](https://github.com/toivoh/Debug.jl) : Prototype interactive debugger for Julia.
 - 🏗️ [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) : Simple utilities for debugging julia code.
 - 🏚️ [ASTInterpreter2.jl](https://github.com/Keno/ASTInterpreter2.jl) : Re-write of ASTInterpreter for julia v0.6+.
 - 🏚️ [Gallium.jl](https://github.com/Keno/Gallium.jl) : The Julia debugger for CPP.
@@ -47,7 +49,6 @@
 Integrated development environment.
 
 See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
-
 
 - [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) : A jEdit mode for Julia.
 - [Julia VSCode](https://www.julia-vscode.org/) : A powerful, free IDE for the Julia language.
