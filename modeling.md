@@ -77,6 +77,17 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 - 🏚️ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) : A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 - 🏚️ [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) : This is a package to plot trusses for finite element results.
 
+## Symbolic Computation
+
+[📖 Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
+
+- [Reduce.jl](https://github.com/chakravala/Reduce.jl) : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
+- [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
+- [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) : A fast and modern CAS for a fast and modern language.
+- [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of SymEngine.
+- [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to SymPy via PyCall.
+- []
+
 ## Agent-based models
 
 [📖 Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)

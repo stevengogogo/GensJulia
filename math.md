@@ -297,13 +297,7 @@ Resources: [Ideles adeles algebraic number theory.](https://github.com/williamst
 
 ## Symbolic Computation
 
-[📖 Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
-
-- [Reduce.jl](https://github.com/chakravala/Reduce.jl) : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
-- [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
-- [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) : A fast and modern CAS for a fast and modern language.
-- [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of SymEngine.
-- [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to SymPy via PyCall.
+See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Polynomials
 
