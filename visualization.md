@@ -28,7 +28,6 @@
 - [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) : Publication-quality plotting for julia using Grace/xmgrace.
 - [GraphPlot.jl](https://github.com/afternone/GraphPlot.jl) : Graph visualization for Julia.
 - [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl) : Graph-related recipes to be used with Plots.jl.
-- [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl): Graph-related recipes to be used with Plots.jl.
 - [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) : Dive deeper into your data with interactive graphics.
 - [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) : Plotting implicit equations and inequalities.
 - [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : ImPlot.jl provides an interface to [cimplot](https://github.com/cimgui/cimplot), which is an auto-generated C API to [implot](https://github.com/epezent/implot), a C++ plotting extension library for [imgui](https://github.com/ocornut/imgui).
@@ -51,7 +50,7 @@
 - [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl) : Unicode plotting for the REPL in Julia.
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) : This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
 - [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) : Generate area-proportional Venn/Euler diagrams in Julia.
-- [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl), by JuliaDSP : Fast Discrete Wavelet Transforms written in Julia.
+- [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl) : Fast Discrete Wavelet Transforms written in Julia by JuliaDSP.
 - [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : 2D plotting for Julia.
 
 
@@ -65,14 +64,11 @@
 - 🏚️ [GainPatterns.jl](https://github.com/dressel/GainPatterns.jl) : This package allows manipulation of gain patterns.
 - 🏚️ [GainPatternsTex.jl](https://github.com/dressel/GainPatternsTex.jl) : Plotting gain patterns.
 - 🏚️ [GLAbstraction.jl](https://github.com/JuliaGL/GLAbstraction.jl) : Abstraction library for OpenGL.
-- 🏚️ [GLAbstraction.jl](https://github.com/JuliaGL/GLAbstraction.jl) : Utility package for ModernGL.
 - 🏚️ [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) : Plotting for Julia with OpenGL.
 - 🏚️ [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl) : Visualization library written in Julia and OpenGL.
 - 🏚️ [GLWindow.jl](https://github.com/JuliaGL/GLWindow.jl) : Simple package to create an OpenGL window with an OpenGL context.
 - 🏚️ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) : The Julia interface to Google Chart Tools.
 - 🏚️ [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) : All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
-- 🏚️ [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) : Graph visualization with tight integration with LightGraphs.jl package.
-- 🏚️ [GraphViz.jl](https://github.com/Keno/GraphViz.jl) : Julia bindings for the GraphViz library.
 - 🏚️ [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) : Julia wrapper for [HEALPix](http://healpix.jpl.nasa.gov/).
 - 🏚️ [Hinton.jl](https://github.com/ninjin/Hinton.jl) : A small Julia library for generating Hinton diagrams.
 - 🏚️ [Histograms.jl](https://github.com/jpata/Histograms.jl) : Methods for handling histograms in Julia.

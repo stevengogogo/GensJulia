@@ -23,7 +23,7 @@ Importing model files.
 - [Catalyst.jl](https://github.com/SciML/Catalyst.jl) : Domain-specific language (DSL) for chemical reaction networks.
 - [DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) : Data driven modeling and automated discovery of dynamical systems.
 - [DiffEqSensitivity.jl](https://github.com/SciML/DiffEqSensitivity.jl) : A component of the DiffEq ecosystem for sensitivity analysis.
-- [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) : High-performance solvers of differential equations.
+- [DifferentialEquations.jl][] : High-performance solvers of differential equations.
 - [DiffModels.jl](https://github.com/jdrugo/DiffModels.jl) : Diffusion Model simulation and first-passage time densities in Julia.
 - [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) : Julia software library for the exploration of chaos and nonlinear dynamics.
 - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) : A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia.
@@ -97,6 +97,11 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 ## Network modeling
 
 - [Petri.jl](https://github.com/mehalter/Petri.jl) : Petri net modeling framework.
+- [NetworkDynamics.jl](https://github.com/PIK-ICoNe/NetworkDynamics.jl) : A package for working with dynamical systems on complex networks. NetworkDynamics.jl provides an interface between [LightGraphs.jl][] and [DifferentialEquations.jl][].
+
+
+[LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl
+[DifferentialEquations.jl]: https://github.com/SciML/DifferentialEquations.jl
 
 ## Utilities
 

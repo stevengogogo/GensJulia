@@ -3,7 +3,6 @@
 > [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia
 
 **Organizations**
-
 - [JuMP-dev](https://github.com/jump-dev)
 - [Julia Opt](https://github.com/JuliaOpt)
 - [Julia Smooth Optimizers](https://github.com/JuliaSmoothOptimizers)

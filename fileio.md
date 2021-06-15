@@ -2,7 +2,8 @@
 
 > General file read / write libraries
 
-- [Julia IO](https://github.com/JuliaIO) organization.
+**Organizations**
+- [Julia IO](https://github.com/JuliaIO)
 
 ## General IO
 

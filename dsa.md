@@ -50,8 +50,6 @@
 [📖 SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) is a kind of NP-complete (NPC) problems.
 
 - [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) : Provides Julia bindings to the popular SAT solver [picosat](http://fmv.jku.at/picosat/) by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
-
-
 - 🏚️ [dReal.jl](https://github.com/zenna/dReal.jl) : Nonlinear SMT solving using dReal.
 - 🏚️ [Z3.jl](https://github.com/zenna/Z3.jl) : This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
 
@@ -110,26 +108,7 @@
 
 ## Graph data types
 
-- [AbstractTrees.jl](https://github.com/JuliaCollections/AbstractTrees.jl) : Abstract julia interfaces for working with trees.
-- [Arrowhead.jl](https://github.com/ivanslapnicar/Arrowhead.jl) : Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
-- [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) : An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance.
-- [Seep.jl](https://github.com/mit-ll/Seep.jl) : It builds and evaluates computational flow graphs in julia. A computational flow graph (CFG) is a directed acyclic graph where nodes represent values and edges represent data dependencies.
-- [SimpleGraphs.jl](https://github.com/scheinerman/SimpleGraphs.jl) : A module for working with simple graphs (no loops, no multiple edges, no directed edges).
-
-
-- 🏚️ [BGraph.jl](https://github.com/adolgert/BGraph.jl) : An adjacency list that uses typed properties for vertices, edges, and graphs.
-- 🏚️ [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
-- 🏚️ [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) : Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
-- 🏚️ [EvolvingGraphs.jl](https://github.com/EtymoIO/EvolvingGraphs.jl) : Working with time-dependent networks in Julia.
-- 🏚️ [FingerTrees.jl](https://github.com/mschauer/FingerTrees.jl) : A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
-- 🏚️ [Graft.jl](https://github.com/pranavtbhat/Graft.jl) : Graft stores vertex and edge metadata in separate dataframes.
-- 🏚️ [Lists.jl](https://github.com/adolgert/Lists.jl) : Singly linked list and doubly linked list for Julia.
-- 🏚️ [PropertyGraph.jl](https://github.com/PhillP/PropertyGraph.jl) : A Julia package for constructing, creating and querying graph data structures.
-- 🏚️ [PropertyGraphMongo.jl](https://github.com/PhillP/PropertyGraphMongo.jl) : A Mongo storage provider for the `PropertyGraph.jl` package.
-- 🏚️ [RedBlackTrees.jl](https://github.com/pygy/RedBlackTrees.jl) : A red–black self-balancing binary search tree in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
-- 🏚️ [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
-- 🏚️ [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) : Binary tree where the nodes contain the sum of the left and right children.
-- 🏚️ [Trie.jl](https://github.com/JuliaLang/Trie.jl) : Implementation of the trie data structure.
+See [Graph Theory](graph.md#graph-data-types) section.
 
 ## Numeric data types
 

@@ -13,6 +13,7 @@
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
 - [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. See also [Flux model-zoo](https://github.com/FluxML/model-zoo).
 - [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) : Utility functions for the FunctionalData package, mainly from the area of computer vision and machine learning.
+- [GeometricFlux.jl](https://github.com/FluxML/GeometricFlux.jl) : Geometric Deep Learning for Flux.
 - [Glmnet.jl](https://github.com/simonster/Glmnet.jl) : Julia wrapper for fitting Lasso/ElasticNet GLM models using a R package glmnet.
 - [LIBLINEAR.jl](https://github.com/innerlee/LIBLINEAR.jl) : Liblinear binding to Julia.
 - [JuliaTorch](https://github.com/boathit/JuliaTorch) : Using PyTorch in Julia Language via PyCall.
@@ -39,7 +40,7 @@
 - [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) : Julia tools for feeding tabular data into machine learning.
 - [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) : Truncated singular value decomposition with partial reorthogonalization.
 - [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) : Utilities to efficiently track learning curves or other optimization information.
-
+- [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : XGBoost Julia Package.
 
 - 🏗️ [SpectralClustering.jl](https://github.com/lucianolorenti/SpectralClustering.jl) : Spectral clustering algorithms written in Julia.
 - 🏗️ [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) : Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.

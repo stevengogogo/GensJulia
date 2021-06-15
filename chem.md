@@ -6,7 +6,7 @@
 - [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 - 🏚️ [Dimers.jl](https://github.com/sswatson/Dimers.jl) : Oligomers with two structurally similar monomers.
 
-## File I/O
+## File I/O for chemistry
 
 - [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) : A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
 - [CrystalInfoFramework.jl](https://github.com/jamesrhester/CrystalInfoFramework.jl) : Support for reading and writing Crystallographic Information Framework data files and dictionaries.
