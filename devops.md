@@ -8,16 +8,6 @@
 - [Julia Server Status](http://status.julialang.org/) : Status page for services hosted by JuliaLang.
 - [Julia Packaging](https://github.com/JuliaPackaging) organization.
 
-## Installing Julia
-
-Alternative to downloading an extracting [official Julia binaries](http://julialang.org/downloads/):
-
-- [jill](https://github.com/abelsiqueira/jill) :  Command line installer of the Julia Language for Linux and MacOS.
-- [jill.py](https://github.com/johnnychen94/jill.py) : Python port of the `jill` installer.
-- [JuliaUp](https://github.com/JuliaLang/juliaup) : Julia installer and updater in Windows Store.
-- [JuliaVM](https://github.com/pmargreff/juliavm) : Simple bash script to manage multiple Julia environments. Inspired by `nvm` and `npm`.
-- [Repology](https://repology.org/metapackage/julia/versions) : versions of julia across more than 120 (Linux) package repositories.
-
 ## Developing Julia packages
 
 > Package/Infrastructure management tools and Documentation

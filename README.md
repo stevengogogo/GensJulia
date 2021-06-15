@@ -6,8 +6,18 @@
 
 > Largely based on [Julia.jl](https://github.com/svaksha/Julia.jl), which is under COPYRIGHT © 2012-Now SVAKSHA, dual-licensed for the data ([ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/)) and the software ([AGPLv3+](http://www.gnu.org/licenses/agpl-3.0.en.html)), respectively. Kudos to the author(s) for the hard work.
 
+## Installing Julia
 
-## Julia tutorials
+Alternatives to downloading an extracting [official Julia binaries](http://julialang.org/downloads/):
+
+- [jill.py](https://github.com/johnnychen94/jill.py) : Python port of the `jill` installer.
+- [jill](https://github.com/abelsiqueira/jill) :  Command line installer of the Julia Language for Linux and MacOS.
+- [JuliaUp](https://github.com/JuliaLang/juliaup) : Julia installer and updater in Windows Store.
+- [JuliaVM](https://github.com/pmargreff/juliavm) : Simple bash script to manage multiple Julia environments. Inspired by `nvm` and `npm`.
+- [juliawin](https://github.com/heetbeet/juliawin) : A portable Julia for Windows, bundled with VSCode, Pluto, Conda & PyCall, and more.
+- [Repology](https://repology.org/metapackage/julia/versions) : versions of julia across more than 120 (Linux) package repositories.
+
+## Julia tutorials  
 
 If you are already familiar with other programming languages:
 
