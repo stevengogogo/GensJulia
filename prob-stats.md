@@ -38,6 +38,7 @@
 
 - [BayesNets.jl](https://github.com/sisl/BayesNets.jl) : Bayesian Networks for Julia.
 
+
 - 🏚️ [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia. (No `Project.toml`)
 - 🏚️ [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) : Implementation of data fusion methods.
 - 🏚️ [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) : Bayesian estimation of diffusion processes.
@@ -56,6 +57,7 @@
 - [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) : Some nonnegative least squares solvers in Julia.
 - [QuantileRegression.jl](https://github.com/pkofod/QuantileRegressions.jl) : Quantile regression in Julia.
 - [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) : Statistical Models with Regularization in Pure Julia.
+
 
 - 🏚️ [FLSA.jl](https://github.com/EQt/FLSA.jl) : Computing the Fused LASSO Signal Approximator to denoise data.
 - 🏚️ [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) : A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
@@ -98,18 +100,21 @@
 - [PerronFrobenius.jl](https://github.com/kahaaga/PerronFrobenius.jl) : Estimating the transfer operator (Perron Frobenius operator) and invariant measures from time series.
 - [Temporal.jl](https://github.com/dysonance/Temporal.jl) : Flexible and efficient time series class & methods for the Julia language.
 - [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) : Time-series toolkit for Julia.
-
 - 🏚️ [SmoothingKernels.jl](https://github.com/johnmyleswhite/SmoothingKernels.jl) : Smoothing kernels for use in kernel regression and kernel density estimation.
 
 ## Online algorithm
 
 - [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) : Online algorithms for statistics.
 
-## [COMPOSITIONAL](https://en.wikipedia.org/wiki/Compositional_data)
+## Compositional Data Analysis
+
+[Compositional Data Analysis](https://en.wikipedia.org/wiki/Compositional_data)
 
 - [CoDa.jl](https://github.com/JuliaEarth/CoDa.jl) : Compositional Data Analysis in Julia
 
-## [EXTREMES](https://en.wikipedia.org/wiki/Extreme_value_theory)
+## Extreme value theory
+
+[Extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory)
 
 - [ExtremeStats.jl](https://github.com/JuliaEarth/ExtremeStats.jl) : Extreme Value Statistics in Julia.
 
@@ -126,13 +131,11 @@
 - [MonteCarloMeasurements.jl](https://github.com/baggepinnen/MonteCarloMeasurements.jl) : Uncertainty propagation by Monte-Carlo sampling: Real numbers with uncertainty represented by particle clouds.
 - [RecombinatorKMeans.jl](https://github.com/carlobaldassi/RecombinatorKMeans.jl) : An implementation of the recombinator-k-means method.
 - [StableDQMC.jl](https://github.com/crstnbr/StableDQMC.jl) : Numerical stabilization routines for determinant quantum Monte Carlo.
-
 - 🏚️ [PSIS.jl](https://github.com/alvaro1101/PSIS.jl) : Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 
 ## Tests
 
 - [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) : T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
-
 - 🏚️ [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) : A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
 
 ## Unclassified
@@ -154,6 +157,7 @@
 - [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) : Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) : Basic statistics.
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : TopicModels for Julia.
+
 
 - 🏚️ [CTDE.jl](https://github.com/adolgert/CTDE.jl) : Continuous time, discrete event system in Julia.
 - 🏚️ [DirichletProcessMixtures.jl](https://github.com/sbos/DirichletProcessMixtures.jl) : This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.

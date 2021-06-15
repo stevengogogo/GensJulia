@@ -36,8 +36,8 @@
 - 🏚️ [SGP4.jl](https://github.com/crbinz/SGP4.jl) : Julia wrapper for the SGP4 satellite propagation model. (No `Project.toml`)
 - 🏚️ [WCSLIB.jl](https://github.com/JuliaAstro/WCSLIB.jl) : wcslib wrapper for Julia.
 
-### Resources
 
+**Resources**
 - 🏚️ [ioa-julia-tutorials](https://github.com/swt30/ioa-julia-tutorials) : An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge
 
 ## Spacecraft
