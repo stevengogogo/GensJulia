@@ -92,7 +92,7 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 
 [📖 Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)
 
-[Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
+- [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 
 ## Network modeling
 

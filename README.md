@@ -15,7 +15,7 @@ Alternatives to downloading an extracting [official Julia binaries](http://julia
 - [JuliaUp](https://github.com/JuliaLang/juliaup) : Julia installer and updater in Windows Store.
 - [JuliaVM](https://github.com/pmargreff/juliavm) : Simple bash script to manage multiple Julia environments. Inspired by `nvm` and `npm`.
 - [juliawin](https://github.com/heetbeet/juliawin) : A portable Julia for Windows, bundled with VSCode, Pluto, Conda & PyCall, and more.
-- [Repology](https://repology.org/metapackage/julia/versions) : versions of julia across more than 120 (Linux) package repositories.
+- [Repology](https://repology.org/metapackage/julia/versions) : Showing versions of julia across more than 120 (Linux) package repositories.
 
 ## Julia tutorials  
 
