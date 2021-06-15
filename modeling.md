@@ -83,10 +83,10 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 
 - [Reduce.jl](https://github.com/chakravala/Reduce.jl) : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 - [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
+- [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) : Distributed High-Performance symbolic regression in Julia.
 - [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) : A fast and modern CAS for a fast and modern language.
 - [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of SymEngine.
 - [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to SymPy via PyCall.
-- []
 
 ## Agent-based models
 
