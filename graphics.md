@@ -1,6 +1,6 @@
 # Graphics in Julia
 
-> Computer Vision, Graphics, visualization, geometry
+> Computer Vision, Graphics, games, geometry
 
 - [Julia Geometry](https://github.com/JuliaGeometry)
 - [Julia GL](https://github.com/JuliaGL)
@@ -116,59 +116,48 @@
 
 ## Geometry
 
-[📖 Geometry](http://en.wikipedia.org/wiki/Geometry)
+- [📖 Geometry](http://en.wikipedia.org/wiki/Geometry)
+- [📖 Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+- [📖 Computational Geometry](https://en.wikipedia.org/wiki/Computational_geometry)
+- [📖 Discrete Geometry](https://en.wikipedia.org/wiki/Category:Discrete_geometry)
+- [📖 Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
 
-- [CoordinateTransformations.jl](https://github.com/JuliaGeometry/CoordinateTransformations.jl) : A fresh approach to coordinate transformations.
-- 🏚️ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) : Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
-- 🏚️ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) : Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
-- 🏚️ [D4.jl](https://github.com/khwilson/D4.jl) : An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
-- 🏚️ [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) : A basic geometric
-- 🏚️ [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) : 2D computational geometry package for Julia programming language.
-- 🏚️ [mbr.jl](https://github.com/intdxdt/mbr.jl) : axis aligned minimum bounding box.
-algebra library in Julia.
-
-### Algebraic Geometry
-
-[📖 Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-
-- [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) : ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
-- [RayTraceEllipsoid.jl](https://github.com/JuliaGeometry/RayTraceEllipsoid.jl) : Ray trace ellipsoid-shaped domes i.e. finds intersection points and refract/reflect according to the refractive indices.
-- 🏚️ [ols.jl](https://github.com/forio/ols.jl) : Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
-
-### Computational Geometry
 
 - [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) : A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a __lower level__ using the API of cdd or using the higher level interface of Polyhedra.jl.
 - [Clipper.jl](https://github.com/JuliaGeometry/Clipper.jl) : Julia wrapper for Angus Johnson's [Clipper](http://www.angusj.com/delphi/clipper.php) library.
 - [ConvexHull.jl](https://github.com/JuliaPolyhedra/ConvexHull.jl) : A Julia library for polyhedral computations.
+- [CoordinateTransformations.jl](https://github.com/JuliaGeometry/CoordinateTransformations.jl) : A fresh approach to coordinate transformations.
+- [Descartes.jl](https://github.com/sjkelly/Descartes.jl) : A research project into the representation of solid geometry.
 - [Ganja.jl](https://github.com/chakravala/Ganja.jl) : Visualization for geometric algebra, not just algebra, using [Ganja.js](https://github.com/enkimute/ganja.js)
 - [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) : Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
 - [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) : Geometry types and for Julia, based on FixedSizeArrays.
+- [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) : ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
+- [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) : ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
+- [ImageMorphology.jl](https://github.com/JuliaImages/ImageMorphology.jl) : This package provides morphology-related functionality to the `Images.jl` project.
 - [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl) : A wrapper for [lrs](http://cgm.cs.mcgill.ca/~avis/C/lrs.html).
 - [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) : Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 - [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) : Fast quad and oct-trees.
 - [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl) : It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
 - [QHull.jl](https://github.com/JuliaPolyhedra/QHull.jl) : A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
+- [RayTraceEllipsoid.jl](https://github.com/JuliaGeometry/RayTraceEllipsoid.jl) : Ray trace ellipsoid-shaped domes i.e. finds intersection points and refract/reflect according to the refractive indices.
 - [SignedDistanceFields.jl](https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation.
 - [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) : [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen&lang=1) wrapper.
 - [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) : Fast ray-triangle intersections for raytracing.
 - [VoronoiCells.jl](https://github.com/JuliaGeometry/VoronoiCells.jl) : Manipulate Voronoi cells in 2D.
 - [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) : Fast and robust Voronoi & Delaunay tessellation creation with Julia.
+
+
+- 🏚️ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) : Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
+- 🏚️ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) : Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 - 🏚️ [CHull2d.jl](https://github.com/cc7768/CHull2d.jl) : Variety of algorithms for taking the convex hull of 2 dimensional sets of points.
-
-### Discrete Geometry
-
-[📖 Discrete Geometry](https://en.wikipedia.org/wiki/Category:Discrete_geometry)
-
-
-- [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) : ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
-- [ImageMorphology.jl](https://github.com/JuliaImages/ImageMorphology.jl) : This package provides morphology-related functionality to the `Images.jl` project
+- 🏚️ [D4.jl](https://github.com/khwilson/D4.jl) : An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
+- 🏚️ [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) : A basic geometric
+- 🏚️ [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) : 2D computational geometry package for Julia programming language.
 - 🏚️ [LatticeVis.jl](https://github.com/ffreyer/LatticeVis.jl).
+- 🏚️ [mbr.jl](https://github.com/intdxdt/mbr.jl) : axis aligned minimum bounding box.
+- 🏚️ [ols.jl](https://github.com/forio/ols.jl) : Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
+algebra library in Julia.
 
-### Solid Geometry
-
-[Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
-
-- [Descartes.jl](https://github.com/sjkelly/Descartes.jl) : A research project into the representation of solid geometry.
 
 ## Games
 
