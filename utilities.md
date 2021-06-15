@@ -76,7 +76,7 @@
 - [Julia Microbenchmarks against other programming languages](https://julialang.org/benchmarks/)
 
 
-- [BenchmarksTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
+- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
 - [ConicBenchmarkUtilities.jl](https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl) : Julia utilities for the conic benchmark format for mathematical optimization.
 - [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) : A module for CPU timing.
 - [DataBench.jl](https://github.com/xiaodaigh/DataBench.jl) : A package to benchmark data manipulation in Julia vs `R data.table`.

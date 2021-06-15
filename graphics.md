@@ -1,6 +1,6 @@
 # Graphics in Julia
 
-> Computer Vision, Graphics, visualization, geometry packages
+> Computer Vision, Graphics, visualization, geometry
 
 - [Julia Geometry](https://github.com/JuliaGeometry)
 - [Julia GL](https://github.com/JuliaGL)

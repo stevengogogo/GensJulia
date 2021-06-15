@@ -75,16 +75,15 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 [📖 Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing))
 
 - [JuliaInterpreter.jl](https://github.com/JuliaDebug/JuliaInterpreter.jl) : Interpreter for Julia code.
-
 - 🏚️ [ASTInterpreter.jl](https://github.com/Keno/ASTInterpreter.jl) : Gallium's AST interpreter as a separate package to simplify development.
 
 ## Macro and Metaprogramming
 
+See also:
 - [📖 Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)) and [📖 Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 - [Metaprogramming](https://docs.julialang.org/en/v1/manual/metaprogramming/#Metaprogramming) in Julia docs
 
 Packages:
-
 - [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) : providing a macro `@from` importing objects from files without having to `include` repeatedly.
 - [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) : Macro(s) for vectorizing loops.
 - [Reexport.jl](https://github.com/simonster/Reexport.jl) : Julia macro for re-exporting one module from another.

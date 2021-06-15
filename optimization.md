@@ -2,9 +2,11 @@
 
 > [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia
 
-- [JuMP-dev](https://github.com/jump-dev) organization.
-- [Julia Opt](https://github.com/JuliaOpt) organization.
-- [Julia Smooth Optimizers](https://github.com/JuliaSmoothOptimizers) organization.
+**Organizations**
+
+- [JuMP-dev](https://github.com/jump-dev)
+- [Julia Opt](https://github.com/JuliaOpt)
+- [Julia Smooth Optimizers](https://github.com/JuliaSmoothOptimizers)
 
 ## Frameworks
 
