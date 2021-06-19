@@ -89,7 +89,7 @@ Also see [matlab-to-julia](https://lakras.github.io/matlab-to-julia/) online tra
 
 ## Python
 
-- [FStrings.jl](https://github.com/magonser/FStrings.jl) : Implementation of Python style 'fsrings' literal string interpolation based on `Printf.@sprintf`.
+- [FStrings.jl](https://github.com/magonser/FStrings.jl) : Implementation of Python style [fsrings](https://www.python.org/dev/peps/pep-0498/) literal string interpolation based on `Printf.@sprintf`.
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) : Call Python functions from Julia.
 - [PyJulia](https://github.com/JuliaPy/pyjulia) : Python interface to Julia. (Call Julia functions from Python)
 

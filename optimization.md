@@ -11,8 +11,11 @@
 
 - [JuMP.jl](https://github.com/jump-dev/JuMP.jl) : A modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
 
-## APIs for external solvers
+## Bindings for external solvers
 
+!> Some of them may require paid license to work.
+
+- [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 - [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl) : a Julia interface for the commercial [Gurobi](http://www.gurobi.com/) Optimizer.
 - [Ipopt.jl](https://github.com/jump-dev/Ipopt.jl) : Julia interface to the [Ipopt](https://coin-or.github.io/Ipopt/) nonlinear solver.
 - [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) : Package to call the [NLopt](http://ab-initio.mit.edu/nlopt) nonlinear-optimization library from the Julia language.
@@ -27,6 +30,7 @@
 - [GLPKMathProgInterface.jl](https://github.com/JuliaOpt/GLPKMathProgInterface.jl) : Interface between the GLPK.jl wrapper and MathProgBase.jl.
 - [HSL.jl](https://github.com/JuliaSmoothOptimizers/HSL.jl) : Julia interface to the HSL Mathematical Software Library.
 - [KNITRO.jl](https://github.com/jump-dev/KNITRO.jl) : Julia interface for [KNITRO solver](https://www.artelys.com/knitro).
+- [Xpress.jl](https://github.com/jump-dev/Xpress.jl) : A Julia interface for the [FICO Xpress solver](https://github.com/jump-dev/Xpress.jl/blob/master/www.fico.com/products/fico-xpress-solver).
 
 
 - 🏚️ [SCIP.jl](https://github.com/mlubin/SCIP.jl) by @mlubin : An optimization software for mixed-integer programs.
@@ -68,7 +72,8 @@
 - [ConstraintProgramming.jl](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl) :  Calculates the feasible region for a set of real-valued inequalities with Julia.
 - [CutPools.jl](https://github.com/joehuchette/CutPools.jl) : Pools of cutting planes for JuMP models.
 - [EAGO.jl](https://github.com/PSORLab/EAGO.jl) : A development environment for robust and global optimization. EAGO stands for Easy-Advanced Global Optimization.
-- [jobshop](https://github.com/stefan-k/jobshop) : The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.
+- [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) : `GalacticOptim.jl` seeks to bring together all of the optimization packages it can find, local and global, into one unified Julia interface.
+- [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) : An interface for infinite-dimensional optimization problems. e.g. stochastic programming, dynamic programming, space-time optimization. See also the [YouTube video](https://www.youtube.com/watch?v=q5ETFLZbxiU).
 - [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) : Linear Operators for Julia.
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) : Simple curve fitting functionality from [Optim.jl][] has been moved into its own package.
 - [MathProgBase.jl](https://github.com/JuliaOpt/MathProgBase.jl) : Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming.
@@ -78,7 +83,6 @@
 - [OSQP.jl](https://github.com/oxfordcontrol/OSQP.jl) : A Julia wrapper for the Operator Splitting Quadratic Program (OSQP) solver is a numerical optimization package.
 - [PolyJuMP.jl](https://github.com/JuliaOpt/PolyJuMP.jl) : A JuMP extension for Polynomial Optimization.
 - [QuadDIRECT.jl](https://github.com/timholy/QuadDIRECT.jl) : Global optimization without derivatives.
-- [scheduleCrew.jl](https://github.com/hugdiniz/scheduleCrew.jl).
 - [SemidefiniteModels](https://github.com/JuliaOpt/SemidefiniteModels.jl) : A MathProgBase extension for Semidefinite Modelling.
 - [SMM.jl](https://github.com/floswald/SMM.jl) : Simulated Method of Moments for Julia.
 - [StructDualDynProg.jl](https://github.com/JuliaStochOpt/StructDualDynProg.jl) : Implementation of SDDP (Stochastic Dual Dynamic Programming) using the StructJuMP modeling interface.
@@ -86,8 +90,6 @@
 - [SumOfSquares.jl](https://github.com/jump-dev/SumOfSquares.jl) : Sum of Squares Programming for Julia.
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) : Surrogate modeling and optimization.
 - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) : A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
-- [Xpress.jl](https://github.com/jump-dev/Xpress.jl) : A Julia interface for the FICO Xpress optimization suite.
-- [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) : An interface for infinite-dimensional optimization problems. e.g. stochastic programming, dynamic programming, space-time optimization. See also the [YouTube video](https://www.youtube.com/watch?v=q5ETFLZbxiU).
 
 
 [Optim.jl]: https://github.com/JuliaNLSolvers/Optim.jl
@@ -100,6 +102,7 @@
 - 🏚️ [EAGODomainReduction.jl](https://github.com/MatthewStuber/EAGODomainReduction.jl) : Domain Reduction Procedures in Global Optimization.
 - 🏚️ [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) : is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
 - 🏚️ [InformedDifferentialEvolution.jl](https://github.com/rened/InformedDifferentialEvolution.jl) : Implementation of Differential Evolution with optional custom predictors. (No `Project.toml`)
+- 🏚️ [jobshop](https://github.com/stefan-k/jobshop) : The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.
 - 🏚️ [JuGP.jl](https://github.com/mlubin/JuGP.jl) : A prototype JuMP extension for geometric programming. (No `Project.toml`)
 - 🏚️ [julia-nlopt](https://github.com/MetalNinjas/julia-nlopt) : NLopt bindings for julia.
 - 🏚️ [JuliaCMAES](https://github.com/Staross/JuliaCMAES) : CMA-ES port - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
@@ -119,6 +122,7 @@
 - 🏚️ [QuickCheck.jl](https://github.com/pao/QuickCheck.jl) : is listed in METADATA and based on QuickCheck specification-based randomized tester for Julia.
 - 🏚️ [Ranking.jl](https://github.com/johnmyleswhite/Ranking.jl) : Tools for ranking in Julia. (No `Project.toml`)
 - 🏚️ [RationalSimplex.jl](https://github.com/IainNZ/RationalSimplex.jl) : Pure Julia implementation of the simplex algorithm. (No `Project.toml`)
+- 🏚️ [scheduleCrew.jl](https://github.com/hugdiniz/scheduleCrew.jl) : The project was developed for Topicos Especiais em Otimização.
 - 🏚️ [SemidefiniteProgramming.jl](https://github.com/daviddelaat/SemidefiniteProgramming.jl) : This package provides a Julia interface for low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP.
 - 🏚️ [simplex.jl](https://github.com/davidagold/simplex.jl) : Practice project program that performs the simplex algorithm.
 - 🏚️ [VinDsl.jl](https://github.com/jmxpearson/VinDsl.jl) : A fast and furious domain-specific language for variational inference in Julia.

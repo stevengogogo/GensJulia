@@ -66,7 +66,7 @@
 - 🏚️ [PostgreSQL.jl](https://github.com/swt30/PostgreSQL.jl) : An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl) use `LibPQ.jl` instead.
 - 🏚️ [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) : DBI-compliant driver for SQLite3.
 
-## Loading datasets
+## Accessing datasets
 
 - [DataDeps.jl](https://github.com/oxinabox/DataDeps.jl): reproducible data setup for reproducible science.
 - [FaceDatasets.jl](https://github.com/dfdx/FaceDatasets.jl) : A package for easy access to face-related datasets.
@@ -91,7 +91,7 @@
 - [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) : In-memory tabular data in Julia.
 - [DataFramesMeta.jl](https://github.com/JuliaStats/DataFramesMeta.jl) : Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
 - [IndexedTables.jl](https://github.com/JuliaData/IndexedTables.jl) : Tabular data structures where some of the columns form a sorted index.
-- [Pandas.jl](https://github.com/JuliaPy/Pandas.jl) : A Julia front-end to Python's Pandas package
+- [Pandas.jl](https://github.com/JuliaPy/Pandas.jl) : A Julia front-end to Python's `pandas` package.
 - [DFMacros.jl](https://github.com/jkrumbiegel/DFMacros.jl) : an opinionated take on DataFrame manipulation in Julia with a syntax geared towards clarity, brevity and convenience.
 
 
@@ -101,3 +101,4 @@
 ## Resources
 
 - Blog on [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
+- [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/) of different languages and libraries.

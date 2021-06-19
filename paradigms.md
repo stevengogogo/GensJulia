@@ -5,12 +5,11 @@
 
 ## Automata
 
-Links:
+**Resources**
 - [📖 Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)) and [Programming Language Theory](https://github.com/steshaw/plt-study) .
 - [📖 Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
 
-Packages:
-
+**Packages**
 - [Automa.jl](https://github.com/BioJulia/Automa.jl) : A julia code generator for regular expressions - this package can do text validation, parsing, and tokenizing based on state machine compiler.
 - [CodeTracking.jl](https://github.com/timholy/CodeTracking.jl) : An extension of Julia's InteractiveUtils library that provides an interface for obtaining strings and expressions of method definitions, method signatures, etc.. designed to work with Revise.jl (for versions v1.1.0 and higher).
 - [MacroTools.jl](https://github.com/FluxML/MacroTools.jl) : A library providing helpful tools for writing macros, notably a very simple templating system with some functions
@@ -23,9 +22,7 @@ Packages:
 
 ## Control Flow
 
-[📖 Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
-
-Julia manual's [control-flow](https://docs.julialang.org/en/v1/manual/control-flow/)
+[📖 Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow) and Julia manual's [control-flow](https://docs.julialang.org/en/v1/manual/control-flow/)
 
 
 - [CommonSubexpressions.jl](https://github.com/rdeits/CommonSubexpressions.jl) : Naïve combined subexpression elimination in Julia.
@@ -79,11 +76,11 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Macro and Metaprogramming
 
-See also:
+**Resources**
 - [📖 Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)) and [📖 Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 - [Metaprogramming](https://docs.julialang.org/en/v1/manual/metaprogramming/#Metaprogramming) in Julia docs
 
-Packages:
+**Packages**
 - [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) : providing a macro `@from` importing objects from files without having to `include` repeatedly.
 - [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) : Macro(s) for vectorizing loops.
 - [Reexport.jl](https://github.com/simonster/Reexport.jl) : Julia macro for re-exporting one module from another.
@@ -124,9 +121,11 @@ Packages:
 - 🏚️ [ExpressionPatterns.jl](https://github.com/fcard/ExpressionPatterns.jl) : Match, Destructure and Dispatch on expressions.
 - 🏚️ [PAPI.jl](https://github.com/jakebolewski/PAPI.jl) : Julia bindings to the Performance Application Programming Interface (PAPI).
 
-## Polymorphism (in Julia, Multiple Dispatch)
+## Polymorphism amd multiple dispatch
 
-[📖 Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science))
+[📖 Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science)) and [Holy Traits pattern](https://ahsmart.com/pub/holy-traits-design-patterns-and-best-practice-book.html).
+
+
 
 - [BinaryTraits.jl](https://github.com/tk3369/BinaryTraits.jl) : easy-to-use trait library with formal interface specification support.
 - [SimpleTraits.jl](https://github.com/mauro3/SimpleTraits.jl) : Simple Traits for Julia.
@@ -141,17 +140,14 @@ Packages:
 ## Static analysis
 
 - [Lint.jl](https://github.com/tonyhffong/Lint.jl) : A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
+- [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) : Formatted output of timed sections in julia.
 - 🏚️ [Quantity.jl](https://github.com/rephorm/Quantity.jl) : Numbers with units.
 - 🏚️ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) : Intuitive, useful stack traces for Julia. StackTraces functionality has been merged into the Julia standard library as of v0.5.
 
-### Turnaround Time
-
-[📖 Turnaround Time](https://en.wikipedia.org/wiki/Turnaround_time)
-
-- [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) : Formatted output of timed sections in julia.
 
 ## Style Guidelines
 
-- [Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/).
+[Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/)
+
 - [BlueStyle](https://github.com/invenia/BlueStyle) : A Julia style guide that lives in a blue world.
 - 🏚️ [Style.jl](https://github.com/johnmyleswhite/Style.jl) : Style guidelines for Julia programming.

@@ -87,9 +87,9 @@ Bridging pre-1.0 Julia code to 1.0+.
 
 **Packages**
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) : Tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov. Its base library is [CoverageBase.jl](https://github.com/JuliaCI/CoverageBase.jl).
-- [Jive.jl](https://github.com/wookay/Jive.jl) : run your test in parallel. Also supports watch folder function.
-- [Mocking.jl](https://github.com/invenia/Mocking.jl) : Allows temporary overwriting of Julia methods for testing purposes.
-- [Watcher.jl](https://github.com/rened/Watcher.jl): Auto-run unit tests every time a file gets saved
+- [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
+- [Mocking.jl](https://github.com/invenia/Mocking.jl) : Allowing temporary overwriting of Julia methods for testing purposes.
+- [Watcher.jl](https://github.com/rened/Watcher.jl): Auto-run unit tests every time a file gets saved.
 
 
 - 🏚️ [BaseTestDeprecated.jl](https://github.com/IainNZ/BaseTestDeprecated.jl) : Provides the `Base.Test` functionality removed in `Julia v0.5`.
@@ -107,7 +107,7 @@ Bridging pre-1.0 Julia code to 1.0+.
 
 ### Logging
 
-Use Julia's [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) facilities instead.
+Use the built-in [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) facilities instead.
 
 - 🏚️ [Log4jl.jl](https://github.com/wildart/Log4jl.jl) : A comprehensive and flexible logging framework for Julia programs.
 - 🏚️ [Logging.jl](https://github.com/kmsquire/Logging.jl) : The Logging module.

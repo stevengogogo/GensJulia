@@ -25,6 +25,8 @@
 
 ## Documentation
 
+[Julia docstrings](https://docs.julialang.org/en/v1/manual/documentation/)
+
 - [CommonMark.jl](https://github.com/MichaelHatherly/CommonMark.jl) : A CommonMark-compliant parser for Julia.
 - [DocStringExtensions.jl](https://github.com/JuliaDocs/DocStringExtensions.jl) : Extensions for Julia's docsystem.
 - [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) : Official documentation generator for Julia.
@@ -97,6 +99,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
 [Jupyter](https://github.com/jupyter)
 
+
 - [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) : Julia kernel for Jupyter. How to create a [Custom IJulia Widget](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/avrahamruderman/116845471f0d79942aff/raw/fb1f659e635f4585ebb449aa2519deffd15aba31/writing-custom-ijulia-widgets.ipynb)
 - [Interact.jl](https://github.com/JuliaLang/Interact.jl) : Library for interactive widgets in IJulia.
 - [IPython.jl](https://github.com/tkf/IPython.jl) : Launch IPython in Julia.
@@ -121,7 +124,7 @@ See also
 
 - [Google colab Julia notebook](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb)
 - [Julia Hub](https://juliahub.com/ui/index.html)
-- [Julia on the SageMath cloud server](https://cloud.sagemath.com).
+- [Julia on the SageMath cloud server](https://cloud.sagemath.com)
 - [Repl.it](https://replit.com/)
 - [Nextjournal](https://nextjournal.com/)
 - [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
@@ -140,9 +143,9 @@ See also
 
 ## GUI
 
-- [Blink.jl](https://github.com/JunoLab/Blink.jl) : Julia wrapper around [Electron](https://electronjs.org/).
+- [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) : Julia wrapper around [Electron](https://electronjs.org/).
 - [Electron.jl](https://github.com/davidanthoff/Electron.jl) : Julia wrapper for [Electron](https://electronjs.org/) with a more minimalistic feature set than `Blink.jl`.
-- [Tk.jl](https://github.com/JuliaLang/Tk.jl) : The Julia interface for the Tk windowing toolkit.
+- [Tk.jl](https://github.com/JuliaGraphics/Tk.jl) : The Julia interface for the Tk windowing toolkit.
 
 
 - 🏚️ [Canvas.jl](https://github.com/shashi/Canvas.jl) : Composable UIs in Julia.

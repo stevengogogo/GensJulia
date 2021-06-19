@@ -7,9 +7,7 @@ Organizations:
 - [SciML](https://github.com/SciML)
 - [Julia Dynamics](https://juliadynamics.github.io/JuliaDynamics/)
 
-## File I/O
-
-Importing model files.
+## Model File I/O
 
 - [SBML.jl](https://github.com/LCSB-BioCore/SBML.jl) : Julia interface to the Systems Biology Markup Language (`SBML`) library.
 - [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) : a Julia library that connects `CellML` models to the Scientific Julia ecosystem.
@@ -93,6 +91,7 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 [📖 Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)
 
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
+- [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
 
 ## Network modeling
 
@@ -100,9 +99,15 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 - [NetworkDynamics.jl](https://github.com/PIK-ICoNe/NetworkDynamics.jl) : A package for working with dynamical systems on complex networks. NetworkDynamics.jl provides an interface between [LightGraphs.jl][] and [DifferentialEquations.jl][].
 
 
-[LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl
-[DifferentialEquations.jl]: https://github.com/SciML/DifferentialEquations.jl
+## Other frameworks
+
+- [Mimi.jl](https://github.com/mimiframework/Mimi.jl) : [Integrated Assessment Modeling Framework](https://en.wikipedia.org/wiki/Integrated_assessment_modelling).
+- [OptiMimi.jl](https://github.com/jrising/OptiMimi.jl) : Optimization for the `Mimi.jl` modeling framework.
 
 ## Utilities
 
-[DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) : a Julia package created to help people "deal" with their simulations, simulation parameters.
+- [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) : a Julia package created to help people "deal" with their simulations, simulation parameters.
+
+
+[LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl
+[DifferentialEquations.jl]: https://github.com/SciML/DifferentialEquations.jl

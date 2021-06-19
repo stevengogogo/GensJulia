@@ -6,7 +6,7 @@
 - [algo-book-julia](https://github.com/Alexander-N/algo-book-julia) : Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 - [study](https://github.com/codematician/study) : A study of interesting algorithms in Python.
 
-## General Algorithms and DataStrcutures
+## General Algorithms
 
 - [CRC.jl](https://github.com/andrewcooke/CRC.jl) : a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 
@@ -16,6 +16,8 @@
 - 🏚️ [HClust.jl](https://github.com/davidavdav/HClust.jl) : Hierarchical Clustering for Julia, similar to R's hclust(), has now been merged into [Clustering.jl](https://github.com/JuliaStats/Clustering.jl)
 - 🏚️ [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) : A fast, nearly linear time algorithm for detecting communtiy structure in networks.
 - 🏚️ [RecSys.jl](https://github.com/abhijithch/RecSys.jl) : An implementation of the ALS-WR algorithm.
+- 🏚️ [Codecs.jl](https://github.com/BioJulia/Codecs.jl) : Common data encoding algorithms.
+
 
 ## Pattern Matching
 
@@ -35,8 +37,6 @@
 - [NaturalSort.jl](https://github.com/simonster/NaturalSort.jl) : Natural sort order.
 - [SortingAlgorithms.jl](https://github.com/JuliaCollections/SortingAlgorithms.jl) : extra sorting algorithms extending Julia's sorting API.
 - [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) : Experimental implementations of sorting algorithms.
-
-
 - 🏚️ [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) : An API for common search and sort algorithms.
 
 ## NP-complete Problems
@@ -53,34 +53,28 @@
 - 🏚️ [dReal.jl](https://github.com/zenna/dReal.jl) : Nonlinear SMT solving using dReal.
 - 🏚️ [Z3.jl](https://github.com/zenna/Z3.jl) : This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
 
-## Data strctures and data types
+## General Data structures and data types
 
-- [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) : Julia implementation of Data structures
-- [CBOR.jl](https://github.com/saurvs/CBOR.jl) : A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
-- [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) : This package implements a variety of data structures.
-- [FreeType.jl](https://github.com/JuliaGraphics/FreeType.jl) : Font FreeType 2 bindings API wrapper.
-- [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) : A Julian abstraction layer over FreeType.jl.
+- [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) : Julia implementation of Data structures.
+- [FreeType.jl](https://github.com/JuliaGraphics/FreeType.jl) : Font FreeType 2 bindings API wrapper. See also [FreeTypeAbstraction.jl](https://github.com/JuliaGraphics/FreeTypeAbstraction.jl).
 - [FunctionalCollections.jl](https://github.com/JuliaCollections/FunctionalCollections.jl) : Functional and and persistent data structures for Julia.
 - [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) : Functional, efficient data manipulation framework.
-- [MUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) : `channels()`, `tspaces(`)`, `kvspaces()` and more.
+- [MUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) : A collection of utilities for messaging, `channels()`, `tspaces()`, `kvspaces()` etc.
 - [ResultTypes.jl](https://github.com/iamed2/ResultTypes.jl) :  A Result type for Julia—it's like Nullables for Exceptions.
 - [TypeSortedCollections.jl](https://github.com/tkoolen/TypeSortedCollections.jl) : It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner.
 
 
 - 🏚️ [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) : Julia package to deal with Characters of 8 bits.
-- 🏚️ [Codecs.jl](https://github.com/BioJulia/Codecs.jl) : Common data encoding algorithms.
 - 🏚️ [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) : Types for continuous variables or parameters.
 - 🏚️ [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) : KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 - 🏚️ [DotPlusInheritance.jl](https://github.com/DANA-Laboratory/DotPlusInheritance.jl) : Expression parser that simulates type inheritance.
 - 🏚️ [jenks.jl](https://github.com/scw/jenks.jl)
 - 🏚️ [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) : A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
-- 🏚️ [LHEF.jl](https://github.com/Keno/LHEF.jl) : Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
 - 🏚️ [MPFI.jl](https://github.com/andrioni/MPFI.jl) : A [MPFI](http://perso.ens-lyon.fr/nathalie.revol/software.html) wrapper for Julia.
 - 🏚️ [RDF.jl](https://github.com/JuliaPackageMirrors/RDF.jl) : RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)
 - 🏚️ [ReTerms.jl](https://github.com/dmbates/ReTerms.jl) : Package providing abstract random-effects terms and specific types.
 - 🏚️ [Sexpr.jl](https://github.com/vshesh/Sexpr.jl) : A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 - 🏚️ [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) : Tex Pretty printing of Julia Base types.
-- 🏚️ [RingBuffer.jl](https://github.com/kmsquire/RingBuffer.jl) : Julia ring buffer implementation for buffered IO.
 
 
 ## Text / string data type
@@ -170,19 +164,18 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - [OffsetArrays.jl](https://github.com/JuliaArrays/OffsetArrays.jl) : Fortran-like arrays with arbitrary, zero or negative starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein.
 - [Pseudospectra.jl](https://github.com/RalphAS/Pseudospectra.jl) : a package for computing pseudospectra of non-symmetric matrices, and plotting them along with eigenvalues ("spectral portraits").
 - [QuasiArrays.jl](https://github.com/JuliaApproximation/QuasiArrays.jl) : A package for representing quasi-arrays, viz. arrays with non-classical indexing, including possibly continuous indexing.
-- [RandomMatrices.jl](https://github.com/JuliaMath/RandomMatrices.jl) : Random Matrices.
+- [RandomMatrices.jl](https://github.com/JuliaMath/RandomMatrices.jl) : Random Matrices, extending the `Distributions` package to provide methods for working with matrix-valued random variables.
 - [RangeArrays.jl](https://github.com/JuliaArrays/RangeArrays.jl) : Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
 - [RecursiveArrayTools.jl](https://github.com/SciML/RecursiveArrayTools.jl) : Tools for easily handling nestings array objects like arrays of arrays.
-- [Rotations.jl](https://github.com/JuliaGeometry/Rotations.jl) :  Julia implementations for different rotation parameterisations.
 - [ShiftedArrays.jl](https://github.com/JuliaArrays/ShiftedArrays.jl) : Lazy shifted arrays implementation for data analysis in Julia.
 - [SpecialMatrices.jl](https://github.com/JuliaMatrices/SpecialMatrices.jl) : Julia package for working with special matrix types.
 - [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) : Statically sized arrays for Julia.
 - [StrideArrays.jl](https://github.com/chriselrod/StrideArrays.jl) : Library supporting the ArrayInterface.jl strided array interface.
-- [StructArrays.jl](https://github.com/piever/StructArrays.jl) : Efficient implementation of struct arrays `StructArray `.
+- [StructArrays.jl](https://github.com/JuliaArrays/StructArrays.jl) : Efficient implementation of struct arrays.
 - [SuffixArrays.jl](https://github.com/JuliaCollections/SuffixArrays.jl) : Native Julia suffix array implementation.
 - [ToeplitzMatrices.jl](https://github.com/JuliaMatrices/ToeplitzMatrices.jl) : Fast matrix multiplication and division for Toeplitz matrices in Julia.
 - [UniqueVectors.jl](https://github.com/garrison/UniqueVectors.jl) : Vectors of unique elements, with quick reverse lookups.
-- [Vec.jl](https://github.com/sisl/Vec.jl) : Provides 2D and 3D vector types for vector operations in Julia.
+- [Vec.jl](https://github.com/sisl/Vec.jl) : Provides 2D and 3D vector types for vector operations. All types are immutable and are subtypes of `StaticArrays`.
 - [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) : Library support for the [Woodbury matrix identity](http://en.wikipedia.org/wiki/Woodbury_matrix_identity).
 
 
@@ -203,15 +196,16 @@ See [Graph Theory](graph.md#graph-data-types) section.
 
 [📖 Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types)
 
-Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/51973)`.
+Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/51973)` for less boilerplate code in struct initialization.
 
+- [Accessors.jl](https://github.com/JuliaObjects/Accessors.jl) : updating immutable data simple. It is the successor of `Setfield.jl`.
 - [Bijections.jl](https://github.com/scheinerman/Bijections.jl) : Bijection datatype for Julia that blocks assigning the same value to two different keys.
 - [DispatchedTuples.jl](https://github.com/charleskawczynski/DispatchedTuples.jl): `Dispatched Tuples` are like immutable dictionaries (so, they're technically more like NamedTuples) except that the keys are instances of types. Also, because DispatchedTuples are backed by tuples, they are GPU-friendly.
 - [ExtractMacro.jl](https://github.com/carlobaldassi/ExtractMacro.jl) : Provides a convenience `@extract` macro to extract fields from composite types.
+- [NamedTupleTools.jl](https://github.com/JeffreySarnoff/NamedTupleTools.jl) : utilities for working with NamedTuples.
 - [Parameters.jl](https://github.com/mauro3/Parameters.jl) : Types with default field values, keyword constructors and (un-)pack macros.
 - [Setfield.jl](https://github.com/jw3126/Setfield.jl) : Update deeply nested immutable structs.
 - [SimpleTraits.jl](https://github.com/mauro3/SimpleTraits.jl) : Simple Traits for Julia
-- [SymDict.jl](https://github.com/JuliaCloud/SymDict.jl) : Dictionaries with Symbol keys. (No `Project.toml`)
 - [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) :  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 - [Unpack.jl](https://github.com/mauro3/UnPack.jl) : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable datatypes.
 
@@ -229,8 +223,11 @@ Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/519
 - 🏚️ [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) : source code and the interactive D3 visualization of a Julia type tree.
 - OrderedCollections.jl(404) : OrderedDict and OrderedSet for Julia.
 - 🏚️ [QuickStructs.jl](https://github.com/tbreloff/QuickStructs.jl) : Several data structures with goals of O(1) for important operations.
+- 🏚️ [SymDict.jl](https://github.com/JuliaCloud/SymDict.jl) : Convenience functions for dictionaries with Symbol keys. (No `Project.toml`). You can use `Dict(pairs(nt))` instead.
+
 
 ## Resources
 
-- Jeff Bezanson on [The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017.
+- [The State of the Type System | Jeff Bezanson](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017.
+- [The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski](https://youtu.be/kc9HwsxE1OY)  at JuliaCon 2019.
 - [A more thorough look at Julia's **double colon** syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)

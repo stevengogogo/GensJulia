@@ -136,12 +136,12 @@
 - [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl) : It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
 - [QHull.jl](https://github.com/JuliaPolyhedra/QHull.jl) : A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
 - [RayTraceEllipsoid.jl](https://github.com/JuliaGeometry/RayTraceEllipsoid.jl) : Ray trace ellipsoid-shaped domes i.e. finds intersection points and refract/reflect according to the refractive indices.
+- [Rotations.jl](https://github.com/JuliaGeometry/Rotations.jl) : Implementations for various 3D rotation parameterisations. 
 - [SignedDistanceFields.jl](https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation.
 - [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) : [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen&lang=1) wrapper.
 - [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) : Fast ray-triangle intersections for raytracing.
 - [VoronoiCells.jl](https://github.com/JuliaGeometry/VoronoiCells.jl) : Manipulate Voronoi cells in 2D.
 - [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) : Fast and robust Voronoi & Delaunay tessellation creation with Julia.
-
 
 - 🏚️ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) : Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
 - 🏚️ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) : Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).

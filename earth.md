@@ -52,15 +52,14 @@
 
 [📖 GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
 
-- [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) : A high level API for GDAL - Geospatial Data Abstraction Library.
-- [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) : Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library.
+- [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) : Thin Julia wrapper for [GDAL](http://gdal.org/) - Geospatial Data Abstraction Library. See also [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) for a high level API for `GDAL.jl`.
 - [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) : Work with points defined in various coordinate systems.
-- [GeographicLibPy.jl](https://github.com/kshramt/GeographicLibPy.jl) : Thin wrapper of geographiclib Python package.
+- [GeographicLibPy.jl](https://github.com/kshramt/GeographicLibPy.jl) : Thin wrapper of [geographiclib](https://pypi.python.org/pypi/geographiclib) Python package.
 - [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) : A Julia Protocol for Geospatial Data.
-- [GeoIP.jl](https://github.com/JuliaWeb/GeoIP.jl) : is a Julia package that can estimate the geographic location of IP addresses.
+- [GeoIP.jl](https://github.com/JuliaWeb/GeoIP.jl) : estimating the geographic location of IP addresses.
 - [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) : Utilities for working with GeoJSON data in Julia.
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) : An extensible framework for high-performance geostatistics in Julia.
-- [GMT.jl](https://github.com/joa-quim/GMT.jl) :Julia wrapper for the Generic Mapping Tools [GMT](https://github.com/GenericMappingTools/gmt).
+- [GMT.jl](https://github.com/joa-quim/GMT.jl) :Julia wrapper for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt)(GMT).
 - [OpenStreetMap.jl](https://github.com/tedsteiner/OpenStreetMap.jl) : The Julia OpenStreetMap package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
 - [OpenStreetMapPlotter.jl](https://github.com/juliusgeo/OpenStreetMapPlotter.jl) : Plotting focused library for OpenStreetMap data.
 - [OpenStreetMapX.jl](https://github.com/pszufe/OpenStreetMapX.jl) : OpenStreetMap support for Julia 1.0.

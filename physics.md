@@ -2,6 +2,11 @@
 
 > Physics simulations, Quantum physics
 
+**Organizations**
+- [Julia Energy](https://github.com/JuliaEnergy)
+- [QuantumBFS](https://github.com/QuantumBFS)
+- [Julia Dynamics](https://github.com/JuliaDynamics)
+
 ## Plasma Physics
 
 - [OrbitTomography.jl](https://github.com/lstagner/OrbitTomography.jl) : A Method for Determining the Population of Individual Fast-ion Orbits from Experimental Measurements.
@@ -36,11 +41,11 @@
 
 ## Medical Physics
 
-- 🏚️ [Xray.jl]https://github.com/ggggggggg/Xray.jl) : Julia interface for NIST x-ray database.
+- 🏚️ [Xray.jl](https://github.com/ggggggggg/Xray.jl) : Julia interface for NIST x-ray database.
 
 ## Quantum Mechanics
 
-- [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) : This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
+- [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) : This library allows for efficient calculation of [Clifford](http://en.wikipedia.org/wiki/Clifford_algebra) circuits by tracking the evolution of X and Z generators.
 - [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) : Fast multidimensional Walsh-Hadamard transforms.
 - [MERA.jl](https://github.com/mhauru/MERA.jl) : provides Julia implementations of some basic [Multiscale Entaglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
 - [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) : Data manipulation and analysis tools tailored for quantum computing experiments.
@@ -62,18 +67,11 @@
 - 🏚️ [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) : A naive and first try to implement a 2D Square Ising Model using Julia.
 
 
-## Complex Systems
+## Thermodynamics
 
-[Julia Dynamics](https://github.com/JuliaDynamics)
-
-- [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
-- [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) : A Julia software library for nonlinear dynamics and chaos. Composed of various sub-packages, `DynamicalSystemsBase`,  `ChaosTools` and `TimeseriesPrediction`.
-
-## [Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
+[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
 
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamic properties of moist air (real gas mixture).
-
-
 - 🏚️ [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl) : Thermodynamics table for critical values, heat capacity, etc..
 - 🏚️ [WaveToy.jl](https://github.com/eschnett/WaveToy.jl) : Julia WaveToy.
 
@@ -87,6 +85,7 @@
 - 🏚️ [JLab.jl](https://github.com/amyascwk/JLab.jl) : Some scripts used in MIT 8.13 Experimental Physics (Fall 2014).
 - 🏚️ [JuliaPower](https://github.com/prezaei85/JuliaPower) : A package of scripts in Julia to solve power flow and simulate cascading failures in power systems.
 - 🏚️ [JuliBoots](https://github.com/mfpaulos/JuliBoots) : Conformal bootstrap calculations.
+- 🏚️ [LHEF.jl](https://github.com/Keno/LHEF.jl) : Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
 - 🏚️ [Mass.jl](https://github.com/ggggggggg/Mass.jl) : An experimental frameworks for TES pulse analysis.
 - 🏚️ [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 - 🏚️ [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) : Dimensions and Quantities.

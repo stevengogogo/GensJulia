@@ -12,16 +12,16 @@
 - [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) : SerialPort IO streams in Julia.
 - [StructIO.jl](https://github.com/Keno/StructIO.jl) : Experimental new implementation of StrPack.jl-like functionality.
 - [ULID.jl](https://github.com/ararslan/ULID.jl) : Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
-
-
 - 🏚️ [MapD.jl](https://github.com/r3tex/MapD.jl) : A julia library for conveniently inserting data to MapD.
 
 ## Saving and loading Julia Objects
 
 Similar to `pickle` in Python.
 
+- [CBOR.jl](https://github.com/JuliaIO/CBOR.jl) : A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
 - [JLD.jl](https://github.com/JuliaIO/JLD.jl) : High-level interface to HDF5 for saving and loading Julia variables & types
 - [JLD2.jl](https://github.com/JuliaIO/JLD2.jl) : Next-generation successor to JLD.
+
 
 ## File Formats
 
@@ -56,7 +56,6 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - 🏚️ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) : Reading and writing Windows-style INI files.
 - 🏚️ [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) : Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions.
 - 🏚️ [MachO.jl](https://github.com/Keno/MachO.jl) : An implementation of the MachO file format.
-- 🏚️ [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) : Tools for working with the MNIST data set.
 - 🏚️ [NetCDF.jl](https://github.com/meggart/NetCDF.jl) : NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
 - 🏚️ [NeuralynxNCS.jl](https://github.com/simonster/NeuralynxNCS.jl) : A Julia module for reading Neuralynx NCS files.
 - 🏚️ [ObjFileBase.jl](https://github.com/Keno/ObjFileBase.jl) : Common functionality for Object Files.

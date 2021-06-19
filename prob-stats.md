@@ -157,7 +157,7 @@
 - [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) : Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) : Basic statistics.
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : TopicModels for Julia.
-
+- [TSne.jl](https://github.com/lejon/TSne.jl) : Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique.
 
 - 🏚️ [CTDE.jl](https://github.com/adolgert/CTDE.jl) : Continuous time, discrete event system in Julia.
 - 🏚️ [DirichletProcessMixtures.jl](https://github.com/sbos/DirichletProcessMixtures.jl) : This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
