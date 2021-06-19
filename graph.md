@@ -1,8 +1,6 @@
 # Graph Theory
 
-> General graph data structures, algorithms
-
-[Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+> General graph data structures, algorithms [Wikipedia | Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 **Organizations**
 - [Julia Graphs](https://github.com/JuliaGraphs)

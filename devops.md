@@ -51,12 +51,16 @@
 
 ### Prebuilt Binaries
 
-See [Julia Packaging](https://github.com/JuliaPackaging) team. The binary repository is called [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil).
+See [Julia Packaging](https://github.com/JuliaPackaging) team. The binary repository is called [Yggdrasil][].
 
 - [BinaryBuilder.jl](https://github.com/JuliaPackaging/BinaryBuilder.jl) : Binary Dependency Builder for Julia.
 - [BinaryProvider.jl](https://github.com/JuliaPackaging/BinaryProvider.jl) : A reliable binary provider for Julia.
 - [BinDeps.jl](https://github.com/JuliaLang/BinDeps.jl) : Tool for building binary dependencies for Julia modules.
 - [Conda.jl](https://github.com/Luthaf/Conda.jl) : Conda managing Julia binary dependencies. e.g. for `IJulia.jl` and `PyPlot.jl`.
+- [RunBinary.jl](https://gitlab.com/aplavin/RunBinary.jl) : running binaries from the [Yggdrasil][] repo.
+
+
+[Yggdrasil]: https://github.com/JuliaPackaging/Yggdrasil
 
 ### Build Julia Executables
 

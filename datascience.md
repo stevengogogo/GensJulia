@@ -47,11 +47,13 @@
 - [Mongoc.jl](https://github.com/felipenoris/Mongoc.jl) : MongoDB bindings (newer) and a wrapper around libbson, for the Julia language.
 - [Redis.jl](https://github.com/JuliaDatabases/Redis.jl) : A fully-featured Redis client for the Julia programming language.
 
+
 ## Relational Database Management Systems and SQL
 
 - [LibPQ.jl](https://github.com/invenia/LibPQ.jl) : A Julia wrapper for the PostgreSQL libpq C library.
 - [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) : Julia bindings and helper functions for MariaDB/MySQL C library.
 - [Octo.jl](https://github.com/wookay/Octo.jl) : an SQL Query DSL in Julia.
+- [SparkSQL.jl](https://github.com/propelledanalytics/SparkSQL.jl) : working with Apache Spark data using just SQL.
 - [SQLite.jl](https://github.com/JuliaDatabases/SQLite.jl) : Julia interface to the SQLite library with support for operations on DataFrames.
 - [SQLStrings.jl](https://github.com/JuliaComputing/SQLStrings.jl) : It provides the @sql_cmd macro to allow SQL query strings to be constructed by normal-looking string interpolation but without risking SQL formatting errors or SQL injection attacks on your application.
 
@@ -90,6 +92,7 @@
 - [DataFramesMeta.jl](https://github.com/JuliaStats/DataFramesMeta.jl) : Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
 - [IndexedTables.jl](https://github.com/JuliaData/IndexedTables.jl) : Tabular data structures where some of the columns form a sorted index.
 - [Pandas.jl](https://github.com/JuliaPy/Pandas.jl) : A Julia front-end to Python's Pandas package
+- [DFMacros.jl](https://github.com/jkrumbiegel/DFMacros.jl) : an opinionated take on DataFrame manipulation in Julia with a syntax geared towards clarity, brevity and convenience.
 
 
 - 🏚️ [StructuredQueries.jl](https://github.com/davidagold/StructuredQueries.jl) : Data manipulation facilities for Julia.

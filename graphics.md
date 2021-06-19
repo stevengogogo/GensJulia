@@ -58,12 +58,13 @@
 
 ### Image Processing
 
+- [ImageClipboard.jl](https://github.com/hyrodium/ImageClipboard.jl) : Copy & Paste images with Julia.
 - [ImageProjectiveGeometry.jl](https://github.com/peterkovesi/ImageProjectiveGeometry.jl) : Projective geometry for computer vision in Julia.
 - [ImageQuilting.jl](https://github.com/JuliaEarth/ImageQuilting.jl) : Image quilting for texture synthesis in Julia .
 - [Images.jl](https://github.com/JuliaImages/Images.jl) : An image library for Julia.
-- [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) : IO for Meshes.
 - [ImageSegmentation.jl](https://github.com/JuliaImages/ImageSegmentation.jl) : Partitioning images into meaningful regions.
 - [ImageView.jl](https://github.com/JuliaImages/ImageView.jl) : Interactive display of images and movies.
+- [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) : IO for Meshes.
 - [RegisterQD.jl](https://github.com/HolyLab/RegisterQD.jl) : It performs image registration using the global optimization routine [QuadDIRECT](https://github.com/timholy/QuadDIRECT.jl). Unlike many other registration packages, this is not "greedy" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images.
 - [SubpixelRegistration.jl](https://github.com/romainFr/SubpixelRegistration.jl) : Efficient subpixel image registration algorithm implementation that allows you to register arrays of arbitrary dimensions (not just 2d). Functions are written for AbstractArrays and should work for Images.
 - [TestImages.jl](https://github.com/JuliaImages/TestImages.jl) : Loading standard test images into Julia.
@@ -75,18 +76,13 @@
 
 [Introduction to Julia OpenCV Binding](https://docs.opencv.org/master/d8/da4/tutorial_julia.html)
 
-- 🏚️ [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) : The OpenCV (C++) interface for Julia.
-- 🏚️ [CVCore.jl](https://github.com/JuliaOpenCV/CVCore.jl) : OpenCV core functionality.
-- 🏚️ [CVHighGUI.jl](https://github.com/JuliaOpenCV/CVHighGUI.jl) : OpenCV high-level GUI.
-- 🏚️ [CVImgCodecs.jl](https://github.com/JuliaOpenCV/CVImgCodecs.jl) : Image file reading and writing
-- 🏚️ [CVImgProc.jl](https://github.com/JuliaOpenCV/CVImgProc.jl) : Image processing
-- 🏚️ [CVVideoIO.jl](https://github.com/JuliaOpenCV/CVVideoIO.jl) : Media I/O.
-- 🏚️ [OCV.jl](https://github.com/Keno/OCV.jl) : A wrapper for OpenCV.
+- 🏚️ [OpenCV.jl](https://github.com/JuliaOpenCV/OpenCV.jl) : The OpenCV (C++) interface for Julia.
+
 
 ### OpenGL and Vulkan API
 
 - [MeshCat.jl][] : Julia bindings to the MeshCat WebGL viewer.
-- [ModernGL.jl](https://github.com/JuliaGL/ModernGL.jl) : OpenGL 3- bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
+- [ModernGL.jl](https://github.com/JuliaGL/ModernGL.jl) : OpenGL 3+ bindings for Julia.
 - [Videre](https://github.com/Gnimuc/Videre) : OpenGL/Vulkan examples written in Julia.
 - [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) : Wrapper of Vulkan, Khronos next generation OpenGL API.
 

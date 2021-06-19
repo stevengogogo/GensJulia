@@ -4,7 +4,7 @@
 
 - [FilePaths.jl](https://github.com/Rory-Finnegan/FilePaths.jl) :  A type based approach to working with filesystem paths in julia.
 - [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.
-
+- [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
 
 - 🏚️ [Events.jl](https://github.com/SimonDanisch/Events.jl) : Simple Event system.
 - 🏚️ [Graze.jl](https://github.com/iamed2/Graze.jl) : A feed reader.
