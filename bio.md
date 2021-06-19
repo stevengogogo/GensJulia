@@ -102,12 +102,14 @@ Evolution trees deduced from biosequences.
 ## Metabolic networks
 
 - [COBRA.jl](https://github.com/opencobra/COBRA.jl) : COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`.
+- [COBREXA.jl](https://github.com/LCSB-BioCore/COBREXA.jl) : constraint-based reconstruction and analysis tools for exa-scale metabolic models in Julia. It uses [JuMP.jl](https://github.com/jump-dev/JuMP.jl) to formulate optimization problems.
+
 
 ## Healthcare
 
 [📖 Biomedicine](https://en.wikipedia.org/wiki/Category:Biomedicine)
 
-- [DICOM](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files.
+- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files.
 - [openBF](https://github.com/INSIGNEO/openBF) : A finite-volume solver for elastic arterial blood flow networks.
 
 ## BioStatistics
