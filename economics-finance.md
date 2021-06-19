@@ -1,6 +1,6 @@
 # Economics and Finance
 
-Economics and Finance are also called [📖 Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)
+Economics and Finance are part of [📖 Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)
 
 - [Quantitative economic modelling](https://quantecon.org) lecture series in Julia language, designed and written by Thomas J. Sargent and John Stachurski.
 - [Julia Quant](https://github.com/JuliaQuant) organization.
