@@ -25,6 +25,8 @@
 - [NLreg.jl](https://github.com/dmbates/NLreg.jl) : Nonlinear regression in Julia.
 - [Tau.jl](https://github.com/JuliaMath/Tau.jl) : A simple module providing definition of the Tau constant = 2pi.
 - [TSne.jl](https://github.com/lejon/TSne.jl) : Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique.
+- [Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) : a unified interface to define and use manifolds as well as a library of manifolds to use for your projects.
+
 
 - 🏚️ [ApApproximation.jl](https://github.com/dprn/ApApproximation.jl) : Implementation of the almost-periodic approximation.
 - 🏚️ [Cartesian.jl](https://github.com/timholy/Cartesian.jl) : Fast multidimensional algorithms. Now in Julia `Base`.

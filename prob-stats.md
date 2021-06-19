@@ -76,9 +76,9 @@
 
 [Multivariate](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
 
-- [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) : A Julia package for modeling and fitting generalized low rank models.
-- [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) : A Julia package for manifold learning and non-linear dimensionality reduction.
-- [MultivariateStats.jl](https://github.com/JuliaStats/MultivariateStats.jl) : A Julia package for multivariate data analysis (e.g. dimension reduction).
+- [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) : modeling and fitting generalized low rank models.
+- [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) : manifold learning and non-linear dimensionality reduction.
+- [MultivariateStats.jl](https://github.com/JuliaStats/MultivariateStats.jl) : multivariate data analysis (e.g. dimension reduction).
 
 ## Geostatistics
 
