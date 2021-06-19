@@ -38,9 +38,11 @@
 - [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
 - [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) : Sum-Product Networks (deep probabilistic networks) package in Julia.
 - [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) : Julia tools for feeding tabular data into machine learning.
+- [TopoChains.jl](https://github.com/irhum/TopoChains.jl) : A flexible data structure for multi-input multi-output models.
 - [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) : Truncated singular value decomposition with partial reorthogonalization.
 - [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) : Utilities to efficiently track learning curves or other optimization information.
 - [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : XGBoost Julia Package.
+
 
 - 🏗️ [SpectralClustering.jl](https://github.com/lucianolorenti/SpectralClustering.jl) : Spectral clustering algorithms written in Julia.
 - 🏗️ [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) : Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.
