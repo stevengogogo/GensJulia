@@ -18,9 +18,9 @@
 > - [Documentation](https://pkgdocs.julialang.org/v1/) of package manager for Julia.
 
 
-- [Cite.jl](https://github.com/SebastianM-C/Cite.jl) : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
 - [Kip.jl](https://github.com/jkroso/Kip.jl) : An Python-like, alternative module system for Julia.
+- [PkgCite.jl](https://github.com/SebastianM-C/PkgCite.jl) : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
 - [PkgSkeleton.jl][] : Generate Julia package skeletons using a simple template system.
 - [PkgTemplates.jl][] : Create new Julia packages, the easy way. Include templaye files for GitHub / GitLab CI.
 - [PkgUtils.jl](https://github.com/arnavs/PkgUtils.jl) by @arnavs : Some small utilities to help with Julia packages
