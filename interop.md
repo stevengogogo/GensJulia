@@ -20,7 +20,7 @@
 
 ## C
 
-A [native c interface](https://docs.julialang.org/en/v1/manual/calling-c-and-fortran-code/) is available.
+A built-in [native c interface](https://docs.julialang.org/en/v1/manual/calling-c-and-fortran-code/) is available.
 
 - [Clang.jl](https://github.com/JuliaInterop/Clang.jl) : A Julia language wrapper for libclang: the stable, C-exported interface to the LLVM Clang compiler.
 
@@ -69,8 +69,10 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ## MATLAB
 
-Also see [matlab-to-julia](https://lakras.github.io/matlab-to-julia/) online translator.
+**See also**
+[matlab-to-julia](https://lakras.github.io/matlab-to-julia/) online translator.
 
+**Packages**
 - [MAT.jl](https://github.com/JuliaIO/MAT.jl) : A Julia module for reading MATLAB files.
 - [MATLAB.jl](https://github.com/lindahua/MATLAB.jl) : an interface for using MATLAB® from Julia using the MATLAB C api.
 

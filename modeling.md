@@ -56,10 +56,11 @@ Organizations:
 
 ## Finite element method
 
-[📖 Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
+**See also**
+- [📖 Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
+- [Graphic | Geometry](/graphics?id=geometry) section.
 
-See also [Graphic | Geometry](/graphics?id=geometry) section.
-
+**Packages**
 - [FEMBasis.jl](https://github.com/JuliaFEM/FEMBasis.jl) : Package contains interpolation routines for standard finite element function spaces.
 - [FinEtools.jl](https://github.com/PetrKryslUCSD/FinEtools.jl) : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
 - [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) : Finite Element method solver.
@@ -92,6 +93,8 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 - [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
+- 🏚️ [NetLogo.jl](https://github.com/nicolaspayette/NetLogo.jl) : controlling [NetLogo](http://ccl.northwestern.edu/netlogo/) from Julia.
+
 
 ## Network modeling
 
@@ -99,14 +102,16 @@ See also [Graphic | Geometry](/graphics?id=geometry) section.
 - [NetworkDynamics.jl](https://github.com/PIK-ICoNe/NetworkDynamics.jl) : A package for working with dynamical systems on complex networks. NetworkDynamics.jl provides an interface between [LightGraphs.jl][] and [DifferentialEquations.jl][].
 
 
-## Other frameworks
+## Integrated Assessment Modeling Framework
 
 - [Mimi.jl](https://github.com/mimiframework/Mimi.jl) : [Integrated Assessment Modeling Framework](https://en.wikipedia.org/wiki/Integrated_assessment_modelling).
 - [OptiMimi.jl](https://github.com/jrising/OptiMimi.jl) : Optimization for the `Mimi.jl` modeling framework.
 
+
 ## Utilities
 
 - [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) : a Julia package created to help people "deal" with their simulations, simulation parameters.
+- [SimulationLogger.jl](https://github.com/JinraeKim/SimulationLogger.jl) : providing convenient logging tools for [DifferentialEquations.jl][].
 
 
 [LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl

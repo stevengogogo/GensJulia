@@ -2,7 +2,6 @@
 
 ## General Utilities
 
-- [FilePaths.jl](https://github.com/Rory-Finnegan/FilePaths.jl) :  A type based approach to working with filesystem paths in julia.
 - [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.
 - [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
 
@@ -11,19 +10,6 @@
 - 🏚️ [Humanize.jl](https://github.com/IainNZ/Humanize.jl) : Humanize numbers, based on the Python package [humanize](https://github.com/jmoiron/humanize) by @jmoiron. (No `Project.toml`)
 - 🏚️ [Osmosis.jl](https://github.com/SimonDanisch/Osmosis.jl) : Chat client for Julia.
 - 🏚️ [Utils.jl](https://github.com/SimonDanisch/Utils.jl) : Some utility functions by @SimonDanisch.
-
-## File Compression
-
-- [Blosc.jl](https://github.com/JuliaIO/Blosc.jl) : The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
-- [GZip.jl](https://github.com/JuliaIO/GZip.jl) : A Julia interface for gzip functions in zlib.
-- [InfoZIP.jl](https://github.com/samoconnor/InfoZIP.jl) : ZIP Archive Interface. Wrapper for Info-ZIP (and ZipFile.jl).
-- [Libz.jl](https://github.com/BioJulia/Libz.jl) : Yet another zlib interface for Julia.
-- [ZipFile.jl](https://github.com/fhs/ZipFile.jl) : Read/Write ZIP archives in Julia.
-
-
-- 🏚️ [gzip.jl](https://github.com/jvns/gzip.jl) : GunZip in Julia.
-- 🏚️ [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) : A Julia wrapper for the snappy library - a compression/decompression library focusing on speed. (No `Project.toml`)
-- 🏚️ [Zlib.jl](https://github.com/dcjones/Zlib.jl) : Zlib bindings for Julia.
 
 
 ## Microsoft Windows
@@ -47,8 +33,7 @@
 - [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) : Package for parsing command-line arguments to Julia programs.
 - [Comonicon.jl](https://github.com/Roger-luo/Comonicon.jl) : command line interfaces.
 - [DocOpt.jl](https://github.com/docopt/DocOpt.jl) : generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
-- [FTPClient.jl](https://github.com/invenia/FTPClient.jl) : Julia FTP client using LibCURL.jl.
-- [LibArchive.jl](https://github.com/yuyichao/LibArchive.jl) : Wrapper for [libarchive](http://www.libarchive.org/).
+- [FTPClient.jl](https://github.com/invenia/FTPClient.jl) : Julia FTP client using `LibCURL.jl`.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) : Syntax highlighting and other enhancements for the Julia REPL.
 - [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) : Progress meter for long-running computations.
 - [REPLMods.jl](https://github.com/spencerlyon2/REPLMods.jl) : Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
@@ -73,9 +58,10 @@
 
 ## Benchmarking and profiling
 
+**Resources**
 - [Julia Microbenchmarks against other programming languages](https://julialang.org/benchmarks/)
 
-
+**Packages**
 - [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
 - [ConicBenchmarkUtilities.jl](https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl) : Julia utilities for the conic benchmark format for mathematical optimization.
 - [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) : A module for CPU timing.
@@ -104,7 +90,7 @@
 - [Clang.jl](https://github.com/ihnorton/Clang.jl) : Julia interface to libclang and C wrapper generator.
 - [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) : A resurrected LLVM C Backend, with improvements for Julia.
 - [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) : Compile your Julia Package.
-
+- [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl) : Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
 
 - 🏚️ [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) : A Julia package for reading compiler options.
 - 🏚️ [CompilerTools.jl](https://github.com/IntelLabs/CompilerTools.jl) : The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
@@ -113,7 +99,3 @@
 - 🏚️ [julia-icc-travis](https://github.com/sunoru/julia-icc-travis) : Build Julia using icc on the Travis CI.
 - 🏚️ [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) : A Julia package for LLVM.
 - 🏚️ [ParallelAccelerator.jl](https://github.com/IntelLabs/ParallelAccelerator.jl) : The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
-
-### Preprocessor
-
-- [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl) : Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.

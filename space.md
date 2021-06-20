@@ -2,7 +2,8 @@
 
 > Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.
 
-- [Julia space](https://github.com/JuliaSpace)
+**Organizations**
+- [Julia Space](https://github.com/JuliaSpace)
 - [Julia Astro](https://github.com/juliaastro)
 
 ## Aeronautics
@@ -12,6 +13,7 @@
 
 ## Astronomy
 
+**Packages**
 - [Astro.jl](https://github.com/cormullion/Astro.jl) : Jan Meeus astronomical formulas and some time/date code in Julia.
 - [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) : An astrodynamics library in Julia.
 - [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl) : Plots.jl and Images.jl integration of Astronomical Images for Julia.

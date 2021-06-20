@@ -65,7 +65,7 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 ## Grammatical Evolution
 
 - 🏚️ [Evolution.jl](https://github.com/xenon-/Evolution.jl) : Evolutionary Computation in Julia.
-- 🏚️ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) : An evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
+- 🏚️ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) : An evolutionary technique that is similar to Genetic Programming (GP).
 
 ## Interpreters
 
@@ -123,19 +123,16 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Polymorphism amd multiple dispatch
 
-[📖 Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science)) and [Holy Traits pattern](https://ahsmart.com/pub/holy-traits-design-patterns-and-best-practice-book.html).
+**Resources**
+- [📖 Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science)) and [Holy Traits pattern](https://ahsmart.com/pub/holy-traits-design-patterns-and-best-practice-book.html).
+- [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
+- [JuliaCon 2019 | The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski](https://youtu.be/kc9HwsxE1OY)
 
-
-
+**Packages**
 - [BinaryTraits.jl](https://github.com/tk3369/BinaryTraits.jl) : easy-to-use trait library with formal interface specification support.
 - [SimpleTraits.jl](https://github.com/mauro3/SimpleTraits.jl) : Simple Traits for Julia.
 - [WhereTraits.jl](https://github.com/schlichtanders/WhereTraits.jl) : This package exports one powerful macro @traits with which you can extend Julia's where syntax.
 - 🏚️ [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) : Support for method dispatch in Julia based on pattern matching.
-
-### Resources
-
-- [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
-- [JuliaCon 2019 | The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski](https://youtu.be/kc9HwsxE1OY)
 
 ## Static analysis
 

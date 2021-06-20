@@ -23,7 +23,7 @@
 
 ### Markovian
 
-[Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
+[📖 Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 
 - [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) : A Julia framework for solving Markov decision processes.
 - [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) : Support tools for solving `POMDPs`.
@@ -45,7 +45,7 @@
 
 ## Statistic Regression analysis
 
-[Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
+[📖 Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 
 - [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) : Simple least squares and curve fitting functions.
 - [FixedEffectModels.jl](https://github.com/FixedEffects/FixedEffectModels.jl) : Fast estimation of linear models with IV and high dimensional categorical variables.
@@ -66,7 +66,7 @@
 
 ## Density estimation
 
-[Density_estimation](https://en.wikipedia.org/wiki/Density_estimation)
+[📖 Density_estimation](https://en.wikipedia.org/wiki/Density_estimation)
 
 - [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram density estimation.
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) : Kernel density estimators for continuous variables.
@@ -74,7 +74,7 @@
 
 ## Multivariate
 
-[Multivariate](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
+[📖 Multivariate statistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
 
 - [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) : modeling and fitting generalized low rank models.
 - [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) : manifold learning and non-linear dimensionality reduction.
@@ -82,7 +82,7 @@
 
 ## Geostatistics
 
-[Geostatistics](https://en.wikipedia.org/wiki/Geostatistics)
+[📖 Geostatistics](https://en.wikipedia.org/wiki/Geostatistics)
 
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) : High-performance geostatistical algorithms in Julia.
 - [GeoStatsImages.jl](https://github.com/JuliaEarth/GeoStatsImages.jl) : Training images for geostastical simulation.
@@ -90,7 +90,7 @@
 
 ## Time series
 
-[Time series](https://en.wikipedia.org/wiki/Time_series)
+[📖 Time series](https://en.wikipedia.org/wiki/Time_series)
 
 - [BasisFunctionExpansions.jl](https://github.com/baggepinnen/BasisFunctionExpansions.jl) : Basis Function Expansions for Julia.
 - [ControlSystemIdentification.jl](https://github.com/baggepinnen/ControlSystemIdentification.jl) : System Identification for LTI systems, compatible with `ControlSystems.jl`.
@@ -108,15 +108,15 @@
 
 ## Compositional Data Analysis
 
-[Compositional Data Analysis](https://en.wikipedia.org/wiki/Compositional_data)
+[📖 Compositional Data Analysis](https://en.wikipedia.org/wiki/Compositional_data)
 
-- [CoDa.jl](https://github.com/JuliaEarth/CoDa.jl) : Compositional Data Analysis in Julia
+- [CoDa.jl](https://github.com/JuliaEarth/CoDa.jl) : Compositional Data Analysis in Julia. Inspired by R [compositions](https://cran.r-project.org/web/packages/compositions/index.html) package.
 
 ## Extreme value theory
 
 [Extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory)
 
-- [ExtremeStats.jl](https://github.com/JuliaEarth/ExtremeStats.jl) : Extreme Value Statistics in Julia.
+- [ExtremeStats.jl](https://github.com/JuliaEarth/ExtremeStats.jl) : analysing and estimating extreme value distributions.
 
 ## Causal
 
@@ -124,7 +124,8 @@
 
 ## Sampling
 
-- [Bootstrap.jl](https://github.com/julian-gehring/Bootstrap.jl) : Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
+- [Bootstrap.jl](https://github.com/juliangehring/Bootstrap.jl) : Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
+- [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) : Probability distributions in Julia.
 - [GeneralizedSampling.jl](https://github.com/robertdj/GeneralizedSampling.jl) : Generalized Sampling in Julia.
 - [Jackknife.jl](https://github.com/ararslan/Jackknife.jl) : Jackknife resampling and estimation in Julia.
 - [Jags.jl](https://github.com/JagsJulia/Jags.jl) : Julia package for using Just another Gibbs sampler.
@@ -147,22 +148,22 @@
 - [CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl) : Covariance Matrix Estimation in Julia.
 - [DiscriminantAnalysis.jl](https://github.com/trthatcher/DiscriminantAnalysis.jl) : A package for linear and quadratic regularized Discriminant Analysis.
 - [Distances.jl](https://github.com/JuliaStats/Distances.jl) :  A Julia package for evaluating distances(metrics) between vectors.
-- [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) : Probability distributions in Julia.
 - [Divergences.jl](https://github.com/gragusa/Divergences.jl) : A Julia package for evaluating divergences.
 - [FeldtLib.jl](https://github.com/robertfeldt/FeldtLib.jl) : Misc julia code that have not yet found its home in a package...
 - [FreqTables.jl](https://github.com/nalimilan/FreqTables.jl) : Frequency tables.
 - [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) : Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
-- [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) : Port-Hamiltonian systems in Julia. (No `Project.toml`)
 - [RankAggregation.jl](https://github.com/JuliaEarth/RankAggregation.jl) : Rank aggregation in Julia.
 - [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) : Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) : Basic statistics.
-- [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : TopicModels for Julia.
-- [TSne.jl](https://github.com/lejon/TSne.jl) : Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique.
+- [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : Topic Models are Bayesian, hierarchical mixture models of discrete data.
+- [TSne.jl](https://github.com/lejon/TSne.jl) : [T-SNE visualisation technique](https://lvdmaaten.github.io/tsne/).
+
 
 - 🏚️ [CTDE.jl](https://github.com/adolgert/CTDE.jl) : Continuous time, discrete event system in Julia.
 - 🏚️ [DirichletProcessMixtures.jl](https://github.com/sbos/DirichletProcessMixtures.jl) : This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
 - 🏚️ [FactorModels.jl](https://github.com/joidegn/FactorModels.jl) : Factor models or diffusion index models.
 - 🏚️ [JointMoments.jl](https://github.com/tensorjack/JointMoments.jl) : Tensors and statistics for joint central moments.
 - 🏚️ [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) : A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
+- 🏚️ [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) : Port-Hamiltonian systems in Julia. (No `Project.toml`)
 - 🏚️ [PowerLaws.jl](https://github.com/johnybx/PowerLaws.jl) : A Julia package for power laws distributions.
 - 🏚️ [PValueAdjust.jl](https://github.com/dirkschumacher/PValueAdjust.jl) : P-value adjustment methods for multiple testing correction.

@@ -2,10 +2,15 @@
 
 > Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
-- [Julia Plots](https://github.com/JuliaPlots)
+**Resources**
+- [Julia Plots](https://github.com/JuliaPlots) organization.
+- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial Plots.jl Gallery inspired by MATLAB Plot Gallery.
+- [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
+- Drawing [2.7 billion points (22gb) in 10 seconds](https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer.
+- Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
 
-## Packages
 
+**Packages**
 - [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl) : Parametric analysis/visualization and continuous function interpolation.
 - [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl) : Generate simple plots as ASCII art in Julia
 - [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram  (ASH) density estimation.
@@ -89,10 +94,3 @@
 - 🏚️ [VTK.jl](https://github.com/timholy/VTK.jl) : VTK bindings for the Julia language.
 - 🏚️ [Wavelets.jl](https://github.com/tomaskrehlik/Wavelets.jl), by tomaskrehlik : Implementation of Wavelet methods in Julia.
 - 🏚️ [YT.jl](https://github.com/jzuhone/YT.jl) : A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
-
-## Examples and Galleries
-
-- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial Plots.jl Gallery inspired by MATLAB Plot Gallery.
-- [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
-- Drawing [2.7 billion points (22gb) in 10 seconds](https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer.
-- Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
