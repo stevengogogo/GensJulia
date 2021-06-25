@@ -29,7 +29,6 @@
 - [ParticleFilters.jl](https://github.com/JuliaPOMDP/ParticleFilters.jl) : Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
 - [PredictMD.jl](https://github.com/bcbi/PredictMD.jl) : Uniform interface for machine learning in Julia.
 - [PrivateMultiplicativeWeights.jl](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) : Differentially private synthetic data.
-- [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
 - [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) : Sum-Product Networks (deep probabilistic networks) package in Julia.
 - [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) : Julia tools for feeding tabular data into machine learning.
 - [TopoChains.jl](https://github.com/irhum/TopoChains.jl) : A flexible data structure for multi-input multi-output models.
@@ -89,11 +88,9 @@
 - 🏚️ [SimpleML.jl](https://github.com/aviks/SimpleML.jl) : Textbook implementations of some Machine Learning Algorithms in Julia.
 - 🏚️ [SimpleNets](https://github.com/rgehring/SimpleNets) : Simple neural nets implementions in Julia.
 - 🏚️ [SoftConfidenceWeighted.jl](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl) : Exact Soft Confidence-Weighted Learning.
-- 🏚️ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) : A spiking neural network simulator written in Julia.
 - 🏚️ [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) : A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
 - 🏚️ [Strada.jl](https://github.com/pcmoritz/Strada.jl) : A deep learning library for Julia based on Caffe.
 - 🏚️ [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) : Loader of svmlight / liblinear format files.
-
 
 ### Julia interface for external libraries
 
@@ -111,6 +108,15 @@
 - 🏚️ [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) @ tuzzeg : Liblinear binding to Julia.
 - 🏚️ [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) : A Julia wrapper for TensorFlow, the open source machine learning framework from Google.
 - 🏚️ [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) : Tools for working with the MNIST data set.
+
+### Spiking neural network
+
+[📖 Spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
+
+- [SpikeSynchrony.jl](https://github.com/Datseris/SpikeSynchrony.jl) : Measuring distances, synchrony and correlation between spike trains.
+- [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
+- [WaspNet.jl](https://github.com/leaflabs/WaspNet.jl) : fixed-time-step simulations of primarily spiking neural networks (SNNs).
+- 🏚️ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) : A spiking neural network simulator written in Julia.
 
 ### Resources
 
