@@ -48,7 +48,7 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 - [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) : lisp-like language in julia.
 - [Monads.jl](https://github.com/pao/Monads.jl) : Monadic expressions and sequences for Julia. [hSee the doc](https://monadsjl.readthedocs.org/).
 - [Pipe.jl](https://github.com/oxinabox/Pipe.jl) : Improved function piping in Julia.
-
+- [MLStyle.jl](https://github.com/thautwarm/MLStyle.jl) : providing multiple productivity tools from ML (Meta Language) like pattern matching `@match`.
 
 - 🏚️ [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) : A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 - 🏚️ [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) : Functional Julia – based on fogus/lemonad.
