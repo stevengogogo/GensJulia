@@ -324,7 +324,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Functions
 
-[Wikiepedia | Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
+[📖 Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
 
 > Evaluation and approximations of functions
 
@@ -339,13 +339,15 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Calculus
 
+**Packages**
 - [Calculus.jl](https://github.com/JuliaMath/Calculus.jl) : Calculus package.
 - [ChainRules.jl](https://github.com/JuliaDiff/ChainRules.jl) : forward and reverse mode automatic differentiation primitives.
 - [Cuba.jl](https://github.com/giordano/Cuba.jl) : Library for multidimensional numerical integration with the [Cuba library](http://www.feynarts.de/cuba/).
 - [Cubature.jl](https://github.com/JuliaMath/Cubature.jl) : One- and multi-dimensional adaptive integration routines for the Julia language.
 - [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) : Julia package for representing dual numbers and for performing dual algebra.
 - [FastGaussQuadrature.jl](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) : Computes Gauss quadrature rules to 16-digit precision (so far Legendre, Jacobi, Lobatto, Radau).
-- [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) : High accuracy derivatives, estimated via numerical finite differences.
+- [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) : estimating derivatives with [finite differences](https://en.wikipedia.org/wiki/Finite_difference).
+- [FiniteDiff.jl](https://github.com/JuliaDiff/FiniteDiff.jl) : Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support.
 - [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) : Forward Mode Automatic Differentiation for Julia.
 - [HCubature.jl](https://github.com/JuliaMath/HCubature.jl) : Pure-Julia multidimensional h-adaptive integration.
 - [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) : Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
@@ -354,6 +356,8 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [RiemannComplexNumbers.jl](https://github.com/scheinerman/RiemannComplexNumbers.jl) : The RiemannComplexNumbers module is an alternative Complex type for Julia (with a single complex infinity value).
 - [Roots.jl](https://github.com/JuliaMath/Roots.jl) : Root finding functions for Julia.
 - [TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) : A julia package for Taylor expansions in one independent variable.
+- [Yota.jl](https://github.com/dfdx/Yota.jl) : Reverse-mode automatic differentiation for static and dynamic graphs.
+
 
 
 - 🏚️ [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) : Accurate summation (Yuhang Zhao's iFastSum).
@@ -366,8 +370,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - 🏚️ [ReverseDiffTape.jl](https://github.com/fqiang/ReverseDiffTape.jl) : A Julia package for reverse mode differentiation on a tape.
 
 
-### Resources about calculus
-
+**Resources**
 - [Riemann Hypothesis book](http://wstein.org/rh/) with the [source code on github](https://github.com/williamstein/rh).
 - [Calculus With Julia](https://github.com/CalculusWithJulia/CalculusWithJulia.github.io) : Introductory Calculus with the Julia Programming Language.
 - An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97).
