@@ -68,9 +68,10 @@
 
 [📖 Density_estimation](https://en.wikipedia.org/wiki/Density_estimation)
 
-- [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram density estimation.
+- [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram (ASH) density estimation.
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) : Kernel density estimators for continuous variables.
-- [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) : A Julia package for nonparametric density estimation. (No `Project.toml`)
+- [MultiKDE.jl](https://github.com/noil-reed/MultiKDE.jl) : Multivariate kernel density estimation.
+- 🏚️ [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) : A Julia package for nonparametric density estimation. (No `Project.toml`)
 
 ## Multivariate
 
