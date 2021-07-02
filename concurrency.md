@@ -49,8 +49,6 @@
 
 - [KissThreading.jl](https://github.com/bkamins/KissThreading.jl) : Simple patterns supporting working with threads in Julia.
 - [ThreadsX.jl](https://github.com/tkf/ThreadsX.jl) : Parallelized Base functions.
-
-
 - 🏚️ [RawMutex.jl](https://github.com/vchuravy/RawMutex.jl) : A __MUT__ual __EX__clusion program object in Julia that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
 - 🏚️ [MT-Workloads](https://github.com/ranjanan/MT-Workloads) : Multi-threaded workloads in Julia.
 
@@ -109,11 +107,18 @@
 
 [📖 GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 
+**Resources**
+- Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
+- Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
+- Blog post on [High-Performance GPU Computing](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
+
+
 **Packages**
 - [CVortex.jl](https://github.com/hjabird/CVortex.jl) : Julia wrapper [cvortex](https://github.com/hjabird/cvortex), GPU accelerated vortex filament and vortex particle methods.
 - [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) : Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl
 - [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) : This package wraps key functions in CUDA Driver API.
 - [FoldsCUDA.jl](https://github.com/JuliaFolds/FoldsCUDA.jl): provides Transducers.jl-compatible fold (reduce) implemented using CUDA.jl. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
+
 
 - 🏚️ [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) : CLBLAS integration for Julia.
 - 🏚️ [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) : Julia interface to CUBLAS.
@@ -130,11 +135,6 @@
 - 🏚️ [Titan.jl](https://github.com/malmaud/Titan.jl) : Write GPU kernels using pure Julia.
 - 🏚️ [Transpiler.jl](https://github.com/SimonDanisch/Transpiler.jl) : Transpiling from Julia's typed AST to CUDA / OpenCL code.
 - 🏚️ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) : Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
-
-**Resources**
-- Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
-- Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
-- Blog post on [High-Performance GPU Computing](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
 
 
 ## Publications
