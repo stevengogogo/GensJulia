@@ -6,7 +6,8 @@
 ## Automata
 
 **Resources**
-- [📖 Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)) and [Programming Language Theory](https://github.com/steshaw/plt-study) .
+- [📖 Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)) 
+- [Programming Language Theory](https://github.com/steshaw/plt-study)
 - [📖 Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
 
 **Packages**
@@ -104,6 +105,7 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 - [Cassette.jl](https://github.com/JuliaLabs/Cassette.jl) : a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs.
 - [IRTools.jl](https://github.com/FluxML/IRTools.jl) : Intermediate Representation toolkit to provide a simple and flexible IR format, expressive enough to work with both lowered and typed Julia code, as well as external IRs. It can be used with Julia metaprogramming tools such as Cassette.
 - [Revise.jl](https://github.com/timholy/Revise.jl) : Automatically update function definitions in a running Julia session. It will help you keep your sessions running longer, reducing the need to restart Julia whenever you make changes to code.
+
 
 ## Program Analysis
 
