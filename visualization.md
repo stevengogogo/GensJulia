@@ -11,14 +11,14 @@
 
 
 **Packages**
-- [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl) : Parametric analysis/visualization and continuous function interpolation.
 - [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl) : Generate simple plots as ASCII art in Julia
 - [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram  (ASH) density estimation.
 - [BlenderPlot.jl](https://github.com/wookay/BlenderPlot.jl) : a prototype version of the bar_chart plot on Blender using PyCall.
 - [Cairo.jl](https://github.com/JuliaGraphics/Cairo.jl) : Bindings for the Cairo graphics library.
 - [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl) : Parametric analysis/visualization of model/measurement/simulation results.
-- [CMPlot.jl](https://github.com/g-insana/CMPlot.jl) : Cloudy Mountain Plot function in Julia.
-- [Colors.jl](https://github.com/JuliaGraphics/Colors.jl).
+- [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl) : Parametric analysis/visualization and continuous function interpolation.
+- [CMPlot.jl](https://github.com/g-insana/CMPlot.jl) : Cloudy Mountain Plot inspired by Violin, Bean and Pirate Plots.
+- [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) : Color manipulation utilities for Julia.
 - [ColorTypes.jl](https://github.com/JuliaGraphics/ColorTypes.jl) : Color primitives for Julia, based on FixedSizeArrays.
 - [ColorVectorSpace.jl](https://github.com/JuliaGraphics/ColorVectorSpace.jl) : This package is an add-on to ColorTypes, and provides fast mathematical operations for objects with types such as RGB and Gray - Treat colors as if they are n-vectors for the purposes of arithmetic.
 - [CrossfilterCharts.jl](https://github.com/tawheeler/CrossfilterCharts.jl) : A Julia package for automagical DC.js linked charts in your IJulia notebook.
@@ -31,32 +31,36 @@
 - [GMT.jl](https://github.com/joa-quim/GMT.jl) : is a package containing Julia bindings for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) Library.
 - [GR.jl](https://github.com/jheinen/GR.jl) : This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 - [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) : Publication-quality plotting for julia using Grace/xmgrace.
+- [GraphMakie.jl](https://github.com/JuliaPlots/GraphMakie.jl) : Plotting graphs with [Makie.jl][].
 - [GraphPlot.jl](https://github.com/afternone/GraphPlot.jl) : Graph visualization for Julia.
-- [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl) : Graph-related recipes to be used with Plots.jl.
+- [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl) : Graph-related recipes to be used with [Plots.jl][].
 - [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) : Dive deeper into your data with interactive graphics.
 - [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) : Plotting implicit equations and inequalities.
 - [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : ImPlot.jl provides an interface to [cimplot](https://github.com/cimgui/cimplot), which is an auto-generated C API to [implot](https://github.com/epezent/implot), a C++ plotting extension library for [imgui](https://github.com/ocornut/imgui).
-- [Makie.jl](https://github.com/JuliaPlots/Makie.jl) : High level plotting on the GPU.
+- [Makie.jl][] : High level plotting on the GPU.
 - [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
 - [PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) : Seamlessly create plots in Julia using the PGFPlots LaTeX package.
 - [Plotly.jl](https://github.com/plotly/Plotly.jl) : A Julia wrapper for the plot.ly REST API cloud service.
 - [PlotlyBase.jl](https://github.com/sglyon/PlotlyBase.jl) : Generate plotly.js JSON in Julia.
 - [PlotlyJS.jl](https://github.com/JuliaPlots/PlotlyJS.jl) : Julia library for plotting with `plotly.js`.
-- [PlotRecipes.jl](https://github.com/JuliaPlots/PlotRecipes.jl) : Assorted recipes to be used with `Plots.jl`.
-- [Plots.jl](https://github.com/JuliaPlots/Plots.jl) : An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands.
-- [PlotThemes.jl](https://github.com/JuliaPlots/PlotThemes.jl) : Themes for the Julia plotting package `Plots.jl`.
+- [PlotRecipes.jl](https://github.com/JuliaPlots/PlotRecipes.jl) : Assorted recipes to be used with [Plots.jl][].
+- [Plots.jl][] : An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands.
+- [PlotThemes.jl](https://github.com/JuliaPlots/PlotThemes.jl) : Themes for the Julia plotting package [Plots.jl][].
 - [PlotUtils.jl](https://github.com/JuliaPlots/PlotUtils.jl) : Generic helper algorithms for building plotting components.
 - [PyPlot.jl](https://github.com/JuliaPy/PyPlot.jl) : Plotting for Julia based on `matplotlib.pyplot`.
-- [RecipesBase.jl](https://github.com/JuliaPlots/RecipesBase.jl) : Base package for defining transformation recipes on user types for `Plots.jl`.
-- [RecipesBase.jl](https://github.com/JuliaPlots/RecipesBase.jl) : Base package for defining transformation recipes on user types for Plots.jl
+- [RecipesBase.jl](https://github.com/JuliaPlots/RecipesBase.jl) : Base package for defining transformation recipes on user types for [Plots.jl][].
 - [RoMEPlotting.jl](https://github.com/JuliaRobotics/RoMEPlotting.jl): 2D plotting functionality for the RoME.jl package (presently only using Gadfly).
 - [SimplePlots.jl](https://github.com/djsegal/SimplePlots.jl) : Plots in 5 seconds or your money back.
-- [StatsPlots.jl](https://github.com/JuliaPlots/StatsPlots.jl) : Statistical plotting recipes for `Plots.jl`.
+- [StatsPlots.jl](https://github.com/JuliaPlots/StatsPlots.jl) : Statistical plotting recipes for [Plots.jl][].
 - [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl) : Unicode plotting for the REPL in Julia.
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) : This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
 - [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) : Generate area-proportional Venn/Euler diagrams in Julia.
 - [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl) : Fast Discrete Wavelet Transforms written in Julia by JuliaDSP.
 - [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : 2D plotting for Julia.
+
+
+[Makie.jl]: https://github.com/JuliaPlots/Makie.jl
+[Plots.jl]: https://github.com/JuliaPlots/Plots.jl
 
 
 - 🏚️ [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) : Fast animated (and static) plots for Julia.
