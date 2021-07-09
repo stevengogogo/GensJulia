@@ -8,8 +8,9 @@
 
 ## API for biology and medicine databases
 
-- [BioServices.jl](https://github.com/BioJulia/BioServices.jl) : Julia interface to APIs for various bio-related web services.
 - [BioMedQuery.jl](https://github.com/JuliaHealth/BioMedQuery.jl) : Julia utilities to process and save results from BioMedical databases/APIs.
+- [BioServices.jl](https://github.com/BioJulia/BioServices.jl) : Julia interface to APIs for various bio-related web services.
+- [DailyMed.jl](https://github.com/wherrera10/DailyMed.jl) : Interface to the REST functions of the National Library of Medicine's DailyMed database.
 - [PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) : Utilities to programmatically query the PubChem database.
 - [PubMedMiner.jl](https://github.com/JuliaHealth/PubMedMiner.jl) : Julia package for studying co-occurrences in PubMed articles.
 - [RxNav.jl](https://github.com/wherrera10/RxNav.jl) : Julia interface to the National Library of Medicine's online pharmaceutical RxNav API.
