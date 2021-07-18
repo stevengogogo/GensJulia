@@ -2,7 +2,8 @@
 
 > Interface for generic external servers, web framework, ...
 
-- [Julia Web](https://github.com/JuliaWeb) organization.
+**Organization**
+- [Julia Web](https://github.com/JuliaWeb)
 
 ## Server backends
 
@@ -25,7 +26,7 @@
 
 ## Web frameworks
 
-- [Bukdu.jl](https://github.com/wookay/Bukdu.jl/) : A web development framework for Julia, influenced by [Phoenix framework](http://phoenixframework.org).
+- [Bukdu.jl](https://github.com/wookay/Bukdu.jl) : A web development framework for Julia, influenced by [Phoenix framework](http://phoenixframework.org).
 - [Genie.jl](https://github.com/GenieFramework/Genie.jl) : The highly productive Julia web framework.
 - [Merly.jl](https://github.com/codeneomatrix/Merly.jl) : A micro framework for web programming in Julia.
 
@@ -81,8 +82,8 @@
 - [CutShortURL.jl](https://github.com/rahulkp220/CutShortURL.jl) : The simplest URL Shortener for Julia. A Julia wrapper around https://tinyurl.com/
 - [DandelionWebSockets.jl](https://github.com/dandeliondeathray/DandelionWebSockets.jl) : A Julia package for client side WebSockets.
 - [Diana.jl](https://github.com/codeneomatrix/Diana.jl) : GraphQL for Julia.
-- [Escher.jl](http://escher-jl.org) : Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
-- [Gumbo.jl](https://github.com/JuliaWeb/Gumbo.jl) : Julia wrapper around google's gumbo library for parsing HTML.
+- [Escher.jl](https://github.com/shashi/Escher.jl) : Composable Web UIs in pure Julia. [Website](http://escher-jl.org).
+- [Gumbo.jl](https://github.com/JuliaWeb/Gumbo.jl) : Julia wrapper around google's [gumbo](https://github.com/google/gumbo-parser) library for parsing HTML.
 - [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) : HTTP for Julia.
 - [HTTP2.jl](https://github.com/sorpaas/HTTP2.jl) : A HTTP2 support library for Julia. You only use this library directly if you need low-level functionality.
 - [HttpCommon.jl](https://github.com/JuliaWeb/HttpCommon.jl) : Provides types and helper functions for dealing with the HTTP protocol in Julia.
@@ -119,5 +120,7 @@
 
 ## Static site generators
 
-- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation. [Examples](https://github.com/tlienart/Franklin.jl#docs). [Templates](https://github.com/tlienart/FranklinTemplates.jl)
+- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation.
+  - [Examples](https://github.com/tlienart/Franklin.jl#docs)
+  - [Templates](https://github.com/tlienart/FranklinTemplates.jl)
 - [PkgPage.jl](https://tlienart.github.io/PkgPage.jl/) for (package) front-pages, powered by `Franklin.jl`.

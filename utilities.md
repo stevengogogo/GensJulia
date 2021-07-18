@@ -1,11 +1,8 @@
 # General Julia utilities
 
-## General Utilities
-
 - [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.
 - [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
 - [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
-
 
 
 - 🏚️ [Events.jl](https://github.com/SimonDanisch/Events.jl) : Simple Event system.
@@ -20,10 +17,10 @@
 - [WAV.jl](https://github.com/dancasimiro/WAV.jl) : Julia package for working with WAV files.
 - [XCB.jl](https://github.com/JuliaGL/XCB.jl) : XCB windowing library wrapper.
 - [ConfParser.jl](https://github.com/JuliaIO/ConfParser.jl) : Julia package for parsing configuration (`*.ini`) files.
+- [IniFile.jl](https://github.com/JuliaIO/IniFile.jl) : Reading and writing Windows-style INI files. (No `Project.toml`)
 
 
 - 🏚️ [COMCall.jl](https://github.com/ihnorton/COMCall.jl) : COM Interface for Julia.
-- 🏚️ [IniFile.jl](https://github.com/JuliaIO/IniFile.jl) : Reading and writing Windows-style INI files. (No `Project.toml`)
 - 🏚️ [IUP.jl](https://github.com/joa-quim/IUP.jl) : Julia interface to IUP windowing toolkit.
 - 🏚️ [RawFile.jl](https://github.com/tknopp/RawFile.jl) (No `Project.toml`)
 - 🏚️ [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) : Call the Windows API with these Win32 GUI examples.

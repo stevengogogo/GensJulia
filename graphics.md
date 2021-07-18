@@ -2,6 +2,7 @@
 
 > Computer Vision, Graphics, games, geometry
 
+**Organization**
 - [Julia Geometry](https://github.com/JuliaGeometry)
 - [Julia GL](https://github.com/JuliaGL)
 - [Julia Graphics](https://github.com/JuliaGraphics)
@@ -119,7 +120,7 @@
 - [📖 Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
 
 
-- [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) : A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a __lower level__ using the API of cdd or using the higher level interface of Polyhedra.jl.
+- [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) : A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a **lower level** using the API of cdd or using the higher level interface of Polyhedra.jl.
 - [Clipper.jl](https://github.com/JuliaGeometry/Clipper.jl) : Julia wrapper for Angus Johnson's [Clipper](http://www.angusj.com/delphi/clipper.php) library.
 - [ConvexHull.jl](https://github.com/JuliaPolyhedra/ConvexHull.jl) : A Julia library for polyhedral computations.
 - [CoordinateTransformations.jl](https://github.com/JuliaGeometry/CoordinateTransformations.jl) : A fresh approach to coordinate transformations.

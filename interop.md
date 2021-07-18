@@ -1,8 +1,9 @@
 # Julia interop
 
 > Julia interoperativity with other programming languages.
-> 
-- [JuliaInterop](https://github.com/JuliaInterop) organization.
+
+**Organization**
+- [JuliaInterop](https://github.com/JuliaInterop)
 
 ## Mathematica
 

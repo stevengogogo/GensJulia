@@ -143,7 +143,7 @@
 ## Unclassified
 
 - [AdaGram.jl](https://github.com/sbos/AdaGram.jl) : Adaptive Skip-gram implementation.
-- [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) : are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list. (No `Project.toml`)
+- [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) : are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list. (No `Project.toml`)
 - [Civecm.jl](https://github.com/andreasnoack/Cointegration.jl) : Cointegration in Vector Error Correction Models in Julia.
 - [ConjugatePriors.jl](https://github.com/JuliaStats/ConjugatePriors.jl) : A package to support conjugate prior distributions.
 - [CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl) : Covariance Matrix Estimation in Julia.

@@ -2,7 +2,7 @@
 
 > General packages for modeling and simulating kinetics
 
-Organizations:
+**Organizations**
 - [ModiaSim](https://github.com/ModiaSim)
 - [SciML](https://github.com/SciML)
 - [Julia Dynamics](https://juliadynamics.github.io/JuliaDynamics/)

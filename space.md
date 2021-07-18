@@ -39,9 +39,6 @@
 - 🏚️ [WCSLIB.jl](https://github.com/JuliaAstro/WCSLIB.jl) : wcslib wrapper for Julia.
 
 
-**Resources**
-- 🏚️ [ioa-julia-tutorials](https://github.com/swt30/ioa-julia-tutorials) : An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge
-
 ## Spacecraft
 
 - [Airship.jl](https://github.com/ordovician/Airship.jl) : Julia code for performing temperature, pressure and volume and buoyancy calculations.
