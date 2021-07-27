@@ -14,3 +14,4 @@
 - How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
 - [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by Randy Zwitch.
 - [Tabular Data I/O in Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch.
+- [What's bad about Julia](https://viralinstruction.com/posts/badjulia/) by Jakob.
