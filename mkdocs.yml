@@ -1,0 +1,111 @@
+site_name: My Julia list
+site_url: !ENV [SITE_URL, 'https://sosiristseng.github.io/GensJulia/']
+site_author: Wen-Wei Tseng
+
+# Repository
+repo_url: !ENV [REPO_URL, 'https://github.com/sosiristseng/GensJulia/'] 
+repo_name: sosiristseng/GensJulia
+edit_uri: ""  # Leave blank to disable the edit button,
+
+copyright: Copyright &copy; 2016 - 2021 Wen-Wei Tseng
+
+# MkDocs plugins
+plugins:
+  - search
+
+# Theme configuration
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    
+# Extensions: 
+# https://python-markdown.github.io/extensions/
+# https://facelessuser.github.io/pymdown-extensions/
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  # - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.betterem:
+      smart_enable: all
+  # - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  # - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.snippets
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Page tree
+nav:
+  - Julia resources: index.md
+  - Julia packages:
+    - Prologue: juliapkgs/index.md
+    - Artificial intelligence: juliapkgs/ai.md
+    - Audio and Video processing: juliapkgs/audio-video.md
+    - Biology: juliapkgs/bio.md
+    - Chemistry: juliapkgs/chem.md
+    - Concurrency: juliapkgs/concurrency.md
+    - Datascience: juliapkgs/datascience.md
+    - DevOps: juliapkgs/devops.md
+    - Development Tools: juliapkgs/devtools.md
+    - Data structures and Algorithms: juliapkgs/dsa.md
+    - Earth science: juliapkgs/earth.md
+    - Economics and finance: juliapkgs/economics-finance.md
+    - File input and output: juliapkgs/fileio.md
+    - Graph: juliapkgs/graph.md
+    - Graphics: juliapkgs/graphics.md
+    - Hardware: juliapkgs/hardware.md
+    - Internationalization and Localization: juliapkgs/i18n-L10n.md
+    - Interoperativity: juliapkgs/interop.md
+    - Math: juliapkgs/math.md
+    - Modeling and simulation: juliapkgs/modeling.md
+    - Optimization: juliapkgs/optimization.md
+    - Programming Paradigms: juliapkgs/paradigms.md
+    - Physics: juliapkgs/physics.md
+    - Probability and Statistics: juliapkgs/prob-stats.md
+    - Space science: juliapkgs/space.md
+    - Utilities: juliapkgs/utilities.md
+    - Visualization: juliapkgs/visualization.md
+    - Web technology: juliapkgs/web.md
