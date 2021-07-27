@@ -120,6 +120,10 @@
 - [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) : a Julia package created to help people "deal" with their simulations, simulation parameters.
 - [SimulationLogger.jl](https://github.com/JinraeKim/SimulationLogger.jl) : providing convenient logging tools for [DifferentialEquations.jl][].
 
+## Resources
+
+- [Workshop for `ModelingToolkit.jl`](https://youtu.be/HEVOgSLBzWA) : A Youtube video for JuliaCon 2021.
+
 
 [LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl
 [DifferentialEquations.jl]: https://github.com/SciML/DifferentialEquations.jl
