@@ -3,6 +3,7 @@
 - [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.
 - [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
 - [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
+- [JuliaCon.jl](https://github.com/JuliaCon/JuliaCon.jl): [JuliaCon](https://juliacon.org/) greetings and announcements.
 
 ---
 
