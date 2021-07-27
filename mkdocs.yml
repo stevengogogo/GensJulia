@@ -79,7 +79,10 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Julia resources: index.md
+  - Home:
+    - Install Julia: index.md
+    - Julia tutorials: tutorials.md
+    - Julia blogs: blogs.md
   - Julia packages:
     - Prologue: juliapkgs/index.md
     - Artificial intelligence: juliapkgs/ai.md
