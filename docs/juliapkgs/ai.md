@@ -138,9 +138,25 @@ General machine learning frameworks and Neural Networks
 - [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) : Feed-forward MLP neural network implementation.
 - [A Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
 
+## Reinforcement Learning (RL)
+
+[📖 Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+
+- [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package.
+- 🏚️ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) : An implementation of DeepMind's Deep Q Learning algorithm.
+- 🏚️ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner : A Reinforcement Learning package.
+
 ## Natural language processing (NLP)
 
 [📖 Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+**Organization**
+
+- [JuliaText](https://github.com/JuliaText)
+
+---
+
+**Packages**
 
 - [AdaGram.jl](https://github.com/sbos/AdaGram.jl) : Adaptive Skip-gram implementation in Julia.
 - [BKTrees.jl](https://github.com/zgornel/BKTrees.jl) : Julia implementation of Burkhard-Keller trees.
@@ -181,15 +197,6 @@ General machine learning frameworks and Neural Networks
 
 - [EnglishText.jl](https://github.com/TotalVerb/EnglishText.jl) : Utilities for English-language quirks in Julia.
 - [Why.jl](https://github.com/TorkelE/Why.jl) : A simple function, `why()`, which gives randomly generated answers.
-
-## Reinforcement Learning
-
-[📖 Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-
-- [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package.
-- 🏚️ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) : An implementation of DeepMind's Deep Q Learning algorithm.
-- 🏚️ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner : A Reinforcement Learning package.
-
 
 ## Speech recognition
 
