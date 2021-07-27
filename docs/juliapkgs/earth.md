@@ -7,8 +7,9 @@
 - [Julia space](https://github.com/JuliaSpace)
 - [Julia Geo](https://github.com/JuliaGeo)
 - [Julia earth](https://github.com/JuliaEarth)
-- [EcoJulia](https://ecojulia.org) organization.
-- [Julia climate](https://github.com/JuliaClimate) organization.
+- [EcoJulia](https://ecojulia.org)
+- [Julia climate](https://github.com/JuliaClimate)
+- [Julia ocean](https://github.com/JuliaOcean)
 
 ## Space
 
@@ -40,7 +41,12 @@
 
 ### Aquatic Ecology
 
+- [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl): Algebraic Implicit Biogeochemical Elemental Cycling System (AIBECS) for exploring global marine biogeochemical cycles.
 - 🏚️ [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) : Ice-seawater interface calculations using level set methods.
+
+**Resources**
+
+[Modeling Marine Ecosystems At Multiple Scales Using Julia](https://youtu.be/UCIRrXz2ZS0), a workshop @ JuliaCon 2021.
 
 ## Cartography
 
