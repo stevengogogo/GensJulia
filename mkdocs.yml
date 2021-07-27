@@ -1,4 +1,4 @@
-site_name: My Julia list
+site_name: Gen Julia
 site_url: !ENV [SITE_URL, 'https://sosiristseng.github.io/GensJulia/']
 site_author: Wen-Wei Tseng
 
