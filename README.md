@@ -1,4 +1,6 @@
-# My Julia notes
+# Gens Julia
+
+![GitHub repo size](https://img.shields.io/github/repo-size/sosiristseng/GensJulia) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sosiristseng/GensJulia)
 
 ## How to develop this website
 
