@@ -1,13 +1,32 @@
-image: alpine:latest
+image: python:3.9-alpine
+
+variables:
+  PIP_CACHE_DIR: $CI_PROJECT_DIR/.cache/pip
+  PIPENV_CACHE_DIR: $CI_PROJECT_DIR/.cache/pipenv
+  SITE_URL: https://sosiristseng.gitlab.io/GensJulia/
+  REPO_URL: https://gitlab.com/sosiristseng/GensJulia/
+
+cache:
+  - key:
+      files:
+        - Pipfile.lock
+    paths:
+      - $PIP_CACHE_DIR
+      - $PIPENV_CACHE_DIR
+
 
 pages:
   stage: deploy
+  only:
+  - main
   script:
-  - mkdir .public
-  - cp -r * .public
-  - mv .public public
+  - python -m pip install --upgrade pipenv wheel
+  - pipenv sync --dev      # Installs all packages specified in Pipfile.lock.
+  - pipenv run mkdocs build --site-dir public   # Build website
+  - apk add --update --no-cache gzip brotli     # Compress text files
+  - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\|svg\|xml\)$' -exec gzip   -f -k {} \; || echo 'Gzip failed. Skipping...'
+  - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\|svg\|xml\)$' -exec brotli -f -k {} \; || echo 'Brotli failed. Skipping...'
   artifacts:
     paths:
     - public
-  only:
-  - main
+  
