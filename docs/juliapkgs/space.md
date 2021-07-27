@@ -12,11 +12,10 @@
 - 🏚️ [ices-desktop](https://github.com/abieler/ices-desktop).
 - 🏚️ [Spice.jl](https://github.com/abieler/Spice.jl) : NASA's SPICE observation geometry system.
 
-## Astronomy
-
-**Packages**
+## Astronomy and astrophysics
 
 - [Astro.jl](https://github.com/cormullion/Astro.jl) : Jan Meeus astronomical formulas and some time/date code in Julia.
+- [AstrodynamicalModels.jl](https://github.com/cadojo/AstrodynamicalModels.jl): An extension of `ModelingToolkit.jl` which provides common astrodynamics models.
 - [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) : An astrodynamics library in Julia.
 - [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl) : Plots.jl and Images.jl integration of Astronomical Images for Julia.
 - [AstroLib.jl](https://github.com/JuliaAstro/AstroLib.jl) : Bundle of small astronomical and astrophysical routines, based on IDL Astronomy User's Library (AstroLib).
