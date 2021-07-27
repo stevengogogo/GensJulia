@@ -10,6 +10,7 @@
 
 - [CRC.jl](https://github.com/andrewcooke/CRC.jl) : a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 
+---
 
 - 🏚️ [ARules.jl](https://github.com/toddleo/ARules.jl) : Julia package for Association Rule Learning algorithms.
 - 🏚️ [CRC32.jl](https://github.com/fhs/CRC32.jl) : 32-bit cyclic redundancy check (CRC-32) checksum implementation.
@@ -25,6 +26,7 @@
 - [Loess.jl](https://github.com/dcjones/Loess.jl) : is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 - [Match.jl](https://github.com/kmsquire/Match.jl) : Advanced Pattern Matching for Julia.
 
+---
 
 - 🏚️ [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) : Julia implementation of the Aho-Corasick algorithm for fast string searching.
 - 🏚️ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) : Port of the jellyfish string comparison library.
@@ -63,6 +65,7 @@
 - [ResultTypes.jl](https://github.com/iamed2/ResultTypes.jl) :  A Result type for Julia—it's like Nullables for Exceptions.
 - [TypeSortedCollections.jl](https://github.com/tkoolen/TypeSortedCollections.jl) : It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner.
 
+---
 
 - 🏚️ [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) : Julia package to deal with Characters of 8 bits.
 - 🏚️ [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) : Types for continuous variables or parameters.
@@ -89,6 +92,7 @@
 - [VersionParsing.jl](https://github.com/JuliaInterop/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
 - [WeakRefStrings.jl](https://github.com/JuliaData/WeakRefStrings.jl) : a minimal String type for Julia that allows for efficient string representation and transfer.
 
+---
 
 - 🏚️ [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 - 🏚️ [MonkeyString.jl](https://github.com/malmaud/MonkeyString.jl) : Fast string implementation inspired by SpiderMonkey.
@@ -125,6 +129,7 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - [Ratios.jl](https://github.com/timholy/Ratios.jl) : Faster Rational-like types for Julia.
 - [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) : A Julia package for physical units.
 
+---
 
 - 🏚️ [ArbDecimals.jl](https://github.com/JuliaArbTypes/ArbDecimals.jl) : reliable and performant extended precision floating point math.
 - 🏚️ [ArbFloats.jl](https://github.com/JuliaArbTypes/ArbFloats.jl) :  Arb available as an extended precision floating point context.
@@ -178,6 +183,7 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - [Vec.jl](https://github.com/sisl/Vec.jl) : Provides 2D and 3D vector types for vector operations. All types are immutable and are subtypes of `StaticArrays`.
 - [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) : Library support for the [Woodbury matrix identity](http://en.wikipedia.org/wiki/Woodbury_matrix_identity).
 
+---
 
 - 🏚️ [FlexibleArrays.jl](https://github.com/eschnett/FlexibleArrays.jl) : Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible.
 - 🏚️ [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) : Statically-sized immutable vectors and matrices.
@@ -209,6 +215,7 @@ Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/519
 - [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) :  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 - [Unpack.jl](https://github.com/mauro3/UnPack.jl) : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable datatypes.
 
+---
 
 - 🏚️ [AutoTypeParameters.jl](https://github.com/andrewcooke/AutoTypeParameters.jl) : A Julia library to reversibly encode any value so that it can be used as a type parameter.
 - 🏚️ [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) : Wrap any Julia composite type in an Associative interface.

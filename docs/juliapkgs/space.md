@@ -3,6 +3,7 @@
 > Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.
 
 **Organizations**
+
 - [Julia Space](https://github.com/JuliaSpace)
 - [Julia Astro](https://github.com/juliaastro)
 
@@ -14,6 +15,7 @@
 ## Astronomy
 
 **Packages**
+
 - [Astro.jl](https://github.com/cormullion/Astro.jl) : Jan Meeus astronomical formulas and some time/date code in Julia.
 - [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) : An astrodynamics library in Julia.
 - [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl) : Plots.jl and Images.jl integration of Astronomical Images for Julia.
@@ -28,6 +30,7 @@
 - [SkyCoords.jl](https://github.com/JuliaAstro/SkyCoords.jl) : Astronomical coordinate systems in Julia.
 - [WCS.jl](https://github.com/JuliaAstro/WCS.jl) : Astronomical [World Coordinate System](http://www.atnf.csiro.au/people/mcalabre/WCS/) library for Julia.
 
+---
 
 - 🏚️ [AperturePhotometry.jl](https://github.com/kbarbary/AperturePhotometry.jl) : Astronomical photometry library for Julia.
 - 🏚️ [CasaCore.jl](https://github.com/mweastwood/CasaCore.jl) : A Julia wrapper of CasaCore. (No `Project.toml`)

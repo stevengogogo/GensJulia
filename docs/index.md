@@ -1,13 +1,10 @@
-# My list of Julia resources
+# Gens Julia: my list of Julia resources
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/sosiristseng/GensJulia) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sosiristseng/GensJulia)
 
-[Gens Julia](https://en.wikipedia.org/wiki/Julia_gens) or Julia gens was one of the most ancient patrician families in ancient Rome.
+> [Gens Julia](https://en.wikipedia.org/wiki/Julia_gens) or Julia gens was one of the most ancient patrician families in ancient Rome.
 
-?> This is my personal Julia list, which is argely based on [Julia.jl](https://github.com/svaksha/Julia.jl), which is under COPYRIGHT © 2012-Now SVAKSHA, dual-licensed for the data ([ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/)) and the software ([AGPLv3+](http://www.gnu.org/licenses/agpl-3.0.en.html)), respectively. 
-> Kudos to the author(s) for the hard work.
-
-## Instal Julia
+## Install Julia
 
 Alternatives to downloading an extracting [official Julia binaries](http://julialang.org/downloads/):
 
@@ -117,12 +114,3 @@ To contribute to the Julia language, see [how-to contribute](https://github.com/
 - [Julia Research](https://julialang.org/research/)
 - [ReScience journal](https://github.com/ReScience/ReScience) and its [Wiki](https://github.com/ReScience/ReScience/wiki) for reproducible science.
 - [Journal of Open source software](https://joss.theoj.org)
-
-
-## Why?
-
-I want to do more to the list, such as:
-- Marking pre-1.0, deprecated, or non-existent (404) packages and links.
-  - 🏚️ means the package may not support current versions of Julia.
-  - 🏗️ means the package may be a WIP.
-- Utilizing the capabilities of [docsifyjs](https://docsify.js.org/) e.g. full text search.

@@ -2,6 +2,8 @@
 
 > [Mathematical](http://en.wikipedia.org/wiki/Lists_of_mathematics_topics) libraries/ packages, and related resources.
 
+**Organizations**
+
 - [Julia Approximation](https://github.com/JuliaApproximation)
 - [Julia Crypto](https://github.com/JuliaCrypto)
 - [Julia Linear Algebra](https://github.com/JuliaLinearAlgebra)
@@ -26,6 +28,7 @@
 - [Tau.jl](https://github.com/JuliaMath/Tau.jl) : A simple module providing definition of the Tau constant = 2pi.
 - [Manifolds.jl](https://github.com/JuliaManifolds/Manifolds.jl) : a unified interface to define and use manifolds as well as a library of manifolds to use for your projects.
 
+---
 
 - 🏚️ [ApApproximation.jl](https://github.com/dprn/ApApproximation.jl) : Implementation of the almost-periodic approximation.
 - 🏚️ [Cartesian.jl](https://github.com/timholy/Cartesian.jl) : Fast multidimensional algorithms. Now in Julia `Base`.
@@ -55,6 +58,7 @@
 - [SHA.jl](https://github.com/JuliaCrypto/SHA.jl) : a performant, 100% native-julia SHA-1, SHA-2 224, 256, 384 and 512, and SHA-3 224, 256, 384 and 512 functions.
 - [SEAL.jl](https://github.com/JuliaCrypto/SEAL.jl) : wrapping the Microsoft SEAL library for homomorphic encryption
 
+---
 
 - 🏗️ [ToyFHE.jl](https://github.com/JuliaCrypto/ToyFHE.jl) : Toy implementation of [FHE algorithms](https://en.wikipedia.org/wiki/Homomorphic_encryption).
 - 🏚️ [BlockCipherSelfStudy.jl](https://github.com/andrewcooke/BlockCipherSelfStudy.jl) : Blocks, and RC5.
@@ -89,6 +93,7 @@ For floating-point datatypes, see [Data Types](dsa.md#numeric-data-types) Sectio
 - [FastRounding.jl](https://github.com/JeffreySarnoff/FastRounding.jl) : Faster directed rounding for inline arithmetic.
 - [ValidatedNumerics.jl](https://github.com/JuliaIntervals/ValidatedNumerics.jl) : Rigorous floating-point calculations via interval arithmetic.
 
+---
 
 - 🏚️ [ErrorFreeTransforms.jl](https://github.com/dsiem/ErrorFreeTransforms.jl) : Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
 - 🏚️ [Ryu.jl](https://github.com/quinnj/Ryu.jl) : Julia implementation of [ryu](https://github.com/ulfjack/ryu) that converts floating point numbers to decimal strings.
@@ -111,6 +116,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [OEIS.jl](https://github.com/MurrayT/OEIS.jl) : A basic wrapper to allow access to [OEIS](http://oeis.org/) integer sequences from within Julia.
 - [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) : [Semiring Algebra](https://dspace.mit.edu/openaccess-disseminate/1721.1/115964).
 
+---
 
 - 🏚️ [algebra](https://github.com/alrahimi/algebra/) : A hierarchy of abstract algebraic structures in Julia.
 - 🏚️ [Clockwork.jl](https://github.com/malmaud/Clockwork.jl) : Represent modular arithmetic via clock symbols.
@@ -146,6 +152,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [Simplices.jl](https://github.com/JuliaDynamics/Simplices.jl) : Compute exact simplex intersections in N dimensions.
 - [Sobol.jl](https://github.com/stevengj/Sobol.jl) : is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates **quasi-random** sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 
+---
 
 - 🏚️ [Dopri.jl](https://github.com/helgee/Dopri.jl) : A Julia wrapper for the DOPRI5 and DOP853 integrators.
 - 🏚️ [EiSCor.jl](https://github.com/andreasnoack/EiSCor.jl) : A Julia wrapper of the Fortran library [eiscor](https://github.com/jaurentz/eiscor).
@@ -180,6 +187,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [Tullio.jl](https://github.com/mcabbott/Tullio.jl) : A package for writing array operations in index notation.
 - [VSL.jl](https://github.com/sunoru/VSL.jl) : Julia bindings for the Intel Vector Statistics Library.
 
+---
 
 - 🏚️ [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) : A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 - 🏚️ [BSplines.jl](https://github.com/gusl/BSplines.jl) : This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
@@ -221,6 +229,8 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [PDMats.jl](https://github.com/JuliaStats/PDMats.jl) : Uniform Interface for positive definite matrices of various structures.
 - [PositiveFactorizations.jl](https://github.com/timholy/PositiveFactorizations.jl) : Positive-definite (approximations) to matrices.
 
+---
+
 - 🏗️ [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) : Testing new ideas for array iteration. Some of the features have already moved to Julia itself.
 - 🏚️ [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl) : metaprogramming for Julia arrays.
 - 🏚️ [ArrayViews.jl](https://github.com/JuliaArrays/ArrayViews.jl) : A Julia package to explore a new system of array views. No longer necessary in Julia 0.4 or higher.
@@ -245,6 +255,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [MUMPS.jl](https://github.com/JuliaInv/MUMPSjInv.jl) : An interface to [MUMPS](http://mumps.enseeiht.fr/) (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
 - [Pardiso.jl](https://github.com/JuliaSparse/Pardiso.jl) : Calling the [PARDISO](https://www.pardiso-project.org) library from Julia.
 
+---
 
 - 🏚️ [CSparse.jl](https://github.com/dmbates/CSparse.jl) : A Julia implementation of functions in the CSparse and CXSparse libraries.
 - 🏚️ [MultiFrontalCholesky.jl](https://github.com/JuliaSparse/MultiFrontalCholesky.jl) : The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
@@ -271,6 +282,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) : Fast moving quantile filters implemented as fast moving window sort algorithm. 
 - [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl) : Fast Discrete Wavelet Transforms written in Julia by JuliaDSP.
 
+---
 
 - 🏚️ [APES.jl](https://github.com/codles/APES.jl) : Amplitude and Phase Estimation of a Sinusoid.
 - 🏚️ [ChaosCommunications.jl](https://github.com/papamarkou/ChaosCommunications.jl) : Simulation of chaos-based communication systems in Julia.
@@ -292,6 +304,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [HexFFT.jl](https://github.com/gwater/HexFFT.jl) : Fast Fourier transform on hexagonal grids using Birdsong and Rummelt's [algorithm](http://ieeexplore.ieee.org/document/7532670/).
 - [NFFT.jl](https://github.com/tknopp/NFFT.jl) : Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).
 
+---
 
 - 🏚️ [CLFFT.jl](https://github.com/JuliaGPU/CLFFT.jl) : Julia bindings for AMD's clFFT library.
 - 🏚️ [CUFFT.jl](https://github.com/JuliaGPU/CUFFT.jl) : Wrapper for the CUDA FFT library.
@@ -318,6 +331,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [SemialgebraicSets.jl](https://github.com/JuliaAlgebra/SemialgebraicSets.jl) : Extension of MultivariatePolynomials to semialgebraic sets.
 - [TaylorModels.jl](https://github.com/dpsanders/TaylorModels.jl) : A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a [Taylor polynomial](http://bt.pa.msu.edu/index_TaylorModels.htm).
 
+---
 
 - 🏚️ [InterPol.jl](https://github.com/pwl/InterPol.jl) : Interpolating polynomial for Julia.
 - 🏚️ [Orthopolys.jl](https://github.com/daviddelaat/Orthopolys.jl) : Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
@@ -341,6 +355,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 ## Calculus
 
 **Packages**
+
 - [Calculus.jl](https://github.com/JuliaMath/Calculus.jl) : Calculus package.
 - [ChainRules.jl](https://github.com/JuliaDiff/ChainRules.jl) : forward and reverse mode automatic differentiation primitives.
 - [Cuba.jl](https://github.com/giordano/Cuba.jl) : Library for multidimensional numerical integration with the [Cuba library](http://www.feynarts.de/cuba/).
@@ -359,7 +374,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) : A julia package for Taylor expansions in one independent variable.
 - [Yota.jl](https://github.com/dfdx/Yota.jl) : Reverse-mode automatic differentiation for static and dynamic graphs.
 
-
+---
 
 - 🏚️ [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) : Accurate summation (Yuhang Zhao's iFastSum).
 - 🏚️ [MINE.jl](https://github.com/zhmz90/MINE.jl) : Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
@@ -372,6 +387,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 
 **Resources**
+
 - [Riemann Hypothesis book](http://wstein.org/rh/) with the [source code on github](https://github.com/williamstein/rh).
 - [Calculus With Julia](https://github.com/CalculusWithJulia/CalculusWithJulia.github.io) : Introductory Calculus with the Julia Programming Language.
 - An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97).
@@ -396,6 +412,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [SimplePosets.jl](https://github.com/scheinerman/SimplePosets.jl) : Simple partially ordered sets for Julia.
 - [ZChop.jl](https://github.com/jlapeyre/ZChop.jl) : Replaces small numbers with zero.
 
+---
 
 - 🏚️ [Catalan.jl](https://github.com/andrioni/Catalan.jl) : a combinatorics library for Julia.
 - 🏚️ [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) : Viterbi algorithm.
@@ -413,6 +430,7 @@ See [Graph algorithms](graph.md#graph-algorithms) section.
 
 - [Chess.jl](https://github.com/romstad/Chess.jl) : Julia chess programming library.
 
+---
 
 - 🏚️ [PlayingCards.jl](https://github.com/DataWookie/PlayingCards.jl) : Package for simulating Playing Cards games in Julia.
 - 🏚️ [Sudoku.jl](https://github.com/hayd/Sudoku.jl) by @hayd : A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia.

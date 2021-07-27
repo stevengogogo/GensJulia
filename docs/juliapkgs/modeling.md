@@ -3,6 +3,7 @@
 > General packages for modeling and simulating kinetics
 
 **Organizations**
+
 - [ModiaSim](https://github.com/ModiaSim)
 - [SciML](https://github.com/SciML)
 - [Julia Dynamics](https://juliadynamics.github.io/JuliaDynamics/)
@@ -37,6 +38,7 @@
 - [Sundials.jl](https://github.com/SciML/Sundials.jl) : A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 - [WiltonInts84.jl](https://github.com/krcools/WiltonInts84.jl) : Integrals of arbitrary powers of R over flat triangles.
 
+---
 
 - 🏚️ [ChemicalKinetics.jl](https://github.com/papamarkou/ChemicalKinetics.jl) :  DiffEq related functionality for defining biological models.
 - 🏚️ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) : A collection of Julia functions that produce the systems of ODEs for various dynamical systems.
@@ -59,10 +61,12 @@
 ## Finite element method
 
 **See also**
+
 - [📖 Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
 - [Graphic | Geometry](/graphics?id=geometry) section.
 
 **Packages**
+
 - [FEMBasis.jl](https://github.com/JuliaFEM/FEMBasis.jl) : Package contains interpolation routines for standard finite element function spaces.
 - [FinEtools.jl](https://github.com/PetrKryslUCSD/FinEtools.jl) : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
 - [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) : Finite Element method solver.
@@ -71,6 +75,7 @@
 - [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) : This package provides a high level interface for [PETSc](https://www.mcs.anl.gov/petsc/), enabling the use of PETSc as an AbstractArray.
 - [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
 
+---
 
 - 🏚️ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) : HP Finite elements in Julia.
 - 🏚️ [Makhno.jl](https://github.com/pjabardo/Makhno.jl) : Spectral element code implemented in Julia.

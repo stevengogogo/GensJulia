@@ -5,6 +5,7 @@
 ## Plotting
 
 **Resources**
+
 - [Julia Plots](https://github.com/JuliaPlots) organization.
 - [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial Plots.jl Gallery inspired by MATLAB Plot Gallery.
 - [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
@@ -12,6 +13,7 @@
 
 
 **Packages**
+
 - [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl) : Generate simple plots as ASCII art in Julia.
 - [BlenderPlot.jl](https://github.com/wookay/BlenderPlot.jl) : a prototype version of the bar_chart plot on Blender using PyCall.
 - [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl) : Parametric analysis/visualization of model/measurement/simulation results. The sister package for continuous function interpolation: [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl).
@@ -64,6 +66,7 @@
 [Makie.jl]: https://github.com/JuliaPlots/Makie.jl
 [Plots.jl]: https://github.com/JuliaPlots/Plots.jl
 
+---
 
 - 🏚️ [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) : Fast animated (and static) plots for Julia.
 - 🏚️ [BBVis.jl](https://github.com/joehuchette/BBVis.jl) : Visualizations for branch-and-bound algorithms.

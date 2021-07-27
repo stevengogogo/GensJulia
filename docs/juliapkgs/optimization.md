@@ -1,8 +1,9 @@
 # (Mathematical) Optimization
 
-?> [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia
+> [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia
 
 **Organizations**
+
 - [JuMP-dev](https://github.com/jump-dev)
 - [Julia Opt](https://github.com/JuliaOpt)
 - [Julia Smooth Optimizers](https://github.com/JuliaSmoothOptimizers)
@@ -13,7 +14,7 @@
 
 ## Bindings for external solvers
 
-!> Some of them may require paid license to work.
+> Some of them may require paid license to work.
 
 - [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 - [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl) : a Julia interface for the commercial [Gurobi](http://www.gurobi.com/) Optimizer.
@@ -91,6 +92,7 @@
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) : Surrogate modeling and optimization.
 - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) : A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
 
+---
 
 [Optim.jl]: https://github.com/JuliaNLSolvers/Optim.jl
 

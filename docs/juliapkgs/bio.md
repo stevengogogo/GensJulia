@@ -3,6 +3,7 @@
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...
 
 **Organizations**
+
 - [BioJulia](https://biojulia.net/)
 - [Julia Health](https://juliahealth.org)
 
@@ -28,6 +29,7 @@
 - [SpeedDate.jl](https://github.com/Ward9250/SpeedDate.jl) : A utility for rapidly estimating coalescence times between sequences.
 - [XSim.jl](https://github.com/reworkhow/XSim.jl) : A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 
+---
 
 - 🏚️ [BioArgParse.jl](https://github.com/Ward9250/BioArgParse.jl) : Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'.
 - 🏚️ [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
@@ -89,6 +91,7 @@ Evolution trees deduced from biosequences.
 - [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) : contains the base functions of OpenMendel.
 - [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl) : provides utilities for handling compressed storage of biallelic SNP (Single-Nucleotide Polymorphism) data.
 
+---
 
 - 🏚️ [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) : A package for statistical analyses of sequence alignments.
 - 🏚️ [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) : Statistical analysis of genomic data.
@@ -143,6 +146,7 @@ Evolution trees deduced from biosequences.
 - [NeuronBuilder](https://github.com/Dhruva2/NeuronBuilder) : Builds conductance based neural networks iteratively, from ion channels and synapses.
 - [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) : A set of tools to load data written by the Open Ephys GUI.
 
+---
 
 - 🏚️ [NEAT.jl](https://github.com/Andy-P/NEAT.jl) : Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 - 🏚️ [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) : Macaque brain and skull extraction tools.
@@ -152,7 +156,7 @@ Evolution trees deduced from biosequences.
 
 [📖 Pharmacology](https://en.wikipedia.org/wiki/Pharmacology)
 
-Also see [Pumas AI](https://github.com/PumasAI), Pharmaceutical Modeling and Simulation in Julia.
+See also [Pumas AI](https://github.com/PumasAI), the framework for Pharmaceutical Modeling and Simulation in Julia.
 
 - [DataInterpolations.jl](https://github.com/PumasAI/DataInterpolations.jl) : A library of data interpolation and smoothing functions.
 - [PumasTutorials.jl](https://github.com/PumasAI/PumasTutorials.jl) : Tutorials for pharmaceutical modeling and simulation with Pumas.jl. http://tutorials.pumas.ai

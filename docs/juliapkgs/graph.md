@@ -3,9 +3,10 @@
 > General graph data structures, algorithms [Wikipedia | Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 **Organizations**
+
 - [Julia Graphs](https://github.com/JuliaGraphs)
 
-## File I/O
+## File I/O for Graphs
 
 - [GraphIO.jl](https://github.com/JuliaGraphs/GraphIO.jl) : GraphIO provides support to [LightGraphs.jl][] for reading/writing graphs in various formats.
 - [SNAPDatasets.jl](https://github.com/JuliaGraphs/SNAPDatasets.jl) : [LightGraphs.jl][]-formatted graph files taken from the [SNAP Datasets](https://snap.stanford.edu/data/index.html) collection.
@@ -25,6 +26,7 @@
 - [SimpleValueGraphs.jl](https://github.com/simonschoelly/SimpleValueGraphs.jl) : A [LightGraphs.jl][] compatible package for graphs with multiple, homogeneous vertex, edge and graph metadata.
 - [SimpleHypergraphs.jl](https://github.com/pszufe/SimpleHypergraphs.jl) : A simple hypergraphs package for the Julia programming language.
 
+---
 
 - 🏚️ [BGraph.jl](https://github.com/adolgert/BGraph.jl) : An adjacency list that uses typed properties for vertices, edges, and graphs.
 - 🏚️ [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
@@ -40,9 +42,7 @@
 - 🏚️ [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) : Binary tree where the nodes contain the sum of the left and right children.
 - 🏚️ [Trie.jl](https://github.com/JuliaLang/Trie.jl) : Implementation of the trie data structure.
 
-
 [LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl
-
 
 ## Graph algorithms
 
@@ -57,6 +57,7 @@
 - [LightGraphsMatching.jl](https://github.com/JuliaGraphs/LightGraphsMatching.jl) : Matching algorithms for [LightGraphs.jl][].
 - [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) : Julia wrapper for SuiteSparse:GraphBLAS.
 
+---
 
 - 🏚️ [bloom.jl](https://github.com/boydgreenfield/bloom.jl) : Bloom filter implementation in Julia.
 - 🏚️ [Blox.jl](https://github.com/tbreloff/Blox.jl) : Views of concatenated AbstractArrays in Julia.
@@ -82,6 +83,7 @@
 
 
 **Resources**
+
 - [aleph_star](https://github.com/imagry/aleph_star) : (**Not a package**) Reinforcement learning with A* and a deep heuristic.
 - [📖 Graphal gorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
 
@@ -93,6 +95,7 @@ See also the [Visualizations](visualization.md) section.
 - [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl) : Graph-related recipes to be used with Plots.jl.
 - [VegaGraphs.jl](https://github.com/JuliaGraphs/VegaGraphs.jl) : Graph visualization with [Vega-Lite](https://github.com/queryverse/VegaLite.jl).
 
+---
 
 - 🏚️ [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) : Graph visualization with tight integration with `LightGraphs.jl` package.
 - 🏚️ [GraphViz.jl](https://github.com/Keno/GraphViz.jl) : Julia bindings for the GraphViz library.

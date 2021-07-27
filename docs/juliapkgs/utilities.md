@@ -4,6 +4,7 @@
 - [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
 - [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
 
+---
 
 - 🏚️ [Events.jl](https://github.com/SimonDanisch/Events.jl) : Simple Event system.
 - 🏚️ [Graze.jl](https://github.com/iamed2/Graze.jl) : A feed reader.
@@ -19,6 +20,7 @@
 - [ConfParser.jl](https://github.com/JuliaIO/ConfParser.jl) : Julia package for parsing configuration (`*.ini`) files.
 - [IniFile.jl](https://github.com/JuliaIO/IniFile.jl) : Reading and writing Windows-style INI files. (No `Project.toml`)
 
+---
 
 - 🏚️ [COMCall.jl](https://github.com/ihnorton/COMCall.jl) : COM Interface for Julia.
 - 🏚️ [IUP.jl](https://github.com/joa-quim/IUP.jl) : Julia interface to IUP windowing toolkit.
@@ -42,6 +44,7 @@
 - [TerminalMenus.jl](https://github.com/nick-paul/TerminalMenus.jl) : Simple interactive menus in the terminal.
 - [VT100.jl](https://github.com/Keno/VT100.jl) : Terminal Emulation for terminal UI verification.
 
+---
 
 - 🏚️ [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) : Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 - 🏚️ [CLI.jl](https://github.com/Roger-luo/CLI.jl) : A library for automatically generating command line interfaces from absolutely Julia object, inspired by `python-fire`.
@@ -59,9 +62,11 @@
 ## Benchmarking and profiling
 
 **Resources**
+
 - [Julia Microbenchmarks against other programming languages](https://julialang.org/benchmarks/)
 
 **Packages**
+
 - [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
 - [ConicBenchmarkUtilities.jl](https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl) : Julia utilities for the conic benchmark format for mathematical optimization.
 - [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) : A module for CPU timing.
@@ -71,6 +76,7 @@
 - [SimplexBenchmarks](https://github.com/mlubin/SimplexBenchmarks) : Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
 - [StatProfilerHTML.jl](https://github.com/tkluck/StatProfilerHTML.jl) : Show Julia profiling data in an explorable HTML page.
 
+---
 
 - 🏚️ [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) : A package for computing simple benchmarks, comparing functions and packages.
 - 🏚️ [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) : A lightweight Julia package for simple performance benchmark.
@@ -92,6 +98,7 @@
 - [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) : Compile your Julia Package.
 - [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl) : Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
 
+---
 
 - 🏚️ [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) : A Julia package for reading compiler options.
 - 🏚️ [CompilerTools.jl](https://github.com/IntelLabs/CompilerTools.jl) : The CompilerTools package, part of the High Performance Scripting project at Intel Labs.

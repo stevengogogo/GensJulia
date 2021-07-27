@@ -28,10 +28,10 @@
 - [Requires.jl](https://github.com/MikeInnes/Requires.jl) : Lazy code loading for Julia.
 - [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
 
-
 [PkgTemplates.jl]: https://github.com/invenia/PkgTemplates.jl
 [PkgSkeleton.jl]: https://github.com/tpapp/PkgSkeleton.jl
 
+---
 
 - 🏗️ [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) : Julia Package Development Kit.
 - 🏚️ [attobot](https://github.com/attobot/attobot) : Julia package release bot. Use `Registrator.jl` now.
@@ -80,18 +80,20 @@ Bridging pre-1.0 Julia code to 1.0+.
 ## Test-driven develpment
 
 **See also**
+
 - [Unittest in Julia](https://docs.julialang.org/en/v1/stdlib/Test/)
 - [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 - [Test driven development (TDD)](https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia.
 
-
 **Packages**
+
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) : tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov. Its base library is [CoverageBase.jl](https://github.com/JuliaCI/CoverageBase.jl).
 - [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
 - [MockAWS.jl](https://github.com/JuliaCloud/MockAWS.jl) : patch functions for testing all AWS services.
 - [Mocking.jl](https://github.com/invenia/Mocking.jl) : allowing temporary overwriting of Julia methods for testing purposes.
 - [Watcher.jl](https://github.com/rened/Watcher.jl): auto-run unit tests every time a file gets saved.
 
+---
 
 - 🏚️ [BaseTestDeprecated.jl](https://github.com/IainNZ/BaseTestDeprecated.jl) : Provides the `Base.Test` functionality removed in `Julia v0.5`.
 - 🏚️ [FactCheck.jl](https://github.com/zachallaun/FactCheck.jl) : Midje-like testing framework written for Julia.

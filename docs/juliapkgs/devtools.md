@@ -17,6 +17,7 @@
 - [ToggleableAsserts.jl](https://github.com/MasonProtter/ToggleableAsserts.jl) : Assertions that can be turned on or off with a switch, without runtime penalty when they're off.
 - [Traceur.jl](https://github.com/MikeInnes/Traceur.jl) : codified version of the [Julia performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/).
 
+---
 
 - 🏚️ [Debug.jl](https://github.com/toivoh/Debug.jl) : Prototype interactive debugger for Julia.
 - 🏗️ [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) : Simple utilities for debugging julia code.
@@ -36,6 +37,7 @@
 - [sphinx-julia](https://github.com/bastikr/sphinx-julia) : Documenting Julia projects with Sphinx.
 - [Weave.jl](https://github.com/JunoLab/Weave.jl) : A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave.
 
+---
 
 - 🏚️ [Docile.jl](https://github.com/MichaelHatherly/Docile.jl) : Experimental Julia package documentation system.
 - 🏚️ [Doxygen](https://github.com/jiahao/julia/tree/cjh/doxygen) : A branch providing support for documenting in Julia using Doxygen and doxyfilter.jl tools.
@@ -60,6 +62,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) : Syntax highlighting and other enhancements for the Julia REPL.
 - [Reminisce](https://github.com/JuliaIDE/Reminisce) : Sublime-style saving of tabs and content for Light Table.
 
+---
 
 - 🏚️ [Acorn.jl](https://github.com/nick-paul/Acorn.jl) : A pure julia text editor.
 - 🏚️ [BlinkEditor.jl](https://github.com/EricForgy/BlinkEditor.jl) : A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
@@ -76,7 +79,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
 ### Atom
 
-!> The deelopment is shifted to Julia VSCode. Juno (Julia in Atom) is currently in maintenance mode.
+> The development is shifted to Julia VSCode. Juno (Julia in Atom) is currently in maintenance mode.
 
 - [Atom.jl](https://github.com/JunoLab/Atom.jl) : Julia Client for Atom. Maintenance-only mode.
 - [atom-language-julia](https://github.com/JuliaLang/atom-language-julia) : A Julia language support package for the Atom editor.
@@ -108,6 +111,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 - [NBInclude.jl](https://github.com/stevengj/NBInclude.jl) : Import code from IJulia Jupyter notebooks into Julia programs.
 - [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia) : is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend.
 
+---
 
 - 🏗️ [WeavePynb.jl](https://github.com/jverzani/WeavePynb.jl) : Simple package to convert markdown files to IJulia notebooks.
 - 🏚️ [Autoreload.jl](https://github.com/malmaud/Autoreload.jl) : A package for autoreloading files for interactive work in IJulia.
@@ -121,7 +125,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
 [📖 web IDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 
-See also
+**See also**
 
 - [Google colab Julia notebook](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb)
 - [Julia Hub](https://juliahub.com/ui/index.html)
@@ -131,12 +135,14 @@ See also
 - [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
 
 **Packages**
+
 - [CodeTools.jl](https://github.com/JunoLab/CodeTools.jl) : A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
 - [DevTools.jl](https://github.com/JunoLab/DevTools.jl) : provides a couple of useful graphical tools for working with Julia, built on top of Blink.jl.
 - [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl) : A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
 - [LanguageServer.jl](https://github.com/julia-vscode/LanguageServer.jl) : An implementation of the Microsoft Language Server Protocol for the julia language.
 - [LNR.jl](https://github.com/JunoLab/LNR.jl) : Line numbering reader.
 
+---
 
 - 🏚️ [Media.jl](https://github.com/JunoLab/Media.jl) : A display system which enables the user handle multiple input/output devices and decide what media types get displayed where. (No `Project.toml`)
 - 🏚️ [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
@@ -148,6 +154,7 @@ See also
 - [Electron.jl](https://github.com/davidanthoff/Electron.jl) : Julia wrapper for [Electron](https://electronjs.org/) with a more minimalistic feature set than `Blink.jl`.
 - [Tk.jl](https://github.com/JuliaGraphics/Tk.jl) : The Julia interface for the Tk windowing toolkit.
 
+---
 
 - 🏚️ [Canvas.jl](https://github.com/shashi/Canvas.jl) : Composable UIs in Julia.
 - 🏚️ [JGUI.jl](https://github.com/jverzani/JGUI.jl) : Simplified interface for making GUI's in Julia.

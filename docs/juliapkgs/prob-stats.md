@@ -38,6 +38,7 @@
 
 - [BayesNets.jl](https://github.com/sisl/BayesNets.jl) : Bayesian Networks for Julia.
 
+---
 
 - 🏚️ [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia. (No `Project.toml`)
 - 🏚️ [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) : Implementation of data fusion methods.
@@ -58,6 +59,7 @@
 - [QuantileRegression.jl](https://github.com/pkofod/QuantileRegressions.jl) : Quantile regression in Julia.
 - [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) : Statistical Models with Regularization in Pure Julia.
 
+---
 
 - 🏚️ [FLSA.jl](https://github.com/EQt/FLSA.jl) : Computing the Fused LASSO Signal Approximator to denoise data.
 - 🏚️ [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) : A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
@@ -159,6 +161,7 @@
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : Topic Models are Bayesian, hierarchical mixture models of discrete data.
 - [TSne.jl](https://github.com/lejon/TSne.jl) : [T-SNE visualisation technique](https://lvdmaaten.github.io/tsne/).
 
+---
 
 - 🏚️ [CTDE.jl](https://github.com/adolgert/CTDE.jl) : Continuous time, discrete event system in Julia.
 - 🏚️ [DirichletProcessMixtures.jl](https://github.com/sbos/DirichletProcessMixtures.jl) : This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.

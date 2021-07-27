@@ -18,6 +18,7 @@ Economics and Finance are part of [📖 Actuarial science](https://en.wikipedia.
 - [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :Julia implementation of [QuantEcon](https://quantecon.org/quantecon-jl/) routines.
 - [SchumakerSpline.jl](https://github.com/s-baumann/SchumakerSpline.jl) : An equivalent Julia package to R's [schumaker](https://cran.r-project.org/web/packages/schumaker/index.html) to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
 
+---
 
 - 🏚️ [copula.jl](https://github.com/floswald/copula.jl) : Julia Copula package implements the gaussian AR1 copula.
 - 🏚️ [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) : This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
@@ -36,6 +37,7 @@ Economics and Finance are part of [📖 Actuarial science](https://en.wikipedia.
 - [InterestRates.jl](https://github.com/felipenoris/InterestRates.jl) : Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures.
 - [MarketData.jl](https://github.com/JuliaQuant/MarketData.jl) : Time series market data
 
+---
 
 - 🏚️ [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) : Asset Management.
 - 🏚️ [BigFinance.jl](https://github.com/jiahao/BigFinance.jl) : Analysis of high frequency quantitative data. [flashcrash-ui](https://github.com/shashi/flashcrash-ui) is the UI for `BigFinance.jl`.

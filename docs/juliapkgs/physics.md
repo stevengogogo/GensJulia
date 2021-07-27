@@ -3,6 +3,7 @@
 > Physics simulations, Quantum physics
 
 **Organizations**
+
 - [Julia Dynamics](https://github.com/JuliaDynamics)
 - [Julia Energy](https://github.com/JuliaEnergy)
 - [Julia Physics](https://github.com/JuliaPhysics)
@@ -26,16 +27,19 @@
 ## Electromagnetism
 
 **Resources**
+
 - [📖 Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
 - [📖 Optics](https://en.wikipedia.org/wiki/Optics)
 
 
 **Packages**
+
 - [Peacock.jl](https://github.com/sp94/Peacock.jl) : Photonic crystals in Julia.
 - [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl) : A package for simulation of physical optics.
 - [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl) : Toolkit for analysis of radiation spectra in Julia.
 - [SpikeSorting.jl](https://github.com/paulmthompson/SpikeSorting.jl) : Online spike sorting methods in Julia.
 
+---
 
 - 🏚️ [Dipole julia](https://github.com/manuamador/Dipole_julia) : A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
 - 🏚️ [Reverb Julia](https://github.com/manuamador/Reverb_Julia) : A julia version of an electromagnetic reverberation chamber model based on image theory.
@@ -45,10 +49,12 @@
 ## Computational Fluid Dynamics (CFD)
 
 **Resources**
+
 - [📖 Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
 - Blog post about [CFD tutorial injulia](https://www.juliabloggers.com/cfd-tutorial-in-julia/)
 
 **Packages**
+
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) : Fast and friendly fluid dynamics on CPUs and GPUs.
 - 🏚️ [hydro](https://github.com/natj/hydro) : Fairly simple, relatively small & mildly interesting hydrodynamic code.
 - 🏚️ [LatBo.jl](https://github.com/UCL/LatBo.jl) : [Lattice-Boltzmann](http://www.scholarpedia.org/article/Lattice_Boltzmann_Method) method in Julia.
@@ -64,6 +70,7 @@
 - [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) : A Julia package for computing Wigner symbols and related quantities.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans.
 
+---
 
 - 🏚️ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) : An Adiabatic Computation Simulator for quantum computation.
 - 🏚️ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) : A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
@@ -75,7 +82,6 @@
 
 - 🏚️ [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) : Drawing inexact samples from the Ising model using a Gibbs sampler.
 - 🏚️ [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) : A naive and first try to implement a 2D Square Ising Model using Julia.
-
 
 ## Thermodynamics
 

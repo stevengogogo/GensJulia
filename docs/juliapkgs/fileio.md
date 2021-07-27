@@ -3,6 +3,7 @@
 > General file read / write libraries
 
 **Organizations**
+
 - [Julia IO](https://github.com/JuliaIO)
 
 ## General IO
@@ -33,6 +34,8 @@ Similar to `pickle` in Python.
 - [Libz.jl](https://github.com/BioJulia/Libz.jl) : Yet another zlib interface for Julia.
 - [ZipFile.jl](https://github.com/fhs/ZipFile.jl) : Read/Write ZIP archives in Julia.
 
+---
+
 - 🏚️ [gzip.jl](https://github.com/jvns/gzip.jl) : GunZip in Julia.
 - 🏚️ [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) : A Julia wrapper for the snappy library - a compression/decompression library focusing on speed. (No `Project.toml`)
 - 🏚️ [Zlib.jl](https://github.com/dcjones/Zlib.jl) : Zlib bindings for Julia.
@@ -58,6 +61,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - [Shapefile.jl](https://github.com/Keno/Shapefile.jl) : Parsing `.shp` files in Julia.
 - [YAML.jl](https://github.com/JuliaData/YAML.jl) : A flexible data serialization format that is designed to be easily read and written by human beings.
 
+---
 
 - 🏚️ [AIDA.jl](https://github.com/jstrube/AIDA.jl) : This package implements simple readers for legacy AIDA files.
 - 🏚️ [BDF.jl](https://github.com/codles/BDF.jl) by @codles : A fork of BDF.jl that has started to add support for [EDF](http://www.edfplus.info/specs/edf.html) files.
@@ -88,6 +92,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - [JSONTables.jl](https://github.com/JuliaData/JSONTables.jl) : `JSON3.jl` + `Tables.jl`.
 - [LazyJSON.jl](https://github.com/JuliaCloud/LazyJSON.jl) : LazyJSON is an interface for reading JSON data in Julia programs.
 
+---
 
 - 🏚️ [Json2.jl](https://github.com/ddolgi/Json2.jl) : JSON encoder/decoder on Julia.
 - 🏚️ [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) : JSON library for Julia using ultraJSON.
@@ -119,6 +124,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - [mzXML.jl](https://github.com/timholy/mzXML.jl) : A Julia package for reading mass spectrometry mzXML files.
 - [XMLDict.jl](https://github.com/JuliaCloud/XMLDict.jl) : This package implements a simple Associative interface for XML documents.
 
+---
 
 - 🏚️ [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) : Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 - 🏚️ [MusicXML.jl](https://github.com/kevinsa5/MusicXML.jl) : A parser for MusicXML files, designed to be used with the MXMLSynth library.

@@ -1,10 +1,14 @@
 # Artificial intelligence in Julia
 
-- [Julia ML](https://juliaml.github.io) organization.
+> Artificial intelligence and machine learning
+
+**Organization**
+
+- [Julia ML](https://juliaml.github.io).
 
 ## Machine Learning and Neural Networks
 
-> General machine learning frameworks and Neural Networks
+General machine learning frameworks and Neural Networks
 
 - [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia.
 - [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) : Restricted Boltzmann Machines and Deep Belief Networks in Julia
@@ -37,11 +41,8 @@
 - [TopoChains.jl](https://github.com/irhum/TopoChains.jl) : A flexible data structure for multi-input multi-output models.
 - [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) : Truncated singular value decomposition with partial reorthogonalization.
 - [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) : Utilities to efficiently track learning curves or other optimization information.
-
-
 [FastAI.jl]: https://github.com/FluxML/FastAI.jl
-
-
+---
 - 🏗️ [SpectralClustering.jl](https://github.com/lucianolorenti/SpectralClustering.jl) : Spectral clustering algorithms written in Julia.
 - 🏗️ [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) : Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.
 - 🏚️ [ANN.jl](https://github.com/EricChiang/ANN.jl) : Julia artificial neural networks
@@ -108,6 +109,7 @@
 - [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) : Julia implementation of the scikit-learn API via `PyCall.jl`. [Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
 - [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : a Julia interface of [XGBoost](https://github.com/dmlc/xgboost).
 
+---
 
 - 🏚️ [FANN.jl](https://github.com/gasagna/FANN.jl) : A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 - 🏚️ [Keras.jl](https://github.com/invenia/Keras.jl) @ invenia: A julia wrapper for keras.io.
@@ -134,7 +136,7 @@
 - [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) : Classical equations and diagrams in machine learning by @soulmachine.
 - [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) : Feed-forward MLP neural network implementation.
-- A [Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
+- [A Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
 
 ## Natural language processing (NLP)
 
@@ -155,11 +157,7 @@
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : Topic models are Bayesian, hierarchical mixture models of discrete data.
 - [Word2Vec.jl](https://github.com/JuliaText/Word2Vec.jl) : Julia interface to word2vec.
 - [WordNet.jl](https://github.com/JuliaText/WordNet.jl) : A Julia package for Princeton's WordNet®.
-
-
-[TextAnalysis.jl]: https://github.com/JuliaText/TextAnalysis.jl
-
-
+---
 - 🏚️ [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 - 🏚️ [allen](https://github.com/ninjin/allen) : A syntacto-semantic natural language parser.
 - 🏚️ [DPL.jl](https://github.com/quxiaofeng/DPL.jl) : Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. <https://sites.google.com/site/shuhanggu/home>
@@ -177,6 +175,7 @@
 - 🏚️ [Text.jl](https://github.com/mit-nlp/Text.jl) : Numerous tools for text processing.
 - 🏚️ [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) : Parser with beginners and enders and infix.
 
+[TextAnalysis.jl]: https://github.com/JuliaText/TextAnalysis.jl
 
 ### English NLP
 
@@ -196,6 +195,7 @@
 
 - [MFCC.jl](https://github.com/JuliaDSP/MFCC.jl) : Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
 - [WORLD.jl](https://github.com/r9y9/WORLD.jl) : A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system.
+---
 - 🏚️ [MelGeneralizedCepstrums.jl](https://github.com/r9y9/MelGeneralizedCepstrums.jl) : It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia.
 - 🏚️ [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 - 🏚️ [SPTK.jl](https://github.com/r9y9/SPTK.jl) : A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.

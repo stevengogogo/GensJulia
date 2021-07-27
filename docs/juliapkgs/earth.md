@@ -3,6 +3,7 @@
 > Climate modeling, ecology, cartography, GIS, Meteorology, etc.
 
 **Organizations**
+
 - [Julia space](https://github.com/JuliaSpace)
 - [Julia Geo](https://github.com/JuliaGeo)
 - [Julia earth](https://github.com/JuliaEarth)
@@ -65,6 +66,7 @@
 - [OpenStreetMapX.jl](https://github.com/pszufe/OpenStreetMapX.jl) : OpenStreetMap support for Julia 1.0.
 - [Turf.jl](https://github.com/philoez98/Turf.jl) : A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 
+---
 
 - 🏚️ [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 - 🏚️ [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) : A library for measuring approximate distance and location given latitudes and longitudes.

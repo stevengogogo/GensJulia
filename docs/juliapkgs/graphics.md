@@ -3,6 +3,7 @@
 > Computer Vision, Graphics, games, geometry
 
 **Organization**
+
 - [Julia Geometry](https://github.com/JuliaGeometry)
 - [Julia GL](https://github.com/JuliaGL)
 - [Julia Graphics](https://github.com/JuliaGraphics)
@@ -30,6 +31,7 @@
 - [VideoIO.jl](https://github.com/JuliaIO/VideoIO.jl) : Reading and writing of video files in Julia via ffmpeg.
 - [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl) : Automated integrated regression tests for graphics libraries.
 
+---
 
 - 🏚️ [Blending.jl](https://github.com/dejakaymac/Blending.jl).
 - 🏚️ [Ccv.jl](https://github.com/dhotson/Ccv.jl) : Julia bindings for libccv's SIFT image feature detection.
@@ -79,7 +81,6 @@
 
 - 🏚️ [OpenCV.jl](https://github.com/JuliaOpenCV/OpenCV.jl) : The OpenCV (C++) interface for Julia.
 
-
 ### OpenGL and Vulkan API
 
 - [MeshCat.jl][] : Julia bindings to the MeshCat WebGL viewer.
@@ -87,6 +88,7 @@
 - [Videre](https://github.com/Gnimuc/Videre) : OpenGL/Vulkan examples written in Julia.
 - [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) : Wrapper of Vulkan, Khronos next generation OpenGL API.
 
+---
 
 - 🏚️ [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) : A 3D graphics package with a Julia API, built on OpenGL.
 - 🏚️ [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) : A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
@@ -144,6 +146,8 @@
 - [VoronoiCells.jl](https://github.com/JuliaGeometry/VoronoiCells.jl) : Manipulate Voronoi cells in 2D.
 - [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) : Fast and robust Voronoi & Delaunay tessellation creation with Julia.
 
+---
+
 - 🏚️ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) : Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
 - 🏚️ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) : Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 - 🏚️ [CHull2d.jl](https://github.com/cc7768/CHull2d.jl) : Variety of algorithms for taking the convex hull of 2 dimensional sets of points.
@@ -164,6 +168,7 @@ algebra library in Julia.
 - [JuliaKara.jl](https://github.com/sebastianpech/JuliaKara.jl) : A julia port of the learning environment [Kara](http://www.swisseduc.ch/informatik/karatojava/).
 - [SimpleDirectMediaLayer.jl](https://github.com/JuliaMultimedia/SimpleDirectMediaLayer.jl) : Bindings for the Simple DirectMedia Layer ([SDL](https://www.libsdl.org/)) library.
 
+---
 
 - 🏚️ [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) : ArcadeLearningEnvironment Julia interface.
 - 🏚️ [eve.jl](https://github.com/barcharcraz/eve.jl) : Julia library for interacting with Eve Online.

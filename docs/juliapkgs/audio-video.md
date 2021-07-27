@@ -1,11 +1,13 @@
 # Audio and Video processing in Julia
 
 **Organizations**
+
 - [JuliaAudio](https://github.com/JuliaAudio)
 - [JuliaMusic](https://github.com/JuliaMusic)
 
 
 **Packages**
+
 - [FFMPEG.jl][] : Julia Package for the FFMPEG builder binaries.
 - [FLAC.jl](https://github.com/JuliaIO/FLAC.jl) : Julia bindings for libFLAC.
 - [LibSndFile.jl](https://github.com/JuliaAudio/LibSndFile.jl) : A wrapper for [libsndfile](http://www.mega-nerd.com/libsndfile/), and supports a wide variety of file and sample formats.
@@ -22,9 +24,9 @@
 - [SampledSignals.jl](https://github.com/JuliaAudio/SampledSignals.jl) : Core types for regularly-sampled multichannel signals like Audio, RADAR and Software-Defined Radio.
 - [VideoIO.jl](https://github.com/JuliaIO/VideoIO.jl) : Reading and writing of video files in Julia via [FFMPEG.jl][].
 
-
 [FFMPEG.jl]: https://github.com/JuliaIO/FFMPEG.jl
 
+---
 
 - 🏚️ [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) : is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
 - 🏚️ [gr-juliaffi](https://github.com/JayKickliter/gr-juliaffi) : A GNU Radio package that lets you write custom signal processing blocks in Julia.
