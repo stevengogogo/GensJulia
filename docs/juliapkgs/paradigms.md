@@ -157,6 +157,5 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Style Guidelines
 
-[Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/)
-
+- [Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/)
 - [BlueStyle](https://github.com/invenia/BlueStyle) : A Julia style guide that lives in a blue world.
