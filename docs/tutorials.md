@@ -13,9 +13,9 @@
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 - [QuantEcon](https://quantecon.org/quantecon-jl/) and the [code notebooks](https://github.com/QuantEcon/quantecon-notebooks-julia).
 - [Julia concise tutorial](https://github.com/sylvaticus/juliatutorial)
-- [Intro to Julia by Chris Rackauckas](https://ucidatascienceinitiative.github.io/IntroToJulia/)
+- [Intro to Julia](https://ucidatascienceinitiative.github.io/IntroToJulia/) by Chris Rackauckas.
 - [Introducing Julia wikibook](https://en.wikibooks.org/wiki/Introducing_Julia)
-
+- [Julia Data Science](https://juliadatascience.io/), an open source and open access book on how to do Data Science using Julia.
 
 ## Learn Julia by examples
 
