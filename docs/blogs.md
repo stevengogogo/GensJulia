@@ -5,7 +5,7 @@
 - Chris Rackauckas [blog posts](http://www.stochasticlifestyle.com/) mainly about modeling and simulation.
 - [Blog by Bogumił Kamiński](https://bkamins.github.io/) focuses on `DataFrames.jl`
 
-## Single blog posts or articles
+# Single blog posts or articles
 
 - LWN article: An introduction to the Julia language - [Part 1](https://lwn.net/Articles/763626/).
 - [Why 1-based indexing is OK](https://craftofcoding.wordpress.com/2017/03/12/why-1-based-indexing-is-ok/) by Michael Wirth.

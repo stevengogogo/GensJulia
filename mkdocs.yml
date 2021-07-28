@@ -91,7 +91,6 @@ nav:
     - Chemistry: juliapkgs/chem.md
     - Concurrency: juliapkgs/concurrency.md
     - Datascience: juliapkgs/datascience.md
-    - DevOps: juliapkgs/devops.md
     - Development Tools: juliapkgs/devtools.md
     - Data structures and Algorithms: juliapkgs/dsa.md
     - Earth science: juliapkgs/earth.md
