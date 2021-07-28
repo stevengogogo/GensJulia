@@ -62,11 +62,23 @@ See [Julia Packaging](https://github.com/JuliaPackaging) team. The binary reposi
 
 [Yggdrasil]: https://github.com/JuliaPackaging/Yggdrasil
 
-### Build Julia Executables
+### Compilers
 
 - [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) : Compile your Julia enviironment into a system image or a standalone binary.
 - [SnappyBuilder](https://github.com/davidanthoff/SnappyBuilder) : BinaryBuilder for `libsnappy` to build [julia snap](https://snapcraft.io/julia).
 - 🏚️ [BuildExecutable.jl](https://github.com/dhoegh/BuildExecutable.jl) : Build standalone executables from a Julia script.
+- [Clang.jl](https://github.com/ihnorton/Clang.jl) : Julia interface to libclang and C wrapper generator.
+- [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) : A resurrected LLVM C Backend, with improvements for Julia.
+
+---
+
+- 🏚️ [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) : A Julia package for reading compiler options.
+- 🏚️ [CompilerTools.jl](https://github.com/IntelLabs/CompilerTools.jl) : The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
+- 🏚️ [Eglib.jl](https://github.com/ihnorton/Eglib.jl) : Clang.jl wrapping example, C code from @kindlmann.
+- 🏚️ [JITTools.jl](https://github.com/Keno/JITTools.jl) : Tools for working with in-memory object.
+- 🏚️ [julia-icc-travis](https://github.com/sunoru/julia-icc-travis) : Build Julia using icc on the Travis CI.
+- 🏚️ [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) : A Julia package for LLVM.
+- 🏚️ [ParallelAccelerator.jl](https://github.com/IntelLabs/ParallelAccelerator.jl) : The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
 
 ### Julia developement helpers
 

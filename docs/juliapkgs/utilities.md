@@ -92,19 +92,3 @@
 - 🏚️ [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) : Julia module to test the performance of sorting algorithms.
 - 🏚️ [USERTime.jl](https://github.com/christianpeel/USERTime.jl) : A Julia package for measuring elapsed user time.
 
-## Compilers
-
-- [Clang.jl](https://github.com/ihnorton/Clang.jl) : Julia interface to libclang and C wrapper generator.
-- [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) : A resurrected LLVM C Backend, with improvements for Julia.
-- [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) : Compile your Julia Package.
-- [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl) : Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
-
----
-
-- 🏚️ [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) : A Julia package for reading compiler options.
-- 🏚️ [CompilerTools.jl](https://github.com/IntelLabs/CompilerTools.jl) : The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
-- 🏚️ [Eglib.jl](https://github.com/ihnorton/Eglib.jl) : Clang.jl wrapping example, C code from @kindlmann.
-- 🏚️ [JITTools.jl](https://github.com/Keno/JITTools.jl) : Tools for working with in-memory object.
-- 🏚️ [julia-icc-travis](https://github.com/sunoru/julia-icc-travis) : Build Julia using icc on the Travis CI.
-- 🏚️ [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) : A Julia package for LLVM.
-- 🏚️ [ParallelAccelerator.jl](https://github.com/IntelLabs/ParallelAccelerator.jl) : The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
