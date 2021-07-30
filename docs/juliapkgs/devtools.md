@@ -93,7 +93,6 @@ Bridging pre-1.0 Julia code to 1.0+.
 ## Test-driven develpment (TDD)
 
 - [Unittest in Julia](https://docs.julialang.org/en/v1/stdlib/Test/)
-- [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 - [Test driven development (TDD)](https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia.
 
 **Packages**
@@ -102,7 +101,9 @@ Bridging pre-1.0 Julia code to 1.0+.
 - [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
 - [MockAWS.jl](https://github.com/JuliaCloud/MockAWS.jl) : patch functions for testing all AWS services.
 - [Mocking.jl](https://github.com/invenia/Mocking.jl) : allowing temporary overwriting of Julia methods for testing purposes.
-- [Watcher.jl](https://github.com/rened/Watcher.jl): auto-run unit tests every time a file gets saved.
+- [Watcher.jl](https://github.com/rened/Watcher.jl) : auto-run unit tests every time a file gets saved.
+- [UnitTestDesign.jl](https://github.com/adolgert/UnitTestDesign.jl) : chooses effiennt combinations functional arguments to maximize test coverage.
+
 
 ---
 
@@ -143,7 +144,7 @@ Use the built-in [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) fac
 - [Rebugger.jl](https://github.com/timholy/Rebugger.jl) : An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks (see [Gallium](https://github.com/Keno/Gallium.jl)), but it can trace execution via the manipulation of Julia expressions.
 - [Suppressor.jl](https://github.com/Ismael-VC/Suppressor.jl) :  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
 - [ToggleableAsserts.jl](https://github.com/MasonProtter/ToggleableAsserts.jl) : Assertions that can be turned on or off with a switch, without runtime penalty when they're off.
-- [Traceur.jl](https://github.com/MikeInnes/Traceur.jl) : codified version of the [Julia performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/).
+- [Traceur.jl](https://github.com/MikeInnes/Traceur.jl) : codified version of the [Julia performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/). You run your code, it tells you about any obvious performance traps.
 
 ---
 
