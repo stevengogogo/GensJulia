@@ -38,8 +38,14 @@
 
 ## Simulation Methods
 
-Overview of Julia packages for simulation methods related to chemistry and [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),
-such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics), [Quantum dynamics](https://en.wikipedia.org/wiki/Quantum_dynamics) or electronic-structure theory. For general modeling and simulation, see [Modeling and simulation](modeling.md) section
+> For general modeling and simulation, see [Modeling and simulation](modeling.md) section
+
+- [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
+- [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics)
+- [Quantum dynamics](https://en.wikipedia.org/wiki/Quantum_dynamics)
+- [Julia molecular simulation](https://juliamolsim.github.io)
+
+---
 
 - [ACE.jl](https://github.com/ACEsuit/ACE.jl) : Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
 - [Elsa.jl](https://github.com/pablosanjose/Elsa.jl) : Simulation of tight-binding models on arbitrary lattices
