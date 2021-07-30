@@ -31,6 +31,8 @@ Alternatives to downloading an extracting [official Julia binaries](http://julia
 ## Community
 
 [The Julia community](http://julialang.org/community/) is distributed over various communication mediums
+
+
 - [Julia discourse](https://discourse.julialang.org/) forums for all technical discussions.
 - [Julia on slack](https://join.slack.com/t/julialang/shared_invite/zt-nmal0i0x-LcYEtdnTameGsXmBzMzgog)
 - [Julia GitHub Groups](https://julialang.org/community/organizations/) : a non-comprehensive list of Julia GitHub groups grouped by domain.
