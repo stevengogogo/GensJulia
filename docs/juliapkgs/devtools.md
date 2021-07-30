@@ -184,12 +184,14 @@ Integrated development environment.
 
 See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
-- [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) : A jEdit mode for Julia.
+- [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) : A [jEdit](http://jedit.org/) mode for Julia.
 - [Julia VSCode](https://www.julia-vscode.org/) : A powerful, free IDE for the Julia language.
 - [Julia.tmbundle](https://github.com/JuliaLang/Julia.tmbundle) : Julia language support for TextMate 2 (and Sublime Text).
 - [Liclipse](https://www.liclipse.com/) : LiClipse, Eclipse plus some customizations, supports Julia.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) : Syntax highlighting and other enhancements for the Julia REPL.
 - [Reminisce](https://github.com/JuliaIDE/Reminisce) : Sublime-style saving of tabs and content for Light Table.
+- [JuliaMono](https://github.com/cormullion/juliamono) : a monospaced font for Julia (and of course other languages).
+
 
 ---
 
