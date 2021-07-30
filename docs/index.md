@@ -39,8 +39,8 @@ Alternatives to downloading an extracting [official Julia binaries](http://julia
 - [Julia Reddit](http://www.reddit.com/r/Julia/)
 - [Julia in Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 - [Julialang news on Twitter](https://twitter.com/julialang_news)
-- [JuliaCon](http://juliacon.org/) is an annual technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io).
-- Julia user groups in [meetup.com](https://www.meetup.com/topics/julia/).
+- [JuliaCon](http://juliacon.org/) is an annual technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The website is hoste at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). It is created using `Franklin.jl`, and is served by Github pages.
+- [Julia user groups](https://www.meetup.com/topics/julia/) in `meetup.com`.
 - [Julia youtube channel](https://www.youtube.com/user/JuliaLanguage)
 
 
@@ -49,7 +49,7 @@ To contribute to the Julia language, see [how-to contribute](https://github.com/
 
 ## Research papers using Julia
 
-[Julia Research](https://julialang.org/research/)
+[Julia Research](https://julialang.org/research/): a list of publications using Julia.
 
 - [ReScience journal](https://github.com/ReScience/ReScience) and its [Wiki](https://github.com/ReScience/ReScience/wiki) for reproducible science.
 - [Journal of Open source software](https://joss.theoj.org)
