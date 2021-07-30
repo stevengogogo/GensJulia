@@ -206,6 +206,7 @@ Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/519
 
 - [Accessors.jl](https://github.com/JuliaObjects/Accessors.jl) : updating immutable data simple. It is the successor of `Setfield.jl`.
 - [Bijections.jl](https://github.com/scheinerman/Bijections.jl) : Bijection datatype for Julia that blocks assigning the same value to two different keys.
+- [Dictionaries.jl](https://github.com/andyferris/Dictionaries.jl) : An alternative interface for dictionaries in Julia, for improved productivity and performance.
 - [DispatchedTuples.jl](https://github.com/charleskawczynski/DispatchedTuples.jl): `Dispatched Tuples` are like immutable dictionaries (so, they're technically more like NamedTuples) except that the keys are instances of types. Also, because DispatchedTuples are backed by tuples, they are GPU-friendly.
 - [ExtractMacro.jl](https://github.com/carlobaldassi/ExtractMacro.jl) : Provides a convenience `@extract` macro to extract fields from composite types.
 - [NamedTupleTools.jl](https://github.com/JeffreySarnoff/NamedTupleTools.jl) : utilities for working with NamedTuples.
