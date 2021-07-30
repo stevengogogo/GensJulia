@@ -4,11 +4,12 @@
 
 **Organization**
 
-- [Julia ML](https://juliaml.github.io).
+- [Julia ML](https://juliaml.github.io)
+- [FluxML](https://github.com/FluxML/)
 
 ## Machine Learning and Neural Networks
 
-General machine learning frameworks and Neural Networks
+> General machine learning frameworks and Neural Networks
 
 - [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia.
 - [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) : Restricted Boltzmann Machines and Deep Belief Networks in Julia
@@ -16,7 +17,7 @@ General machine learning frameworks and Neural Networks
 - [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) : Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
 - [EasyML.jl](https://github.com/OML-NPA/EasyML.jl) : Using machine learning in Julia through a graphical user interface.
-- [FastAI.jl][] : Repository of best practices for deep learning in Julia, inspired by [fastai](https://github.com/fastai/fastai).
+- [FastAI.jl][] : Repository of best practices for deep learning in Julia, inspired by [fastai](https://github.com/fastai/fastai). [Showcase](https://lorenzoh.github.io/posts/fastaijl_ecosystem.html)
 - [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. See also [Flux model-zoo](https://github.com/FluxML/model-zoo).
 - [FluxTraining.jl](https://github.com/FluxML/FluxTraining.jl) : A powerful, extensible neural net training library. The training backend for [FastAI.jl][].
 - [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) : Utility functions for the FunctionalData package, mainly from the area of computer vision and machine learning.
