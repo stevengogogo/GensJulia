@@ -361,6 +361,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [Cuba.jl](https://github.com/giordano/Cuba.jl) : Library for multidimensional numerical integration with the [Cuba library](http://www.feynarts.de/cuba/).
 - [Cubature.jl](https://github.com/JuliaMath/Cubature.jl) : One- and multi-dimensional adaptive integration routines for the Julia language.
 - [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) : Julia package for representing dual numbers and for performing dual algebra.
+- [Enzyme.jl](https://github.com/wsmoses/Enzyme.jl) : Julia bindings for the Enzyme automatic differentiator. The Enzyme project is a tool for performing reverse-mode automatic differentiation (AD) of statically-analyzable LLVM IR.
 - [FastGaussQuadrature.jl](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) : Computes Gauss quadrature rules to 16-digit precision (so far Legendre, Jacobi, Lobatto, Radau).
 - [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) : estimating derivatives with [finite differences](https://en.wikipedia.org/wiki/Finite_difference).
 - [FiniteDiff.jl](https://github.com/JuliaDiff/FiniteDiff.jl) : Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support.
