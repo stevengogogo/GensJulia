@@ -80,11 +80,11 @@ extra_javascript:
 # Page tree
 nav:
   - Home:
-    - Install Julia: index.md
-    - Julia tutorials: tutorials.md
-    - Julia blogs: blogs.md
+    - How to install Julia: index.md
+    - List of Julia tutorials: tutorials.md
+    - List of Julia blogs: blogs.md
   - Julia packages:
-    - Prologue: juliapkgs/index.md
+    - juliapkgs/index.md
     - Artificial intelligence: juliapkgs/ai.md
     - Audio and Video processing: juliapkgs/audio-video.md
     - Biology: juliapkgs/bio.md

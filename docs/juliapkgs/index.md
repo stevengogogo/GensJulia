@@ -11,14 +11,11 @@ The package lists are collected from:
 - [Julia.jl][] (most entries)
 - [Package announcements](https://discourse.julialang.org/c/community/packages/47) from the Julia discourse forum.
 
-Non-existent packages, links (i.e. 404) and deprecated tutorials are removed.
+Non-existent packages, dead links, and deprecated tutorials are removed.
 
-Pre-1.0 and deprecated packages are marked as followed:
+Legends:
 
 - 🏚️ means the package may not support current versions (v1.0+) of Julia.
 - 🏗️ means the package may be a WIP.
-
-
-
 
 [Julia.jl]: https://github.com/svaksha/Julia.jl
