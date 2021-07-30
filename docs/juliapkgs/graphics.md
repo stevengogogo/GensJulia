@@ -28,6 +28,7 @@
 - [Porta.jl](https://github.com/iamazadi/Porta.jl) : This project helps with Eric Weinstein's the Graph-Wall-Tome (GWT) project.
 - [Reel.jl](https://github.com/shashi/Reel.jl) : Computations caught on camera.
 - [ShapeModels.jl](https://github.com/rened/ShapeModels.jl) : Statistical shape models / point distribution models.
+- [TiffImages.jl](https://github.com/tlnagy/TiffImages.jl) : Pure-Julia TIFF I/O.
 - [VideoIO.jl](https://github.com/JuliaIO/VideoIO.jl) : Reading and writing of video files in Julia via ffmpeg.
 - [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl) : Automated integrated regression tests for graphics libraries.
 
