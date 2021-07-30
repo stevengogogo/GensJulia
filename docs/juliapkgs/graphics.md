@@ -166,6 +166,7 @@ algebra library in Julia.
 - [ArcadeLearningEnvironment.jl](https://github.com/JuliaReinforcementLearning/ArcadeLearningEnvironment.jl) : This package is a Julia wrapper for the ArcadeLearningEnvironment ([ALE](https://github.com/mgbellemare/Arcade-Learning-Environment)).
 - [AtariAlgos.jl](https://github.com/tbreloff/AtariAlgos.jl) : Models/algorithms for use with the Arcade Learning Environment (ALE).
 - [CSFML.jl](https://github.com/JuliaMultimedia/CSFML.jl) : Julia wrapper for CSFML, the official binding of [SFML](https://github.com/SFML/SFML) for C.
+- [GameZero.jl](https://github.com/aviks/GameZero.jl) : Zero overhead game development library for the Julia programming language.
 - [JuliaKara.jl](https://github.com/sebastianpech/JuliaKara.jl) : A julia port of the learning environment [Kara](http://www.swisseduc.ch/informatik/karatojava/).
 - [SimpleDirectMediaLayer.jl](https://github.com/JuliaMultimedia/SimpleDirectMediaLayer.jl) : Bindings for the Simple DirectMedia Layer ([SDL](https://www.libsdl.org/)) library.
 
