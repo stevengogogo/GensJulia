@@ -52,6 +52,10 @@
 [📖 SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) is a kind of NP-complete (NPC) problems.
 
 - [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) : Provides Julia bindings to the popular SAT solver [picosat](http://fmv.jku.at/picosat/) by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
+- [SimpleSATSolver.jl](https://github.com/dpsanders/SimpleSATSolver.jl) : A (very) simple SAT solver in pure Julia.
+
+---
+
 - 🏚️ [dReal.jl](https://github.com/zenna/dReal.jl) : Nonlinear SMT solving using dReal.
 - 🏚️ [Z3.jl](https://github.com/zenna/Z3.jl) : This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
 
