@@ -45,6 +45,7 @@
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) : This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
 - [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) : Generate area-proportional Venn/Euler diagrams in Julia.
 - [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : 2D plotting for Julia.
+- [Javis.jl](https://github.com/Wikunia/Javis.jl): Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
 
 
 ## Base packages
