@@ -16,6 +16,16 @@
 - [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) : a Julia library that connects `CellML` models to the Scientific Julia ecosystem.
 - [ReactionNetworkImporters.jl](https://github.com/SciML/ReactionNetworkImporters.jl) : Loading BioNetGen `.net` file.
 
+## Symbolic Computation
+
+[📖 Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
+
+- [Reduce.jl](https://github.com/chakravala/Reduce.jl) : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
+- [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
+- [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) : Distributed High-Performance symbolic regression in Julia.
+- [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) : A fast and modern CAS for a fast and modern language.
+- [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of SymEngine.
+- [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to SymPy via PyCall.
 
 ## Differential equations
 
@@ -52,15 +62,15 @@
 - [BioSimulator.jl](https://github.com/alanderos91/BioSimulator.jl) : A stochastic simulation framework in Julia.
 - [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) : Stochastic Gillespie-type simulations using Julia.
 
-## Finite difference method
+## Partial Differential Equations
+
+### Finite difference method
 
 [📖 Finite difference method](https://en.wikipedia.org/wiki/Finite_difference_method)
 
 - [DiffEqOperators.jl](https://github.com/SciML/DiffEqOperators.jl) : Linear operators for discretizations of differential equations.
 
-## Finite element method
-
-**See also**
+### Finite element method
 
 - [📖 Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
 - [Graphic | Geometry](/graphics?id=geometry) section.
@@ -73,7 +83,8 @@
 - [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) : A Julia Basket of Hand-Picked Krylov Methods.
 - [LinearAlgebraicRepresentation.jl](https://github.com/cvdlab/LinearAlgebraicRepresentation.jl) : Official Julia implementation of [LAR](http://dx.doi.org/10.1016/j.cad.2013.08.044), the Linear Algebraic Representation for Solid Modeling. LAR is a general representation scheme for geometric and topological modeling.
 - [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) : This package provides a high level interface for [PETSc](https://www.mcs.anl.gov/petsc/), enabling the use of PETSc as an AbstractArray.
-- [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
+- [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : "[Programming the Finite Element Method](https://www.wiley.com/en-us/Programming+the+Finite+Element+Method,+5th+Edition-p-9781119973348)" by I M Smith, D V Griffiths and L Margetts.
+- [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) : Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.  [JuliaCon 2021 video](https://youtu.be/hoViWRAhCBE)
 
 ---
 
@@ -82,17 +93,6 @@
 - 🏚️ [FEM.jl](https://github.com/pjabardo/FEM.jl) : Simple finite elements in Julia.
 - 🏚️ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) : A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 - 🏚️ [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) : This is a package to plot trusses for finite element results.
-
-## Symbolic Computation
-
-[📖 Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
-
-- [Reduce.jl](https://github.com/chakravala/Reduce.jl) : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
-- [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
-- [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) : Distributed High-Performance symbolic regression in Julia.
-- [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) : A fast and modern CAS for a fast and modern language.
-- [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of SymEngine.
-- [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to SymPy via PyCall.
 
 ## Agent-based models
 
