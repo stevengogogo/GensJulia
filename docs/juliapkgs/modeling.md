@@ -40,13 +40,12 @@
 - [LatentDiffEq.jl](https://github.com/gabrevaya/LatentDiffEq.jl) : A high-level Flux + DiffEq library solving Generative ODE modeling with Known Unknowns (GOKU). [JuliaCon 2021 video](https://youtu.be/jhIgs4swrMA)
 - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) : A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia.
 - [Modia.jl](https://github.com/ModiaSim/Modia.jl) : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.  
-- [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) : Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations.
 - [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) : Utilities to simulate and perform inference of disease dynamics.
 - [RiemannHilbert.jl](https://github.com/JuliaHolomorphic/RiemannHilbert.jl) : A Julia package for solving Riemann–Hilbert problems.
 - [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) : A discrete event process oriented simulation framework written in Julia.
 - [Sims.jl](https://github.com/tshort/Sims.jl) : Equation-based modeling and simulations in Julia.
 - [SingularIntegralEquations.jl](https://github.com/JuliaApproximation/SingularIntegralEquations.jl) : An experimental Julia package for solving singular integral equations.
-- [Sundials.jl](https://github.com/SciML/Sundials.jl) : A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
+- [Sundials.jl](https://github.com/SciML/Sundials.jl) : A Julia package that interfaces to the [Sundials](https://computing.llnl.gov/projects/sundials) library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 - [WiltonInts84.jl](https://github.com/krcools/WiltonInts84.jl) : Integrals of arbitrary powers of R over flat triangles.
 
 ---
@@ -65,6 +64,8 @@
 
 ## Partial Differential Equations
 
+- [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) : Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations.
+
 ### Finite difference method
 
 [📖 Finite difference method](https://en.wikipedia.org/wiki/Finite_difference_method)
@@ -78,6 +79,7 @@
 
 **Packages**
 
+- [ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) : Tools for building spatial discretizations. [JuliaCon 2021 video](https://youtu.be/4bQvF3rGB84)
 - [FEMBasis.jl](https://github.com/JuliaFEM/FEMBasis.jl) : Package contains interpolation routines for standard finite element function spaces.
 - [FinEtools.jl](https://github.com/PetrKryslUCSD/FinEtools.jl) : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
 - [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) : Finite Element method solver.
@@ -86,7 +88,6 @@
 - [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) : This package provides a high level interface for [PETSc](https://www.mcs.anl.gov/petsc/), enabling the use of PETSc as an AbstractArray.
 - [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : "[Programming the Finite Element Method](https://www.wiley.com/en-us/Programming+the+Finite+Element+Method,+5th+Edition-p-9781119973348)" by I M Smith, D V Griffiths and L Margetts.
 - [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) : Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.  [JuliaCon 2021 video](https://youtu.be/hoViWRAhCBE)
-
 ---
 
 - 🏚️ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) : HP Finite elements in Julia.
