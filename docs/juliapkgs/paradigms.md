@@ -1,15 +1,13 @@
 # Julia programming paradigms
 
-- [📖 Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
+- [Wikipedia: Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
 - [Basic Language Comparison](https://github.com/JulesKouatchou/basic_language_comparison) : Basic Comparison of Various Computing Languages, eg. Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran.
+- [Programming Language Theory](https://github.com/steshaw/plt-study)
 
 ## Automata
 
-**Resources**
-
-- [📖 Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)) 
-- [Programming Language Theory](https://github.com/steshaw/plt-study)
-- [📖 Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
+- [Wikipedia: Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)) 
+- [Wikipedia: Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
 
 **Packages**
 
@@ -26,8 +24,10 @@
 
 ## Control Flow
 
-[📖 Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow) and Julia manual's [control-flow](https://docs.julialang.org/en/v1/manual/control-flow/)
+- [Wikipedia: Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
+- [Julia docs: control-flow](https://docs.julialang.org/en/v1/manual/control-flow/)
 
+**Packages**
 
 - [CommonSubexpressions.jl](https://github.com/rdeits/CommonSubexpressions.jl) : Naïve combined subexpression elimination in Julia.
 - [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) : A Control Systems Toolbox for Julia.
@@ -44,7 +44,7 @@
 
 ## Functional Programming
 
-See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming) and [📖 Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
+See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming) and [Wikipedia: Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
 
 - [Chain.jl](https://github.com/jkrumbiegel/Chain.jl) : A Julia package for piping a value through a series of transformation expressions using a convenient syntax.
 - [Glob.jl](https://github.com/vtjnash/Glob.jl) : Posix-compliant file name pattern matching.
@@ -63,7 +63,7 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Reactive Programming
 
-[📖 Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
+[Wikipedia: Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl) : Simple reactive notebooks for Julia.
 - [Reactive.jl](https://github.com/JuliaGizmos/Reactive.jl) : A package for reactive programming in Julia.
@@ -76,7 +76,7 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Interpreters
 
-[📖 Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing))
+[Wikipedia: Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing))
 
 - [JuliaInterpreter.jl](https://github.com/JuliaDebug/JuliaInterpreter.jl) : Interpreter for Julia code.
 - 🏚️ [ASTInterpreter.jl](https://github.com/Keno/ASTInterpreter.jl) : Gallium's AST interpreter as a separate package to simplify development.
@@ -85,14 +85,12 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 **Resources**
 
-- [📖 Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)) and [📖 Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
-- [Metaprogramming](https://docs.julialang.org/en/v1/manual/metaprogramming/#Metaprogramming) in Julia docs
+- [Wikipedia: Macro](https://en.wikipedia.org/wiki/Macro_(computer_science))
+- [Wikipedia: Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
+- [Julia docs: Metaprogramming](https://docs.julialang.org/en/v1/manual/metaprogramming/#Metaprogramming)
 
 **Packages**
 
-- [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) : providing a macro `@from` importing objects from files without having to `include` repeatedly.
-- [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) : Macro(s) for vectorizing loops.
-- [Reexport.jl](https://github.com/simonster/Reexport.jl) : Julia macro for re-exporting one module from another.
 - [SyntaxTree.jl](https://github.com/chakravala/SyntaxTree.jl) : Toolset for modifying Julia AST and characteristic values.
 
 ---
@@ -108,7 +106,7 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Automatic Programming
 
-[📖 Automatic Programming](https://en.wikipedia.org/wiki/Automatic_programming)
+[Wikipedia: Automatic Programming](https://en.wikipedia.org/wiki/Automatic_programming)
 
 - [Cassette.jl](https://github.com/JuliaLabs/Cassette.jl) : a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs.
 - [IRTools.jl](https://github.com/FluxML/IRTools.jl) : Intermediate Representation toolkit to provide a simple and flexible IR format, expressive enough to work with both lowered and typed Julia code, as well as external IRs. It can be used with Julia metaprogramming tools such as Cassette.
@@ -117,7 +115,10 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 ## Program Analysis
 
-[📖 Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis) and [Julia profiling](https://docs.julialang.org/en/v1/manual/profile/).
+- [Wikipedia: Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)\
+- [Julia docs: profiling](https://docs.julialang.org/en/v1/manual/profile/).
+
+**Packages**
 
 - [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) : A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 - [Lens.jl](https://github.com/zenna/Lens.jl) : A simple Julia library to inspect the runtime behaviour of your programs, with minimal interference to the program itself.
@@ -137,21 +138,27 @@ See [📖 Declarative Programming](https://en.wikipedia.org/wiki/Declarative_pro
 
 **Resources**
 
-- [📖 Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science)) and [Holy Traits pattern](https://ahsmart.com/pub/holy-traits-design-patterns-and-best-practice-book.html).
+- [Wikipedia: Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science)) and [Holy Traits pattern](https://ahsmart.com/pub/holy-traits-design-patterns-and-best-practice-book.html).
 - [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
-- [JuliaCon 2019 | The Unreasonable Effectiveness of Multiple Dispatch | Stefan Karpinski](https://youtu.be/kc9HwsxE1OY)
+- [JuliaCon 2019: The Unreasonable Effectiveness of Multiple Dispatch by Stefan Karpinski](https://youtu.be/kc9HwsxE1OY)
 
 **Packages**
 
 - [BinaryTraits.jl](https://github.com/tk3369/BinaryTraits.jl) : easy-to-use trait library with formal interface specification support.
 - [SimpleTraits.jl](https://github.com/mauro3/SimpleTraits.jl) : Simple Traits for Julia.
 - [WhereTraits.jl](https://github.com/schlichtanders/WhereTraits.jl) : This package exports one powerful macro @traits with which you can extend Julia's where syntax.
+
+---
+
 - 🏚️ [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) : Support for method dispatch in Julia based on pattern matching.
 
 ## Static analysis
 
 - [Lint.jl](https://github.com/tonyhffong/Lint.jl) : A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 - [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) : Formatted output of timed sections in julia.
+
+---
+
 - 🏚️ [Quantity.jl](https://github.com/rephorm/Quantity.jl) : Numbers with units.
 - 🏚️ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) : Intuitive, useful stack traces for Julia. StackTraces functionality has been merged into the Julia standard library as of v0.5.
 

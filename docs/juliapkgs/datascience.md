@@ -2,13 +2,12 @@
 
 > Data retrieval, manipulation, and storage
 
-**Resources**
+**Organizations**
 
-- [Julia ML](https://github.com/JuliaML)
-- [Julia Data](https://github.com/JuliaData)
-- [Julia Databases](https://github.com/JuliaDatabases) organization.
-- [Julia stats](https://github.com/JuliaStats)
-- [Julia-data-science](https://github.com/tirthajyoti/Julia-data-science) : Notebooks on DS basics with Julia and why it is suitable for data science.
+- [Org: Julia ML](https://github.com/JuliaML)
+- [Org: Julia Data](https://github.com/JuliaData)
+- [Org: Julia Databases](https://github.com/JuliaDatabases)
+- [Org: Julia stats](https://github.com/JuliaStats)
 
 ## DataBase API
 
@@ -106,3 +105,4 @@
 
 - Blog on [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
 - [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/) of different languages and libraries.
+- [Julia-data-science](https://github.com/tirthajyoti/Julia-data-science) : Notebooks on DS basics with Julia and why it is suitable for data science.

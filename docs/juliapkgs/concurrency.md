@@ -5,21 +5,21 @@
 **Resources**
 
 - [Julia manual for parallel computing](https://docs.julialang.org/en/v1/manual/parallel-computing/)
-- [Julia Parallel](https://github.com/JuliaParallel)
-- [Julia Folds](https://github.com/JuliaFolds)
-- [Julia Cloud](https://github.com/JuliaCloud)
-- [📖 Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
-- [📖 Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
+- [Org: Julia Parallel](https://github.com/JuliaParallel)
+- [Org: Julia Folds](https://github.com/JuliaFolds)
+- [Org: Julia Cloud](https://github.com/JuliaCloud)
+- [Wikipedia: Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
+- [Wikipedia: Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
 
 
-**Packages**
+## General Packages
 
-- [Actors.jl](https://github.com/JuliaActors/Actors.jl) : An Actor Model implementation in Julia.
+- [Actors.jl](https://github.com/JuliaActors/Actors.jl) : [Actor Model](https://en.wikipedia.org/wiki/Actor_model).
 - [FLoops.jl](https://github.com/JuliaFolds/FLoops.jl): provides a macro `@floop`. It can be used to generate a fast generic iteration over complex collections.
 - [Folds.jl](https://github.com/JuliaFolds/Folds.jl) : A unified interface for sequential, threaded, and distributed fold.
-- [Heptapus.jl](https://github.com/lcw/Heptapus.jl) : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
 - [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) : Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 
+---
 
 - 🏚️ [Blocks.jl](https://github.com/JuliaParallel/Blocks.jl) : A framework to represent chunks of entities and parallel methods on them.
 - 🏚️ [ScaLAPACK.jl](https://github.com/JuliaParallel/ScaLAPACK.jl) : Scalable Linear Algebra PACKage.
@@ -29,11 +29,11 @@
 - [ArrayFire.jl](https://github.com/JuliaComputing/ArrayFire.jl) : Julia Wrapper for the [ArrayFire](http://arrayfire.com/) library.
 - [Elly.jl](https://github.com/JuliaParallel/Elly.jl) : [Hadoop](https://hadoop.apache.org/) HDFS and Yarn client.
 - [Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl) : Wrapper to the [hwloc library](http://www.open-mpi.org/projects/hwloc/) to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading.
-- [MPI.jl](https://github.com/JuliaParallel/MPI.jl) : [MPI](http://www.mpi-forum.org/) wrappers for Julia
+- [MPI.jl](https://github.com/JuliaParallel/MPI.jl) : [MPI](http://www.mpi-forum.org/) wrappers for Julia.
+- [julia-slurm-example](https://github.com/magerton/julia-slurm-example) : Simple example scripts for running Julia on a SLURM.
 
 ---
 
-- 🏚️ [ArrayFire.jl](https://github.com/hshindo/ArrayFire.jl) by @hshindo : Julia bindings for ArrayFire.
 - 🏚️ [HDFS.jl](https://github.com/JuliaParallel/HDFS.jl) : An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
 - 🏚️ [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) : Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 - 🏚️ [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl) : Experimental Julia interface to `slurm.schedmd.com`.
@@ -48,25 +48,29 @@
 - [GoogleCloud.jl](https://github.com/JuliaCloud/GoogleCloud.jl) : Google Cloud APIs for Julia.
 - 🏚️ [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) : Easy big data programming in the cloud.
 
-### Multi-Threading
+## Multi-Threading
 
 - [KissThreading.jl](https://github.com/bkamins/KissThreading.jl) : Simple patterns supporting working with threads in Julia.
 - [ThreadsX.jl](https://github.com/tkf/ThreadsX.jl) : Parallelized Base functions.
+
+---
+
 - 🏚️ [RawMutex.jl](https://github.com/vchuravy/RawMutex.jl) : A __MUT__ual __EX__clusion program object in Julia that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
 - 🏚️ [MT-Workloads](https://github.com/ranjanan/MT-Workloads) : Multi-threaded workloads in Julia.
 
-### SIMD Computing
+## SIMD Computing
 
 **Resources**
 
-- [📖 SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing).
-- [`@simd` macro in Julia docs](https://docs.julialang.org/en/v1/base/base/#Base.SimdLoop.@simd)
+- [Wikipedia: SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing).
+- [Julia docs: `@simd`](https://docs.julialang.org/en/v1/base/base/#Base.SimdLoop.@simd)
 
 
 **Packages**
 
-- [MPIArrays.jl](https://github.com/barche/MPIArrays.jl) : Distributed arrays based on MPI onesided communication.
+- [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) : Macro(s) for vectorizing loops.
 - [SIMD.jl](https://github.com/eschnett/SIMD.jl) : Explicit SIMD vector operations for Julia.
+
 
 ---
 
@@ -74,12 +78,12 @@
 - 🏚️ [SIMDVectors.jl](https://github.com/KristofferC/SIMDVectors.jl) : An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 - 🏚️ [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) : A low level, high performance library for vectorized operations, elementwise operation on arrays.
 
-### Multiprocessing and Distributed Computing
+## Multiprocessing and Distributed Computing
 
 **Resources**
 
-- [📖 Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.
-- [📖 Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
+- [Wikipedia: Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.
+- [Wikipedia: Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 - [Julia at scale](https://discourse.julialang.org/c/domain/parallel/34) topic on discourse.
 
 
@@ -92,8 +96,10 @@
 - [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) : High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 - [JuliaMPIMonteCarlo.jl](https://github.com/mcreel/JuliaMPIMonteCarlo.jl) : Illustrative examples using Julia and MPI to do Markov Chain Monte Carlo (MCMC) methods.
 - [MessageUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) : A collection of utilities for messaging.
+- [MPIArrays.jl](https://github.com/barche/MPIArrays.jl) : Distributed arrays based on MPI onesided communication.
 - [Persist.jl](https://github.com/eschnett/Persist.jl) : The package Persist allows running jobs independent of the Julia shell.
 - [Schedulers.jl](https://github.com/ChevronETC/Schedulers.jl) : It provides elastic and fault tolerant parallel map and parallel map reduce methods. The primary feature that distinguishes Schedulers parallel map method from Julia's `Distributed.pmap` is elasticity where the cluster is permitted to dynamically grow/shrink.
+
 
 ---
 
@@ -112,9 +118,9 @@
 - 🏚️ [PTools.jl](https://github.com/amitmurthy/PTools.jl) : A collection of utilities for parallel computing in Julia.
 - 🏚️ [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) : SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
-### GPU computing
+## GPU computing
 
-[📖 GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
+[Wikipedia: GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 
 **Resources**
 
@@ -147,8 +153,3 @@
 - 🏚️ [Titan.jl](https://github.com/malmaud/Titan.jl) : Write GPU kernels using pure Julia.
 - 🏚️ [Transpiler.jl](https://github.com/SimonDanisch/Transpiler.jl) : Transpiling from Julia's typed AST to CUDA / OpenCL code.
 - 🏚️ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) : Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
-
-
-## Publications
-
-- [Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof](http://jiahao.github.io/parallel-prefix/) : A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.

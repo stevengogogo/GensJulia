@@ -19,11 +19,13 @@
 ## Developing Julia packages
 
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
+- [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) : providing a macro `@from` importing objects from files without having to `include` repeatedly.
 - [Kip.jl](https://github.com/jkroso/Kip.jl) : An Python-like, alternative module system for Julia.
 - [PkgCite.jl](https://github.com/SebastianM-C/PkgCite.jl) : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
 - [PkgSkeleton.jl][] : Generate Julia package skeletons using a simple template system.
 - [PkgTemplates.jl][] : Create new Julia packages, the easy way. Include templaye files for GitHub / GitLab CI.
 - [PkgUtils.jl](https://github.com/arnavs/PkgUtils.jl) by @arnavs : Some small utilities to help with Julia packages
+- [Reexport.jl](https://github.com/simonster/Reexport.jl) : Julia macro for re-exporting one module from another.
 - [Registrator.jl](https://github.com/JuliaComputing/Registrator.jl) : Julia [package](https://pkg.julialang.org/) registration bot.
 - [Requires.jl](https://github.com/MikeInnes/Requires.jl) : Lazy code loading for Julia.
 - [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
@@ -254,7 +256,7 @@ See [Julia editor suport](https://github.com/JuliaEditorSupport) team.
 
 ### Web IDE
 
-[📖 web IDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
+[Wikipedia: web IDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 
 - [Google colab Julia notebook](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb)
 - [Julia Hub](https://juliahub.com/ui/index.html)

@@ -142,6 +142,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 
 For Document Generators, see `Development tools | documentation`.
 
+- [CommonMark.jl](https://github.com/MichaelHatherly/CommonMark.jl) : A CommonMark-compliant parser for Julia.
 - [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) : Package for parsing configuration files utilizing `ini`, `http`, and simple configuration syntaxes.
 - [ExcelReaders.jl](https://github.com/davidanthoff/ExcelReaders.jl) : A package that provides functionality to read Excel files.
 - [LabelNumerals.jl](https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc.
@@ -149,7 +150,6 @@ For Document Generators, see `Development tools | documentation`.
 - [PDFIO.jl](https://github.com/sambitdash/PDFIO.jl) : PDF Reader Library for native Julia.
 - [Taro.jl](https://github.com/aviks/Taro.jl) : Excel, Word and PDF documents in Julia.
 - [XLSX.jl](https://github.com/felipenoris/XLSX.jl) : Excel file reader/writer coded in pure Julia.
-
 
 ### LaTeX
 
@@ -169,10 +169,12 @@ For Document Generators, see `Development tools | documentation`.
 - [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : DICOM interface for the Julia language.
 - [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) : Flexible Image Transport System (FITS) support for Julia.
 - [ImageMagick.jl](https://github.com/JuliaIO/ImageMagick.jl) : Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading.
-- [NIfTI.jl](https://github.com/JuliaNeuroscience/NIfTI.jl) : Julia module for reading NIfTI MRI files.
-- [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) : Julia support for the Nearly Raw Raster Data (NRRD) image file format
-- [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) : Julia support for Netpbm (.ppm, .pgm, .pbm).
-- [OMETIFF.jl](https://github.com/tlnagy/OMETIFF.jl) : I/O operations for OME-TIFF files in Julia with a focus on correctness.
-- [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) : Thin wrapper around OSX's native image format saving and loading
-- [VideoIO.jl](https://github.com/JuliaIO/VideoIO.jl) : Reading and writing of video files in Julia via ffmpeg.
+- [NIfTI.jl](https://github.com/JuliaNeuroscience/NIfTI.jl) : Julia module for reading `NIfTI` MRI files.
+- [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) : Julia support for the Nearly Raw Raster Data (`NRRD`) image file format
+- [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) : Julia support for Netpbm (`.ppm`, `.pgm`, `.pbm`).
+- [OMETIFF.jl](https://github.com/tlnagy/OMETIFF.jl) : I/O operations for OME-`TIFF` files in Julia with a focus on correctness.
+- [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) : Thin wrapper around OSX's native image format saving and loading.
+
+---
+
 - 🏚️ [TIFF.jl](https://github.com/rephorm/TIFF.jl) : TIFF image file support for Julia.

@@ -6,11 +6,10 @@
 
 **Resources**
 
-- [Julia Plots](https://github.com/JuliaPlots) organization.
-- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial Plots.jl Gallery inspired by MATLAB Plot Gallery.
+- [Org: Julia Plots](https://github.com/JuliaPlots)
+- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial `Plots.jl` Gallery inspired by MATLAB Plot Gallery.
 - [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
 - Drawing [2.7 billion points (22gb) in 10 seconds](https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer.
-
 
 **Packages**
 
@@ -33,8 +32,8 @@
 - [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : an interface to [cimplot](https://github.com/cimgui/cimplot), which is an auto-generated C API to [implot](https://github.com/epezent/implot), a C++ plotting extension library for [imgui](https://github.com/ocornut/imgui).
 - [Javis.jl](https://github.com/Wikunia/Javis.jl): Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
 - [Makie.jl][] : High level plotting on the GPU.
-- [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
-- [PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) : Seamlessly create plots in Julia using the PGFPlots LaTeX package.
+- [PGFPlots.jl](https://github.com/JuliaTeX/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
+- [PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) : Generate publication quality figures using the LaTeX library PGFPlots. It tries to have a very close mapping to the PGFPlots API as well as minimize the number of dependencies.
 - [Plotly.jl](https://github.com/plotly/Plotly.jl) : A Julia wrapper for the plot.ly REST API *cloud service*.
 - [PlotlyJS.jl](https://github.com/JuliaPlots/PlotlyJS.jl) : Julia library for plotting with `plotly.js`.
 - [Plots.jl][] : An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands.

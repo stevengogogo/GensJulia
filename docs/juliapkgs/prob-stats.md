@@ -2,13 +2,13 @@
 
 > Probabilistic programming, Stochastic process, Statistics
 
-- [📖 Probability](https://en.wikipedia.org/wiki/Probability_theory) in Wikipedia.
+- [Wikipedia: Probability](https://en.wikipedia.org/wiki/Probability_theory) in Wikipedia.
 - [Julia stats](https://github.com/JuliaStats) organization.
 
 
 ## Probabilistic programming
 
-[📖 Probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming)
+[Wikipedia: Probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming)
 
 - [Gen.jl](https://github.com/probcomp/Gen.jl) : Probabilistic programming with programmable inference.
 - [Omega.jl](https://github.com/zenna/Omega.jl) :  Causal, Higher-Order, Probabilistic Programming.
@@ -19,11 +19,11 @@
 
 ## Stochastic process
 
-[📖 Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process)
+[Wikipedia: Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process)
 
 ### Markovian
 
-[📖 Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
+[Wikipedia: Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 
 - [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) : A Julia framework for solving Markov decision processes.
 - [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) : Support tools for solving `POMDPs`.
@@ -46,7 +46,7 @@
 
 ## Statistic Regression analysis
 
-[📖 Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
+[Wikipedia: Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 
 - [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) : Simple least squares and curve fitting functions.
 - [FixedEffectModels.jl](https://github.com/FixedEffects/FixedEffectModels.jl) : Fast estimation of linear models with IV and high dimensional categorical variables.
@@ -68,7 +68,7 @@
 
 ## Density estimation
 
-[📖 Density_estimation](https://en.wikipedia.org/wiki/Density_estimation)
+[Wikipedia: Density_estimation](https://en.wikipedia.org/wiki/Density_estimation)
 
 - [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram (ASH) density estimation.
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) : Kernel density estimators for continuous variables.
@@ -77,7 +77,7 @@
 
 ## Multivariate
 
-[📖 Multivariate statistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
+[Wikipedia: Multivariate statistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
 
 - [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) : modeling and fitting generalized low rank models.
 - [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) : manifold learning and non-linear dimensionality reduction.
@@ -85,7 +85,7 @@
 
 ## Geostatistics
 
-[📖 Geostatistics](https://en.wikipedia.org/wiki/Geostatistics)
+[Wikipedia: Geostatistics](https://en.wikipedia.org/wiki/Geostatistics)
 
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) : High-performance geostatistical algorithms in Julia.
 - [GeoStatsImages.jl](https://github.com/JuliaEarth/GeoStatsImages.jl) : Training images for geostastical simulation.
@@ -93,7 +93,7 @@
 
 ## Time series
 
-[📖 Time series](https://en.wikipedia.org/wiki/Time_series)
+[Wikipedia: Time series](https://en.wikipedia.org/wiki/Time_series)
 
 - [BasisFunctionExpansions.jl](https://github.com/baggepinnen/BasisFunctionExpansions.jl) : Basis Function Expansions for Julia.
 - [ControlSystemIdentification.jl](https://github.com/baggepinnen/ControlSystemIdentification.jl) : System Identification for LTI systems, compatible with `ControlSystems.jl`.
@@ -111,7 +111,7 @@
 
 ## Compositional Data Analysis
 
-[📖 Compositional Data Analysis](https://en.wikipedia.org/wiki/Compositional_data)
+[Wikipedia: Compositional Data Analysis](https://en.wikipedia.org/wiki/Compositional_data)
 
 - [CoDa.jl](https://github.com/JuliaEarth/CoDa.jl) : Compositional Data Analysis in Julia. Inspired by R [compositions](https://cran.r-project.org/web/packages/compositions/index.html) package.
 

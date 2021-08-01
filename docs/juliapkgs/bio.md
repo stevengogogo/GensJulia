@@ -2,13 +2,12 @@
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...
 
-**Organizations**
+- [BioJulia](https://biojulia.net/) organization
+- [Julia Health](https://juliahealth.org) organizations
 
-- [BioJulia](https://biojulia.net/)
-- [Julia Health](https://juliahealth.org)
+## Interface to databases
 
-## API for biology and medicine databases
-
+- [BioFetch.jl](https://github.com/BioJulia/BioFetch.jl) : Easily fetch biological sequences from online sources. Currently supports Entrez (NCBI) Nucleotide and Protein databases, as well as UniProt and Ensembl.
 - [BioMedQuery.jl](https://github.com/JuliaHealth/BioMedQuery.jl) : Julia utilities to process and save results from BioMedical databases/APIs.
 - [BioServices.jl](https://github.com/BioJulia/BioServices.jl) : Julia interface to APIs for various bio-related web services.
 - [DailyMed.jl](https://github.com/wherrera10/DailyMed.jl) : Interface to the REST functions of the National Library of Medicine's DailyMed database.
@@ -16,17 +15,23 @@
 - [PubMedMiner.jl](https://github.com/JuliaHealth/PubMedMiner.jl) : Julia package for studying co-occurrences in PubMed articles.
 - [RxNav.jl](https://github.com/wherrera10/RxNav.jl) : Julia interface to the National Library of Medicine's online pharmaceutical RxNav API.
 
+## File I/O
+
+- [BED.jl](https://github.com/BioJulia/BED.jl) : I/O and utilities for the BED file format.
+- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files.
+- [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) : Utilities to read/write FASTA format files in Julia.
+- [FASTX.jl](https://github.com/BioJulia/FASTX.jl) : Parse and process FASTA and FASTQ formatted files of biological sequences.
+- [XAM.jl](https://github.com/BioJulia/XAM.jl) : Parse and process SAM and BAM formatted alignment map files.
+
 
 ## Bioinformatics and genomics
 
 - [Ensemble.jl](https://github.com/farr/Ensemble.jl) : Stochastic samplers based on the "stretch move" for ensembles of walkers.
-- [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) : Utilities to read/write FASTA format files in Julia.
-- [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) : Tools for WGBS Methylation analysis.
 - [MIToS.jl](https://github.com/diegozea/MIToS.jl) : Mutual Information Tools for protein Sequence analysis in Julia.
 - [MMTF.jl](https://github.com/BioJulia/MMTF.jl) : The Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structures for fast 3D visualization and analysis.
 - [NormalizeQuantiles.jl](https://github.com/oheil/NormalizeQuantiles.jl) : implements quantile normalization
-- [PlmDCA](https://github.com/pagnani/PlmDCA) : Pseudo Likelihood Maximization for protein in Julia.
-- [SpeedDate.jl](https://github.com/Ward9250/SpeedDate.jl) : A utility for rapidly estimating coalescence times between sequences.
+- [PlmDCA](https://github.com/pagnani/PlmDCA) : [Pseudo Likelihood Maximization](http://plmdca.csc.kth.se/) for protein in Julia.
+- [SpeedDate.jl](https://github.com/vanOosterhoutLab/SpeedDate.jl) : A utility for rapidly estimating coalescence times between sequences.
 - [XSim.jl](https://github.com/reworkhow/XSim.jl) : A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 
 ---
@@ -44,6 +49,7 @@
 - 🏚️ [GenomicTiles.jl](https://github.com/nw11/GenomicTiles.jl)
 - 🏚️ [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) : Experiments with parsing gene transfer format (GTF).
 - 🏚️ [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) : A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
+- 🏚️ [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) : Tools for WGBS Methylation analysis.
 - 🏚️ [OBC.jl](https://github.com/binarybana/OBC.jl) : Optimal Bayesian classification for RNA-Seq data.
 - 🏚️ [OpenGene.jl](https://github.com/OpenGene/OpenGene.jl) : OpenGene core library in Julia.
 - 🏚️ [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) : Detect correlated evolution on phylogenies.
@@ -59,13 +65,12 @@
 - 🏚️ [VariantCall.jl](https://github.com/mgvel/VariantCall.jl).
 - 🏚️ [YARS.jl](https://github.com/kzahedi/YARS.jl) : YARS communication for RNA/proteins.
 
-### BioJulia packages
+### BioJulia ecosystem
 
-From the [BioJulia](https://biojulia.net/) organization.
+> Packages in the [BioJulia](https://biojulia.net/) organization.
 
 - [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) :  Sequence alignment tools in BioJulia
 - [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl) : Biological sequences for the julia language.
-- [BioServices.jl](https://github.com/BioJulia/BioServices.jl) : Julia interface to APIs for various bio-related web services
 - [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) : A Julia package to read, write and manipulate macromolecular structures (particularly proteins).
 - [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl) : Nucleic and amino acid primitive types.
 - [BioTools.jl](https://github.com/BioJulia/BioTools.jl) : Interfaces to common external biological tools from julia scripts and programs (e.g. BLAST).
@@ -73,23 +78,26 @@ From the [BioJulia](https://biojulia.net/) organization.
 - [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl) :  A modern genomics framework for julia
 - [GenomicFeatures.jl](https://github.com/BioJulia/GenomicFeatures.jl) : utilities for working with interval based genomic annotations.
 - [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) : A data structure for efficient manipulation of sets of intervals.
-- [KmerAnalysis.jl](https://github.com/BioJulia/KmerAnalysis.jl) :  Kmer counting algorithms and count-data utilities for the BioJulia framework
+- [KmerAnalysis.jl](https://github.com/BioJulia/KmerAnalysis.jl) :  Kmer counting algorithms and count-data utilities for the BioJulia framework.
+- [Microbiome.jl](https://github.com/BioJulia/Microbiome.jl) : manipulating and analyzing microbiome and microbial community data.
 
 ### Phylogeny
 
-Evolution trees deduced from biosequences.
+Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.wikipedia.org/wiki/Phylogenetics).
 
-- [Phylogenies.jl](https://github.com/BioJulia/Phylogenies.jl) : Phylogenetic trees and geneologies
-- [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
+- [Phylogenies.jl](https://github.com/BioJulia/Phylogenies.jl) : Phylogenetic trees and geneologies. (No `Project.toml`)
+- [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks. The companion package is [PhyloPlots.jl](https://github.com/cecileane/PhyloPlots.jl)
 - [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) : Phylogenetic tree simulation.
 
-## Genome Wide Association Study (GWAS)
+### Genomics
 
-[📖 GWAS](https://en.wikipedia.org/wiki/Genome-wide_association_study)
+[Wikipedia: GWAS](https://en.wikipedia.org/wiki/Genome-wide_association_study)
 
 - [JWAS.jl](https://github.com/reworkhow/JWAS.jl) : An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
 - [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) : contains the base functions of OpenMendel.
+- [PopGen.jl](https://github.com/BioJulia/PopGen.jl) : Population Genetics in Julia.
 - [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl) : provides utilities for handling compressed storage of biallelic SNP (Single-Nucleotide Polymorphism) data.
+
 
 ---
 
@@ -97,11 +105,10 @@ Evolution trees deduced from biosequences.
 - 🏚️ [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) : Statistical analysis of genomic data.
 - 🏚️ [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) : A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 
-### Resources
+**Resources**
 
-- Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
+- [Wikipedia: list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
 - [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
-- 🏚️ [BioTutorials](https://github.com/BioJulia/BioTutorials) :  Tutorial Notebooks of BioJulia
 
 ## Metabolic networks
 
@@ -111,9 +118,8 @@ Evolution trees deduced from biosequences.
 
 ## Healthcare
 
-[📖 Biomedicine](https://en.wikipedia.org/wiki/Category:Biomedicine)
+[Wikipedia: Biomedicine](https://en.wikipedia.org/wiki/Category:Biomedicine)
 
-- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files.
 - [openBF](https://github.com/INSIGNEO/openBF) : A finite-volume solver for elastic arterial blood flow networks.
 
 ## BioStatistics
@@ -127,13 +133,13 @@ Evolution trees deduced from biosequences.
 - [CellFishing.jl ](https://github.com/bicycle1885/CellFishing.jl) : (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing.
 - 🏚️ [EvoDuplexes.jl](https://github.com/timbitz/EvoDuplexes.jl) : A Julia package to fold all local and long-range RNA duplexes.
 
-## Microscopy
+## Microscopy and bioimages
 
-[📖 Microscopy](https://en.wikipedia.org/wiki/Microscopy)
+[Wikipedia: Microscopy](https://en.wikipedia.org/wiki/Microscopy)
 
-- [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) : Embed annotations in your microscopy images.
+- [BioformatsLoader.jl](https://github.com/ahnlabb/BioformatsLoader.jl) : load images using bioformats  based on `JavaCall.jl`.
 - [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) : Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) light sheet microscopy file formats in Julia.
-
+- [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) : Embed annotations in your microscopy images.
 
 ## Neuroscience
 
@@ -154,7 +160,7 @@ Evolution trees deduced from biosequences.
 
 ## Pharmacology
 
-[📖 Pharmacology](https://en.wikipedia.org/wiki/Pharmacology)
+[Wikipedia: Pharmacology](https://en.wikipedia.org/wiki/Pharmacology)
 
 See also [Pumas AI](https://github.com/PumasAI), the framework for Pharmaceutical Modeling and Simulation in Julia.
 
@@ -163,7 +169,7 @@ See also [Pumas AI](https://github.com/PumasAI), the framework for Pharmaceutica
 
 ## Resources and Teaching
 
-- A google document listing [Python for biologists resources](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) by Lenny Teytelman (@lteytelman on twitter).
+- [Python for biologists resources](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) google document by Lenny Teytelman.
 - [Software Carpentry](https://software-carpentry.org/lessons.html) teaching material.
 - [Train online @ EMBL-EBI](https://www.ebi.ac.uk/training/on-demand) provides free courses on Europe's most widely used data resources, created by experts at EMBL-EBI and collaborating institutes.
 - [TrainingPhyloIntro](https://github.com/aidanbudd/trainingPhyloIntro) : Practical exercises and slides for teaching computational molecular evolution.

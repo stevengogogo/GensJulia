@@ -77,7 +77,7 @@
 
 ## Computer Arithmetic
 
-[📖 Computer Arithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic)
+[Wikipedia: Computer Arithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic)
 
 - [Elementary Number Theory](https://github.com/williamstein/ent) : Primes, Congruences, and Secrets.
 - [Calc.jl](https://github.com/tshort/Calc.jl) : An RPN calculator for the Julia REPL.
@@ -178,13 +178,13 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) : A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 - [LLLplus.jl](https://github.com/christianpeel/LLLplus.jl) : LLL lattice reduction, sphere decoder, and related lattice tools.
 - [LMCLUS.jl](https://github.com/wildart/LMCLUS.jl) : Julia's package for Linear Manifold Clustering.
-- [MKL.jl](https://github.com/JuliaLinearAlgebra/MKL.jl) : Intel MKL linear algebra backend for Julia
+- [MKL.jl](https://github.com/JuliaLinearAlgebra/MKL.jl) : Intel MKL linear algebra backend for Julia.
 - [MUMPS](https://github.com/lruthotto/MUMPS) : A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 - [MUMPSjInv.jl](https://github.com/JuliaInv/MUMPSjInv.jl) : An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 - [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) : Syntactic sugar for BLAS polynomials.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) : Julia package for tensor contractions and related operations.
 - [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
-- [Tullio.jl](https://github.com/mcabbott/Tullio.jl) : A package for writing array operations in index notation.
+- [Tullio.jl](https://github.com/mcabbott/Tullio.jl) : Tullio is a very flexible [einsum](https://en.wikipedia.org/wiki/Einstein_notation) macro. A package for writing array operations in index notation.
 - [VSL.jl](https://github.com/sunoru/VSL.jl) : Julia bindings for the Intel Vector Statistics Library.
 
 ---
@@ -213,7 +213,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ### Matrices
 
-[📖 Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
+[Wikipedia: Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 
 > Special Array/Matrix Algorithms, for Array Types, see Data Types section.
 
@@ -245,7 +245,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 #### Sparse Matrices
 
-[📖 Sparse Matrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices)
+[Wikipedia: Sparse Matrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices)
 
 - [HarwellRutherfordBoeing.jl](https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl) : A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
 - [InteractiveFixedEffectModels.jl](https://github.com/FixedEffects/InteractiveFixedEffectModels.jl) : Estimate factor models on sparse datasets.
@@ -264,7 +264,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [SparseData.jl](https://github.com/lindahua/SparseData.jl) : A Julia package to support working with sparse data sets (e.g. text corpus).
 - 🏚️ [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) : Interface to the Watson Sparse Matrix Package.
 
-### Matrix Resources
+### Resources
 
 - Homer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course.
 - 2015Apr09 : [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford.
@@ -274,9 +274,9 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ## Digital signal processing (DSP)
 
-[📖 DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)
+[Wikipedia: DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)
 
-- [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :Filter design, periodograms, window functions, and other digital signal processing functionality.
+- [DSP.jl](https://github.com/JuliaDSP/DSP.jl) : Filter design, periodograms, window functions, and other digital signal processing functionality.
 - [ImageMethodReverb.jl](https://github.com/nantonel/ImageMethodReverb.jl) : Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
 - [MDCT.jl](https://github.com/stevengj/MDCT.jl) : This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
 - [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) : Fast moving quantile filters implemented as fast moving window sort algorithm. 
@@ -297,7 +297,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ### Fast Fourier transform (FFT)
 
-[📖 FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+[Wikipedia: FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
 - [FFTViews.jl](https://github.com/JuliaArrays/FFTViews.jl) : Julia package for fast fourier transforms and periodic views.
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) : Julia bindings to the FFTW library for fast Fourier transforms.
@@ -317,7 +317,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Polynomials
 
-[📖 Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials)
+[Wikipedia: Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials)
 
 - [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) : Julia code to approximate continuous functions using Chebyshev polynomials.
 - [CoordinateSplittingPTrees.jl](https://github.com/timholy/CoordinateSplittingPTrees.jl) : Accurate and efficient full-degree multidimensional polynomial interpolation.
@@ -340,7 +340,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Functions
 
-[📖 Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
+[Wikipedia: Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
 
 > Evaluation and approximations of functions
 
@@ -396,7 +396,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Mathematical Analysis
 
-[📖 Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
+[Wikipedia: Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
 
 - [Complementarity.jl](https://github.com/chkwon/Complementarity.jl) : This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl.
 - [Fatou.jl](https://github.com/chakravala/Fatou.jl) : Fatou sets in Julia (Fractals, Newton basins, Mandelbrot).
@@ -405,8 +405,8 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Discrete math
 
-[📖 Discrete math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics).
-[📖 Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics).
+[Wikipedia: Discrete math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics).
+[Wikipedia: Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics).
 
 - [Collatz.jl](https://github.com/StefanKarpinski/Collatz.jl) : The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
 - [PermPlain.jl](https://github.com/jlapeyre/PermPlain.jl) : Permutations of integers.

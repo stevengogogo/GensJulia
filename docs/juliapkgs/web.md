@@ -127,7 +127,5 @@
 
 ## Static site generators
 
-- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation.
-  - [Examples](https://github.com/tlienart/Franklin.jl#docs)
-  - [Templates](https://github.com/tlienart/FranklinTemplates.jl)
+- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation. See also [examples](https://github.com/tlienart/Franklin.jl#docs) and [templates](https://github.com/tlienart/FranklinTemplates.jl)
 - [PkgPage.jl](https://tlienart.github.io/PkgPage.jl/) for (package) front-pages, powered by `Franklin.jl`.

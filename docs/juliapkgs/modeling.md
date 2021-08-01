@@ -18,7 +18,7 @@
 
 ## Symbolic Computation
 
-[📖 Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
+[Wikipedia: Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
 
 - [Reduce.jl](https://github.com/chakravala/Reduce.jl) : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 - [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
@@ -29,7 +29,7 @@
 
 ## Differential equations
 
-[📖 Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
+[Wikipedia: Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 - [Catalyst.jl](https://github.com/SciML/Catalyst.jl) : Domain-specific language (DSL) for chemical reaction networks.
 - [DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) : Data driven modeling and automated discovery of dynamical systems.
@@ -57,7 +57,7 @@
 
 ## Stochastic algorithms
 
-[📖 Stochastic simulation](https://en.wikipedia.org/wiki/Stochastic_simulation) algorithms (SSA) are also included in the `DifferentialEquations` ecosystem.
+[Wikipedia: Stochastic simulation](https://en.wikipedia.org/wiki/Stochastic_simulation) algorithms (SSA) are also included in the `DifferentialEquations` ecosystem.
 
 - [BioSimulator.jl](https://github.com/alanderos91/BioSimulator.jl) : A stochastic simulation framework in Julia.
 - [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) : Stochastic Gillespie-type simulations using Julia.
@@ -68,13 +68,13 @@
 
 ### Finite difference method
 
-[📖 Finite difference method](https://en.wikipedia.org/wiki/Finite_difference_method)
+[Wikipedia: Finite difference method](https://en.wikipedia.org/wiki/Finite_difference_method)
 
 - [DiffEqOperators.jl](https://github.com/SciML/DiffEqOperators.jl) : Linear operators for discretizations of differential equations.
 
 ### Finite element method
 
-- [📖 Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
+- [Wikipedia: Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
 - [Graphic | Geometry](/graphics?id=geometry) section.
 
 **Packages**
@@ -82,12 +82,14 @@
 - [ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) : Tools for building spatial discretizations. [JuliaCon 2021 video](https://youtu.be/4bQvF3rGB84)
 - [FEMBasis.jl](https://github.com/JuliaFEM/FEMBasis.jl) : Package contains interpolation routines for standard finite element function spaces.
 - [FinEtools.jl](https://github.com/PetrKryslUCSD/FinEtools.jl) : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
+- [Heptapus.jl](https://github.com/lcw/Heptapus.jl) : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
 - [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) : Finite Element method solver.
 - [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) : A Julia Basket of Hand-Picked Krylov Methods.
 - [LinearAlgebraicRepresentation.jl](https://github.com/cvdlab/LinearAlgebraicRepresentation.jl) : Official Julia implementation of [LAR](http://dx.doi.org/10.1016/j.cad.2013.08.044), the Linear Algebraic Representation for Solid Modeling. LAR is a general representation scheme for geometric and topological modeling.
 - [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl) : This package provides a high level interface for [PETSc](https://www.mcs.anl.gov/petsc/), enabling the use of PETSc as an AbstractArray.
 - [PtFEM.jl](https://github.com/PtFEM/PtFEM.jl) : "[Programming the Finite Element Method](https://www.wiley.com/en-us/Programming+the+Finite+Element+Method,+5th+Edition-p-9781119973348)" by I M Smith, D V Griffiths and L Margetts.
 - [Trixi.jl](https://github.com/trixi-framework/Trixi.jl) : Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.  [JuliaCon 2021 video](https://youtu.be/hoViWRAhCBE)
+
 ---
 
 - 🏚️ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) : HP Finite elements in Julia.
@@ -98,7 +100,7 @@
 
 ## Agent-based models
 
-[📖 Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)
+[Wikipedia: Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)
 
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 - [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.

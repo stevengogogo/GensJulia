@@ -39,17 +39,20 @@
 - [NaturalSort.jl](https://github.com/simonster/NaturalSort.jl) : Natural sort order.
 - [SortingAlgorithms.jl](https://github.com/JuliaCollections/SortingAlgorithms.jl) : extra sorting algorithms extending Julia's sorting API.
 - [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) : Experimental implementations of sorting algorithms.
+
+---
+
 - 🏚️ [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) : An API for common search and sort algorithms.
 
 ## NP-complete Problems
 
-[📖 NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems) problems cannot be solved in polynomial time complexity and often have to be inexactly solved using heuristics.
+[Wikipedia: NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems) problems cannot be solved in polynomial time complexity and often have to be inexactly solved using heuristics.
 
 - [TravelingSalesmanHeuristics.jl](https://github.com/evanfields/TravelingSalesmanHeuristics.jl) : Julia package for simple traveling salesman problem heuristics.
 
 ### Boolean satisfiability problem (SAT)
 
-[📖 SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) is a kind of NP-complete (NPC) problems.
+[Wikipedia: SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) is a kind of NP-complete (NPC) problems.
 
 - [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) : Provides Julia bindings to the popular SAT solver [picosat](http://fmv.jku.at/picosat/) by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
 - [SimpleSATSolver.jl](https://github.com/dpsanders/SimpleSATSolver.jl) : A (very) simple SAT solver in pure Julia.
@@ -116,11 +119,11 @@ See [Graph Theory](graph.md#graph-data-types) section.
 
 - [ArbFloats.jl](https://github.com/JuliaArbTypes/ArbFloats.jl) : extended precision *values* for arithmetic, elementary, and some special functions (25..500 digits).
 - [ArbNumerics.jl](https://github.com/JeffreySarnoff/ArbNumerics.jl) : extended precision math, accurate and performant
-- [BFloat16s.jl](https://github.com/JuliaMath/BFloat16s.jl) : This package defines the BFloat16 data type. The only currently available hardware implementation of this datatype are Google's Cloud TPUs. As such, this package is suitable to evaluate whether using TPUs would cause precision problems for any particular algorithm, even without access to TPU hardware. Note that this package is designed for functionality, not performance, so this package should be used for precision experiments only, not performance experiments.
+- [BFloat16s.jl](https://github.com/JuliaMath/BFloat16s.jl) : This package defines the [BFloat16 data type](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format). The only currently available hardware implementation of this datatype are Google's [Cloud TPUs](https://en.wikipedia.org/wiki/Tensor_processing_unit).
 - [BitIntegers.jl](https://github.com/rfourquet/BitIntegers.jl) : This package implements fixed-width integer types similar to standard builtin-ones like Int or UInt128.
 - [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) : Closed intervals of the form [a,b].
 - [CustomUnitRanges.jl](https://github.com/JuliaArrays/CustomUnitRanges.jl) : Package-specific AbstractUnitRange types for julia.
-- [DecFP.jl](https://github.com/JuliaMath/DecFP.jl) : The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library.
+- [DecFP.jl](https://github.com/JuliaMath/DecFP.jl) : The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) [Intel Decimal Floating-Point Math Library](https://software.intel.com/en-us/articles/intel-decimal-floating-point-math-library).
 - [Decimals.jl](https://github.com/JuliaMath/Decimals.jl) : Pure Julia decimal arithmetic library.
 - [DoubleFloats.jl](https://github.com/JuliaMath/DoubleFloats.jl) : Math with 85- accurate bits.
 - [FixedPointNumbers.jl](https://github.com/JuliaMath/FixedPointNumbers.jl) : This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
@@ -151,7 +154,7 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - 🏚️ [Scalar.jl](https://github.com/sabjohnso/Scalar.jl) : Scalar Types.
 - 🏚️ [Units.jl](https://github.com/timholy/Units.jl) : Infrastructure for handling physical units for the Julia programming language. Use `Unitful.jl` instead.
 
-### Array types
+## Array types
 
 - [AbstractTensors.jl](https://github.com/chakravala/AbstractTensors.jl) : Tensor algebra abstract type interoperability with vector bundle parameter.
 - [ArrayInterface.jl](https://github.com/JuliaArrays/ArrayInterface.jl) : Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations.
@@ -204,9 +207,9 @@ See [Graph Theory](graph.md#graph-data-types) section.
 
 ## Composite Data Types
 
-[📖 Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types)
+[Wikipedia: Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types)
 
-Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/51973)` for less boilerplate code in struct initialization.
+Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/51973)` for a concise struct construction.
 
 - [Accessors.jl](https://github.com/JuliaObjects/Accessors.jl) : updating immutable data simple. It is the successor of `Setfield.jl`.
 - [Bijections.jl](https://github.com/scheinerman/Bijections.jl) : Bijection datatype for Julia that blocks assigning the same value to two different keys.

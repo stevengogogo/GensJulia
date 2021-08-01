@@ -17,14 +17,14 @@
 
 ## Climatology
 
-[📖 Climatology](https://en.wikipedia.org/wiki/Category:Climatology)
+[Wikipedia: Climatology](https://en.wikipedia.org/wiki/Category:Climatology)
 
 - [ClimateTools.jl](https://github.com/Balinus/ClimateTools.jl) : This package is a collection of commonly-used tools in Climate Science.
 - [Mimi.jl](https://github.com/anthofflab/Mimi.jl) : Integrated Assessment Modeling Framework for climate change.
 
 ## Ecology
 
-[📖 Ecology](https://en.wikipedia.org/wiki/Category:Ecology)
+[Wikipedia: Ecology](https://en.wikipedia.org/wiki/Category:Ecology)
 
 - [Diversity.jl](https://github.com/richardreeve/Diversity.jl) : Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
 - [EcologicalNetwork.jl](https://github.com/EcoJulia/EcologicalNetworks.jl) : Measure various aspects of the structure of ecological networks in Julia.
@@ -34,7 +34,10 @@
 
 ### Agronom and Forest Modelling
 
-[📖 Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy) and [📖 Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
+- [Wikipedia: Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)
+- [Wikipedia: Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
+
+---
 
 - [LAIscript](https://github.com/ETC-UA/LAIscript) : scripts to automatically run LAI calculations with ODBC link to custom database.
 - [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) : Package to calculate Leaf Area Index from Hemisperical Images.
@@ -50,14 +53,14 @@
 
 ## Cartography
 
-[📖 Cartography](https://en.wikipedia.org/wiki/Category:Cartography)
+[Wikipedia: Cartography](https://en.wikipedia.org/wiki/Category:Cartography)
 
 - [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) : Julia wrapper for PROJ.4 cartographic projections library.
 - 🏚️ [PyProj.jl](https://github.com/kshramt/PyProj.jl) :  A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations.
 
 ## Geographic information system (GIS)
 
-[📖 GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
+[Wikipedia: GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
 
 - [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) : Thin Julia wrapper for [GDAL](http://gdal.org/) - Geospatial Data Abstraction Library. See also [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) for a high level API for `GDAL.jl`.
 - [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) : Work with points defined in various coordinate systems.
@@ -91,7 +94,7 @@
 
 ## Meteorology
 
-[ 📖 Meteorology](https://en.wikipedia.org/wiki/Meteorology)
+[ Wikipedia: Meteorology](https://en.wikipedia.org/wiki/Meteorology)
 
 - 🏚️ [CAIRS.jl](https://github.com/scheidan/CAIRS.jl) : Continous Assimilation of Integrating Rain Sensors.
 - 🏚️ [Met_Plots_Models.jl](https://github.com/zhujinxuan/Met_Plots_Models.jl) : A simple wrapper of matlibplot for a meteorologist.

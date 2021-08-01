@@ -84,8 +84,8 @@
 
 **Resources**
 
-- [aleph_star](https://github.com/imagry/aleph_star) : (**Not a package**) Reinforcement learning with A* and a deep heuristic.
-- [📖 Graphal gorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
+- [aleph_star](https://github.com/imagry/aleph_star) : Reinforcement learning with A* and a deep heuristic.
+- [Wikipedia: Graphal gorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
 
 ## Visualizing Graphs
 

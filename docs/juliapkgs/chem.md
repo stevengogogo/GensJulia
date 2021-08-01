@@ -2,11 +2,14 @@
 
 **Resources**
 
-- [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
+- [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks)
+- [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html)
+- [Chemistry Julia blog ](http://jiahao.github.io/julia-blog/)
 - [JuliaMolSim](https://github.com/JuliaMolSim) organization
 
 **Packages**
 
+- [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 - [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) : Well its the periodic table - in Julia!
 - [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) : A package containing curated physical constants.
 - 🏚️ [Dimers.jl](https://github.com/sswatson/Dimers.jl) : Oligomers with two structurally similar monomers.
@@ -23,14 +26,9 @@
 - [PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) : Utilities to programmatically query the PubChem database.
 - 🏚️ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) : Coherence/phase-locking statistics in Julia.
 
-
-## Chemometrics
-
-- [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
-
 ## Physical Chemistry
 
-[📖 Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
+[Wikipedia: Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
 
 - [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) : CoolProp wrapper for Julia
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamics properties of wet air and gasses.
@@ -53,6 +51,9 @@
 - [pyquante2](https://github.com/rpmuller/pyquante2/) : PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals.
 - [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) : A workbench for Quantum Chemistry and Quantum Physics in Julia
 - [ReactionMechanismSimulator.jl](https://github.com/ReactionMechanismGenerator/ReactionMechanismSimulator.jl) : simulating large chemical kinetic mechanisms.
+
+---
+
 - 🏚️ [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) : Simulation of Brownian-Based Stochastic Processes.
 
 
@@ -66,8 +67,8 @@
 
 ## Solid State Chemistry
 
-[📖 Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
+[Wikipedia: Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
 
-- [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) : Laminate model functions by K.Y.Lin.
+- [ClassicalLaminateTheory.jl](https://github.com/PtFEM/ClassicalLaminateTheory.jl) : Laminate model functions by K.Y.Lin.
 - 🏗️ [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) : A Lattice Library for Julia.
 - 🏚️ [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) : Artificial Hydrocarbon Networks (AHNs) in Julia.

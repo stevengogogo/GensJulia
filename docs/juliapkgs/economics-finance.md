@@ -1,13 +1,13 @@
 # Economics and Finance
 
-Economics and Finance are part of [📖 Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)
+Economics and Finance are part of [Wikipedia: Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)
 
 - [Quantitative economic modelling](https://quantecon.org) lecture series in Julia language, designed and written by Thomas J. Sargent and John Stachurski.
 - [Julia Quant](https://github.com/JuliaQuant) organization.
 
 ## Econometrics
 
-[📖 Econometrics](https://en.wikipedia.org/wiki/Econometrics)
+[Wikipedia: Econometrics](https://en.wikipedia.org/wiki/Econometrics)
 
 - [Dolo.jl](https://github.com/EconForge/Dolo.jl) : A tool to describe and solve economic models.
 - [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) : Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE).

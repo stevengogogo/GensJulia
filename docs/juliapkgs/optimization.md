@@ -41,7 +41,7 @@
 
 ## Linear Programming-Optimization
 
-[📖 Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)
+[Wikipedia: Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)
 
 - [Clp.jl](https://github.com/jump-dev/Clp.jl) : Interface to the Coin-OR Linear Programming solver (CLP)
 - [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) : Data Structures for Optimization Models.
@@ -54,7 +54,7 @@
 
 ## Nonlinear Programming
 
-[📖 Nonlinear Programming](https://en.wikipedia.org/wiki/Nonlinear_programming)
+[Wikipedia: Nonlinear Programming](https://en.wikipedia.org/wiki/Nonlinear_programming)
 
 - [BARON.jl](https://github.com/joehuchette/BARON.jl) : A wrapper for the BARON mixed-integer nonlinear programming solver.
 - [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) : Wrapper to solve [conic](http://mathprogbasejl.readthedocs.org/en/latest/conic.html) optimization problems with derivative-based nonlinear solvers.

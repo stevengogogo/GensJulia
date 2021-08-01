@@ -50,7 +50,7 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ## Java
 
-- [JavaCall.jl](https://github.com/JuliaInterop/JavaCall.jl) : is a package that lets you call Java programs from Julia.
+- [JavaCall.jl](https://github.com/JuliaInterop/JavaCall.jl) : call Java programs from Julia.
 - [JDBC.jl](https://github.com/aviks/JDBC.jl) : Julia interface to Java database drivers.
 - [TeaSeis.jl](https://github.com/ChevronETC/TeaSeis.jl) : JavaSeis IO implementation for the Julia language.
 

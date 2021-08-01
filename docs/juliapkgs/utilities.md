@@ -91,4 +91,3 @@
 - 🏚️ [Perftests.jl](https://github.com/staticfloat/Perftests.jl) : Base perftests for Julia.
 - 🏚️ [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) : Julia module to test the performance of sorting algorithms.
 - 🏚️ [USERTime.jl](https://github.com/christianpeel/USERTime.jl) : A Julia package for measuring elapsed user time.
-

@@ -123,7 +123,7 @@
 
 ### Spiking neural network
 
-[📖 Spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
+[Wikipedia: Spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
 
 - [SpikeSynchrony.jl](https://github.com/Datseris/SpikeSynchrony.jl) : Measuring distances, synchrony and correlation between spike trains.
 - [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
@@ -144,7 +144,7 @@
 
 ## Reinforcement Learning (RL)
 
-[📖 Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+[Wikipedia: Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package.
 - 🏚️ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) : An implementation of DeepMind's Deep Q Learning algorithm.
@@ -152,7 +152,7 @@
 
 ## Natural language processing (NLP)
 
-[📖 Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+[Wikipedia: Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 **Organization**
 

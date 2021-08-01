@@ -12,7 +12,7 @@
 
 ## Computer Vision (CV)
 
-[📖 Computer Vision](https://en.wikipedia.org/wiki/Category:Computer_vision)
+[Wikipedia: Computer Vision](https://en.wikipedia.org/wiki/Category:Computer_vision)
 
 - [AAM.jl](https://github.com/dfdx/AAM.jl) : Active Appearance Models.
 - [Bezier.jl](https://github.com/dronir/Bezier.jl) : Julia functions for computing a Bezier curve.
@@ -72,6 +72,9 @@
 - [RegisterQD.jl](https://github.com/HolyLab/RegisterQD.jl) : It performs image registration using the global optimization routine [QuadDIRECT](https://github.com/timholy/QuadDIRECT.jl). Unlike many other registration packages, this is not "greedy" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images.
 - [SubpixelRegistration.jl](https://github.com/romainFr/SubpixelRegistration.jl) : Efficient subpixel image registration algorithm implementation that allows you to register arrays of arbitrary dimensions (not just 2d). Functions are written for AbstractArrays and should work for Images.
 - [TestImages.jl](https://github.com/JuliaImages/TestImages.jl) : Loading standard test images into Julia.
+
+---
+
 - 🏚️ [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) : Image processing with 🏚️ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl).
 
 ### OpenCV API
@@ -100,7 +103,7 @@
 
 ### Vector Graphics
 
-[📖 Vector Graphics](https://en.wikipedia.org/wiki/Category:Vector_graphics)
+[Wikipedia: Vector Graphics](https://en.wikipedia.org/wiki/Category:Vector_graphics)
 
 - [Compose.jl](https://github.com/GiovineItalia/Compose.jl) : Compose is a vector graphics library for Julia, basis of [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl)
 - [ImagesCore.jl](https://github.com/JuliaImages/ImagesCore.jl) : Julia types for representing images.
@@ -112,16 +115,20 @@
 ### OCR
 
 - [OCReract.jl](https://github.com/leferrad/OCReract.jl) : A simple Julia wrapper for Tesseract OCR.
+
+---
+
 - 🏚️ [AttentionOCR.jl](https://github.com/GantZA/AttentionOCR.jl) : Julia and Flux adaptation of the python package [aocr.py](https://github.com/emedvedev/attention-ocr) using [Seq2seq with Attention](https://github.com/merckxiaan/flux-seq2seq).
 
 ## Geometry
 
-- [📖 Geometry](http://en.wikipedia.org/wiki/Geometry)
-- [📖 Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-- [📖 Computational Geometry](https://en.wikipedia.org/wiki/Computational_geometry)
-- [📖 Discrete Geometry](https://en.wikipedia.org/wiki/Category:Discrete_geometry)
-- [📖 Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
+- [Wikipedia: Geometry](http://en.wikipedia.org/wiki/Geometry)
+- [Wikipedia: Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+- [Wikipedia: Computational Geometry](https://en.wikipedia.org/wiki/Computational_geometry)
+- [Wikipedia: Discrete Geometry](https://en.wikipedia.org/wiki/Category:Discrete_geometry)
+- [Wikipedia: Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
 
+---
 
 - [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) : A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a **lower level** using the API of cdd or using the higher level interface of Polyhedra.jl.
 - [Clipper.jl](https://github.com/JuliaGeometry/Clipper.jl) : Julia wrapper for Angus Johnson's [Clipper](http://www.angusj.com/delphi/clipper.php) library.

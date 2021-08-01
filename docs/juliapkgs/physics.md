@@ -11,7 +11,7 @@
 
 ## Plasma Physics
 
-[📖 Plasma](https://en.wikipedia.org/wiki/Plasma_(physics))
+[Wikipedia: Plasma](https://en.wikipedia.org/wiki/Plasma_(physics))
 
 - [OrbitTomography.jl](https://github.com/lstagner/OrbitTomography.jl) : A Method for Determining the Population of Individual Fast-ion Orbits from Experimental Measurements.
 - [VlaPy](https://github.com/joglekara/VlaPy) : **(Python package)** 1D-1V Vlasov-Poisson(-Fokker-Planck) Plasma Physics Simulation Tool.
@@ -28,8 +28,8 @@
 
 **Resources**
 
-- [📖 Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
-- [📖 Optics](https://en.wikipedia.org/wiki/Optics)
+- [Wikipedia: Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+- [Wikipedia: Optics](https://en.wikipedia.org/wiki/Optics)
 
 
 **Packages**
@@ -50,8 +50,8 @@
 
 **Resources**
 
-- [📖 Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
-- Blog post about [CFD tutorial injulia](https://www.juliabloggers.com/cfd-tutorial-in-julia/)
+- [Wikipedia: Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
+- Blog post about [CFD tutorial in julia](https://www.juliabloggers.com/cfd-tutorial-in-julia/)
 
 **Packages**
 
@@ -85,7 +85,7 @@
 
 ## Thermodynamics
 
-[📖 Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
+[Wikipedia: Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
 
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamic properties of moist air (real gas mixture).
 - 🏚️ [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl) : Thermodynamics table for critical values, heat capacity, etc..
