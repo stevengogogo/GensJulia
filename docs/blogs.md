@@ -1,9 +1,10 @@
-# Interesting blogs on Julia
+# Interesting blogs about Julia programming
 
 - [Official Julia language blog](http://julialang.org/blog/)
 - [Julia Bloggers](https://www.juliabloggers.com) aggregates community blogs about Julia.
 - Chris Rackauckas [blog posts](http://www.stochasticlifestyle.com/) mainly about modeling and simulation.
-- [Blog by Bogumił Kamiński](https://bkamins.github.io/) focuses on `DataFrames.jl`
+- [Blog by Bogumił Kamiński](https://bkamins.github.io/) focuses on `DataFrames.jl`.
+- [OpenSourc.ES](https://opensourc.es)
 
 # Single blog posts or articles
 
