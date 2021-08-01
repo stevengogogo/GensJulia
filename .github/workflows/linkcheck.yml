@@ -11,16 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Link Checker
-        uses: lycheeverse/lychee-action@master
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
-          args: '--accept 200,204,429 --verbose --no-progress --exclude els-jbs-prod-cdn wol-prod-cdn -- **/*.md'
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          python-version: 3.9
 
-      - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v3
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
+      - name: Install linkchecker
+        run: |
+          python -m pip install --upgrade pip linkcheckmd 
+
+      - name: Check Markdown links
+        run: |
+          python -m linkcheckmd ./docs
