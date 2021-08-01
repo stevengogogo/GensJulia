@@ -27,11 +27,12 @@
 - [GMT.jl](https://github.com/joa-quim/GMT.jl) : is a package containing Julia bindings for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) Library.
 - [GR.jl](https://github.com/jheinen/GR.jl) : This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 - [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) : Publication-quality plotting for julia using Grace/xmgrace.
-- [Makie.jl][] : High level plotting on the GPU.
-  - [GraphMakie.jl](https://github.com/JuliaPlots/GraphMakie.jl) : Plotting graphs with [Makie.jl][].
+- [GraphMakie.jl](https://github.com/JuliaPlots/GraphMakie.jl) : Plotting graphs with [Makie.jl][].
 - [GraphPlot.jl](https://github.com/afternone/GraphPlot.jl) : Graph visualization for Julia.
 - [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) : Dive deeper into your data with interactive graphics.
 - [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : an interface to [cimplot](https://github.com/cimgui/cimplot), which is an auto-generated C API to [implot](https://github.com/epezent/implot), a C++ plotting extension library for [imgui](https://github.com/ocornut/imgui).
+- [Javis.jl](https://github.com/Wikunia/Javis.jl): Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
+- [Makie.jl][] : High level plotting on the GPU.
 - [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
 - [PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) : Seamlessly create plots in Julia using the PGFPlots LaTeX package.
 - [Plotly.jl](https://github.com/plotly/Plotly.jl) : A Julia wrapper for the plot.ly REST API *cloud service*.
@@ -45,7 +46,6 @@
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) : This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
 - [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) : Generate area-proportional Venn/Euler diagrams in Julia.
 - [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : 2D plotting for Julia.
-- [Javis.jl](https://github.com/Wikunia/Javis.jl): Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
 
 
 ## Base packages
