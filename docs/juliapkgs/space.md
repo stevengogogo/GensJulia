@@ -23,6 +23,7 @@
 - [DustExtinction.jl](https://github.com/JuliaAstro/DustExtinction.jl) : Models for the interstellar extinction due to dust.
 - [ERFA.jl](https://github.com/JuliaAstro/ERFA.jl) : Julia wrapper for [liberfa](https://github.com/liberfa/erfa) (Essential Routines for Fundamental Astronomy), which is based on the [SOFA](http://www.iausofa.org) library.
 - [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) : Flexible Image Transport System (FITS) support for Julia.
+- [GeneralAstrodynamics.jl](https://github.com/cadojo/GeneralAstrodynamics.jl) : common astrodynamics calculations, plotting, and iterative Halo, Kepler, and Lambert solvers.
 - [JPLEphemeris.jl](https://github.com/JuliaAstro/JPLEphemeris.jl) : The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 - [Reproject.jl](https://github.com/JuliaAstro/Reproject.jl) : Reproject Astronomical Images from one world coordinate to another.
 - [SatelliteToolbox.jl](https://github.com/JuliaSpace/SatelliteToolbox.jl) : A toolbox for satellite analysis written in julia language.
