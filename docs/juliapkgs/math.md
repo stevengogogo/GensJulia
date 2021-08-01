@@ -301,7 +301,8 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 - [FFTViews.jl](https://github.com/JuliaArrays/FFTViews.jl) : Julia package for fast fourier transforms and periodic views.
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) : Julia bindings to the FFTW library for fast Fourier transforms.
-- [HexFFT.jl](https://github.com/gwater/HexFFT.jl) : Fast Fourier transform on hexagonal grids using Birdsong and Rummelt's [algorithm](http://ieeexplore.ieee.org/document/7532670/).
+- [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) : Tools for working with Fourier space. [JuliaCon 2021 video](https://youtu.be/qYgJDb_Ko2E)
+- [HexFFT.jl](https://github.com/gwater/HexFFT.jl) : Fast Fourier transform on hexagonal grids using [Birdsong and Rummelt's algorithm](http://ieeexplore.ieee.org/document/7532670/).
 - [NFFT.jl](https://github.com/tknopp/NFFT.jl) : Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).
 
 ---
