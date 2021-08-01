@@ -52,7 +52,9 @@
 - [Fermi.jl](https://github.com/FermiQC/Fermi.jl) : Fermi is a quantum chemistry program written in (nearly) pure Julia.
 - [pyquante2](https://github.com/rpmuller/pyquante2/) : PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals.
 - [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) : A workbench for Quantum Chemistry and Quantum Physics in Julia
+- [ReactionMechanismSimulator.jl](https://github.com/ReactionMechanismGenerator/ReactionMechanismSimulator.jl) : simulating large chemical kinetic mechanisms.
 - 🏚️ [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) : Simulation of Brownian-Based Stochastic Processes.
+
 
 ### Moelcular simulation
 
