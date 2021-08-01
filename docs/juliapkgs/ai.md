@@ -32,6 +32,7 @@
 - [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) : A Julia machine learning framework by The Alan Turing Institute
 - [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) : Utility package for working with classification targets and label-encodings.
 - [NetworkLearning.jl](https://github.com/zgornel/NetworkLearning.jl) : Baseline collective classification library.
+- [NeuralVerification.jl](https://github.com/sisl/NeuralVerification.jl) : verifying whether a neural network satisfies certain input-output constraints. [JuliaCon 2021 ideo](https://youtu.be/jyC2fVmHcF8)
 - [NMF.jl](https://github.com/JuliaStats/NMF.jl) : Non-negative matrix factorization (NMF).
 - [ONNX.jl](https://github.com/FluxML/ONNX.jl) : Read ONNX graphs and load these models in Julia.
 - [ParticleFilters.jl](https://github.com/JuliaPOMDP/ParticleFilters.jl) : Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
@@ -42,7 +43,9 @@
 - [TopoChains.jl](https://github.com/irhum/TopoChains.jl) : A flexible data structure for multi-input multi-output models.
 - [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) : Truncated singular value decomposition with partial reorthogonalization.
 - [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) : Utilities to efficiently track learning curves or other optimization information.
+
 [FastAI.jl]: https://github.com/FluxML/FastAI.jl
+
 ---
 - 🏗️ [SpectralClustering.jl](https://github.com/lucianolorenti/SpectralClustering.jl) : Spectral clustering algorithms written in Julia.
 - 🏗️ [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) : Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.
