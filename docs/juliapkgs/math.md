@@ -182,6 +182,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [MUMPS](https://github.com/lruthotto/MUMPS) : A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 - [MUMPSjInv.jl](https://github.com/JuliaInv/MUMPSjInv.jl) : An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 - [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) : Syntactic sugar for BLAS polynomials.
+- [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) :  working with multi-dimensional arrays in index notation.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) : Julia package for tensor contractions and related operations.
 - [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
 - [Tullio.jl](https://github.com/mcabbott/Tullio.jl) : Tullio is a very flexible [einsum](https://en.wikipedia.org/wiki/Einstein_notation) macro. A package for writing array operations in index notation.
@@ -279,7 +280,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - [DSP.jl](https://github.com/JuliaDSP/DSP.jl) : Filter design, periodograms, window functions, and other digital signal processing functionality.
 - [ImageMethodReverb.jl](https://github.com/nantonel/ImageMethodReverb.jl) : Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
 - [MDCT.jl](https://github.com/stevengj/MDCT.jl) : This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
-- [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) : Fast moving quantile filters implemented as fast moving window sort algorithm. 
+- [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) : Fast moving quantile filters implemented as fast moving window sort algorithm.
 - [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl) : Fast Discrete Wavelet Transforms written in Julia by JuliaDSP.
 
 ---
@@ -405,8 +406,10 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ## Discrete math
 
-[Wikipedia: Discrete math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics).
-[Wikipedia: Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics).
+- [Wikipedia: Discrete math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
+- [Wikipedia: Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
+
+---
 
 - [Collatz.jl](https://github.com/StefanKarpinski/Collatz.jl) : The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
 - [PermPlain.jl](https://github.com/jlapeyre/PermPlain.jl) : Permutations of integers.
