@@ -43,7 +43,6 @@
 
 - [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP.
 - [Mux.jl](https://github.com/JuliaWeb/Mux.jl) : Middleware for Julia.
-- [ParallelDataTransfer.jl](https://github.com/ChrisRackauckas/ParallelDataTransfer.jl) : A bunch of helper functions for transferring data between worker processes.
 - [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) : Julia interface to ZeroMQ. Thread on building a [web app for enterprise risk management](https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g).
 
 ---

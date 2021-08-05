@@ -63,14 +63,12 @@
 **Resources**
 
 - [Wikipedia: SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing).
-- [Julia docs: `@simd`](https://docs.julialang.org/en/v1/base/base/#Base.SimdLoop.@simd)
-
+- [Julia docs: `@simd`](https://docs.julialang.org/en/v1/base/base/#Base.SimdLoop.@simd) macro.
 
 **Packages**
 
-- [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) : Macro(s) for vectorizing loops.
+- [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) : `@turbo` macro for vectorizing loops.
 - [SIMD.jl](https://github.com/eschnett/SIMD.jl) : Explicit SIMD vector operations for Julia.
-
 
 ---
 
@@ -86,20 +84,19 @@
 - [Wikipedia: Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 - [Julia at scale](https://discourse.julialang.org/c/domain/parallel/34) topic on discourse.
 
-
 **Packages**
 
 - [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) : Support for different clustering technologies.
 - [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) : A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
 - [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl) : A task persistency mechanism based on hash-graphs for Dispatcher.jl.
-- [FunHPC.jl](https://github.com/eschnett/FunHPC.jl) : Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
+- [FunHPC.jl](https://github.com/eschnett/FunHPC.jl) : Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl) mirror.
 - [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) : High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 - [JuliaMPIMonteCarlo.jl](https://github.com/mcreel/JuliaMPIMonteCarlo.jl) : Illustrative examples using Julia and MPI to do Markov Chain Monte Carlo (MCMC) methods.
 - [MessageUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) : A collection of utilities for messaging.
 - [MPIArrays.jl](https://github.com/barche/MPIArrays.jl) : Distributed arrays based on MPI onesided communication.
 - [Persist.jl](https://github.com/eschnett/Persist.jl) : The package Persist allows running jobs independent of the Julia shell.
 - [Schedulers.jl](https://github.com/ChevronETC/Schedulers.jl) : It provides elastic and fault tolerant parallel map and parallel map reduce methods. The primary feature that distinguishes Schedulers parallel map method from Julia's `Distributed.pmap` is elasticity where the cluster is permitted to dynamically grow/shrink.
-
+- [ParallelDataTransfer.jl](https://github.com/ChrisRackauckas/ParallelDataTransfer.jl) : A bunch of helper functions for transferring data between worker processes.
 
 ---
 
@@ -127,7 +124,6 @@
 - Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
 - Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 - Blog post on [High-Performance GPU Computing](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
-
 
 **Packages**
 
