@@ -39,6 +39,7 @@
 - [Plots.jl][] : An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands.
 - [PyPlot.jl](https://github.com/JuliaPy/PyPlot.jl) : Plotting for Julia based on `matplotlib.pyplot`.
 - [RoMEPlotting.jl](https://github.com/JuliaRobotics/RoMEPlotting.jl): 2D plotting functionality for the RoME.jl package. It's part of the [Caesar.jl](http://www.github.com/JuliaRobotics/Caesar.jl) package.
+- [SandDance.jl](https://github.com/queryverse/SandDance.jl) : Julia bindings for [MS Sanddance](https://microsoft.github.io/SandDance/)
 - [SimplePlots.jl](https://github.com/djsegal/SimplePlots.jl) : Plots in 5 seconds or your money back.
 - [StatsPlots.jl](https://github.com/JuliaPlots/StatsPlots.jl) : Statistical plotting recipes for [Plots.jl][].
 - [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl) : Unicode plotting for the REPL in Julia.
