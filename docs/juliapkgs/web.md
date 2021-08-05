@@ -9,6 +9,7 @@
 ## Server backends
 
 - [Discord.jl](https://github.com/PurgePJ/Discord.jl) : Julia Discord wrapper.
+- [HoJBot.jl](https://github.com/Humans-of-Julia/HoJBot.jl) : The Discord bot for Humans of Julia community server.
 - [Joseki.jl](https://github.com/amellnik/Joseki.jl) : Suggested opening moves for building APIs in Julia.
 - [NewsAPI.jl](https://github.com/joshday/NewsAPI.jl) : Helper functions for using [newsapi.org](https://newsapi.org)
 - [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) : Julia package to access the Twitter API.
