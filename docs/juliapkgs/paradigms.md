@@ -6,7 +6,7 @@
 
 ## Automata
 
-- [Wikipedia: Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)) 
+- [Wikipedia: Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation))
 - [Wikipedia: Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
 
 **Packages**
@@ -60,6 +60,14 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 - 🏚️ [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) : A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 - 🏚️ [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) : Functional Julia – based on fogus/lemonad.
 - 🏚️ [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) : Method dispatch based on pattern matching for Julia.
+
+## Reversible programming
+
+- [Article about reversible programming](https://www.sciencedirect.com/science/article/pii/S1571066110000204/pdf?md5=7014596c8e6fce7e9d8eee32ada5e1b5&pid=1-s2.0-S1571066110000204-main.pdf)
+
+---
+
+- [NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) : a reversible domain-specific language (DSL). Every state change can be undone.
 
 ## Reactive Programming
 
