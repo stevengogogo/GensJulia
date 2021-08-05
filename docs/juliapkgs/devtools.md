@@ -103,9 +103,9 @@ Bridging pre-1.0 Julia code to 1.0+.
 - [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
 - [MockAWS.jl](https://github.com/JuliaCloud/MockAWS.jl) : patch functions for testing all AWS services.
 - [Mocking.jl](https://github.com/invenia/Mocking.jl) : allowing temporary overwriting of Julia methods for testing purposes.
-- [Watcher.jl](https://github.com/rened/Watcher.jl) : auto-run unit tests every time a file gets saved.
+- [TestEnv.jl](https://github.com/JuliaTesting/TestEnv.jl) : Activate your test enviroment, so you can use your test dependencies in the REPL.
 - [UnitTestDesign.jl](https://github.com/adolgert/UnitTestDesign.jl) : chooses effiennt combinations functional arguments to maximize test coverage.
-
+- [Watcher.jl](https://github.com/rened/Watcher.jl) : auto-run unit tests every time a file gets saved.
 
 ---
 
