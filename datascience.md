@@ -1,4 +1,4 @@
-# DataScience in Julia
+# Data science in Julia
 
 > Data retrieval, manipulation, and storage
 
