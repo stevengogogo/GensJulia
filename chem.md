@@ -12,7 +12,14 @@
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 - [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) : Well its the periodic table - in Julia!
 - [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) : A package containing curated physical constants.
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Dimers.jl](https://github.com/sswatson/Dimers.jl) : Oligomers with two structurally similar monomers.
+
+</details>
 
 ## File I/O
 
@@ -24,7 +31,14 @@
 - [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) : a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
 - [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) : OpenSMILES string representations to LightGraphs.jl format. The author recommends `MolecularGraph.jl`.
 - [PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) : Utilities to programmatically query the PubChem database.
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) : Coherence/phase-locking statistics in Julia.
+
+</details>
 
 ## Physical Chemistry
 
@@ -32,7 +46,14 @@
 
 - [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) : CoolProp wrapper for Julia
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamics properties of wet air and gasses.
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Lavoisier.jl](https://github.com/longemen3000/lavoisier) : Thermodynamics models of gasseus compounds.
+
+</details>
 
 ## Simulation Methods
 
@@ -54,8 +75,13 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) : Simulation of Brownian-Based Stochastic Processes.
 
+</details>
 
 ### Moelcular simulation
 
@@ -69,6 +95,12 @@
 
 [Wikipedia: Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - [ClassicalLaminateTheory.jl](https://github.com/PtFEM/ClassicalLaminateTheory.jl) : Laminate model functions by K.Y.Lin.
 - 🏗️ [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) : A Lattice Library for Julia.
 - 🏚️ [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) : Artificial Hydrocarbon Networks (AHNs) in Julia.
+
+</details>

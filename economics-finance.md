@@ -20,6 +20,10 @@ Economics and Finance are part of [Wikipedia: Actuarial science](https://en.wiki
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [copula.jl](https://github.com/floswald/copula.jl) : Julia Copula package implements the gaussian AR1 copula.
 - 🏚️ [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) : This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
 - 🏚️ [Econometrics.jl](https://github.com/JuliaFinMetriX/Econometrics.jl) : The Econometrics.jl package contains functionalities for (financial) econometric research.
@@ -29,6 +33,7 @@ Economics and Finance are part of [Wikipedia: Actuarial science](https://en.wiki
 - 🏚️ [Loss.jl](https://github.com/johnmyleswhite/Loss.jl) : General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
 - 🏚️ [RuinProbability.jl](https://github.com/Hank-Qian/RuinProbability.jl) : For calculating the ruin probability with real data under different claims models.
 
+</details>
 
 ## Finance
 
@@ -38,6 +43,10 @@ Economics and Finance are part of [Wikipedia: Actuarial science](https://en.wiki
 - [MarketData.jl](https://github.com/JuliaQuant/MarketData.jl) : Time series market data
 
 ---
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) : Asset Management.
 - 🏚️ [BigFinance.jl](https://github.com/jiahao/BigFinance.jl) : Analysis of high frequency quantitative data. [flashcrash-ui](https://github.com/shashi/flashcrash-ui) is the UI for `BigFinance.jl`.
@@ -65,3 +74,5 @@ Economics and Finance are part of [Wikipedia: Actuarial science](https://en.wiki
 - 🏚️ [WorldBankDataTd.jl](https://github.com/JuliaFinMetriX/WorldBankDataTd.jl) : Accessing World Bank Data.
 - 🏚️ [YStockData.jl](https://github.com/Algocircle/YStockData.jl) : Fetch Data from Yahoo Finance.
 - 🏚️ [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) : The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
+
+</details>

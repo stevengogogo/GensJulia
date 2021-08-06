@@ -48,7 +48,7 @@
 - [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : 2D plotting for Julia.
 
 
-## Base packages
+## Infrastructure packages
 
 - [Cairo.jl](https://github.com/JuliaGraphics/Cairo.jl) : Bindings for the Cairo graphics library.
 - [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) : Color manipulation utilities for Julia.
@@ -68,6 +68,12 @@
 [Plots.jl]: https://github.com/JuliaPlots/Plots.jl
 
 ---
+
+## other packages
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) : Fast animated (and static) plots for Julia.
 - 🏚️ [BBVis.jl](https://github.com/joehuchette/BBVis.jl) : Visualizations for branch-and-bound algorithms.
@@ -104,3 +110,5 @@
 - 🏚️ [VTK.jl](https://github.com/timholy/VTK.jl) : VTK bindings for the Julia language.
 - 🏚️ [Wavelets.jl](https://github.com/tomaskrehlik/Wavelets.jl), by tomaskrehlik : Implementation of Wavelet methods in Julia.
 - 🏚️ [YT.jl](https://github.com/jzuhone/YT.jl) : A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
+
+</details>

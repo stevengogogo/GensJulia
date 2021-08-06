@@ -7,12 +7,17 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Events.jl](https://github.com/SimonDanisch/Events.jl) : Simple Event system.
 - 🏚️ [Graze.jl](https://github.com/iamed2/Graze.jl) : A feed reader.
 - 🏚️ [Humanize.jl](https://github.com/IainNZ/Humanize.jl) : Humanize numbers, based on the Python package [humanize](https://github.com/jmoiron/humanize) by @jmoiron. (No `Project.toml`)
 - 🏚️ [Osmosis.jl](https://github.com/SimonDanisch/Osmosis.jl) : Chat client for Julia.
 - 🏚️ [Utils.jl](https://github.com/SimonDanisch/Utils.jl) : Some utility functions by @SimonDanisch.
 
+</details>
 
 ## Microsoft Windows
 
@@ -23,6 +28,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [COMCall.jl](https://github.com/ihnorton/COMCall.jl) : COM Interface for Julia.
 - 🏚️ [IUP.jl](https://github.com/joa-quim/IUP.jl) : Julia interface to IUP windowing toolkit.
 - 🏚️ [RawFile.jl](https://github.com/tknopp/RawFile.jl) (No `Project.toml`)
@@ -30,6 +39,8 @@
 - 🏚️ [Wine.jl](https://github.com/Keno/Wine.jl) : Sniffing the wineserver protocol for fun and profit.
 - 🏚️ [WinReg.jl](https://github.com/simonbyrne/WinReg.jl) :  Windows Registry interface for Julia. (No `Project.toml`)
 - 🏚️ [WinUser.jl](https://github.com/JuliaGL/WinUser.jl) : wrapper for windows native windowing functions.
+
+</details>
 
 ## Terminal and command prompt
 
@@ -47,6 +58,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) : Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 - 🏚️ [CLI.jl](https://github.com/Roger-luo/CLI.jl) : A library for automatically generating command line interfaces from absolutely Julia object, inspired by `python-fire`.
 - 🏚️ [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
@@ -59,6 +74,8 @@
 - 🏚️ [TerminalUI.jl](https://github.com/Keno/TerminalUI.jl) : Terminal User Interface.
 - 🏚️ [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) : NCurses based GUI helper and data navigators.
 - 🏚️ [toolbox.jl](https://github.com/natj/toolbox.jl) : Small tools and snippets used by @natj with julia.
+
+</details>
 
 ## Benchmarking and profiling
 
@@ -79,6 +96,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) : A package for computing simple benchmarks, comparing functions and packages.
 - 🏚️ [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) : A lightweight Julia package for simple performance benchmark.
 - 🏚️ [Benchmarks.jl](https://github.com/johnmyleswhite/Benchmarks.jl) : A new benchmarking library for Julia.
@@ -91,3 +112,5 @@
 - 🏚️ [Perftests.jl](https://github.com/staticfloat/Perftests.jl) : Base perftests for Julia.
 - 🏚️ [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) : Julia module to test the performance of sorting algorithms.
 - 🏚️ [USERTime.jl](https://github.com/christianpeel/USERTime.jl) : A Julia package for measuring elapsed user time.
+
+</details>

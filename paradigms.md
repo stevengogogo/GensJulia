@@ -17,10 +17,16 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [CellularAutomata.jl](https://github.com/natj/CellularAutomata.jl) : Cellular Automata package.
 - 🏚️ [FiniteStateMachine.jl](https://github.com/tinybike/FiniteStateMachine.jl) : A simple Julia implementation of finite state machines.
 - 🏚️ [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) : Intervals are inter-values, an interval is its values and their intra-values.
 - 🏚️ [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) : A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
+
+</details>
 
 ## Control Flow
 
@@ -37,10 +43,16 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Hooking.jl](https://github.com/Keno/Hooking.jl) : Function entry hooking for julia and C functions.
 - 🏚️ [Iterators.jl](https://github.com/JuliaLang/Iterators.jl) : Common functional iterator patterns.
 - 🏚️ [Slicot.jl](https://github.com/jcrist/Slicot.jl) : Julia wrapper for SLICOT Routines.
 - 🏚️ [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) : A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
+
+</details>
 
 ## Functional Programming
 
@@ -57,9 +69,15 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) : A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 - 🏚️ [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) : Functional Julia – based on fogus/lemonad.
 - 🏚️ [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) : Method dispatch based on pattern matching for Julia.
+
+</details>
 
 ## Reversible programming
 
@@ -79,15 +97,28 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 ## Grammatical Evolution
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Evolution.jl](https://github.com/xenon-/Evolution.jl) : Evolutionary Computation in Julia.
 - 🏚️ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) : An evolutionary technique that is similar to Genetic Programming (GP).
+
+</details>
 
 ## Interpreters
 
 [Wikipedia: Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing))
 
 - [JuliaInterpreter.jl](https://github.com/JuliaDebug/JuliaInterpreter.jl) : Interpreter for Julia code.
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ASTInterpreter.jl](https://github.com/Keno/ASTInterpreter.jl) : Gallium's AST interpreter as a separate package to simplify development.
+
+</details>
 
 ## Macro and Metaprogramming
 
@@ -103,6 +134,10 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ForceImport.jl](https://github.com/chakravala/ForceImport.jl) : Macro that force imports conflicting methods in Julia modules
 - 🏚️ [ImportMacros.jl](https://github.com/fredrikekre/ImportMacros.jl) : Provides three macros: @import and @using which loads a module and binds it to an alias, and @from which loads an object from a module and binds it to an alias.
 - 🏚️ [MetaMerge.jl](https://github.com/davidagold/MetaMerge.jl) : Merge functions with identical names from distinct modules.
@@ -111,6 +146,8 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 - 🏚️ [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) : Timeit macro for Julia.
 - 🏚️ [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) : A julia macro for unrolling conditional `for` loops.
 - 🏚️ [UTime.jl](https://github.com/J-Sarnoff/UTime.jl) : Universal Time using local system timezone.
+
+</details>
 
 ## Automatic Programming
 
@@ -137,10 +174,16 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ASTInterpreter2.jl](https://github.com/Keno/ASTInterpreter2.jl) : Re-write of ASTInterpreter for `julia 0.6+`.
 - 🏚️ [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) : Introduction to dataflow analysis using julia.
 - 🏚️ [ExpressionPatterns.jl](https://github.com/fcard/ExpressionPatterns.jl) : Match, Destructure and Dispatch on expressions.
 - 🏚️ [PAPI.jl](https://github.com/jakebolewski/PAPI.jl) : Julia bindings to the Performance Application Programming Interface (PAPI).
+
+</details>
 
 ## Polymorphism amd multiple dispatch
 
@@ -158,7 +201,13 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) : Support for method dispatch in Julia based on pattern matching.
+
+</details>
 
 ## Static analysis
 
@@ -167,8 +216,14 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Quantity.jl](https://github.com/rephorm/Quantity.jl) : Numbers with units.
 - 🏚️ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) : Intuitive, useful stack traces for Julia. StackTraces functionality has been merged into the Julia standard library as of v0.5.
+
+</details>
 
 ## Style Guidelines
 

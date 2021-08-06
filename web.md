@@ -16,9 +16,13 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [DandelionSlack.jl](https://github.com/dandeliondeathray/DandelionSlack.jl) : Slack API in Julia.
 - 🏚️ [FFIExamples.jl](https://github.com/johnmyleswhite/FFIExamples.jl) : Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
-- 🏚️ [Hydna.jl](https://github.com/jfd/Hydna.jl) : Hydna Julia Client Library implements support for the Hydna Push API.
+- 🏚️ [Hydna.jl](https://github.com/jfd/Hydna.jl) : Hydna Julia Client Library implements support for the [Hydna](https://www.hydna.com/) Push API.
 - 🏚️ [MakiBot.jl](https://github.com/SimonDanisch/MakiBot.jl) : A Telegram plot bot for MakiE.jl.
 - 🏚️ [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) : A Julia package for using the MapLight API.
 - 🏚️ [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) : An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
@@ -26,6 +30,9 @@
 - 🏚️ [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) : A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
 - 🏚️ [Toxcore.jl](https://github.com/SimonDanisch/Toxcore.jl) : A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
 - 🏚️ [Twilert.jl](https://github.com/glesica/Twilert.jl) : A small SMS alert library for Julia.
+
+</details>
+
 
 ## Web frameworks
 
@@ -35,10 +42,16 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [mvc-skeleton.jl](https://github.com/halla/mvc-skeleton.jl)
 - 🏚️ [OpenFiscaWebApi.jl](https://github.com/openfisca/OpenFiscaWebApi.jl) : A port of OpenFisca-Web-API to Julia. This is the web API for the OpenFisca website.
-- 🏚️ [Pythia.jl](https://github.com/Keno/Pythia.jl) : Julia wrappers for the Pythia event generator.
+- 🏚️ [Pythia.jl](https://github.com/Keno/Pythia.jl) : Julia wrappers for the [Pythia event generator](http://home.thep.lu.se/~leifg/tutorials/).
 - 🏚️ [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) : An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
+
+</details>
 
 ## Middleware
 
@@ -48,8 +61,14 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Mongrel2.jl](https://github.com/aviks/Mongrel2.jl) : Mongrel2 handlers in Julia.
 - 🏚️ [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) : a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use.
+
+</details>
 
 ## Networking
 
@@ -61,13 +80,18 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Dates.jl](https://github.com/quinnj/Dates.jl) : A Date and DateTime implementation for Julia. Merged into the Base Standard Library
 - 🏚️ [Juliaflow](https://github.com/pchronz/juliaflow) : A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
 - 🏚️ [MsgPackRpcServer.jl](https://github.com/remore/MsgPackRpcServer.jl) : A Julia implementation of MessagePack-RPC Server Library.
-- 🏚️ [Pcap.jl](https://github.com/JuliaIO/Pcap.jl) : Libpcap implementation for Julia language. (No `Project.toml`)
+- 🏚️ [Pcap.jl](https://github.com/JuliaIO/Pcap.jl) : [Libpcap](https://www.tcpdump.org) implementation for Julia language. (No `Project.toml`)
 - 🏚️ [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) : A simple Julia implementation of a statsd client.
 - 🏚️ [UUID.jl](https://github.com/forio/UUID.jl) : A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process. UUID functionality has been merged into Julia 0.4.
 
+</details>
 
 ## Security
 
@@ -77,9 +101,15 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Etcd.jl](https://github.com/forio/Etcd.jl) : A Julia Etcd client implementation.
 - 🏚️ [SecureSessions.jl](https://github.com/JockLawrie/SecureSessions.jl) : Secure sessions for web apps written in Julia.
 - 🏚️ [SSH.jl](https://github.com/Keno/SSH.jl) : An SSH implementation.
+
+</details>
 
 ## Web
 
@@ -103,6 +133,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Biryani.jl](https://github.com/eraviart/Biryani.jl) : A conversion and validation toolbox.
 - 🏚️ [Curl.jl](https://github.com/forio/Curl.jl) : A Julia HTTP curl library.
 - 🏚️ [Fuji.jl](https://github.com/jackcook/Fuji.jl) : A lightweight web server written in Julia.
@@ -115,6 +149,8 @@
 - 🏚️ [Requests.jl](https://github.com/JuliaWeb/Requests.jl) : HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
 - 🏚️ [URIParser.jl](https://github.com/JuliaWeb/URIParser.jl) : Pure julia URI parser. (No `Project.toml`)
 
+</details>
+
 ## HTML-CSS
 
 - [Cascadia.jl](https://github.com/Algocircle/Cascadia.jl) : A CSS Selector library in Julia.
@@ -123,9 +159,17 @@
 ## Email
 
 - [SMTPClient.jl](https://github.com/JuliaWeb/SMTPClient.jl) : An SMTP client to send emails from Julia.
-- 🏚️ [Mandrill.jl](https://github.com/aviks/Mandrill.jl) : Mandrill API in Julia.
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
+- 🏚️ [Mandrill.jl](https://github.com/aviks/Mandrill.jl) : [Mandrill](https://mandrill.com/) API in Julia.
+
+</details>
 
 ## Static site generators
 
-- [Franklin.jl](https://github.com/tlienart/Franklin.jl) for static site generation with live Julia code evaulation. See also [examples](https://github.com/tlienart/Franklin.jl#docs) and [templates](https://github.com/tlienart/FranklinTemplates.jl)
-- [PkgPage.jl](https://tlienart.github.io/PkgPage.jl/) for (package) front-pages, powered by `Franklin.jl`.
+- [Franklin.jl](https://github.com/tlienart/Franklin.jl) : static site generation with live Julia code evaulation. See also [examples](https://github.com/tlienart/Franklin.jl#docs) and [templates](https://github.com/tlienart/FranklinTemplates.jl)
+- [PkgPage.jl](https://tlienart.github.io/PkgPage.jl/) : package front-pages powered by `Franklin.jl`.
+- [StaticWebPages.jl](https://github.com/Humans-of-Julia/StaticWebPages.jl) : A black-box generator for static websites oriented toward academics and personal web-pages.

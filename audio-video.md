@@ -5,7 +5,6 @@
 - [JuliaAudio](https://github.com/JuliaAudio)
 - [JuliaMusic](https://github.com/JuliaMusic)
 
-
 **Packages**
 
 - [FFMPEG.jl][] : Julia Package for the FFMPEG builder binaries.
@@ -28,6 +27,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) : is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
 - 🏚️ [gr-juliaffi](https://github.com/JayKickliter/gr-juliaffi) : A GNU Radio package that lets you write custom signal processing blocks in Julia.
 - 🏚️ [MP3.jl](https://github.com/JuliaAudio/MP3.jl) : MP3 codec for Julia using JuliaAudio idioms. LAME and mpg123 working under the hood.
@@ -36,3 +39,5 @@
 - 🏚️ [Sound.jl](https://github.com/JuliaLang/Sound.jl) : Reading and writing from WAV files.
 - 🏚️ [Tablo.jl](https://github.com/dmbates/Tablo.jl) : Julia interface to the Tablo over-the-air digital video recorder.
 - 🏚️ [WebPlayer.jl](https://github.com/SimonDanisch/WebPlayer.jl) : Playing videos with Julia in the web. (No `Project.toml`)
+
+</details>

@@ -12,12 +12,18 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ARules.jl](https://github.com/toddleo/ARules.jl) : Julia package for Association Rule Learning algorithms.
 - 🏚️ [CRC32.jl](https://github.com/fhs/CRC32.jl) : 32-bit cyclic redundancy check (CRC-32) checksum implementation.
 - 🏚️ [HClust.jl](https://github.com/davidavdav/HClust.jl) : Hierarchical Clustering for Julia, similar to R's hclust(), has now been merged into [Clustering.jl](https://github.com/JuliaStats/Clustering.jl)
 - 🏚️ [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) : A fast, nearly linear time algorithm for detecting communtiy structure in networks.
 - 🏚️ [RecSys.jl](https://github.com/abhijithch/RecSys.jl) : An implementation of the ALS-WR algorithm.
 - 🏚️ [Codecs.jl](https://github.com/BioJulia/Codecs.jl) : Common data encoding algorithms.
+
+</details>
 
 
 ## Pattern Matching
@@ -28,11 +34,17 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) : Julia implementation of the Aho-Corasick algorithm for fast string searching.
 - 🏚️ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) : Port of the jellyfish string comparison library.
 - 🏚️ [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) : Data structures for nearest neighbor search.
 - 🏚️ [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) : Method dispatch based on pattern matching for Julia.
 - 🏚️ [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) : Adds functionality to reverse-search strings with regexes
+
+</details>
 
 ## Sorting
 
@@ -42,7 +54,13 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) : An API for common search and sort algorithms.
+
+</details>
 
 ## NP-complete Problems
 
@@ -59,8 +77,14 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [dReal.jl](https://github.com/zenna/dReal.jl) : Nonlinear SMT solving using dReal.
 - 🏚️ [Z3.jl](https://github.com/zenna/Z3.jl) : This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
+
+</details>
 
 ## General Data structures and data types
 
@@ -74,6 +98,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) : Julia package to deal with Characters of 8 bits.
 - 🏚️ [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) : Types for continuous variables or parameters.
 - 🏚️ [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) : KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
@@ -86,6 +114,7 @@
 - 🏚️ [Sexpr.jl](https://github.com/vshesh/Sexpr.jl) : A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 - 🏚️ [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) : Tex Pretty printing of Julia Base types.
 
+</details>
 
 ## Text / string data type
 
@@ -101,6 +130,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 - 🏚️ [MonkeyString.jl](https://github.com/malmaud/MonkeyString.jl) : Fast string implementation inspired by SpiderMonkey.
 - 🏚️ [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) : Mutable string types for Julia.
@@ -110,6 +143,8 @@
 - 🏚️ [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) : a type checker for Julia.
 - 🏚️ [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) : Prototype typeclasses for Julia.
 - 🏚️ [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) : Visualize the Julia type system.
+
+</details>
 
 ## Graph data types
 
@@ -138,6 +173,10 @@ See [Graph Theory](graph.md#graph-data-types) section.
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ArbDecimals.jl](https://github.com/JuliaArbTypes/ArbDecimals.jl) : reliable and performant extended precision floating point math.
 - 🏚️ [ArbFloats.jl](https://github.com/JuliaArbTypes/ArbFloats.jl) :  Arb available as an extended precision floating point context.
 - 🏚️ [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) : A BigRational package for Julia using GMP.
@@ -153,6 +192,8 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - 🏚️ [IntsWithInfinty.jl](https://github.com/Jeffrey-Sarnoff/IntsWithInfinty.jl) : Ints augmented with Infinity.
 - 🏚️ [Scalar.jl](https://github.com/sabjohnso/Scalar.jl) : Scalar Types.
 - 🏚️ [Units.jl](https://github.com/timholy/Units.jl) : Infrastructure for handling physical units for the Julia programming language. Use `Unitful.jl` instead.
+
+</details>
 
 ## Array types
 
@@ -192,6 +233,10 @@ See [Graph Theory](graph.md#graph-data-types) section.
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [FlexibleArrays.jl](https://github.com/eschnett/FlexibleArrays.jl) : Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible.
 - 🏚️ [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) : Statically-sized immutable vectors and matrices.
 - 🏚️ [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) : Judy arrays are fast associative arrays with low memory usage.
@@ -205,11 +250,13 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - 🏚️ [StructsOfArrays.jl](https://github.com/JuliaArrays/StructsOfArrays.jl) : Structures of Arrays that behave like Arrays of Structures.
 - 🏚️ [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) : A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 
+</details>
+
 ## Composite Data Types
 
 [Wikipedia: Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types)
 
-Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/51973)` for a concise struct construction.
+See also [`Base.@kwdef`](https://discourse.julialang.org/t/what-does-kwdef-do/51973) for a concise struct construction in the Julia base.
 
 - [Accessors.jl](https://github.com/JuliaObjects/Accessors.jl) : updating immutable data simple. It is the successor of `Setfield.jl`.
 - [Bijections.jl](https://github.com/scheinerman/Bijections.jl) : Bijection datatype for Julia that blocks assigning the same value to two different keys.
@@ -224,6 +271,10 @@ Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/519
 - [Unpack.jl](https://github.com/mauro3/UnPack.jl) : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable datatypes.
 
 ---
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [AutoTypeParameters.jl](https://github.com/andrewcooke/AutoTypeParameters.jl) : A Julia library to reversibly encode any value so that it can be used as a type parameter.
 - 🏚️ [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) : Wrap any Julia composite type in an Associative interface.
@@ -240,6 +291,7 @@ Also see `[Base.@kwdef](https://discourse.julialang.org/t/what-does-kwdef-do/519
 - 🏚️ [QuickStructs.jl](https://github.com/tbreloff/QuickStructs.jl) : Several data structures with goals of O(1) for important operations.
 - 🏚️ [SymDict.jl](https://github.com/JuliaCloud/SymDict.jl) : Convenience functions for dictionaries with Symbol keys. (No `Project.toml`). You can use `Dict(pairs(nt))` instead.
 
+</details>
 
 ## Resources
 

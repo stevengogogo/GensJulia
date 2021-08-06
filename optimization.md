@@ -33,11 +33,16 @@
 - [KNITRO.jl](https://github.com/jump-dev/KNITRO.jl) : Julia interface for [KNITRO solver](https://www.artelys.com/knitro).
 - [Xpress.jl](https://github.com/jump-dev/Xpress.jl) : A Julia interface for the [FICO Xpress solver](https://github.com/jump-dev/Xpress.jl/blob/master/www.fico.com/products/fico-xpress-solver).
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [SCIP.jl](https://github.com/mlubin/SCIP.jl) by @mlubin : An optimization software for mixed-integer programs.
 - 🏚️ [SCIP.jl](https://github.com/ryanjoneil/SCIP.jl) by @ryanjoneil : A Julia interface to the SCIP solver.
 - 🏚️ [SCS.jl](https://github.com/JuliaOpt/SCS.jl) : Julia Wrapper for [SCS](https://github.com/cvxgrp/scs).
 
+
+</details>
 
 ## Linear Programming-Optimization
 
@@ -48,9 +53,14 @@
 - [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) : Optimizing over piecewise linear functions.
 - [Tulip.jl](https://github.com/ds4dm/Tulip.jl) : is an open-source interior-point solver for linear optimization, written in pure Julia. It implements the homogeneous primal-dual interior-point algorithm with multiple centrality corrections, and therefore handles unbounded and infeasible problems.
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [jlSimplex](https://github.com/mlubin/jlSimplex) : Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
 - 🏚️ [NLTester](https://github.com/IainNZ/NLTester) : Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling.
+
+</details>
 
 ## Nonlinear Programming
 
@@ -60,10 +70,15 @@
 - [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) : Wrapper to solve [conic](http://mathprogbasejl.readthedocs.org/en/latest/conic.html) optimization problems with derivative-based nonlinear solvers.
 - [Convex.jl](https://github.com/jump-dev/Convex.jl) : A Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems.
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [DReal.jl](https://github.com/zenna/DReal.jl) : A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver.
 - 🏚️ [OptimizationServices.jl](https://github.com/tkelman/OptimizationServices.jl) : Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS).
 - 🏚️ [Quadprog.jl](https://github.com/harmeling/Quadprog.jl) : A wrapper around Ipopt.jl to solve quadratic programming problems.
+
+</details>
 
 ## Misc
 
@@ -95,6 +110,10 @@
 ---
 
 [Optim.jl]: https://github.com/JuliaNLSolvers/Optim.jl
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [BLOM.jl](https://github.com/tkelman/BLOM.jl) : A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
 - 🏚️ [Caching.jl](https://github.com/zgornel/Caching.jl) : Memoization mechanism.
@@ -128,3 +147,5 @@
 - 🏚️ [SemidefiniteProgramming.jl](https://github.com/daviddelaat/SemidefiniteProgramming.jl) : This package provides a Julia interface for low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP.
 - 🏚️ [simplex.jl](https://github.com/davidagold/simplex.jl) : Practice project program that performs the simplex algorithm.
 - 🏚️ [VinDsl.jl](https://github.com/jmxpearson/VinDsl.jl) : A fast and furious domain-specific language for variational inference in Julia.
+
+</details>

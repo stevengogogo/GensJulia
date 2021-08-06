@@ -19,6 +19,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Accumulo.jl](https://github.com/JuliaDB/Accumulo.jl) : Apache Accumulo client.
 - 🏚️ [D4M.jl](https://github.com/achen12/D4M.jl) : A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
 - 🏚️ [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) : A new database interface proposal.
@@ -28,6 +32,8 @@
 - 🏚️ [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) : The SciDB-Julia package allows users of Julia to interface with SciDB.
 - 🏚️ [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) : View-based DBI for Julia.
 - 🏚️ [Q.jl](https://github.com/enlnt/Q.jl) : Julia for [kdb+](https://github.com/prologic/kdb) database.
+
+</details>
 
 
 ## HDF5 format
@@ -59,6 +65,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [MariaDB.jl](https://github.com/Junia18/MariaDB.jl) : A wrapper around the MariaDB C connector.
 - 🏚️ [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) : MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 - 🏚️ [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) : Wrapper over Python's SQLAlchemy library.
@@ -66,6 +76,8 @@
 - 🏚️ [Postgres.jl](https://github.com/NCarson/Postgres.jl) : Postgres database interface for the Julia language. {Tag: Unmaintained}
 - 🏚️ [PostgreSQL.jl](https://github.com/swt30/PostgreSQL.jl) : An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl) use `LibPQ.jl` instead.
 - 🏚️ [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) : DBI-compliant driver for SQLite3.
+
+</details>
 
 ## Accessing datasets
 
@@ -79,6 +91,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) : Interface to common crawl dataset on Amazon S3.
 - 🏚️ [Maker.jl](https://github.com/tshort/Maker.jl) : A tool like `make` for data analysis in Julia.
 - 🏚️ [ModelerToolbox.jl](https://github.com/spencerlyon2/ModelerToolbox.jl) : Utilities for working with many different versions/parameterizations of models.
@@ -87,6 +103,8 @@
 - 🏚️ [REDCap.jl](https://github.com/bcbi/REDCap.jl) : A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API.
 - 🏚️ [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) : An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
 - 🏚️ [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) : A small package to allow for easy access and download of datasets from UCI ML repository.
+
+</details>
 
 ## Data Manipulation
 
@@ -98,8 +116,14 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [StructuredQueries.jl](https://github.com/davidagold/StructuredQueries.jl) : Data manipulation facilities for Julia.
 - 🏚️ [FastGroupBy.jl](https://github.com/xiaodaigh/FastGroupBy.jl) : Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
+
+</details>
 
 ## Resources
 

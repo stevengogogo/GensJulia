@@ -15,6 +15,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Alazar.jl](https://github.com/ajkeller34/Alazar.jl) : [AlazarTech](http://www.alazartech.com/) API wrapper for Julia.
 - 🏚️ [DIDebug.jl](https://github.com/Keno/DIDebug.jl) : Debug the destination index in an x86 computer architecture using the standardized DWARF-ELF debugging data format.
 - 🏚️ [FTD2XX.jl](https://github.com/cstook/FTD2XX.jl) : Wrapper for FTDI [FTD2XX](http://www.ftdichip.com/Drivers/D2XX.htm) library.
@@ -24,6 +28,8 @@
 - 🏚️ [VISA.jl](https://github.com/ajkeller34/VISA.jl) : [VISA](https://www.ni.com/visa/) wrapper for Julia.
 - 🏚️ [ZenFab.jl](https://github.com/FactoryOS/ZenFab.jl) : Software for using digital manufacturing devices.
 
+</details>
+
 ## Computer-assisted design / manufacture (CAD/CAM)
 
 - [Devices.jl](https://github.com/PainterQubits/Devices.jl) : For simplified generation of device CAD files for superconducting device design.
@@ -31,7 +37,13 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Gcode.jl](https://github.com/sjkelly/Gcode.jl) : A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
+
+</details>
 
 ## Embedded Systems
 
@@ -43,8 +55,14 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Arduino.jl](https://github.com/ihnorton/Arduino.jl) : Basic [Arduino](http://www.arduino.cc/) interface for Julia.
 - 🏚️ [TinyG.jl](https://github.com/sjkelly/TinyG.jl) : This package provides support for CNC controllers running the [TinyG firmware](https://github.com/synthetos/TinyG/wiki), principally developed by Synthetos.
+
+</details>
 
 ## Robots
 
@@ -57,9 +75,21 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [FPTControl.jl](https://github.com/krisztiankosi/FPTControl.jl) : Fixed Point Transformation Based Control.
 - 🏚️ [Robotics.jl](https://github.com/cdsousa/Robotics.jl) : Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 
+</details>
+
 ## TouchScreen
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [Taste.jl](https://github.com/jiahao/Taste.jl) : A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
+
+</details>

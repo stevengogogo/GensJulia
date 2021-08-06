@@ -39,7 +39,7 @@
 - [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) : Julia software library for the exploration of chaos and nonlinear dynamics.
 - [LatentDiffEq.jl](https://github.com/gabrevaya/LatentDiffEq.jl) : A high-level Flux + DiffEq library solving Generative ODE modeling with Known Unknowns (GOKU). [JuliaCon 2021 video](https://youtu.be/jhIgs4swrMA)
 - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) : A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia.
-- [Modia.jl](https://github.com/ModiaSim/Modia.jl) : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.  
+- [Modia.jl](https://github.com/ModiaSim/Modia.jl) : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.
 - [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) : Utilities to simulate and perform inference of disease dynamics.
 - [RiemannHilbert.jl](https://github.com/JuliaHolomorphic/RiemannHilbert.jl) : A Julia package for solving Riemann–Hilbert problems.
 - [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) : A discrete event process oriented simulation framework written in Julia.
@@ -50,9 +50,15 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [ChemicalKinetics.jl](https://github.com/papamarkou/ChemicalKinetics.jl) :  DiffEq related functionality for defining biological models.
 - 🏚️ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) : A collection of Julia functions that produce the systems of ODEs for various dynamical systems.
 - 🏚️ [MovcolN.jl](https://github.com/pwl/MovcolN.jl) : Moving collocation method to solve one dimensional partial differential equations.
+
+</details>
 
 
 ## Stochastic algorithms
@@ -92,11 +98,17 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) : HP Finite elements in Julia.
 - 🏚️ [Makhno.jl](https://github.com/pjabardo/Makhno.jl) : Spectral element code implemented in Julia.
 - 🏚️ [FEM.jl](https://github.com/pjabardo/FEM.jl) : Simple finite elements in Julia.
 - 🏚️ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) : A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 - 🏚️ [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) : This is a package to plot trusses for finite element results.
+
+</details>
 
 ## Agent-based models
 
@@ -104,8 +116,14 @@
 
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 - [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [NetLogo.jl](https://github.com/nicolaspayette/NetLogo.jl) : controlling [NetLogo](http://ccl.northwestern.edu/netlogo/) from Julia.
 
+</details>
 
 ## Network modeling
 

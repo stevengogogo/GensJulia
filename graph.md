@@ -28,6 +28,10 @@
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [BGraph.jl](https://github.com/adolgert/BGraph.jl) : An adjacency list that uses typed properties for vertices, edges, and graphs.
 - 🏚️ [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
 - 🏚️ [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) : Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
@@ -41,6 +45,8 @@
 - 🏚️ [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
 - 🏚️ [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) : Binary tree where the nodes contain the sum of the left and right children.
 - 🏚️ [Trie.jl](https://github.com/JuliaLang/Trie.jl) : Implementation of the trie data structure.
+
+</details>
 
 [LightGraphs.jl]: https://github.com/JuliaGraphs/LightGraphs.jl
 
@@ -58,6 +64,10 @@
 - [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) : Julia wrapper for SuiteSparse:GraphBLAS.
 
 ---
+
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [bloom.jl](https://github.com/boydgreenfield/bloom.jl) : Bloom filter implementation in Julia.
 - 🏚️ [Blox.jl](https://github.com/tbreloff/Blox.jl) : Views of concatenated AbstractArrays in Julia.
@@ -81,6 +91,7 @@
 - 🏚️ [Sims.jl](https://github.com/tshort/Sims.jl) : Non-causal, equation-based modeling in Julia.
 - 🏚️ [TSPSubgradient.jl](https://github.com/whilo/TSPSubgradient.jl) : A TSP approximation with the subgradient method.
 
+</details>
 
 **Resources**
 
@@ -97,5 +108,11 @@ See also the [Visualizations](visualization.md) section.
 
 ---
 
+<details>
+
+<summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) : Graph visualization with tight integration with `LightGraphs.jl` package.
 - 🏚️ [GraphViz.jl](https://github.com/Keno/GraphViz.jl) : Julia bindings for the GraphViz library.
+
+</details>
