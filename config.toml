@@ -43,12 +43,12 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "GitHub"
+  name = "🔗 GitHub"
   url = "https://github.com/sosiristseng/GensJulia"
   weight = 10
 
 [[menu.after]]
-  name = "My other notes"
+  name = "🗒️ My other notes"
   url = "https://sosiristseng.github.io/"
   weight = 20
 
@@ -77,7 +77,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://sosiristseng.github.io/template-hugo-book/'
+  BookRepo = 'https://sosiristseng.github.io/GensJulia/'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
