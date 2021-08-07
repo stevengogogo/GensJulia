@@ -1,7 +1,7 @@
 # Docs: https://docs.github.com/en/github/administering-a-repository/configuration-options-for-dependency-updates
 version: 2
 updates:
-  - package-ecosystem: 'pip'
+  - package-ecosystem: 'gitsubmodule'
     directory: '/'
     schedule:
       interval: 'weekly'
