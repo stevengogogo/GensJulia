@@ -8,6 +8,7 @@
 
 ## Server backends
 
+- [Canvas.jl](https://github.com/fredrikekre/Canvas.jl) (by @fredrikekre) : a Julia package for interacting with the [Canvas LMS REST API](https://canvas.instructure.com/doc/api/), which is a online education [platform](https://www.instructure.com/).
 - [Discord.jl](https://github.com/PurgePJ/Discord.jl) : Julia Discord wrapper.
 - [HoJBot.jl](https://github.com/Humans-of-Julia/HoJBot.jl) : The Discord bot for Humans of Julia community server.
 - [Joseki.jl](https://github.com/amellnik/Joseki.jl) : Suggested opening moves for building APIs in Julia.
