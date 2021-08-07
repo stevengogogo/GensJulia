@@ -81,7 +81,7 @@
 ### Finite element method
 
 - [Wikipedia: Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
-- [Graphic | Geometry](/graphics?id=geometry) section.
+- [Graphic](graphics.md) section.
 
 **Packages**
 
