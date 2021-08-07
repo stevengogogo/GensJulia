@@ -16,21 +16,21 @@
 
 > Some of them may require paid license to work.
 
-- [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
-- [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl) : a Julia interface for the commercial [Gurobi](http://www.gurobi.com/) Optimizer.
-- [Ipopt.jl](https://github.com/jump-dev/Ipopt.jl) : Julia interface to the [Ipopt](https://coin-or.github.io/Ipopt/) nonlinear solver.
-- [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) : Package to call the [NLopt](http://ab-initio.mit.edu/nlopt) nonlinear-optimization library from the Julia language.
 - [AmplNLReader.jl](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl) : A Julia Interface to AMPL.
+- [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 - [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : Julia interface to AMPL-enabled solvers.
 - [Cbc.jl](https://github.com/jump-dev/Cbc.jl) : Interface to the Coin-OR Cbc solver for mixed-integer programming.
 - [CPLEX.jl](https://github.com/jump-dev/CPLEX.jl) : An interface for using IBM's [CPLEX Optimizer](https://www.ibm.com/products/ilog-cplex-optimization-studio)™ from the Julia language.
 - [CSDP.jl](https://github.com/jump-dev/CSDP.jl) : Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver.
+- [CUTEst.jl](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) : Julia interface for [CUTEst](https://github.com/ralna/CUTEst/wiki), a repository of constrained and unconstrained nonlinear programming problems for testing and comparing optimization algorithms.
 - [ECOS.jl](https://github.com/jump-dev/ECOS.jl) : Julia wrapper for the ECOS conic optimization solver.
 - [GLPK.jl](https://github.com/jump-dev/GLPK.jl) : GLPK wrapper module for Julia.
-- [CUTEst.jl](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) : Julia interface for [CUTEst](https://github.com/ralna/CUTEst/wiki), a repository of constrained and unconstrained nonlinear programming problems for testing and comparing optimization algorithms.
 - [GLPKMathProgInterface.jl](https://github.com/JuliaOpt/GLPKMathProgInterface.jl) : Interface between the GLPK.jl wrapper and MathProgBase.jl.
+- [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl) : a Julia interface for the commercial [Gurobi](http://www.gurobi.com/) Optimizer.
 - [HSL.jl](https://github.com/JuliaSmoothOptimizers/HSL.jl) : Julia interface to the HSL Mathematical Software Library.
+- [Ipopt.jl](https://github.com/jump-dev/Ipopt.jl) : Julia interface to the [Ipopt](https://coin-or.github.io/Ipopt/) nonlinear solver.
 - [KNITRO.jl](https://github.com/jump-dev/KNITRO.jl) : Julia interface for [KNITRO solver](https://www.artelys.com/knitro).
+- [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) : Package to call the [NLopt](http://ab-initio.mit.edu/nlopt) nonlinear-optimization library from the Julia language.
 - [Xpress.jl](https://github.com/jump-dev/Xpress.jl) : A Julia interface for the [FICO Xpress solver](https://github.com/jump-dev/Xpress.jl/blob/master/www.fico.com/products/fico-xpress-solver).
 
 <details>
