@@ -1,3 +1,8 @@
+---
+title: "Web tech"
+weight: 250
+---
+
 # Server and Web tech in Julia
 
 > Interface for generic external servers, web framework, ...

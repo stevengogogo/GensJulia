@@ -1,3 +1,8 @@
+---
+title: Concurrency
+weight: 50
+---
+
 # Concurrency and Parallel Computing in Julia
 
 > HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, Hardware arch (ARM, CUDA, GPU, MIPS), Kernels

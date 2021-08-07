@@ -1,3 +1,8 @@
+---
+title: "Math"
+weight: 170
+---
+
 # General mathematical tools in Julia
 
 > [Mathematical](http://en.wikipedia.org/wiki/Lists_of_mathematics_topics) libraries/ packages, and related resources.

@@ -1,3 +1,7 @@
+---
+title: Chemistry
+weight: 40
+---
 # Chemistry in Julia
 
 **Resources**
@@ -83,7 +87,7 @@
 
 </details>
 
-### Moelcular simulation
+### Molecular  simulation
 
 - [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) : Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
 - [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) : Flexible Julia code for plane-wave [density-functional theory (DFT)](https://en.wikipedia.org/wiki/Density_functional_theory) and related models.

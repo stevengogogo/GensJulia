@@ -1,3 +1,7 @@
+---
+title: Biology
+weight: 30
+---
 # Biology in Julia
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...

@@ -1,3 +1,8 @@
+---
+title: "Utilities"
+weight: 230
+---
+
 # General Julia utilities
 
 - [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.

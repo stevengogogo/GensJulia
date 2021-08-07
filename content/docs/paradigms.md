@@ -1,3 +1,8 @@
+---
+title: "Programming Paradigms"
+weight: 200
+---
+
 # Julia programming paradigms
 
 - [Wikipedia: Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)

@@ -1,3 +1,7 @@
+---
+title: Dev Tools
+weight: 70
+---
 # Development tools for Julia
 
 > Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.org/wiki/DevOps)

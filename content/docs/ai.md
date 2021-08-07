@@ -1,3 +1,8 @@
+---
+title: Artificial intelligence
+weight: 10
+---
+
 # Artificial intelligence in Julia
 
 > Artificial intelligence and machine learning

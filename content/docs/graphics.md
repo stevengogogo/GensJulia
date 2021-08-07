@@ -1,3 +1,8 @@
+---
+title: "Graph Theory"
+weight: 130
+---
+
 # Graphics in Julia
 
 > Computer Vision, Graphics, games, geometry

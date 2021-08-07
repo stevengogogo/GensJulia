@@ -1,3 +1,8 @@
+---
+title: "Probability and Statistics"
+weight: 210
+---
+
 # Probability and Statistics in Julia
 
 > Probabilistic programming, Stochastic process, Statistics

@@ -1,3 +1,8 @@
+---
+title: Data science
+weight: 60
+---
+
 # Data science in Julia
 
 > Data retrieval, manipulation, and storage
