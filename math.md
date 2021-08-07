@@ -84,6 +84,8 @@
 
 ### Cryptocurrency
 
+- [LearnBlockChain](https://github.com/Julia-Blockchain/LearnBlockChain) : Block chain [tutorial](https://www.youtube.com/watch?v=eDELq53TpNc) in Julia.
+
 <details>
 
 <summary>🏚️ Might not work in the current version of Julia</summary>
