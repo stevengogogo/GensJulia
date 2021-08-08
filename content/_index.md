@@ -12,26 +12,12 @@ This Julia resource list is largely based on [Julia.jl](https://github.com/svaks
 Kudos to the author(s) for the hard work.
 {{< /hint >}}
 
-I collected resources from the following
-
-- [Julia.jl][] (main source)
-- [Package announcements](https://discourse.julialang.org/c/community/packages/47) from the Julia discourse forum.
-- [Julia youtube channels](https://www.youtube.com/c/TheJuliaLanguage)
-- etc.
-
-Non-existent packages, dead links, and deprecated tutorials are removed.
-
-Legends:
-
-- 🏚️ means the package may not support current versions (v1.0+) of Julia.
-- 🏗️ means the package may be a WIP.
-
-## How is it done
-
 The package lists are collected from:
 
 - [Julia.jl](https://github.com/svaksha/Julia.jl) (most entries)
 - [Package announcements](https://discourse.julialang.org/c/community/packages/47) from the Julia discourse forum.
+- - [Julia youtube channels](https://www.youtube.com/c/TheJuliaLanguage)
+- etc.
 
 Non-existent packages, dead links, and deprecated tutorials are removed.
 
