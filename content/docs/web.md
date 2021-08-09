@@ -28,7 +28,7 @@ weight: 250
 
 - 🏚️ [DandelionSlack.jl](https://github.com/dandeliondeathray/DandelionSlack.jl) : Slack API in Julia.
 - 🏚️ [FFIExamples.jl](https://github.com/johnmyleswhite/FFIExamples.jl) : Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
-- 🏚️ [Hydna.jl](https://github.com/jfd/Hydna.jl) : Hydna Julia Client Library implements support for the [Hydna](https://www.hydna.com/) Push API.
+- 🏚️ [Hydna.jl](https://github.com/jfd/Hydna.jl) : Hydna Julia Client Library implements support for the Hydna Push API.
 - 🏚️ [MakiBot.jl](https://github.com/SimonDanisch/MakiBot.jl) : A Telegram plot bot for MakiE.jl.
 - 🏚️ [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) : A Julia package for using the MapLight API.
 - 🏚️ [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) : An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)

@@ -34,7 +34,7 @@ weight: 30
 - [MIToS.jl](https://github.com/diegozea/MIToS.jl) : Mutual Information Tools for protein Sequence analysis in Julia.
 - [MMTF.jl](https://github.com/BioJulia/MMTF.jl) : The Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structures for fast 3D visualization and analysis.
 - [NormalizeQuantiles.jl](https://github.com/oheil/NormalizeQuantiles.jl) : implements quantile normalization
-- [PlmDCA](https://github.com/pagnani/PlmDCA) : [Pseudo Likelihood Maximization](http://plmdca.csc.kth.se/) for protein in Julia.
+- [PlmDCA](https://github.com/pagnani/PlmDCA) : Pseudo Likelihood Maximization for direct-coupling analysis of protein structure from many homologous amino-acid sequences.
 - [SpeedDate.jl](https://github.com/vanOosterhoutLab/SpeedDate.jl) : A utility for rapidly estimating coalescence times between sequences.
 - [XSim.jl](https://github.com/reworkhow/XSim.jl) : A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 
