@@ -12,29 +12,33 @@ weight: 10
 - [Julia ML](https://juliaml.github.io)
 - [FluxML](https://github.com/FluxML/)
 
+## Frameworks
+
+- [EasyML.jl](https://github.com/OML-NPA/EasyML.jl) : Using machine learning in Julia through a graphical user interface.
+- [FastAI.jl][] : Repository of best practices for deep learning in Julia, inspired by [fastai](https://github.com/fastai/fastai). [Showcase](https://lorenzoh.github.io/posts/fastaijl_ecosystem.html)
+- [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. See also [Flux model-zoo](https://github.com/FluxML/model-zoo).
+- [Knet.jl](https://github.com/denizyuret/Knet.jl) : Koç University deep learning framework - A machine learning module implemented in Julia. See also [KnetNLP](https://github.com/egeersu/KnetNLP) and [KnetOnnx.jl](https://github.com/egeersu/KnetOnnx.jl)
+- [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) : A Julia machine learning framework by The Alan Turing Institute.
+
+
 ## Machine Learning and Neural Networks
 
 > General machine learning frameworks and Neural Networks
 
 - [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia.
 - [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) : Restricted Boltzmann Machines and Deep Belief Networks in Julia
-- [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) : Basic functions for clustering data ==> k-means, dp-means, etc..
+- [Clustering.jl](https://github.com/JuliaStats/Clustering.jl) : Basic functions for clustering data ==> k-means, dp-means, etc..
 - [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) : Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
-- [EasyML.jl](https://github.com/OML-NPA/EasyML.jl) : Using machine learning in Julia through a graphical user interface.
-- [FastAI.jl][] : Repository of best practices for deep learning in Julia, inspired by [fastai](https://github.com/fastai/fastai). [Showcase](https://lorenzoh.github.io/posts/fastaijl_ecosystem.html)
-- [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. See also [Flux model-zoo](https://github.com/FluxML/model-zoo).
 - [FluxTraining.jl](https://github.com/FluxML/FluxTraining.jl) : A powerful, extensible neural net training library. The training backend for [FastAI.jl][].
 - [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) : Utility functions for the FunctionalData package, mainly from the area of computer vision and machine learning.
 - [GeometricFlux.jl](https://github.com/FluxML/GeometricFlux.jl) : Geometric Deep Learning for Flux.
 - [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) : Kernel functions for machine learning.
-- [Knet.jl](https://github.com/denizyuret/Knet.jl) : Koç University deep learning framework - A machine learning module implemented in Julia. See also [KnetNLP](https://github.com/egeersu/KnetNLP) and [KnetOnnx.jl](https://github.com/egeersu/KnetOnnx.jl)
 - [LearningStrategies.jl](https://github.com/JuliaML/LearningStrategies.jl) : A generic and modular framework for building custom iterative algorithms in Julia.
 - [LossFunctions.jl](https://github.com/JuliaML/LossFunctions.jl) : Julia package of loss functions for machine learning. [Documentation](https://juliaml.github.io/LossFunctions.jl/stable)
 - [Merlin.jl](https://github.com/hshindo/Merlin.jl) : Flexible Deep Learning Framework in Julia.
 - [Mitosis.jl](https://github.com/mschauer/Mitosis.jl) : Automatic probabilistic programming for scientific machine learning and dynamical models.
 - [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) : Utility package for accessing common Machine Learning datasets in Julia.
-- [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) : A Julia machine learning framework by The Alan Turing Institute
 - [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) : Utility package for working with classification targets and label-encodings.
 - [NetworkLearning.jl](https://github.com/zgornel/NetworkLearning.jl) : Baseline collective classification library.
 - [NeuralVerification.jl](https://github.com/sisl/NeuralVerification.jl) : verifying whether a neural network satisfies certain input-output constraints. [JuliaCon 2021 ideo](https://youtu.be/jyC2fVmHcF8)
@@ -202,7 +206,6 @@ weight: 10
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : Topic models are Bayesian, hierarchical mixture models of discrete data.
 - [Word2Vec.jl](https://github.com/JuliaText/Word2Vec.jl) : Julia interface to word2vec.
 - [WordNet.jl](https://github.com/JuliaText/WordNet.jl) : A Julia package for Princeton's WordNet®.
-
 
 ---
 
