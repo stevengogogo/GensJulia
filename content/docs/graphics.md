@@ -140,7 +140,7 @@ weight: 130
 
 ### OCR
 
-- [OCReract.jl](https://github.com/leferrad/OCReract.jl) : A simple Julia wrapper for Tesseract OCR.
+- [OCReract.jl](https://github.com/leferrad/OCReract.jl) : A simple Julia wrapper for [Tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html) OCR.
 
 ---
 
