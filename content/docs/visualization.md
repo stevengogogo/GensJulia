@@ -51,7 +51,7 @@ weight: 240
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) : This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
 - [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) : Generate area-proportional Venn/Euler diagrams in Julia.
 - [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : 2D plotting for Julia.
-
+- 🏗️ [TernaryPlots.jl](https://github.com/jacobusmmsmit/TernaryPlots.jl) : Ternary/simplex plotting recipe/addon for [Plots.jl][].
 
 ## Infrastructure packages
 
