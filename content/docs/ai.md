@@ -25,9 +25,11 @@ weight: 10
 
 > General machine learning frameworks and Neural Networks
 
+- [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) : a package to create complex ML pipeline structures using simple expressions.
 - [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia.
 - [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) : Restricted Boltzmann Machines and Deep Belief Networks in Julia
 - [Clustering.jl](https://github.com/JuliaStats/Clustering.jl) : Basic functions for clustering data ==> k-means, dp-means, etc..
+- [CombineML.jl](https://github.com/ppalmes/CombineML.jl) : Create ensembles of machine learning models from scikit-learn, caret, and julia.
 - [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) : Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
 - [FluxTraining.jl](https://github.com/FluxML/FluxTraining.jl) : A powerful, extensible neural net training library. The training backend for [FastAI.jl][].
