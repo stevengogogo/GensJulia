@@ -49,6 +49,7 @@ weight: 10
 - [ParticleFilters.jl](https://github.com/JuliaPOMDP/ParticleFilters.jl) : Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
 - [PredictMD.jl](https://github.com/bcbi/PredictMD.jl) : Uniform interface for machine learning in Julia.
 - [PrivateMultiplicativeWeights.jl](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) : Differentially private synthetic data.
+- [SpectralClustering.jl](https://github.com/lucianolorenti/SpectralClustering.jl) : Spectral clustering algorithms written in Julia.
 - [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) : Sum-Product Networks (deep probabilistic networks) package in Julia.
 - [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) : Julia tools for feeding tabular data into machine learning.
 - [TopoChains.jl](https://github.com/irhum/TopoChains.jl) : A flexible data structure for multi-input multi-output models.
@@ -59,11 +60,8 @@ weight: 10
 
 ---
 
-<details>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
-<summary>🏚️ Might not work in the current version of Julia</summary>
-
-- 🏗️ [SpectralClustering.jl](https://github.com/lucianolorenti/SpectralClustering.jl) : Spectral clustering algorithms written in Julia.
 - 🏗️ [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) : Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.
 - 🏚️ [ANN.jl](https://github.com/EricChiang/ANN.jl) : Julia artificial neural networks
 - 🏚️ [ayush1999 | Keras.jl](https://github.com/ayush1999/Keras.jl) : A package built atop Flux to directly load Keras(.py) models into `Flux.jl`.
@@ -119,7 +117,7 @@ weight: 10
 - 🏚️ [Strada.jl](https://github.com/pcmoritz/Strada.jl) : A deep learning library for Julia based on Caffe.
 - 🏚️ [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) : Loader of svmlight / liblinear format files.
 
-</details>
+{{< /details >}}
 
 ### Julia interface for external libraries
 
@@ -133,9 +131,7 @@ weight: 10
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [FANN.jl](https://github.com/gasagna/FANN.jl) : A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 - 🏚️ [Keras.jl](https://github.com/invenia/Keras.jl) @ invenia: A julia wrapper for keras.io.
@@ -143,7 +139,7 @@ weight: 10
 - 🏚️ [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) : A Julia wrapper for TensorFlow, the open source machine learning framework from Google.
 - 🏚️ [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) : Tools for working with the MNIST data set.
 
-</details>
+{{< /details >}}
 
 ### Spiking neural network
 
@@ -172,14 +168,12 @@ weight: 10
 
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) : An implementation of DeepMind's Deep Q Learning algorithm.
 - 🏚️ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner : A Reinforcement Learning package.
 
-</details>
+{{< /details >}}
 
 ## Natural language processing (NLP)
 
@@ -211,9 +205,7 @@ weight: 10
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 - 🏚️ [allen](https://github.com/ninjin/allen) : A syntacto-semantic natural language parser.
@@ -232,7 +224,7 @@ weight: 10
 - 🏚️ [Text.jl](https://github.com/mit-nlp/Text.jl) : Numerous tools for text processing.
 - 🏚️ [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) : Parser with beginners and enders and infix.
 
-</details>
+{{< /details >}}
 
 [TextAnalysis.jl]: https://github.com/JuliaText/TextAnalysis.jl
 
@@ -248,13 +240,11 @@ weight: 10
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [MelGeneralizedCepstrums.jl](https://github.com/r9y9/MelGeneralizedCepstrums.jl) : It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia.
 - 🏚️ [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 - 🏚️ [SPTK.jl](https://github.com/r9y9/SPTK.jl) : A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 - 🏚️ [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) : Speech Synthesis Filters.
 
-</details>
+{{< /details >}}

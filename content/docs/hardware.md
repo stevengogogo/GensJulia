@@ -20,9 +20,7 @@ weight: 140
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Alazar.jl](https://github.com/ajkeller34/Alazar.jl) : [AlazarTech](http://www.alazartech.com/) API wrapper for Julia.
 - 🏚️ [DIDebug.jl](https://github.com/Keno/DIDebug.jl) : Debug the destination index in an x86 computer architecture using the standardized DWARF-ELF debugging data format.
@@ -33,7 +31,7 @@ weight: 140
 - 🏚️ [VISA.jl](https://github.com/ajkeller34/VISA.jl) : [VISA](https://www.ni.com/visa/) wrapper for Julia.
 - 🏚️ [ZenFab.jl](https://github.com/FactoryOS/ZenFab.jl) : Software for using digital manufacturing devices.
 
-</details>
+{{< /details >}}
 
 ## Computer-assisted design / manufacture (CAD/CAM)
 
@@ -42,13 +40,11 @@ weight: 140
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Gcode.jl](https://github.com/sjkelly/Gcode.jl) : A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 
-</details>
+{{< /details >}}
 
 ## Embedded Systems
 
@@ -60,14 +56,12 @@ weight: 140
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Arduino.jl](https://github.com/ihnorton/Arduino.jl) : Basic [Arduino](http://www.arduino.cc/) interface for Julia.
 - 🏚️ [TinyG.jl](https://github.com/sjkelly/TinyG.jl) : This package provides support for CNC controllers running the [TinyG firmware](https://github.com/synthetos/TinyG/wiki), principally developed by Synthetos.
 
-</details>
+{{< /details >}}
 
 ## Robots
 
@@ -81,21 +75,17 @@ weight: 140
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [FPTControl.jl](https://github.com/krisztiankosi/FPTControl.jl) : Fixed Point Transformation Based Control.
 - 🏚️ [Robotics.jl](https://github.com/cdsousa/Robotics.jl) : Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 
-</details>
+{{< /details >}}
 
 ## TouchScreen
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Taste.jl](https://github.com/jiahao/Taste.jl) : A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
 
-</details>
+{{< /details >}}

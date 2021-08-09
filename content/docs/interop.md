@@ -14,7 +14,12 @@ weight: 160
 ## Mathematica
 
 - [MathLink.jl][] : Julia language interface for Mathematica/Wolfram Engine.
+
+{{< details "🏚️ Might not work in the current version of Julia" >}}
+
 - 🏚️ [Mathematica.jl](https://github.com/MikeInnes/Mathematica.jl) : is a package that provides an interface for using Wolfram Mathematica™ from the Julia language. Use [MathLink.jl][] instead.
+
+{{< /details >}}
 
 [MathLink.jl]: https://github.com/JuliaInterop/MathLink.jl
 
@@ -23,14 +28,12 @@ weight: 160
 - [Git.jl](https://github.com/JuliaVersionControl/Git.jl) : Julia wrapper for command line Git.
 - [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) : A Julia package for interfacing with the GitHub API.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [MechaJulia](https://github.com/MechaJulia/MechaJulia) : A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
 - 🏚️ [Octokit.jl](https://github.com/Keno/Octokit.jl) : Julia package to access the GitHub API.
 
-</details>
+{{< /details >}}
 
 ## C
 
@@ -42,15 +45,13 @@ A built-in [native c interface](https://docs.julialang.org/en/v1/manual/calling-
 
 - [CxxWrap.jl][] : A package to provide a Boost.Python-like wrapping for C+- types and functions to Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Cpp.jl](https://github.com/timholy/Cpp.jl) : Utilities for calling C+- from Julia. Use [CxxWrap.jl][] instead.
 - 🏚️ [Cxx.jl](https://github.com/Keno/Cxx.jl) : The Julia C+- Foreign Function Interface (FFI) with `@cxx` macro. Only works (out of the box) currently with Julia 1.1.x to 1.3.x.
 - 🏚️ [CxxROOT.jl](https://github.com/Keno/CxxROOT.jl) : A Cxx.jl based interface to CERN's ROOT.
 
-</details>
+{{< /details >}}
 
 [CxxWrap.jl]: https://github.com/barche/CxxWrap.jl
 
@@ -58,13 +59,11 @@ A built-in [native c interface](https://docs.julialang.org/en/v1/manual/calling-
 
 - [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) : A Julia-Erlang module for use in the [erlport](http://erlport.org) project.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [FsBert](https://github.com/et4te/FsBert) : A Julia library for encoding / decoding binary Erlang terms.
 
-</details>
+{{< /details >}}
 
 ## Fortran
 
@@ -72,13 +71,11 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ## Go
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [GoTMSupport.jl](https://github.com/ordovician/GoTMSupport.jl) : Support for writing bundle commands for the Go programming language in Julia.
 
-</details>
+{{< /details >}}
 
 ## Java
 
@@ -94,9 +91,7 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [DThree.jl](https://github.com/jverzani/DThree.jl) : Simple interface to d3.js from Julia. And its fork 🏚️ [d3.jl](https://github.com/EricForgy/d3.jl)
 - 🏚️ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) : Julia interface to Google Chart Tools.
@@ -106,7 +101,7 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 - 🏚️ [PlotlyJS.jl](https://github.com/EricForgy/PlotlyJS.jl) : A Julia wrapper API for `plotly.js`by @EricForgy. Merged with the package above?
 - 🏚️ [Vue.jl](https://github.com/JuliaGizmos/Vue.jl) : A Julia wrapper for `Vue.js`.
 
-</details>
+{{< /details >}}
 
 ## MATLAB
 
@@ -121,15 +116,13 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [MatlabCompat.jl](https://github.com/MatlabCompat/MatlabCompat.jl) : Julia library aimed at simplifying conversion of legacy MATLAB/Octave code into Julia by providing functions similar to MATLAB/Octave.
 - 🏚️ [Mex.jl](https://github.com/juliamatlab/mexjulia) : Call Julia from matlab. Call Julia from MATLAB. This project is effectively in hibernation as its author no longer has access to matlab.
 - 🏚️ [Moonwalk.jl](https://github.com/diogo149/Moonwalk.jl) : A partial MATLAB to Julia compiler, just to ease the transition of libraries.
 
-</details>
+{{< /details >}}
 
 ## ObjectiveC
 
@@ -137,13 +130,11 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ## Perl
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [FileFind.jl](https://github.com/johnmyleswhite/FileFind.jl) : Minimal Implementation of Perl's `File:Find` in Julia.
 
-</details>
+{{< /details >}}
 
 ## Python
 
@@ -153,14 +144,12 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Polyglot.jl](https://github.com/wavexx/Polyglot.jl) : Transparent remote/recursive evaluation between languages - it also supports Perl, PHP and Javascript.
 - 🏚️ [PySyntax.jl](https://github.com/kdheepak/PySyntax.jl) : Allows Python-like syntax in Julia by providing a light wrapper on top of PyCall.jl in the form of a macro.
 
-</details>
+{{< /details >}}
 
 ## R
 
@@ -172,9 +161,7 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [jl4R](https://github.com/rcqls/jl4R) : `Julia for R` will embed the julia language in R, with very basic julia types getting converted into R objects.
 - 🏚️ [ProjectTemplate.jl](https://github.com/johnmyleswhite/ProjectTemplate.jl) : is a draft port of the ProjectTemplate package for R to Julia.
@@ -184,7 +171,7 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 - 🏚️ [utils.jl](https://github.com/johnmyleswhite/utils.jl) : Utility functions for Julia -R compatibility wrapper.
 - 🏚️ Run Julia code chunk in [knitr](http://rpubs.com/yihui/julia-knitr) : Allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 
-</details>
+{{< /details >}}
 
 ## REDUCE
 
@@ -200,12 +187,10 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 [Ruby interoperability](https://github.com/arbox/ruby-interoperability)
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [guard-julia](https://github.com/svs14/guard-julia) : Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 - 🏗️ [jl4rb](https://github.com/rcqls/jl4rb) : Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects.
 - 🏗️🏚️ [ruby-julia](https://github.com/mrkn/ruby-julia) : Julia on Ruby (frequently updated, but supports Julia 1.1 only)
 
-</details>
+{{< /details >}}

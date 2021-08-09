@@ -76,9 +76,7 @@ weight: 240
 
 ## other packages
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) : Fast animated (and static) plots for Julia.
 - 🏚️ [BBVis.jl](https://github.com/joehuchette/BBVis.jl) : Visualizations for branch-and-bound algorithms.
@@ -116,4 +114,4 @@ weight: 240
 - 🏚️ [Wavelets.jl](https://github.com/tomaskrehlik/Wavelets.jl), by tomaskrehlik : Implementation of Wavelet methods in Julia.
 - 🏚️ [YT.jl](https://github.com/jzuhone/YT.jl) : A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
 
-</details>
+{{< /details >}}

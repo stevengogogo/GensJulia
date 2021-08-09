@@ -26,14 +26,12 @@ weight: 50
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Blocks.jl](https://github.com/JuliaParallel/Blocks.jl) : A framework to represent chunks of entities and parallel methods on them.
 - 🏚️ [ScaLAPACK.jl](https://github.com/JuliaParallel/ScaLAPACK.jl) : Scalable Linear Algebra PACKage.
 
-</details>
+{{< /details >}}
 
 ## APIs and bindings
 
@@ -45,15 +43,13 @@ weight: 50
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [HDFS.jl](https://github.com/JuliaParallel/HDFS.jl) : An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
 - 🏚️ [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) : Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 - 🏚️ [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl) : Experimental Julia interface to `slurm.schedmd.com`.
 
-</details>
+{{< /details >}}
 
 ## Cloud computing
 
@@ -63,13 +59,11 @@ weight: 50
 - [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) : Tools for working with Google Compute engine via the cloud CLI.
 - [GoogleCloud.jl](https://github.com/JuliaCloud/GoogleCloud.jl) : Google Cloud APIs for Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) : Easy big data programming in the cloud.
 
-</details>
+{{< /details >}}
 
 ## Multi-Threading
 
@@ -78,14 +72,12 @@ weight: 50
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [RawMutex.jl](https://github.com/vchuravy/RawMutex.jl) : A __MUT__ual __EX__clusion program object in Julia that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
 - 🏚️ [MT-Workloads](https://github.com/ranjanan/MT-Workloads) : Multi-threaded workloads in Julia.
 
-</details>
+{{< /details >}}
 
 ## SIMD Computing
 
@@ -101,15 +93,13 @@ weight: 50
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [SIMDPirates.jl](https://github.com/chriselrod/SIMDPirates.jl) : A library for SIMD intrinsics. The code was stolen from SIMD.jl, whose authors and maintainers deserve credit for most of the good work here. Aside from pirating code, SIMDPirates also provides an @pirate macro that lets you imagine you're commiting type piracy
 - 🏚️ [SIMDVectors.jl](https://github.com/KristofferC/SIMDVectors.jl) : An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 - 🏚️ [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) : A low level, high performance library for vectorized operations, elementwise operation on arrays.
 
-</details>
+{{< /details >}}
 
 ## Multiprocessing and Distributed Computing
 
@@ -135,9 +125,7 @@ weight: 50
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ChainedVectors.jl](https://github.com/tanmaykm/ChainedVectors.jl) : Few utility types over Julia Vector type.
 - 🏚️ [ClusterDicts.jl](https://github.com/amitmurthy/ClusterDicts.jl) : Global and Distributed dictionaries for Julia.
@@ -154,7 +142,7 @@ weight: 50
 - 🏚️ [PTools.jl](https://github.com/amitmurthy/PTools.jl) : A collection of utilities for parallel computing in Julia.
 - 🏚️ [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) : SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
-</details>
+{{< /details >}}
 
 ## GPU computing
 
@@ -175,9 +163,7 @@ weight: 50
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) : CLBLAS integration for Julia.
 - 🏚️ [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) : Julia interface to CUBLAS.
@@ -195,4 +181,4 @@ weight: 50
 - 🏚️ [Transpiler.jl](https://github.com/SimonDanisch/Transpiler.jl) : Transpiling from Julia's typed AST to CUDA / OpenCL code.
 - 🏚️ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) : Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
 
-</details>
+{{< /details >}}

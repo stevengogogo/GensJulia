@@ -46,16 +46,14 @@ weight: 210
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Dipole julia](https://github.com/manuamador/Dipole_julia) : A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
 - 🏚️ [Reverb Julia](https://github.com/manuamador/Reverb_Julia) : A julia version of an electromagnetic reverberation chamber model based on image theory.
 - 🏚️ [Stirrer](https://github.com/manuamador/Stirrer) : A Julia and Python set of tools to model stirrers in reverberation chambers.
 - 🏚️ [Z](https://github.com/manuamador/Z) : Wave impedance in a reverberation chamber.
 
-</details>
+{{< /details >}}
 
 ## Computational Fluid Dynamics (CFD)
 
@@ -68,14 +66,12 @@ weight: 210
 
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) : Fast and friendly fluid dynamics on CPUs and GPUs.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [hydro](https://github.com/natj/hydro) : Fairly simple, relatively small & mildly interesting hydrodynamic code.
 - 🏚️ [LatBo.jl](https://github.com/UCL/LatBo.jl) : [Lattice-Boltzmann](http://www.scholarpedia.org/article/Lattice_Boltzmann_Method) method in Julia.
 
-</details>
+{{< /details >}}
 
 ## Quantum Mechanics
 
@@ -90,9 +86,7 @@ weight: 210
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) : An Adiabatic Computation Simulator for quantum computation.
 - 🏚️ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) : A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
@@ -100,7 +94,7 @@ weight: 210
 - 🏚️ [QuDOS.jl](https://github.com/acroy/QuDOS.jl) : Quantum Dynamics of Open Systems in Julia.
 - 🏚️ [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) : A library for solving dynamical equations in quantum mechanics.
 
-</details>
+{{< /details >}}
 
 ## Statistical Mechanics
 
@@ -113,20 +107,16 @@ weight: 210
 
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamic properties of moist air (real gas mixture).
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl) : Thermodynamics table for critical values, heat capacity, etc..
 - 🏚️ [WaveToy.jl](https://github.com/eschnett/WaveToy.jl) : Julia WaveToy.
 
-</details>
+{{< /details >}}
 
 ## Other physics packages
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [auditory.jl](https://github.com/jfsantos/auditory.jl) : Auditory filterbanks in Julia.
 - 🏚️ [Chipmunk.jl](https://github.com/zyedidia/Chipmunk.jl) : A binding of the physics engine [Chipmunk](https://chipmunk-physics.net/) for Julia.
@@ -146,4 +136,4 @@ weight: 210
 - 🏚️ [Xray.jl](https://github.com/ggggggggg/Xray.jl) : Julia interface for NIST x-ray database.
 - 🏚️ [SALT.jl](https://github.com/xdavidliu/SALT.jl) : SALT (steady-state ab-initio laser theory) solver package for Julia. (No `Project.toml`)
 
-</details>
+{{< /details >}}

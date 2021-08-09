@@ -24,9 +24,7 @@ weight: 60
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Accumulo.jl](https://github.com/JuliaDB/Accumulo.jl) : Apache Accumulo client.
 - 🏚️ [D4M.jl](https://github.com/achen12/D4M.jl) : A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
@@ -38,7 +36,7 @@ weight: 60
 - 🏚️ [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) : View-based DBI for Julia.
 - 🏚️ [Q.jl](https://github.com/enlnt/Q.jl) : Julia for [kdb+](https://github.com/prologic/kdb) database.
 
-</details>
+{{< /details >}}
 
 
 ## HDF5 format
@@ -70,9 +68,7 @@ weight: 60
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [MariaDB.jl](https://github.com/Junia18/MariaDB.jl) : A wrapper around the MariaDB C connector.
 - 🏚️ [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) : MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
@@ -82,7 +78,7 @@ weight: 60
 - 🏚️ [PostgreSQL.jl](https://github.com/swt30/PostgreSQL.jl) : An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl) use `LibPQ.jl` instead.
 - 🏚️ [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) : DBI-compliant driver for SQLite3.
 
-</details>
+{{< /details >}}
 
 ## Accessing datasets
 
@@ -96,9 +92,7 @@ weight: 60
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) : Interface to common crawl dataset on Amazon S3.
 - 🏚️ [Maker.jl](https://github.com/tshort/Maker.jl) : A tool like `make` for data analysis in Julia.
@@ -109,7 +103,7 @@ weight: 60
 - 🏚️ [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) : An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
 - 🏚️ [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) : A small package to allow for easy access and download of datasets from UCI ML repository.
 
-</details>
+{{< /details >}}
 
 ## Data Manipulation
 
@@ -121,14 +115,12 @@ weight: 60
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [StructuredQueries.jl](https://github.com/davidagold/StructuredQueries.jl) : Data manipulation facilities for Julia.
 - 🏚️ [FastGroupBy.jl](https://github.com/xiaodaigh/FastGroupBy.jl) : Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
 
-</details>
+{{< /details >}}
 
 ## Resources
 

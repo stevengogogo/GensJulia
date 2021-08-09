@@ -55,15 +55,13 @@ weight: 180
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ChemicalKinetics.jl](https://github.com/papamarkou/ChemicalKinetics.jl) :  DiffEq related functionality for defining biological models.
 - 🏚️ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) : A collection of Julia functions that produce the systems of ODEs for various dynamical systems.
 - 🏚️ [MovcolN.jl](https://github.com/pwl/MovcolN.jl) : Moving collocation method to solve one dimensional partial differential equations.
 
-</details>
+{{< /details >}}
 
 
 ## Stochastic algorithms
@@ -103,9 +101,7 @@ weight: 180
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) : HP Finite elements in Julia.
 - 🏚️ [Makhno.jl](https://github.com/pjabardo/Makhno.jl) : Spectral element code implemented in Julia.
@@ -113,7 +109,7 @@ weight: 180
 - 🏚️ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) : A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 - 🏚️ [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) : This is a package to plot trusses for finite element results.
 
-</details>
+{{< /details >}}
 
 ## Agent-based models
 
@@ -122,13 +118,11 @@ weight: 180
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 - [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [NetLogo.jl](https://github.com/nicolaspayette/NetLogo.jl) : controlling [NetLogo](http://ccl.northwestern.edu/netlogo/) from Julia.
 
-</details>
+{{< /details >}}
 
 ## Network modeling
 

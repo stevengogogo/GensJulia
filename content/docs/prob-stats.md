@@ -45,15 +45,13 @@ weight: 210
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia. (No `Project.toml`)
 - 🏚️ [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) : Implementation of data fusion methods.
 - 🏚️ [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) : Bayesian estimation of diffusion processes.
 
-</details>
+{{< /details >}}
 
 ## Statistic Regression analysis
 
@@ -72,15 +70,13 @@ weight: 210
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [FLSA.jl](https://github.com/EQt/FLSA.jl) : Computing the Fused LASSO Signal Approximator to denoise data.
 - 🏚️ [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) : A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 - 🏚️ [Regression.jl](https://github.com/lindahua/Regression.jl) : Algorithms for regression analysis (e.g. linear regression and logistic regression).
 
-</details>
+{{< /details >}}
 
 ## Density estimation
 
@@ -89,7 +85,12 @@ weight: 210
 - [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) : David Scott's Average Shifted Histogram (ASH) density estimation.
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) : Kernel density estimators for continuous variables.
 - [MultiKDE.jl](https://github.com/noil-reed/MultiKDE.jl) : Multivariate kernel density estimation.
+
+{{< details "🏚️ Might not work in the current version of Julia" >}}
+
 - 🏚️ [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) : A Julia package for nonparametric density estimation. (No `Project.toml`)
+
+{{< /details >}}
 
 ## Multivariate
 
@@ -120,13 +121,11 @@ weight: 210
 - [Temporal.jl](https://github.com/dysonance/Temporal.jl) : Flexible and efficient time series class & methods for the Julia language.
 - [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) : Time-series toolkit for Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [SmoothingKernels.jl](https://github.com/johnmyleswhite/SmoothingKernels.jl) : Smoothing kernels for use in kernel regression and kernel density estimation.
 
-</details>
+{{< /details >}}
 
 ## Online algorithm
 
@@ -146,13 +145,11 @@ weight: 210
 
 ## Causal
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CauseMap.jl](https://github.com/cyrusmaher/CauseMap.jl) : An implementation of Convergent Cross Mapping (CCM), a method for causal inference in non-linear dynamics systems, written in Julia.
 
-</details>
+{{< /details >}}
 
 ## Sampling
 
@@ -165,25 +162,21 @@ weight: 210
 - [RecombinatorKMeans.jl](https://github.com/carlobaldassi/RecombinatorKMeans.jl) : An implementation of the recombinator-k-means method.
 - [StableDQMC.jl](https://github.com/crstnbr/StableDQMC.jl) : Numerical stabilization routines for determinant quantum Monte Carlo.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [PSIS.jl](https://github.com/alvaro1101/PSIS.jl) : Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 
-</details>
+{{< /details >}}
 
 ## Tests
 
 - [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) : T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) : A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
 
-</details>
+{{< /details >}}
 
 ## Unclassified
 
@@ -206,9 +199,7 @@ weight: 210
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CTDE.jl](https://github.com/adolgert/CTDE.jl) : Continuous time, discrete event system in Julia.
 - 🏚️ [DirichletProcessMixtures.jl](https://github.com/sbos/DirichletProcessMixtures.jl) : This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
@@ -219,4 +210,4 @@ weight: 210
 - 🏚️ [PowerLaws.jl](https://github.com/johnybx/PowerLaws.jl) : A Julia package for power laws distributions.
 - 🏚️ [PValueAdjust.jl](https://github.com/dirkschumacher/PValueAdjust.jl) : P-value adjustment methods for multiple testing correction.
 
-</details>
+{{< /details >}}

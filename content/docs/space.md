@@ -14,14 +14,12 @@ weight: 220
 
 ## Aeronautics
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ices-desktop](https://github.com/abieler/ices-desktop).
 - 🏚️ [Spice.jl](https://github.com/abieler/Spice.jl) : NASA's SPICE observation geometry system.
 
-</details>
+{{< /details >}}
 
 ## Astronomy and astrophysics
 
@@ -43,9 +41,7 @@ weight: 220
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AperturePhotometry.jl](https://github.com/kbarbary/AperturePhotometry.jl) : Astronomical photometry library for Julia.
 - 🏚️ [CasaCore.jl](https://github.com/mweastwood/CasaCore.jl) : A Julia wrapper of CasaCore. (No `Project.toml`)
@@ -56,7 +52,7 @@ weight: 220
 - 🏚️ [SGP4.jl](https://github.com/crbinz/SGP4.jl) : Julia wrapper for the SGP4 satellite propagation model. (No `Project.toml`)
 - 🏚️ [WCSLIB.jl](https://github.com/JuliaAstro/WCSLIB.jl) : wcslib wrapper for Julia.
 
-</details>
+{{< /details >}}
 
 ## Spacecraft
 

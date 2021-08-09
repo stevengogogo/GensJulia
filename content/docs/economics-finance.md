@@ -24,9 +24,7 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [copula.jl](https://github.com/floswald/copula.jl) : Julia Copula package implements the gaussian AR1 copula.
 - 🏚️ [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) : This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
@@ -37,7 +35,7 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 - 🏚️ [Loss.jl](https://github.com/johnmyleswhite/Loss.jl) : General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
 - 🏚️ [RuinProbability.jl](https://github.com/Hank-Qian/RuinProbability.jl) : For calculating the ruin probability with real data under different claims models.
 
-</details>
+{{< /details >}}
 
 ## Finance
 
@@ -48,9 +46,7 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) : Asset Management.
 - 🏚️ [BigFinance.jl](https://github.com/jiahao/BigFinance.jl) : Analysis of high frequency quantitative data. [flashcrash-ui](https://github.com/shashi/flashcrash-ui) is the UI for `BigFinance.jl`.
@@ -79,4 +75,4 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 - 🏚️ [YStockData.jl](https://github.com/Algocircle/YStockData.jl) : Fetch Data from Yahoo Finance.
 - 🏚️ [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) : The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 
-</details>
+{{< /details >}}

@@ -5,7 +5,6 @@ weight: 20
 
 # Audio and Video processing in Julia
 
-
 **Organizations**
 
 - [JuliaAudio](https://github.com/JuliaAudio)
@@ -33,9 +32,7 @@ weight: 20
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) : is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
 - 🏚️ [gr-juliaffi](https://github.com/JayKickliter/gr-juliaffi) : A GNU Radio package that lets you write custom signal processing blocks in Julia.
@@ -46,4 +43,4 @@ weight: 20
 - 🏚️ [Tablo.jl](https://github.com/dmbates/Tablo.jl) : Julia interface to the Tablo over-the-air digital video recorder.
 - 🏚️ [WebPlayer.jl](https://github.com/SimonDanisch/WebPlayer.jl) : Playing videos with Julia in the web. (No `Project.toml`)
 
-</details>
+{{< /details >}}

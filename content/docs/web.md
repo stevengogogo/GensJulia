@@ -22,9 +22,7 @@ weight: 250
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [DandelionSlack.jl](https://github.com/dandeliondeathray/DandelionSlack.jl) : Slack API in Julia.
 - 🏚️ [FFIExamples.jl](https://github.com/johnmyleswhite/FFIExamples.jl) : Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
@@ -37,8 +35,7 @@ weight: 250
 - 🏚️ [Toxcore.jl](https://github.com/SimonDanisch/Toxcore.jl) : A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
 - 🏚️ [Twilert.jl](https://github.com/glesica/Twilert.jl) : A small SMS alert library for Julia.
 
-</details>
-
+{{< /details >}}
 
 ## Web frameworks
 
@@ -48,16 +45,14 @@ weight: 250
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [mvc-skeleton.jl](https://github.com/halla/mvc-skeleton.jl)
 - 🏚️ [OpenFiscaWebApi.jl](https://github.com/openfisca/OpenFiscaWebApi.jl) : A port of OpenFisca-Web-API to Julia. This is the web API for the OpenFisca website.
 - 🏚️ [Pythia.jl](https://github.com/Keno/Pythia.jl) : Julia wrappers for the [Pythia event generator](http://home.thep.lu.se/~leifg/tutorials/).
 - 🏚️ [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) : An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
 
-</details>
+{{< /details >}}
 
 ## Middleware
 
@@ -67,14 +62,12 @@ weight: 250
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Mongrel2.jl](https://github.com/aviks/Mongrel2.jl) : Mongrel2 handlers in Julia.
 - 🏚️ [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) : a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use.
 
-</details>
+{{< /details >}}
 
 ## Networking
 
@@ -86,9 +79,7 @@ weight: 250
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Dates.jl](https://github.com/quinnj/Dates.jl) : A Date and DateTime implementation for Julia. Merged into the Base Standard Library
 - 🏚️ [Juliaflow](https://github.com/pchronz/juliaflow) : A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
@@ -97,7 +88,7 @@ weight: 250
 - 🏚️ [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) : A simple Julia implementation of a statsd client.
 - 🏚️ [UUID.jl](https://github.com/forio/UUID.jl) : A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process. UUID functionality has been merged into Julia 0.4.
 
-</details>
+{{< /details >}}
 
 ## Security
 
@@ -107,15 +98,13 @@ weight: 250
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Etcd.jl](https://github.com/forio/Etcd.jl) : A Julia Etcd client implementation.
 - 🏚️ [SecureSessions.jl](https://github.com/JockLawrie/SecureSessions.jl) : Secure sessions for web apps written in Julia.
 - 🏚️ [SSH.jl](https://github.com/Keno/SSH.jl) : An SSH implementation.
 
-</details>
+{{< /details >}}
 
 ## Web
 
@@ -139,9 +128,7 @@ weight: 250
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Biryani.jl](https://github.com/eraviart/Biryani.jl) : A conversion and validation toolbox.
 - 🏚️ [Curl.jl](https://github.com/forio/Curl.jl) : A Julia HTTP curl library.
@@ -155,7 +142,7 @@ weight: 250
 - 🏚️ [Requests.jl](https://github.com/JuliaWeb/Requests.jl) : HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
 - 🏚️ [URIParser.jl](https://github.com/JuliaWeb/URIParser.jl) : Pure julia URI parser. (No `Project.toml`)
 
-</details>
+{{< /details >}}
 
 ## HTML-CSS
 
@@ -166,13 +153,11 @@ weight: 250
 
 - [SMTPClient.jl](https://github.com/JuliaWeb/SMTPClient.jl) : An SMTP client to send emails from Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Mandrill.jl](https://github.com/aviks/Mandrill.jl) : [Mandrill](https://mandrill.com/) API in Julia.
 
-</details>
+{{< /details >}}
 
 ## Static site generators
 

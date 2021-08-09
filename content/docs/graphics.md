@@ -39,9 +39,7 @@ weight: 130
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Blending.jl](https://github.com/dejakaymac/Blending.jl).
 - 🏚️ [Ccv.jl](https://github.com/dhotson/Ccv.jl) : Julia bindings for libccv's SIFT image feature detection.
@@ -69,7 +67,7 @@ weight: 130
 - 🏚️ [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) : Julia wrappings for the VLFeat computer vision library.
 - 🏚️ [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) : Wafefront Obj importer.
 
-</details>
+{{< /details >}}
 
 ### Image Processing
 
@@ -86,13 +84,11 @@ weight: 130
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) : Image processing with 🏚️ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl).
 
-</details>
+{{< /details >}}
 
 ### OpenCV API
 
@@ -100,13 +96,11 @@ weight: 130
 
 [Introduction to Julia OpenCV Binding](https://docs.opencv.org/master/d8/da4/tutorial_julia.html)
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [OpenCV.jl](https://github.com/JuliaOpenCV/OpenCV.jl) : The OpenCV (C++) interface for Julia.
 
-</details>
+{{< /details >}}
 
 ### OpenGL and Vulkan API
 
@@ -117,16 +111,14 @@ weight: 130
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) : A 3D graphics package with a Julia API, built on OpenGL.
 - 🏚️ [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) : A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 - 🏚️ [Romeo.jl](https://github.com/SimonDanisch/Romeo.jl) : 3D visualizations and editing in Julia - OpenGL.
 - 🏚️ [ShaderToy.jl](https://github.com/SimonDanisch/ShaderToy.jl) : Shade objects in Julia, created with GLVisualize.jl - OpenGL.
 
-</details>
+{{< /details >}}
 
 [MeshCat.jl]: https://github.com/rdeits/MeshCat.jl
 
@@ -140,13 +132,11 @@ weight: 130
 - [TikzGraphs.jl](https://github.com/JuliaTeX/TikzGraphs.jl) : Graph layout package using algorithms built into [PGF/TikZ 3.0+](http://www.ctan.org/pkg/pgf).
 - [TikzPictures.jl](https://github.com/JuliaTeX/TikzPictures.jl) : Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Smile.jl](https://github.com/sisl/Smile.jl) : A Julia wrapper for the Smile C+- Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks.
 
-</details>
+{{< /details >}}
 
 ### OCR
 
@@ -154,7 +144,11 @@ weight: 130
 
 ---
 
+{{< details "🏚️ Might not work in the current version of Julia" >}}
+
 - 🏚️ [AttentionOCR.jl](https://github.com/GantZA/AttentionOCR.jl) : Julia and Flux adaptation of the python package [aocr.py](https://github.com/emedvedev/attention-ocr) using [Seq2seq with Attention](https://github.com/merckxiaan/flux-seq2seq).
+
+{{< /details >}}
 
 ## Geometry
 
@@ -192,9 +186,7 @@ weight: 130
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) : Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
 - 🏚️ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) : Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
@@ -207,7 +199,7 @@ weight: 130
 - 🏚️ [ols.jl](https://github.com/forio/ols.jl) : Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 algebra library in Julia.
 
-</details>
+{{< /details >}}
 
 ## Games
 
@@ -220,9 +212,7 @@ algebra library in Julia.
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) : ArcadeLearningEnvironment Julia interface.
 - 🏚️ [eve.jl](https://github.com/barcharcraz/eve.jl) : Julia library for interacting with Eve Online.
@@ -230,7 +220,7 @@ algebra library in Julia.
 - 🏚️ [SFML.jl](https://github.com/zyedidia/SFML.jl) : A binding of the Game and Multimedia Library SFML.
 - 🏚️ [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) : This is a small space shooter game made in Julia with SFML.jl.
 
-</details>
+{{< /details >}}
 
 ## Misc
 

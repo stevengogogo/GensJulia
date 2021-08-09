@@ -35,9 +35,7 @@ weight: 170
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ApApproximation.jl](https://github.com/dprn/ApApproximation.jl) : Implementation of the almost-periodic approximation.
 - 🏚️ [Cartesian.jl](https://github.com/timholy/Cartesian.jl) : Fast multidimensional algorithms. Now in Julia `Base`.
@@ -58,7 +56,7 @@ weight: 170
 - 🏚️ [Unums.jl](https://github.com/JuliaComputing/Unums.jl) : Unum (Universal Number) types and operations.
 - 🏚️ [utils.jl](https://github.com/juho-lee/utils.jl) : basic utilities needed for scientific coding with julia.
 
-</details>
+{{< /details >}}
 
 ## Cryptography
 
@@ -71,9 +69,7 @@ weight: 170
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏗️ [ToyFHE.jl](https://github.com/JuliaCrypto/ToyFHE.jl) : Toy implementation of [FHE algorithms](https://en.wikipedia.org/wiki/Homomorphic_encryption).
 - 🏚️ [BlockCipherSelfStudy.jl](https://github.com/andrewcooke/BlockCipherSelfStudy.jl) : Blocks, and RC5.
@@ -85,20 +81,18 @@ weight: 170
 - 🏚️ [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) : sha25 hash algorithm for Julia.
 - 🏚️ [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) : Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
 
-</details>
+{{< /details >}}
 
 ### Cryptocurrency
 
 - [LearnBlockChain](https://github.com/Julia-Blockchain/LearnBlockChain) : Block chain [tutorial](https://www.youtube.com/watch?v=eDELq53TpNc) in Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ Bit[Coin.jl](https://github.com/danielsuo/Coin.jl) : A library for working with Bitcoin written in Julia.
 - 🏚️ [BitcoinBlockchain.jl](https://github.com/stejin/BitcoinBlockchain.jl) : Julia package for analyzing the Bitcoin blockchain via the API provided by https://blockchain.info/.
 
-</details>
+{{< /details >}}
 
 ## Computer Arithmetic
 
@@ -120,15 +114,13 @@ For floating-point datatypes, see [Data Types](dsa.md#numeric-data-types) Sectio
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [ErrorFreeTransforms.jl](https://github.com/dsiem/ErrorFreeTransforms.jl) : Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
 - 🏚️ [Ryu.jl](https://github.com/quinnj/Ryu.jl) : Julia implementation of [ryu](https://github.com/ulfjack/ryu) that converts floating point numbers to decimal strings.
 - 🏚️ [UnumX.jl](https://github.com/JuliaComputing/UnumX.jl) : Experimental Unums.
 
-</details>
+{{< /details >}}
 
 ## Modelling and Simulations
 
@@ -149,9 +141,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [algebra](https://github.com/alrahimi/algebra/) : A hierarchy of abstract algebraic structures in Julia.
 - 🏚️ [Clockwork.jl](https://github.com/malmaud/Clockwork.jl) : Represent modular arithmetic via clock symbols.
@@ -160,7 +150,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [FirstOrderLogic.jl](https://github.com/TotalVerb/FirstOrderLogic.jl) : This package aims to include functions that manipulate mathematical logic.
 - 🏚️ [Juniper.jl](https://github.com/jcrist/Juniper.jl) : A simple computer algebra system.
 
-</details>
+{{< /details >}}
 
 ### Boolean Algebra
 
@@ -168,13 +158,11 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 - [ShowSet.jl](https://github.com/scheinerman/ShowSet.jl) : Nicer output for Set and IntSet objects.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) : Boolean circuit evaluation using bitwise operations.
 
-</details>
+{{< /details >}}
 
 ## Numerical Analysis
 
@@ -198,9 +186,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Dopri.jl](https://github.com/helgee/Dopri.jl) : A Julia wrapper for the DOPRI5 and DOP853 integrators.
 - 🏚️ [EiSCor.jl](https://github.com/andreasnoack/EiSCor.jl) : A Julia wrapper of the Fortran library [eiscor](https://github.com/jaurentz/eiscor).
@@ -209,7 +195,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [RK4.jl](https://github.com/ntezak/RK4.jl) : This package implements a fairly fast Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver that is not technically provably accurate, but works well for finite bandwidth SDE's.
 - 🏚️ [RungeKuttaFehlberg.jl](https://github.com/gwater/RungeKuttaFehlberg.jl) : A Julia implementation of the RKF45 method for time integration.
 
-</details>
+{{< /details >}}
 
 ## Linear Algebra
 
@@ -240,9 +226,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) : A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 - 🏚️ [BSplines.jl](https://github.com/gusl/BSplines.jl) : This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
@@ -266,7 +250,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [SALT.jl](https://github.com/xdavidliu/SALT.jl) : SALT (steady-state ab-initio laser theory) solver package for Julia. (No `Project.toml`)
 - 🏚️ [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) : Julia interface to the SuperLU solver package for sparse systems.
 
-</details>
+{{< /details >}}
 
 ### Matrices
 
@@ -288,9 +272,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏗️ [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) : Testing new ideas for array iteration. Some of the features have already moved to Julia itself.
 - 🏚️ [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl) : metaprogramming for Julia arrays.
@@ -304,7 +286,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) : Handle large columns (vectors of equal length) with bits types in Julia using mmap.
 - 🏚️ [Showoff.jl](https://github.com/dcjones/Showoff.jl) : Nicely format an array of n things for tables and plots.
 
-</details>
+{{< /details >}}
 
 #### Sparse Matrices
 
@@ -320,9 +302,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CSparse.jl](https://github.com/dmbates/CSparse.jl) : A Julia implementation of functions in the CSparse and CXSparse libraries.
 - 🏚️ [MultiFrontalCholesky.jl](https://github.com/JuliaSparse/MultiFrontalCholesky.jl) : The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
@@ -331,7 +311,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [SparseData.jl](https://github.com/lindahua/SparseData.jl) : A Julia package to support working with sparse data sets (e.g. text corpus).
 - 🏚️ [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) : Interface to the Watson Sparse Matrix Package.
 
-</details>
+{{< /details >}}
 
 ### Resources
 
@@ -353,9 +333,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [APES.jl](https://github.com/codles/APES.jl) : Amplitude and Phase Estimation of a Sinusoid.
 - 🏚️ [ChaosCommunications.jl](https://github.com/papamarkou/ChaosCommunications.jl) : Simulation of chaos-based communication systems in Julia.
@@ -367,7 +345,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - 🏚️ [Multirate.jl](https://github.com/JayKickliter/Multirate.jl) : Streaming polyphase DSP filters with sample rate conversion.
 - 🏚️ [WDSP.jl](https://github.com/pjabardo/WDSP.jl) : Digital signal processing used in turbulence implemented in Julia.
 
-</details>
+{{< /details >}}
 
 ### Fast Fourier transform (FFT)
 
@@ -381,15 +359,13 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CLFFT.jl](https://github.com/JuliaGPU/CLFFT.jl) : Julia bindings for AMD's clFFT library.
 - 🏚️ [CUFFT.jl](https://github.com/JuliaGPU/CUFFT.jl) : Wrapper for the CUDA FFT library.
 - 🏚️ [SnFFT.jl](https://github.com/GDPlumb/SnFFT.jl) : A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn.
 
-</details>
+{{< /details >}}
 
 ## Symbolic Computation
 
@@ -414,15 +390,13 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [InterPol.jl](https://github.com/pwl/InterPol.jl) : Interpolating polynomial for Julia.
 - 🏚️ [Orthopolys.jl](https://github.com/daviddelaat/Orthopolys.jl) : Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 - 🏚️ [TempInterp.jl](https://github.com/cc7768/TempInterp.jl) : Evaluation of Chebyshev polynomials and splines.
 
-</details>
+{{< /details >}}
 
 ## Functions
 
@@ -438,13 +412,11 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl) : Special mathematical functions in Julia.
 - [Struve.jl](https://github.com/gwater/Struve.jl) : [Struve](https://dlmf.nist.gov/11) functions for Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [FastAnonymous.jl](https://github.com/timholy/FastAnonymous.jl) : Fast __anonymous functions__ for Julia. A native feature for Julia 0.5+.
 
-</details>
+{{< /details >}}
 
 ## Calculus
 
@@ -471,9 +443,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) : Accurate summation (Yuhang Zhao's iFastSum).
 - 🏚️ [MINE.jl](https://github.com/zhmz90/MINE.jl) : Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
@@ -484,8 +454,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - 🏚️ [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) : Automated differentiation by reverse accumulation. [Documentation](http://reversediffsourcejl.readthedocs.org/en/master/index.html).
 - 🏚️ [ReverseDiffTape.jl](https://github.com/fqiang/ReverseDiffTape.jl) : A Julia package for reverse mode differentiation on a tape.
 
-</details>
-
+{{< /details >}}
 
 **Resources**
 
@@ -517,9 +486,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Catalan.jl](https://github.com/andrioni/Catalan.jl) : a combinatorics library for Julia.
 - 🏚️ [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) : Viterbi algorithm.
@@ -529,7 +496,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - 🏚️ [Shannon.jl](https://github.com/kzahedi/Shannon.jl) : Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 - 🏚️ [PermutationsA.jl](https://github.com/jlapeyre/PermutationsA.jl) by @jlapeyre : Permutation data types and methods.
 
-</details>
+{{< /details >}}
 
 ### Graph Theory
 
@@ -541,9 +508,7 @@ See [Graph algorithms](graph.md#graph-algorithms) section.
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [PlayingCards.jl](https://github.com/DataWookie/PlayingCards.jl) : Package for simulating Playing Cards games in Julia.
 - 🏚️ [Sudoku.jl](https://github.com/hayd/Sudoku.jl) by @hayd : A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia.
@@ -552,7 +517,7 @@ See [Graph algorithms](graph.md#graph-algorithms) section.
 - 🏚️ [SudokuService](https://github.com/IainNZ/SudokuService) : Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver.
 - 🏚️ [Tetris.jl](https://github.com/djsegal/Tetris.jl) : Tetris.
 
-</details>
+{{< /details >}}
 
 ### Resources
 

@@ -51,13 +51,11 @@ weight: 90
 
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) : Algebraic Implicit Biogeochemical Elemental Cycling System (AIBECS) for exploring global marine biogeochemical cycles.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) : Ice-seawater interface calculations using level set methods.
 
-</details>
+{{< /details >}}
 
 **Resources**
 
@@ -69,13 +67,11 @@ weight: 90
 
 - [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) : Julia wrapper for PROJ.4 cartographic projections library.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [PyProj.jl](https://github.com/kshramt/PyProj.jl) : A Julia wrapper of [PyProj](https://pypi.python.org/pypi/pyproj), that performs cartographic transformations and geodetic computations.
 
-</details>
+{{< /details >}}
 
 ## Geographic information system (GIS)
 
@@ -97,9 +93,7 @@ weight: 90
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 - 🏚️ [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) : A library for measuring approximate distance and location given latitudes and longitudes.
@@ -112,7 +106,7 @@ weight: 90
 - 🏚️ [Tyndall.jl](https://github.com/jsbj/Tyndall.jl) : Radiative transfer in Julia.
 - 🏚️ [Watershed.jl](https://github.com/seung-lab/Watershed.jl) : Julia version of watershed.
 
-</details>
+{{< /details >}}
 
 ## GPS
 
@@ -122,12 +116,10 @@ weight: 90
 
 [ Wikipedia: Meteorology](https://en.wikipedia.org/wiki/Meteorology)
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [CAIRS.jl](https://github.com/scheidan/CAIRS.jl) : Continous Assimilation of Integrating Rain Sensors.
 - 🏚️ [Met_Plots_Models.jl](https://github.com/zhujinxuan/Met_Plots_Models.jl) : A simple wrapper of matlibplot for a meteorologist.
 - 🏚️ [TTCal.jl](https://github.com/mweastwood/TTCal.jl) : A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 
-</details>
+{{< /details >}}

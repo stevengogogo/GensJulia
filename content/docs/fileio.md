@@ -20,13 +20,11 @@ weight: 110
 - [StructIO.jl](https://github.com/Keno/StructIO.jl) : Experimental new implementation of StrPack.jl-like functionality.
 - [ULID.jl](https://github.com/ararslan/ULID.jl) : Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [MapD.jl](https://github.com/r3tex/MapD.jl) : A julia library for conveniently inserting data to MapD.
 
-</details>
+{{< /details >}}
 
 ## Saving and loading Julia Objects
 
@@ -47,15 +45,13 @@ Similar to `pickle` in Python.
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [gzip.jl](https://github.com/jvns/gzip.jl) : GunZip in Julia.
 - 🏚️ [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) : A Julia wrapper for the snappy library - a compression/decompression library focusing on speed. (No `Project.toml`)
 - 🏚️ [Zlib.jl](https://github.com/dcjones/Zlib.jl) : Zlib bindings for Julia.
 
-</details>
+{{< /details >}}
 
 ## File Formats
 
@@ -80,9 +76,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AIDA.jl](https://github.com/jstrube/AIDA.jl) : This package implements simple readers for legacy AIDA files.
 - 🏚️ [BDF.jl](https://github.com/codles/BDF.jl) by @codles : A fork of BDF.jl that has started to add support for [EDF](http://www.edfplus.info/specs/edf.html) files.
@@ -105,7 +99,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - 🏚️ [StrPack.jl](https://github.com/pao/StrPack.jl) : For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 - 🏚️ [XPT.jl](https://github.com/lendle/XPT.jl) : The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 
-</details>
+{{< /details >}}
 
 
 ### JSON files
@@ -117,14 +111,12 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Json2.jl](https://github.com/ddolgi/Json2.jl) : JSON encoder/decoder on Julia.
 - 🏚️ [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) : JSON library for Julia using ultraJSON.
 
-</details>
+{{< /details >}}
 
 ## Tabular Data
 
@@ -154,9 +146,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) : Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 - 🏚️ [MusicXML.jl](https://github.com/kevinsa5/MusicXML.jl) : A parser for MusicXML files, designed to be used with the MXMLSynth library.
@@ -168,7 +158,7 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - 🏚️ [XmlToDict.jl](https://github.com/elcritch/XmlToDict.jl) :  Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
 - 🏚️ [XDMF.jl](https://github.com/ahojukka5/Xdmf.jl) : A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF), where the Light data is stored using XML, Heavy data is typically stored using HDF5.
 
-</details>
+{{< /details >}}
 
 ## Document Processors
 
@@ -196,13 +186,11 @@ For Document Generators, see `Development tools | documentation`.
 - [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) : typeset scattered graph data rewriter based on LaTeX nodes.
 - [Tectonic.jl](https://github.com/MichaelHatherly/Tectonic.jl) : [tectonic](https://github.com/tectonic-typesetting/tectonic) typesetting system.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [LaTeXTools.jl](https://github.com/jgoldfar/LaTeXTools.jl) : Tools for automatic manipulation and management of LaTeX Documents.
 
-</details>
+{{< /details >}}
 
 ## Image Formats
 
@@ -218,10 +206,8 @@ For Document Generators, see `Development tools | documentation`.
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [TIFF.jl](https://github.com/rephorm/TIFF.jl) : TIFF image file support for Julia.
 
-</details>
+{{< /details >}}

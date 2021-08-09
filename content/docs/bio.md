@@ -40,9 +40,7 @@ weight: 30
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [BioArgParse.jl](https://github.com/Ward9250/BioArgParse.jl) : Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'.
 - 🏚️ [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
@@ -73,7 +71,7 @@ weight: 30
 - 🏚️ [VariantCall.jl](https://github.com/mgvel/VariantCall.jl).
 - 🏚️ [YARS.jl](https://github.com/kzahedi/YARS.jl) : YARS communication for RNA/proteins.
 
-</details>
+{{< /details >}}
 
 ### BioJulia ecosystem
 
@@ -110,15 +108,13 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) : A package for statistical analyses of sequence alignments.
 - 🏚️ [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) : Statistical analysis of genomic data.
 - 🏚️ [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) : A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 
-</details>
+{{< /details >}}
 
 **Resources**
 
@@ -141,25 +137,21 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 
 - [ROC.jl](https://github.com/diegozea/ROC.jl) : Receiver Operating Characteristic (ROC) Curve for Julia Language.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) : Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
 
-</details>
+{{< /details >}}
 
 ## Molecular Biology
 
 - [CellFishing.jl](https://github.com/bicycle1885/CellFishing.jl) : (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [EvoDuplexes.jl](https://github.com/timbitz/EvoDuplexes.jl) : A Julia package to fold all local and long-range RNA duplexes.
 
-</details>
+{{< /details >}}
 
 ## Microscopy and bioimages
 
@@ -186,15 +178,13 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [NEAT.jl](https://github.com/Andy-P/NEAT.jl) : Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 - 🏚️ [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) : Macaque brain and skull extraction tools.
 - 🏚️ [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) : Spike sorting tool for experimental neuroscientists.
 
-</details>
+{{< /details >}}
 
 ## Pharmacology
 

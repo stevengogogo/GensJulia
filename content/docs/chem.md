@@ -17,13 +17,11 @@ weight: 40
 - [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) : Well its the periodic table - in Julia!
 - [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) : A package containing curated physical constants.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Dimers.jl](https://github.com/sswatson/Dimers.jl) : Oligomers with two structurally similar monomers.
 
-</details>
+{{< /details >}}
 
 ## File I/O
 
@@ -36,13 +34,11 @@ weight: 40
 - [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) : OpenSMILES string representations to LightGraphs.jl format. The author recommends `MolecularGraph.jl`.
 - [PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) : Utilities to programmatically query the PubChem database.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) : Coherence/phase-locking statistics in Julia.
 
-</details>
+{{< /details >}}
 
 ## Physical Chemistry
 
@@ -51,13 +47,11 @@ weight: 40
 - [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) : CoolProp wrapper for Julia
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamics properties of wet air and gasses.
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Lavoisier.jl](https://github.com/longemen3000/lavoisier) : Thermodynamics models of gasseus compounds.
 
-</details>
+{{< /details >}}
 
 ## Simulation Methods
 
@@ -79,13 +73,11 @@ weight: 40
 
 ---
 
-<details>
-
-<summary>🏚️ Might not work in the current version of Julia</summary>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
 - 🏚️ [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) : Simulation of Brownian-Based Stochastic Processes.
 
-</details>
+{{< /details >}}
 
 ### Molecular  simulation
 
@@ -99,12 +91,10 @@ weight: 40
 
 [Wikipedia: Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
 
-<details>
+{{< details "🏚️ Might not work in the current version of Julia" >}}
 
-<summary>🏚️ Might not work in the current version of Julia</summary>
-
-- [ClassicalLaminateTheory.jl](https://github.com/PtFEM/ClassicalLaminateTheory.jl) : Laminate model functions by K.Y.Lin.
+- [ClassicalLaminateTheory.jl](https://github.com/PtFEM/ClassicalLaminateTheory.jl) : Laminate model functions by K.Y.Lin. (No `Project.toml`)
 - 🏗️ [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) : A Lattice Library for Julia.
 - 🏚️ [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) : Artificial Hydrocarbon Networks (AHNs) in Julia.
 
-</details>
+{{< /details >}}
