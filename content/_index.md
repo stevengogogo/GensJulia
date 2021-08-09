@@ -21,7 +21,9 @@ The package lists are collected from:
 
 Non-existent packages, dead links, and deprecated tutorials are removed.
 
-Legends:
+Old or WIP packages are labelled as follows:
 
 - 🏚️ means the package may not support current versions (v1.0+) of Julia.
 - 🏗️ means the package may be a WIP.
+
+> This site is powered by [Hugo](https://gohugo.io/) and [book theme](https://github.com/alex-shpak/hugo-book)
