@@ -9,7 +9,7 @@ weight: 30
 - [BioJulia](https://biojulia.net/) organization
 - [Julia Health](https://juliahealth.org) organizations
 
-## Interface to databases
+## Accessing databases
 
 - [BioFetch.jl](https://github.com/BioJulia/BioFetch.jl) : Easily fetch biological sequences from online sources. Currently supports Entrez (NCBI) Nucleotide and Protein databases, as well as UniProt and Ensembl.
 - [BioMedQuery.jl](https://github.com/JuliaHealth/BioMedQuery.jl) : Julia utilities to process and save results from BioMedical databases/APIs.
@@ -96,7 +96,7 @@ weight: 30
 Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.wikipedia.org/wiki/Phylogenetics).
 
 - [Phylogenies.jl](https://github.com/BioJulia/Phylogenies.jl) : Phylogenetic trees and geneologies. (No `Project.toml`)
-- [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks. The companion package is [PhyloPlots.jl](https://github.com/cecileane/PhyloPlots.jl)
+- [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks. The companion package for plotting is [PhyloPlots.jl](https://github.com/cecileane/PhyloPlots.jl)
 - [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) : Phylogenetic tree simulation.
 
 ### Genomics
@@ -123,7 +123,7 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 **Resources**
 
 - [Wikipedia: list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
-- [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
+- [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : using R but FYI.
 
 ## Metabolic networks
 
@@ -151,7 +151,7 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 
 ## Molecular Biology
 
-- [CellFishing.jl ](https://github.com/bicycle1885/CellFishing.jl) : (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing.
+- [CellFishing.jl](https://github.com/bicycle1885/CellFishing.jl) : (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing.
 
 <details>
 
@@ -166,8 +166,12 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 [Wikipedia: Microscopy](https://en.wikipedia.org/wiki/Microscopy)
 
 - [BioformatsLoader.jl](https://github.com/ahnlabb/BioformatsLoader.jl) : load images using bioformats  based on `JavaCall.jl`.
+- [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) : A multi-dimensional, high performance deconvolution framework written in Julia Lang for CPUs and GPUs. [JuliaCon 2021 video](https://youtu.be/FodpnOhccis)
+- [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) : Tools for working with Fourier (Frequency ) space. [JuliaCon 2021 video](https://youtu.be/qYgJDb_Ko2E)
 - [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) : Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) light sheet microscopy file formats in Julia.
 - [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) : Embed annotations in your microscopy images.
+- [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) : Toolbox for calculating optical [PSFs](https://en.wikipedia.org/wiki/Point_spread_function).
+- [View5D.jl](https://github.com/RainerHeintzmann/View5D.jl) : a Java-based viewer for up to 5-dimensional data.
 
 ## Neuroscience
 
