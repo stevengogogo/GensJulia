@@ -16,10 +16,11 @@ weight: 190
 ## Frameworks
 
 - [JuMP.jl](https://github.com/jump-dev/JuMP.jl) : A modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
+- [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) : `GalacticOptim.jl` seeks to bring together all of the optimization packages it can find, local and global, into one unified Julia interface.
 
 ## Bindings for external solvers
 
-> Some of them may require paid license to work.
+> Some of them require paid license to work.
 
 - [AmplNLReader.jl](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl) : A Julia Interface to AMPL.
 - [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
@@ -35,6 +36,7 @@ weight: 190
 - [HSL.jl](https://github.com/JuliaSmoothOptimizers/HSL.jl) : Julia interface to the HSL Mathematical Software Library.
 - [Ipopt.jl](https://github.com/jump-dev/Ipopt.jl) : Julia interface to the [Ipopt](https://coin-or.github.io/Ipopt/) nonlinear solver.
 - [KNITRO.jl](https://github.com/jump-dev/KNITRO.jl) : Julia interface for [KNITRO solver](https://www.artelys.com/knitro).
+- [Mosek.jl](https://github.com/MOSEK/Mosek.jl) : Interface to the Mosek solver in Julia.
 - [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) : Package to call the [NLopt](http://ab-initio.mit.edu/nlopt) nonlinear-optimization library from the Julia language.
 - [Xpress.jl](https://github.com/jump-dev/Xpress.jl) : A Julia interface for the [FICO Xpress solver](https://github.com/jump-dev/Xpress.jl/blob/master/www.fico.com/products/fico-xpress-solver).
 
@@ -74,6 +76,8 @@ weight: 190
 - [BARON.jl](https://github.com/joehuchette/BARON.jl) : A wrapper for the BARON mixed-integer nonlinear programming solver.
 - [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) : Wrapper to solve [conic](http://mathprogbasejl.readthedocs.org/en/latest/conic.html) optimization problems with derivative-based nonlinear solvers.
 - [Convex.jl](https://github.com/jump-dev/Convex.jl) : A Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems.
+- [EAGO.jl](https://github.com/PSORLab/EAGO.jl) : A development environment for robust and global optimization. EAGO stands for Easy-Advanced Global Optimization.
+
 
 <details>
 
@@ -89,17 +93,15 @@ weight: 190
 
 - [AutomotiveDrivingModels.jl](https://github.com/tawheeler/AutomotiveDrivingModels.jl) : For car encounter models.
 - [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl) : An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
-- [CharibdeOptim.jl](https://github.com/JuliaIntervals/CharibdeOptim.jl) : A Julia implementation of the cooperative solver Charibde in which it uses two parallel running algorithms Differential Evolution and Interval Branch & Contract algorithm to achieve solution of any difficult problem.
+- [CharibdeOptim.jl](https://github.com/JuliaIntervals/CharibdeOptim.jl) : A Julia implementation of the cooperative solver Charibde in which it uses two parallel running algorithms *Differential Evolution* and *Interval Branch & Contract algorithm* to achieve solution of any difficult problem.
 - [ConstraintProgramming.jl](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl) :  Calculates the feasible region for a set of real-valued inequalities with Julia.
 - [CutPools.jl](https://github.com/joehuchette/CutPools.jl) : Pools of cutting planes for JuMP models.
-- [EAGO.jl](https://github.com/PSORLab/EAGO.jl) : A development environment for robust and global optimization. EAGO stands for Easy-Advanced Global Optimization.
-- [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) : `GalacticOptim.jl` seeks to bring together all of the optimization packages it can find, local and global, into one unified Julia interface.
+- [Hyperopt.jl](https://github.com/baggepinnen/Hyperopt.jl) : A package to perform hyperparameter optimization. Currently supports random search, latin hypercube sampling and Bayesian optimization.
 - [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) : An interface for infinite-dimensional optimization problems. e.g. stochastic programming, dynamic programming, space-time optimization. See also the [YouTube video](https://www.youtube.com/watch?v=q5ETFLZbxiU).
-- [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) : Linear Operators for Julia.
+- [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) : Linear Operators for Julia. Operators behave like matrices but are defined by their effect when applied to a vector.
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) : Simple curve fitting functionality from [Optim.jl][] has been moved into its own package.
 - [MathProgBase.jl](https://github.com/JuliaOpt/MathProgBase.jl) : Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming.
 - [Mayday.jl](https://github.com/rdeits/Mayday.jl) : Sums-of-Squares optimization through semidefinite programming (SDP) in Julia, powered by JuMP.
-- [Mosek.jl](https://github.com/MOSEK/Mosek.jl) : Interface to the Mosek solver in Julia.
 - [Optim.jl][] : A basic optimization algorithms implementation.
 - [OSQP.jl](https://github.com/oxfordcontrol/OSQP.jl) : A Julia wrapper for the Operator Splitting Quadratic Program (OSQP) solver is a numerical optimization package.
 - [PolyJuMP.jl](https://github.com/JuliaOpt/PolyJuMP.jl) : A JuMP extension for Polynomial Optimization.
