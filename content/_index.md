@@ -16,7 +16,7 @@ The package lists are collected from:
 
 - [Julia.jl](https://github.com/svaksha/Julia.jl) (most entries)
 - [Package announcements](https://discourse.julialang.org/c/community/packages/47) from the Julia discourse forum.
-- - [Julia youtube channels](https://www.youtube.com/c/TheJuliaLanguage)
+- [Julia youtube channels](https://www.youtube.com/c/TheJuliaLanguage)
 - etc.
 
 Non-existent packages, dead links, and deprecated tutorials are removed.
