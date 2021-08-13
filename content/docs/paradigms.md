@@ -55,9 +55,20 @@ weight: 200
 
 {{< /details >}}
 
+### Reversible programming
+
+- [Article about reversible programming](https://www.sciencedirect.com/science/article/pii/S1571066110000204/pdf?md5=7014596c8e6fce7e9d8eee32ada5e1b5&pid=1-s2.0-S1571066110000204-main.pdf)
+
+---
+
+- [NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) : a reversible domain-specific language (DSL). Every state change can be undone.
+
 ## Functional Programming
 
-See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming) and [Wikipedia: Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
+- [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
+- [Wikipedia: Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+
+---
 
 - [Chain.jl](https://github.com/jkrumbiegel/Chain.jl) : A Julia package for piping a value through a series of transformation expressions using a convenient syntax.
 - [Glob.jl](https://github.com/vtjnash/Glob.jl) : Posix-compliant file name pattern matching.
@@ -78,14 +89,6 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 {{< /details >}}
 
-## Reversible programming
-
-- [Article about reversible programming](https://www.sciencedirect.com/science/article/pii/S1571066110000204/pdf?md5=7014596c8e6fce7e9d8eee32ada5e1b5&pid=1-s2.0-S1571066110000204-main.pdf)
-
----
-
-- [NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) : a reversible domain-specific language (DSL). Every state change can be undone.
-
 ## Reactive Programming
 
 [Wikipedia: Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
@@ -100,6 +103,18 @@ See [Wikipedia: Declarative Programming](https://en.wikipedia.org/wiki/Declarati
 
 - 🏚️ [Evolution.jl](https://github.com/xenon-/Evolution.jl) : Evolutionary Computation in Julia.
 - 🏚️ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) : An evolutionary technique that is similar to Genetic Programming (GP).
+
+{{< /details >}}
+
+## Design by contract
+
+[Wikipedia: Design by contract](https://en.wikipedia.org/wiki/Design_by_contract)
+
+- [DesignByContract.jl](https://github.com/ghaetinger/DesignByContract.jl) : an interface for Design By Contract programming in Julia. See also [Eiffel](https://www.eiffel.org/doc/eiffel/Learning_Eiffel), which first introduced Design By Contract programming.
+
+{{< details "🏚️ Might not work in the current version of Julia" >}}
+
+- [Contracts.jl](https://github.com/eschnett/Contracts.jl) : macros for pre- and post-conditions in functions.
 
 {{< /details >}}
 
