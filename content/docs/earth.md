@@ -50,6 +50,7 @@ weight: 90
 ### Aquatic Ecology
 
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) : Algebraic Implicit Biogeochemical Elemental Cycling System (AIBECS) for exploring global marine biogeochemical cycles.
+- [OceanRobots.jl](https://github.com/gaelforget/OceanRobots.jl) : simulating data collected by autonomous, remotely operated, or manned vehicles in the Ocean. [JuliaCon 2021 video](https://youtu.be/oC-rikXfVo8)
 
 {{< details "🏚️ Might not work in the current version of Julia" >}}
 
