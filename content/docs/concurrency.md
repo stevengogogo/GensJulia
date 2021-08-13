@@ -156,10 +156,10 @@ weight: 50
 
 **Packages**
 
-- [CVortex.jl](https://github.com/hjabird/CVortex.jl) : Julia wrapper [cvortex](https://github.com/hjabird/cvortex), GPU accelerated vortex filament and vortex particle methods.
-- [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) : Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl
-- [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) : This package wraps key functions in CUDA Driver API.
-- [FoldsCUDA.jl](https://github.com/JuliaFolds/FoldsCUDA.jl): provides Transducers.jl-compatible fold (reduce) implemented using CUDA.jl. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
+- [CVortex.jl](https://github.com/hjabird/CVortex.jl) : Julia wrapper for [cvortex](https://github.com/hjabird/cvortex) GPU accelerated vortex filament and vortex particle methods.
+- [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) : Fast `StatsBase.countmap` for small types on the GPU via `CUDA.jl`
+- [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) : CUDA programming in Julia. [JuliaCon 2021 video](https://youtu.be/fw0R5G8pB0U)
+- [FoldsCUDA.jl](https://github.com/JuliaFolds/FoldsCUDA.jl): provides Transducers.jl-compatible fold (reduce) implemented using `CUDA.jl`. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
 
 ---
 
