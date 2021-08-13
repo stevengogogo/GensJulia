@@ -15,7 +15,6 @@ weight: 180
 
 ## Model File I/O
 
-
 - [SBML.jl](https://github.com/LCSB-BioCore/SBML.jl) : Julia interface to the Systems Biology Markup Language (SBML) library.
 - [SBMLToolkit.jl](https://github.com/SciML/SBMLToolkit.jl) : importing models specified in the Systems Biology Markup Language (SBML) into the Julia SciML ecosystem.
 - [CellMLToolkit.jl](https://github.com/SciML/CellMLToolkit.jl) : a Julia library that connects `CellML` models to the Scientific Julia ecosystem.
@@ -29,8 +28,8 @@ weight: 180
 - [Symata.jl](https://github.com/jlapeyre/Symata.jl) : language for symbolic mathematics.
 - [SymbolicRegression.jl](https://github.com/MilesCranmer/SymbolicRegression.jl) : Distributed High-Performance symbolic regression in Julia.
 - [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) : A fast and modern CAS for a fast and modern language.
-- [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of SymEngine.
-- [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to SymPy via PyCall.
+- [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of [SymEngine](https://github.com/symengine/symengine).
+- [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to [SymPy](https://www.sympy.org/) via `PyCall.jl`.
 
 ## Differential equations
 
@@ -51,7 +50,6 @@ weight: 180
 - [Sims.jl](https://github.com/tshort/Sims.jl) : Equation-based modeling and simulations in Julia.
 - [SingularIntegralEquations.jl](https://github.com/JuliaApproximation/SingularIntegralEquations.jl) : An experimental Julia package for solving singular integral equations.
 - [Sundials.jl](https://github.com/SciML/Sundials.jl) : A Julia package that interfaces to the [Sundials](https://computing.llnl.gov/projects/sundials) library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
-- [WiltonInts84.jl](https://github.com/krcools/WiltonInts84.jl) : Integrals of arbitrary powers of R over flat triangles.
 
 ---
 

@@ -429,8 +429,8 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) : Julia package for representing dual numbers and for performing dual algebra.
 - [Enzyme.jl](https://github.com/wsmoses/Enzyme.jl) : Julia bindings for the Enzyme automatic differentiator. The Enzyme project is a tool for performing reverse-mode automatic differentiation (AD) of statically-analyzable LLVM IR.
 - [FastGaussQuadrature.jl](https://github.com/JuliaApproximation/FastGaussQuadrature.jl) : Computes Gauss quadrature rules to 16-digit precision (so far Legendre, Jacobi, Lobatto, Radau).
-- [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) : estimating derivatives with [finite differences](https://en.wikipedia.org/wiki/Finite_difference).
 - [FiniteDiff.jl](https://github.com/JuliaDiff/FiniteDiff.jl) : Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support.
+- [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) : estimating derivatives with [finite differences](https://en.wikipedia.org/wiki/Finite_difference).
 - [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) : Forward Mode Automatic Differentiation for Julia.
 - [HCubature.jl](https://github.com/JuliaMath/HCubature.jl) : Pure-Julia multidimensional h-adaptive integration.
 - [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) : Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
@@ -439,6 +439,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [RiemannComplexNumbers.jl](https://github.com/scheinerman/RiemannComplexNumbers.jl) : The RiemannComplexNumbers module is an alternative Complex type for Julia (with a single complex infinity value).
 - [Roots.jl](https://github.com/JuliaMath/Roots.jl) : Root finding functions for Julia.
 - [TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl) : A julia package for Taylor expansions in one independent variable.
+- [WiltonInts84.jl](https://github.com/krcools/WiltonInts84.jl) : Integrals of arbitrary powers of R over flat triangles.
 - [Yota.jl](https://github.com/dfdx/Yota.jl) : Reverse-mode automatic differentiation for static and dynamic graphs.
 
 ---
@@ -466,9 +467,9 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 
 [Wikipedia: Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
 
-- [Complementarity.jl](https://github.com/chkwon/Complementarity.jl) : This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl.
+- [Complementarity.jl](https://github.com/chkwon/Complementarity.jl) : This package provides a modeling and computational interface for solving [Mixed Complementarity Problems (MCP)](https://en.wikipedia.org/wiki/Mixed_complementarity_problem), modeling by `JuMP.jl` and computing by `PATHSolver.jl`.
 - [Fatou.jl](https://github.com/chakravala/Fatou.jl) : Fatou sets in Julia (Fractals, Newton basins, Mandelbrot).
-- [PATHSolver.jl](https://github.com/chkwon/PATHSolver.jl) : Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
+- [PATHSolver.jl](https://github.com/chkwon/PATHSolver.jl) : This package provides a Julia wrapper of the PATH Solver for solving _linear_ Mixed Complementarity Problems (MCP).
 - [Wilkinson.jl](https://github.com/chakravala/Wilkinson.jl) : Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 
 ## Discrete math
