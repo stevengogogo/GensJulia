@@ -36,7 +36,6 @@ weight: 210
 - [Wikipedia: Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
 - [Wikipedia: Optics](https://en.wikipedia.org/wiki/Optics)
 
-
 **Packages**
 
 - [Peacock.jl](https://github.com/sp94/Peacock.jl) : Photonic crystals in Julia.
@@ -65,6 +64,7 @@ weight: 210
 **Packages**
 
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) : Fast and friendly fluid dynamics on CPUs and GPUs.
+- [WaterLily.jl](https://github.com/weymouth/WaterLily.jl) : a simple and fast fluid simulator written in pure Julia.
 
 {{< details "🏚️ Might not work in the current version of Julia" >}}
 
