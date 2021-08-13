@@ -30,8 +30,7 @@ weight: 210
 
 [Wikipedia: Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 
-- [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) : A Julia framework for solving Markov decision processes.
-- [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) : Support tools for solving `POMDPs`.
+- [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) : A Julia framework for solving Markov decision processes. Its support tool is [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl)
 - [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) : A lightweight abstraction for hidden Markov models (HMM) in Julia.
 
 ### Gaussian
@@ -155,6 +154,7 @@ weight: 210
 
 - [Bootstrap.jl](https://github.com/juliangehring/Bootstrap.jl) : Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
 - [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) : Probability distributions in Julia.
+- [EllipticalSliceSampling.jl](https://github.com/TuringLang/EllipticalSliceSampling.jl) : [elliptical slice sampling](http://proceedings.mlr.press/v9/murray10a/murray10a.pdf) in the Julia language. [JuliaCon 2021 video](https://youtu.be/S5gUED7Uq2Q)
 - [GeneralizedSampling.jl](https://github.com/robertdj/GeneralizedSampling.jl) : Generalized Sampling in Julia.
 - [Jackknife.jl](https://github.com/ararslan/Jackknife.jl) : Jackknife resampling and estimation in Julia.
 - [Jags.jl](https://github.com/JagsJulia/Jags.jl) : Julia package for using Just another Gibbs sampler.
