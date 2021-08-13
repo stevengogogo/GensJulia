@@ -79,9 +79,18 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 ## Java
 
+### Running Java from Julia
+
 - [JavaCall.jl](https://github.com/JuliaInterop/JavaCall.jl) : call Java programs from Julia.
 - [JDBC.jl](https://github.com/aviks/JDBC.jl) : Julia interface to Java database drivers.
 - [TeaSeis.jl](https://github.com/ChevronETC/TeaSeis.jl) : JavaSeis IO implementation for the Julia language.
+
+### Running Julia from Java
+
+[Discourse thread: Embedding Julia in the Java Virtual Machine](https://discourse.julialang.org/t/embedding-julia-in-the-java-virtual-machine/51444).
+
+- [julia4j](https://github.com/rssdev10/julia4j) : Julia4J uses SWIG to build a Java Native Interface (JNI) integration with Julia.
+- [libjulia-clj](https://github.com/cnuernber/libjulia-clj) : Julia bindings for Clojure JVM.
 
 ## JavaScript
 
