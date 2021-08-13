@@ -9,12 +9,7 @@ weight: 240
 
 ## Plotting
 
-**Resources**
-
 - [Org: Julia Plots](https://github.com/JuliaPlots)
-- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial `Plots.jl` Gallery inspired by MATLAB Plot Gallery.
-- [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
-- Drawing [2.7 billion points (22gb) in 10 seconds](https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer.
 
 **Packages**
 

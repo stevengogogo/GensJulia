@@ -58,4 +58,9 @@ weight: 4
 - [Machine Learning in Julia 2020](https://github.com/ablaom/MachineLearningInJulia2020)
 - [Machine Learning Workshop 2019](https://github.com/mbauman/MachineLearningWorkshop2019)
 
+### Visualization examples
 
+- [Official docs](http://docs.juliaplots.org/latest/) of `Plots.jl`.
+- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl) : An unofficial `Plots.jl` Gallery inspired by MATLAB Plot Gallery.
+- [Various PyPlot.jl examples](https://gist.github.com/gizmaa/7214002) : `PyPlot.jl` examples.
+- [BeautifulMakie](https://lazarusa.github.io/BeautifulMakie/) : `Makie.jl` examples.
