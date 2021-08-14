@@ -5,7 +5,7 @@ date: 2021-08-14T17:11:49+08:00
 draft: false
 author: ""
 description: ""
-tags: ["pluto"]
+tags: ["pluto", "plots", "pyplot"]
 categories: ["Examples"]
 ---
 
