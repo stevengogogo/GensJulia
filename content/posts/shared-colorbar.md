@@ -2,7 +2,7 @@
 title: "Shared Colorbar for Plots.jl"
 date: 2021-08-14T16:52:00+08:00
 draft: false
-tags: ["visualization"]
+tags: ["visualization", "plots"]
 categories: ["Tips"]
 ---
 
