@@ -8,6 +8,8 @@ categories: ["Tips"]
 
 Source: <https://discourse.julialang.org/t/plots-jl-shared-colorbar-with-subplots/47269/4>
 
+<!--more-->
+
 The trick is to
 
 - make an blank scatter plot for the colorbar.
