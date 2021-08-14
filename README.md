@@ -1,15 +1,9 @@
-# Hugo Book template
+# Gens Julia
 
-This repository is served as a tech blog template powered by [Hugo](https://gohugo.io/) and [book](https://hugo-book-demo.netlify.app/) theme.
+![GitHub repo size](https://img.shields.io/github/repo-size/sosiristseng/GensJulia) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sosiristseng/GensJulia)
 
-## On GitHub
+> This site is powered by [Hugo](https://gohugo.io/) and [book theme](https://github.com/alex-shpak/hugo-
 
-Click the `Use this template` green button to copy the repo to yours.
+## Disclaimer
 
-## For Gitlab
-
-New -> New project -> import project -> repo by URL.
-
-## Notes
-
-You will need to edit the `baseurl` entry in `config.toml` for proper rendering in your site.
+This Julia resource list is largely based on [Julia.jl](https://github.com/svaksha/Julia.jl), which is under COPYRIGHT © 2012-Now SVAKSHA, dual-licensed for the data ([ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/)) and the software ([AGPLv3+](http://www.gnu.org/licenses/agpl-3.0.en.html)), respectively.

@@ -3,7 +3,6 @@ title: "Design Pattern in Julia"
 weight: 0
 date: 2021-08-14T17:33:28+08:00
 draft: false
-author: ""
 description: ""
 tags: ["design pattern"]
 categories: ["Tips"]

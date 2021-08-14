@@ -1,6 +1,9 @@
-# Gens Julia
+---
+title: "Home"
+type: docs
+---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sosiristseng/GensJulia) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sosiristseng/GensJulia)
+# Gens Julia
 
 > [Gens Julia](https://en.wikipedia.org/wiki/Julia_gens) or Julia gens was one of the most ancient patrician families in ancient Rome.
 
