@@ -1,8 +1,3 @@
----
-title: "Visualization"
-weight: 240
----
-
 # Visualization in Julia
 
 > Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.

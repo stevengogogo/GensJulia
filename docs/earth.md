@@ -1,8 +1,3 @@
----
-title: Earth science
-weight: 90
----
-
 # Earth science in Julia
 
 > Climate modeling, ecology, cartography, GIS, Meteorology, etc.

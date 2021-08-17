@@ -1,8 +1,3 @@
----
-title: "Modeling and simulation"
-weight: 180
----
-
 # Modeling and simulation
 
 > General packages for modeling and simulating kinetics

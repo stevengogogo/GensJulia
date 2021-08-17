@@ -1,7 +1,3 @@
----
-title: Economics and Finance
-weight: 100
----
 # Economics and Finance
 
 Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)

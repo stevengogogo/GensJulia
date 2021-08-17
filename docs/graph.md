@@ -1,11 +1,6 @@
----
-title: "Graph Theory"
-weight: 120
----
-
 # Graph Theory
 
-> General graph data structures, algorithms [Wikipedia | Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+> General graph data structures, algorithms [Wikipedia : Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 **Organizations**
 

@@ -11,7 +11,6 @@
 - [Wikipedia: Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
 - [Wikipedia: Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
 
-
 ## General Packages
 
 - [Actors.jl](https://github.com/JuliaActors/Actors.jl) : [Actor Model](https://en.wikipedia.org/wiki/Actor_model).

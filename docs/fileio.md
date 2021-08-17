@@ -1,8 +1,3 @@
----
-title: "File I/O"
-weight: 110
----
-
 # File I/O in Julia
 
 > General file read / write libraries

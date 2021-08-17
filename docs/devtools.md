@@ -2,6 +2,8 @@
 
 > Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
+**Resources**
+
 - [awesome devops](https://github.com/wmariuss/awesome-devops)
 - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) : JuliaLang binary caching infrastructure.
 - [Devops Weekly](http://www.devopsweekly.com/) by email subscription.
@@ -151,11 +153,45 @@ Use the built-in [logging](https://docs.julialang.org/en/v1/stdlib/Logging/) fac
 
 </details>
 
-### Regression Testing
+## Benchmarking and Regression Testing
 
+**Resources**
+
+- [Julia Microbenchmarks against other programming languages](https://julialang.org/benchmarks/)
+
+**Packages**
+
+- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
+- [ConicBenchmarkUtilities.jl](https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl) : Julia utilities for the conic benchmark format for mathematical optimization.
+- [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) : A module for CPU timing.
+- [DataBench.jl](https://github.com/xiaodaigh/DataBench.jl) : A package to benchmark data manipulation in Julia vs `R data.table`.
 - [PkgBenchmark.jl](https://github.com/JuliaCI/PkgBenchmark.jl) : Easy benchmark tracking for packages
 - [PkgEval.jl](https://github.com/JuliaCI/PkgEval.jl) : Evaluate Julia packages for a range of Julia versions.
+- [PkgJogger.jl](https://github.com/awadell1/PkgJogger.jl) : a benchmarking framework for Julia built on `BenchmarkTools.jl`, providing simple benchmark script loading and revision (by `Revise.jl`). It also enables continuous benchmarking.
+- [ProfileSVG.jl](https://github.com/kimikage/ProfileSVG.jl) : Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
+- [ProfileView.jl](https://github.com/timholy/ProfileView.jl) : Visualization of Julia profiling data
+- [SimplexBenchmarks](https://github.com/mlubin/SimplexBenchmarks) : Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
+- [StatProfilerHTML.jl](https://github.com/tkluck/StatProfilerHTML.jl) : Show Julia profiling data in an explorable HTML page.
 - [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl) : Automated integrated regression tests for graphics libraries.
+
+---
+
+<details> <summary>🏚️ Might not work in the current version of Julia</summary>
+
+- 🏚️ [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) : A package for computing simple benchmarks, comparing functions and packages.
+- 🏚️ [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) : A lightweight Julia package for simple performance benchmark.
+- 🏚️ [Benchmarks.jl](https://github.com/johnmyleswhite/Benchmarks.jl) : A new benchmarking library for Julia.
+- 🏚️ [Criterion.jl](https://github.com/jakebolewski/Criterion.jl) : A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
+- 🏚️ [IACA.jl](https://github.com/carnaval/IACA.jl) : A wrapper around intel's arch code analyzer for Julia.
+- 🏚️ [IProfile](https://github.com/timholy/IProfile.jl) : Replaced by profile in Julia base.
+- 🏚️ [ISPC.jl](https://github.com/damiendr/ISPC.jl) : Tools to work with [ISPC](https://ispc.github.io/) in Julia.
+- 🏚️ [julia_qsortbenchmarks](https://github.com/illerucis/julia_qsortbenchmarks) :  Suggested improvements to Julia's Quicksort implementation.
+- 🏚️ [JuliaBenchmarks](https://github.com/kapiliitr/JuliaBenchmarks) : Porting HPC Challenge benchmarks to Julia.
+- 🏚️ [Perftests.jl](https://github.com/staticfloat/Perftests.jl) : Base perftests for Julia.
+- 🏚️ [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) : Julia module to test the performance of sorting algorithms.
+- 🏚️ [USERTime.jl](https://github.com/christianpeel/USERTime.jl) : A Julia package for measuring elapsed user time.
+
+</details>
 
 ## Debugger
 

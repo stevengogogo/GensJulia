@@ -1,8 +1,3 @@
----
-title: "Physics"
-weight: 210
----
-
 # Physics in Julia
 
 > Physics simulations, Quantum physics

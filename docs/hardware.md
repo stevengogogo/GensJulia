@@ -1,8 +1,3 @@
----
-title: "Hardware and Robotics"
-weight: 140
----
-
 # Hardware and Robotics in Julia
 
 > Software libraries to control hardwarr and robots

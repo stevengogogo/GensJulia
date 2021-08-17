@@ -2,8 +2,10 @@
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...
 
-- [BioJulia](https://biojulia.net/) organization
-- [Julia Health](https://juliahealth.org) organizations
+**Organizations**
+
+- [BioJulia](https://biojulia.net/)
+- [Julia Health](https://juliahealth.org)
 
 ## Accessing databases
 

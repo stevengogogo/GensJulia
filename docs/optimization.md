@@ -1,9 +1,4 @@
----
-title: "Optimization"
-weight: 190
----
-
-# (Mathematical) Optimization
+# Mathematical Optimization
 
 > [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia
 

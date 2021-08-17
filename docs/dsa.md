@@ -1,8 +1,3 @@
----
-title: Data Structures and Algorithms
-weight: 80
----
-
 # Data Structures and Algorithms in Julia
 
 > General algorithms, data structures and data types for Julia
