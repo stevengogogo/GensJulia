@@ -5,6 +5,10 @@
 - [JuliaAudio](https://github.com/JuliaAudio)
 - [JuliaMusic](https://github.com/JuliaMusic)
 
+**Resources**
+
+- [Using faust in Julia](https://faustdoc.grame.fr/tutorials/julia/) : `faust` is a functional programming language for sound synthesis and audio processing.
+
 **Packages**
 
 - [FFMPEG.jl][] : Julia Package for the FFMPEG builder binaries.
