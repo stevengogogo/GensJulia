@@ -46,6 +46,25 @@ Get in touch with [the Julia community](http://julialang.org/community/) in vari
 - [Julia GitHub Groups](https://julialang.org/community/organizations/) is a non-comprehensive list of Julia GitHub groups showing the extent of the Julia ecosystem.
 - [Julia in Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 
+### International Groups.
+
+- [Julia localization communities](https://julialang.org/community/localization)
+- [Org: Julia-i18n](https://github.com/Julia-i18n)
+
+#### Chinese
+
+- The [JuliaCN group](https://github.com/JuliaCN) on github
+- [julialang.cn](http://julialang.cn/) : Simplified Chinese homepage of Chinese community
+- [JuliaZH.jl](https://github.com/JuliaCN/JuliaZH.jl) : [Simplified Chinese Documentation](https://docs.juliacn.com/latest/) of Julia.
+
+#### Japanese
+
+- [Julia Tokyo](http://julia.tokyo)
+
+#### Portugese
+
+- [JuliaLang em Português](https://github.com/JuliaLangPt)
+
 ### Social media
 
 - [Julia Reddit](http://www.reddit.com/r/Julia/)

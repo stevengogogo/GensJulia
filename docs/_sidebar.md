@@ -13,7 +13,6 @@
 - [**Graph Theory**](/graph.md)
 - [**Graphics**](/graphics.md)
 - [**Hardware and Robotics**](/hardware.md)
-- [**i18n-L10n**](/i18n-L10n.md)
 - [**Interoperativity**](/interop.md)
 - [**Math**](/math.md)
 - [**Modeling and simulation**](/modeling.md)

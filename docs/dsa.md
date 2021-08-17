@@ -118,6 +118,12 @@
 - [VersionParsing.jl](https://github.com/JuliaInterop/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
 - [WeakRefStrings.jl](https://github.com/JuliaData/WeakRefStrings.jl) : a minimal String type for Julia that allows for efficient string representation and transfer.
 
+### i18n-L10n and unicode tools
+
+- [Gettext.jl](https://github.com/Julia-i18n/Gettext.jl) : An interface to the [gettext](http://www.gnu.org/software/gettext/manual/html_node/index.html) internationalization/translation interface.
+- [ICU.jl](https://github.com/JuliaStrings/ICU.jl) : Julia wrapper for the International Components for Unicode (ICU) library.
+- [LegacyStrings.jl](https://github.com/JuliaArchive/LegacyStrings.jl) : The LegacyStrings package provides compatibility string types from Julia 0.5 (and earlier).
+
 ---
 
 <details> <summary>🏚️ Might not work in the current version of Julia</summary>
