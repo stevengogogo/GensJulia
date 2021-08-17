@@ -162,7 +162,6 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 For Document Generators, see `Development tools | documentation`.
 
 - [CommonMark.jl](https://github.com/MichaelHatherly/CommonMark.jl) : A CommonMark-compliant parser for Julia.
-- [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) : Package for parsing configuration files utilizing `ini`, `http`, and simple configuration syntaxes.
 - [ExcelReaders.jl](https://github.com/davidanthoff/ExcelReaders.jl) : A package that provides functionality to read Excel files.
 - [LabelNumerals.jl](https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc.
 - [OdsIO.jl](https://github.com/sylvaticus/OdsIO.jl) : Open Document Format Spreadsheet (ODS) I/O for Julia using the python ezodf module.

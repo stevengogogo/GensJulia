@@ -29,11 +29,12 @@
 
 ## APIs and bindings
 
+- [AppleAccelerate.jl](https://github.com/JuliaMath/AppleAccelerate.jl) : Julia interface to OS X's Accelerate framework.
 - [ArrayFire.jl](https://github.com/JuliaComputing/ArrayFire.jl) : Julia Wrapper for the [ArrayFire](http://arrayfire.com/) library.
 - [Elly.jl](https://github.com/JuliaParallel/Elly.jl) : [Hadoop](https://hadoop.apache.org/) HDFS and Yarn client.
 - [Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl) : Wrapper to the [hwloc library](http://www.open-mpi.org/projects/hwloc/) to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading.
-- [MPI.jl](https://github.com/JuliaParallel/MPI.jl) : [MPI](http://www.mpi-forum.org/) wrappers for Julia.
 - [julia-slurm-example](https://github.com/magerton/julia-slurm-example) : Simple example scripts for running Julia on a SLURM.
+- [MPI.jl](https://github.com/JuliaParallel/MPI.jl) : [MPI](http://www.mpi-forum.org/) wrappers for Julia.
 
 ---
 

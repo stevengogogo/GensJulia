@@ -1,9 +1,10 @@
 # General Julia utilities
 
-- [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.
-- [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
-- [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
 - [JuliaCon.jl](https://github.com/JuliaCon/JuliaCon.jl): [JuliaCon](https://juliacon.org/) greetings and announcements.
+- [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memoization for Julia.
+- [MTH229.jl](https://github.com/mth229/MTH229.jl) : Helper files by @mth229.
+- [SO.jl](https://github.com/dlfivefifty/SO.jl) : Personal macros for Julia by @dlfivefifty.
+- [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
 
 ---
 
@@ -19,8 +20,6 @@
 
 ## Microsoft Windows
 
-- [WAV.jl](https://github.com/dancasimiro/WAV.jl) : Julia package for working with WAV files.
-- [XCB.jl](https://github.com/JuliaGL/XCB.jl) : XCB windowing library wrapper.
 - [ConfParser.jl](https://github.com/JuliaIO/ConfParser.jl) : Julia package for parsing configuration (`*.ini`) files.
 - [IniFile.jl](https://github.com/JuliaIO/IniFile.jl) : Reading and writing Windows-style INI files. (No `Project.toml`)
 

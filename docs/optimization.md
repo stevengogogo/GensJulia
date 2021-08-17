@@ -83,6 +83,7 @@
 - [CharibdeOptim.jl](https://github.com/JuliaIntervals/CharibdeOptim.jl) : A Julia implementation of the cooperative solver Charibde in which it uses two parallel running algorithms *Differential Evolution* and *Interval Branch & Contract algorithm* to achieve solution of any difficult problem.
 - [ConstraintProgramming.jl](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl) :  Calculates the feasible region for a set of real-valued inequalities with Julia.
 - [CutPools.jl](https://github.com/joehuchette/CutPools.jl) : Pools of cutting planes for JuMP models.
+- [EntropicCone.jl](https://github.com/blegat/EntropicCone.jl) : Entropic Cone approximation and optimization.
 - [Hyperopt.jl](https://github.com/baggepinnen/Hyperopt.jl) : A package to perform hyperparameter optimization. Currently supports random search, latin hypercube sampling and Bayesian optimization.
 - [InfiniteOpt.jl](https://github.com/pulsipher/InfiniteOpt.jl) : An interface for infinite-dimensional optimization problems. e.g. stochastic programming, dynamic programming, space-time optimization. See also the [YouTube video](https://www.youtube.com/watch?v=q5ETFLZbxiU).
 - [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) : Linear Operators for Julia. Operators behave like matrices but are defined by their effect when applied to a vector.

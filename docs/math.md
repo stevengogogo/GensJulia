@@ -15,14 +15,11 @@
 
 ## General Mathematics packages
 
-- [AppleAccelerate.jl](https://github.com/JuliaMath/AppleAccelerate.jl) : Julia interface to OS X's Accelerate framework.
-- [EntropicCone.jl](https://github.com/blegat/EntropicCone.jl) : Entropic Cone approximation and optimization
 - [FastPow.jl](https://github.com/JuliaMath/FastPow.jl) : `@fastpow` speeds up the computation of integer powers in any Julia expression by transforming them into optimal sequences of multiplications, with a slight sacrifice in accuracy.
 - [GSL.jl](https://github.com/JuliaMath/GSL.jl) : Julia interface to the GNU Scientific Library - [GSL](https://www.gnu.org/software/gsl/doc/html/index.html).
-- [Hecke.jl](https://github.com/thofma/Hecke.jl) : Computational algebraic number theory
+- [Hecke.jl](https://github.com/thofma/Hecke.jl) : Computational algebraic number theory.
 - [Hexagons.jl](https://github.com/GiovineItalia/Hexagons.jl) : Useful tools for working with hexagonal grids.
 - [MPFR.jl](https://github.com/andrioni/MPFR.jl) : A Julia package for the GNU MPFR library.
-- [MTH229.jl](https://github.com/mth229/MTH229.jl) : Helper files for using Julia with MTH229.
 - [NaNMath.jl](https://github.com/mlubin/NaNMath.jl) : Implementations of basic math functions which return NaN instead of throwing a `DomainError`.
 - [NLreg.jl](https://github.com/dmbates/NLreg.jl) : Nonlinear regression in Julia.
 - [Tau.jl](https://github.com/JuliaMath/Tau.jl) : A simple module providing definition of the Tau constant = 2pi.
@@ -85,7 +82,7 @@
 <details> <summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ Bit[Coin.jl](https://github.com/danielsuo/Coin.jl) : A library for working with Bitcoin written in Julia.
-- 🏚️ [BitcoinBlockchain.jl](https://github.com/stejin/BitcoinBlockchain.jl) : Julia package for analyzing the Bitcoin blockchain via the API provided by https://blockchain.info/.
+- 🏚️ [BitcoinBlockchain.jl](https://github.com/stejin/BitcoinBlockchain.jl) : Julia package for analyzing the Bitcoin blockchain via the API provided by <https://blockchain.info/>.
 
 </details>
 
@@ -99,7 +96,7 @@
 
 ### Floating Point
 
-[Floating Point](https://en.wikipedia.org/wiki/Category:Floating_point)
+[Wikipedia: Floating Point](https://en.wikipedia.org/wiki/Category:Floating_point)
 
 For floating-point datatypes, see [Data Types](dsa.md#numeric-data-types) Section.
 
@@ -116,10 +113,6 @@ For floating-point datatypes, see [Data Types](dsa.md#numeric-data-types) Sectio
 - 🏚️ [UnumX.jl](https://github.com/JuliaComputing/UnumX.jl) : Experimental Unums.
 
 </details>
-
-## Modelling and Simulations
-
-See [modeling and simulations](modeling.md) section.
 
 ## Algebra
 

@@ -23,25 +23,6 @@
 
 </details>
 
-
-## Pattern Matching
-
-- [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) : An interface for the Blossom V perfect matching algorithm.
-- [Loess.jl](https://github.com/dcjones/Loess.jl) : is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
-- [Match.jl](https://github.com/kmsquire/Match.jl) : Advanced Pattern Matching for Julia.
-
----
-
-<details> <summary>🏚️ Might not work in the current version of Julia</summary>
-
-- 🏚️ [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) : Julia implementation of the Aho-Corasick algorithm for fast string searching.
-- 🏚️ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) : Port of the jellyfish string comparison library.
-- 🏚️ [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) : Data structures for nearest neighbor search.
-- 🏚️ [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) : Method dispatch based on pattern matching for Julia.
-- 🏚️ [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) : Adds functionality to reverse-search strings with regexes
-
-</details>
-
 ## Sorting
 
 - [NaturalSort.jl](https://github.com/simonster/NaturalSort.jl) : Natural sort order.
@@ -117,6 +98,25 @@
 - [StringLiterals.jl](https://github.com/JuliaString/StringLiterals.jl) : Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities.
 - [VersionParsing.jl](https://github.com/JuliaInterop/VersionParsing.jl) : flexible VersionNumber parsing in Julia.
 - [WeakRefStrings.jl](https://github.com/JuliaData/WeakRefStrings.jl) : a minimal String type for Julia that allows for efficient string representation and transfer.
+
+### Pattern Matching
+
+- [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) : An interface for the Blossom V perfect matching algorithm.
+- [Loess.jl](https://github.com/dcjones/Loess.jl) : is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
+- [Match.jl](https://github.com/kmsquire/Match.jl) : Advanced Pattern Matching for Julia.
+
+---
+
+<details> <summary>🏚️ Might not work in the current version of Julia</summary>
+
+- 🏚️ [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) : Julia implementation of the Aho-Corasick algorithm for fast string searching.
+- 🏚️ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) : Port of the jellyfish string comparison library.
+- 🏚️ [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) : Data structures for nearest neighbor search.
+- 🏚️ [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) : Method dispatch based on pattern matching for Julia.
+- 🏚️ [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) : Adds functionality to reverse-search strings with regexes
+
+</details>
+
 
 ### i18n-L10n and unicode tools
 
@@ -241,6 +241,7 @@ See [Graph Theory](graph.md#graph-data-types) section.
 - 🏚️ [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) : A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 
 </details>
+
 ## Composite Data Types
 
 [Wikipedia: Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types)

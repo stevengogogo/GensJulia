@@ -221,3 +221,4 @@ algebra library in Julia.
 
 - [julia-logo-graphics](https://github.com/JuliaLang/julia-logo-graphics) : official versions of the Julia logo.
 - [FIGlet.jl](https://github.com/kdheepak/FIGlet.jl) : Fonts port of FIGlet, doing ASCII Art.
+- [XCB.jl](https://github.com/JuliaGL/XCB.jl) : XCB windowing library wrapper.
