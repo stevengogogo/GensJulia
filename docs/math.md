@@ -386,7 +386,7 @@ See [Modeling | Symbolic Computation](modeling.md#symbolic-computation)
 - [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) : Fast complex polynomial root finder, with support for arbitrary precision calculations
 - [Remez.jl](https://github.com/simonbyrne/Remez.jl) : [Remez algorithm](https://en.wikipedia.org/wiki/Remez_algorithm) for computing minimax polynomial approximations.
 - [SemialgebraicSets.jl](https://github.com/JuliaAlgebra/SemialgebraicSets.jl) : Extension of MultivariatePolynomials to semialgebraic sets.
-- [TaylorModels.jl](https://github.com/dpsanders/TaylorModels.jl) : A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a [Taylor polynomial](http://bt.pa.msu.edu/index_TaylorModels.htm).
+- [TaylorModels.jl](https://github.com/dpsanders/TaylorModels.jl) : A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a Taylor polynomial. [📹 JuliaCon 2018](https://youtu.be/o1h7BUW04NI).
 
 ---
 
