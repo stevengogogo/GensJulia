@@ -10,6 +10,20 @@
 
 ## Machine Learning and Neural Networks
 
+**Resources**
+
+- [CIML](https://github.com/hal3/ciml) : A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.).
+- [deepframeworks](https://github.com/zer0n/deepframeworks) : An evaluation of Deep Learning Frameworks.
+- [Examples from _Thoughtful Machine Learning_](https://github.com/thoughtfulml/examples).
+- [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) : Basic Neural Network written in JuliaLang.
+- [juliastreetview](https://github.com/evq/juliastreetview) : Updated sample code for the Kaggle Julia Street View Character Recognition Tutorial.
+- [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
+- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) : Classical equations and diagrams in machine learning by @soulmachine.
+- [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) : Feed-forward MLP neural network implementation.
+- [A Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
+
+**Packages**
+
 > General machine learning frameworks and Neural Networks
 
 - [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) : a package to create complex ML pipeline structures using simple expressions.
@@ -20,6 +34,7 @@
 - [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) : Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
 - [EasyML.jl](https://github.com/OML-NPA/EasyML.jl) : Using machine learning in Julia through a graphical user interface.
+- [EvoTrees.jl](https://github.com/Evovest/EvoTrees.jl) : Boosted decision trees in Julia.
 - [FastAI.jl][] : Repository of best practices for deep learning in Julia, inspired by [fastai](https://github.com/fastai/fastai). [Showcase](https://lorenzoh.github.io/posts/fastaijl_ecosystem.html)
 - [Flux.jl](https://github.com/FluxML/Flux.jl) : A library for machine learning implemented in Julia. See also [Flux model-zoo](https://github.com/FluxML/model-zoo).
 - [FluxTraining.jl](https://github.com/FluxML/FluxTraining.jl) : A powerful, extensible neural net training library. The training backend for [FastAI.jl][].
@@ -141,19 +156,12 @@
 - [SpikeSynchrony.jl](https://github.com/Datseris/SpikeSynchrony.jl) : Measuring distances, synchrony and correlation between spike trains.
 - [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
 - [WaspNet.jl](https://github.com/leaflabs/WaspNet.jl) : fixed-time-step simulations of primarily spiking neural networks (SNNs).
+
+<details> <summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) : A spiking neural network simulator written in Julia.
 
-### Resources
-
-- [CIML](https://github.com/hal3/ciml) : A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.).
-- [deepframeworks](https://github.com/zer0n/deepframeworks) : An evaluation of Deep Learning Frameworks.
-- [Examples from _Thoughtful Machine Learning_](https://github.com/thoughtfulml/examples).
-- [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) : Basic Neural Network written in JuliaLang.
-- [juliastreetview](https://github.com/evq/juliastreetview) : Updated sample code for the Kaggle Julia Street View Character Recognition Tutorial.
-- [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
-- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) : Classical equations and diagrams in machine learning by @soulmachine.
-- [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) : Feed-forward MLP neural network implementation.
-- [A Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
+</details>
 
 ## Reinforcement Learning (RL)
 
