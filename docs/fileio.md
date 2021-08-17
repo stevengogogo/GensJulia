@@ -178,14 +178,12 @@ For Document Generators, see `Development tools | documentation`.
 - [Latexify.jl](https://github.com/korsbo/Latexify.jl) : Convert julia objects to LaTeX equations, arrays or other environments.
 - [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) : Print Julia objects in a form suitable for LaTeX mathematics mode.
 - [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) : Convenient input and display of LaTeX equation strings for the Julia language.
-- [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) : typeset scattered graph data rewriter based on LaTeX nodes.
 - [Tectonic.jl](https://github.com/MichaelHatherly/Tectonic.jl) : [tectonic](https://github.com/tectonic-typesetting/tectonic) typesetting system.
+- [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) : typeset scattered graph data rewriter based on LaTeX nodes.
 
-<details> <summary>🏚️ Might not work in the current version of Julia</summary>
+### Citation management
 
-- 🏚️ [LaTeXTools.jl](https://github.com/jgoldfar/LaTeXTools.jl) : Tools for automatic manipulation and management of LaTeX Documents.
-
-</details>
+- [Bibliography.jl](https://github.com/Humans-of-Julia/Bibliography.jl) : a Julia package for handling both import/export from various bibliographic format (e.g. BibTeX).
 
 ## Image Formats
 
