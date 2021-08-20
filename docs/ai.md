@@ -40,6 +40,7 @@
 - [FluxTraining.jl](https://github.com/FluxML/FluxTraining.jl) : A powerful, extensible neural net training library. The training backend for [FastAI.jl][].
 - [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) : Utility functions for the FunctionalData package, mainly from the area of computer vision and machine learning.
 - [GeometricFlux.jl](https://github.com/FluxML/GeometricFlux.jl) : Geometric Deep Learning for Flux.
+- [InvertibleNetworks.jl](https://github.com/slimgroup/InvertibleNetworks.jl) : Building blocks for invertible neural networks in the Julia programming language.
 - [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) : Kernel functions for machine learning.
 - [Knet.jl](https://github.com/denizyuret/Knet.jl) : Koç University deep learning framework - A machine learning module implemented in Julia. See also [KnetNLP](https://github.com/egeersu/KnetNLP) and [KnetOnnx.jl](https://github.com/egeersu/KnetOnnx.jl)
 - [LearningStrategies.jl](https://github.com/JuliaML/LearningStrategies.jl) : A generic and modular framework for building custom iterative algorithms in Julia.
