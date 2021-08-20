@@ -2,9 +2,10 @@
 
 > General algorithms, data structures and data types for Julia
 
-- [Awesome algorithms](https://github.com/tayllan/awesome-algorithms), a curated list of awesome places to learn and/or practice algorithms.
 - [algo-book-julia](https://github.com/Alexander-N/algo-book-julia) : Snippets from Problem Solving with Algorithms and Data Structures in Julia.
-- [study](https://github.com/codematician/study) : A study of interesting algorithms in Python.
+- [Awesome algorithms](https://github.com/tayllan/awesome-algorithms), a curated list of awesome places to learn and/or practice algorithms.
+- [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) : Concise and beautiful algorithms written in Julia.
+- [study @ codematician](https://github.com/codematician/study) : A study of interesting algorithms in Python.
 
 ## General Algorithms
 
