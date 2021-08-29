@@ -123,7 +123,7 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 
 - [COBRA.jl](https://github.com/opencobra/COBRA.jl) : COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`.
 - [COBREXA.jl](https://github.com/LCSB-BioCore/COBREXA.jl) : constraint-based reconstruction and analysis tools for exa-scale metabolic models in Julia. It uses [JuMP.jl](https://github.com/jump-dev/JuMP.jl) to formulate optimization problems.
-
+- [Escher.jl](https://github.com/stelmo/Escher.jl) : `escherplot` is a `Makie.jl` recipe that plots maps of metabolic models.
 
 ## Healthcare
 
