@@ -17,6 +17,7 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 - [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) : Technical analysis of financial time series in Julia by @JuliaQuant.
 - [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :Julia implementation of [QuantEcon](https://quantecon.org/quantecon-jl/) routines.
 - [SchumakerSpline.jl](https://github.com/s-baumann/SchumakerSpline.jl) : An equivalent Julia package to R's [schumaker](https://cran.r-project.org/web/packages/schumaker/index.html) to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
+- [SolveDSGE.jl](https://github.com/RJDennis/SolveDSGE.jl) : a Julia package for solving Dynamic Stochastic General Equilibrium (DSGE) models.
 
 ---
 
