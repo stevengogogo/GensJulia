@@ -2,9 +2,7 @@
 
 > Julia interoperativity with other programming languages.
 
-**Organization**
-
-- [JuliaInterop](https://github.com/JuliaInterop)
+- [JuliaInterop Organization](https://github.com/JuliaInterop)
 
 ## Mathematica
 
@@ -115,8 +113,9 @@ Julia has [native Fortran interface](https://docs.julialang.org/en/v1/manual/cal
 
 **Packages**
 
+- [JuliaFromMATLAB.jl](https://github.com/jondeuce/JuliaFromMATLAB.jl) : Call Julia from MATLAB.
 - [MAT.jl](https://github.com/JuliaIO/MAT.jl) : A Julia module for reading MATLAB files.
-- [MATLAB.jl](https://github.com/lindahua/MATLAB.jl) : an interface for using MATLAB® from Julia using the MATLAB C api.
+- [MATLAB.jl](https://github.com/JuliaInterop/MATLAB.jl) : an interface for using MATLAB® from Julia using the MATLAB C api.
 
 ---
 
