@@ -1,13 +1,15 @@
 # Audio and Video processing in Julia
 
-**Organizations**
+- [JuliaAudio Organization](https://github.com/JuliaAudio)
+- [JuliaMusic Organization](https://github.com/JuliaMusic)
 
-- [JuliaAudio](https://github.com/JuliaAudio)
-- [JuliaMusic](https://github.com/JuliaMusic)
+---
 
 **Resources**
 
 - [Using faust in Julia](https://faustdoc.grame.fr/tutorials/julia/) : `faust` is a functional programming language for sound synthesis and audio processing.
+
+---
 
 **Packages**
 

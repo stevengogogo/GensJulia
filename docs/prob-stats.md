@@ -188,6 +188,7 @@
 - [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) : Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 - [RankAggregation.jl](https://github.com/JuliaEarth/RankAggregation.jl) : Rank aggregation in Julia.
 - [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) : Archive of functions that emulate R's d-p-q-r functions for probability distributions.
+- [ROC.jl](https://github.com/diegozea/ROC.jl) : Receiver Operating Characteristic (ROC) Curve.
 - [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) : Basic statistics.
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) : Topic Models are Bayesian, hierarchical mixture models of discrete data.
 - [TSne.jl](https://github.com/lejon/TSne.jl) : [T-SNE visualisation technique](https://lvdmaaten.github.io/tsne/).

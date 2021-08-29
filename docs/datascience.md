@@ -4,10 +4,10 @@
 
 **Organizations**
 
-- [Org: Julia ML](https://github.com/JuliaML)
-- [Org: Julia Data](https://github.com/JuliaData)
-- [Org: Julia Databases](https://github.com/JuliaDatabases)
-- [Org: Julia stats](https://github.com/JuliaStats)
+- [Julia ML organization](https://github.com/JuliaML)
+- [Julia Data organization](https://github.com/JuliaData)
+- [Julia Databases organization](https://github.com/JuliaDatabases)
+- [Julia stats organization](https://github.com/JuliaStats)
 
 ## DataBase API
 
@@ -32,7 +32,6 @@
 - 🏚️ [Q.jl](https://github.com/enlnt/Q.jl) : Julia for [kdb+](https://github.com/prologic/kdb) database.
 
 </details>
-
 
 ## HDF5 format
 

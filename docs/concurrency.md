@@ -5,17 +5,17 @@
 **Resources**
 
 - [Julia manual for parallel computing](https://docs.julialang.org/en/v1/manual/parallel-computing/)
-- [Org: Julia Parallel](https://github.com/JuliaParallel)
-- [Org: Julia Folds](https://github.com/JuliaFolds)
-- [Org: Julia Cloud](https://github.com/JuliaCloud)
+- [Julia Parallel Organization](https://github.com/JuliaParallel)
+- [Julia Folds Organization](https://github.com/JuliaFolds)
+- [Julia Cloud Organization](https://github.com/JuliaCloud)
 - [Wikipedia: Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
 - [Wikipedia: Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
 
-## General Packages
+## General Concurrency Packages
 
-- [Actors.jl](https://github.com/JuliaActors/Actors.jl) : [Actor Model](https://en.wikipedia.org/wiki/Actor_model).
-- [FLoops.jl](https://github.com/JuliaFolds/FLoops.jl): provides a macro `@floop`. It can be used to generate a fast generic iteration over complex collections.
-- [Folds.jl](https://github.com/JuliaFolds/Folds.jl) : A unified interface for sequential, threaded, and distributed fold.
+- [Actors.jl](https://github.com/JuliaActors/Actors.jl) : Concurrent computing in Julia based on the [Actor Model](https://en.wikipedia.org/wiki/Actor_model).
+- [FLoops.jl](https://github.com/JuliaFolds/FLoops.jl): the macro `@floop` for a fast generic iteration over complex collections.
+- [Folds.jl](https://github.com/JuliaFolds/Folds.jl) : A unified interface for sequential, threaded, and distributed folds. The [docs](https://juliafolds.github.io/Folds.jl/stable/) list what functions it supports.
 - [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) : Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 
 ---
@@ -49,20 +49,20 @@
 ## Cloud computing
 
 - [AWS.jl](https://github.com/JuliaCloud/AWS.jl) : supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
-- [AWSCore.jl](https://github.com/samoconnor/AWSCore.jl) : [Amazon Web Services](https://aws.amazon.com/) Core Functions and Types.
-- [AWSS3.jl](https://github.com/samoconnor/AWSS3.jl) : AWS S3 Simple Storage Service interface for Julia.
-- [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) : Tools for working with Google Compute engine via the cloud CLI.
+- [AWSCore.jl](https://github.com/JuliaCloud/AWSCore.jl) : [Amazon Web Services](https://aws.amazon.com/) Core Functions and Types.
+- [AWSS3.jl](https://github.com/JuliaCloud/AWSS3.jl) : AWS S3 Simple Storage Service interface for Julia.
 - [GoogleCloud.jl](https://github.com/JuliaCloud/GoogleCloud.jl) : Google Cloud APIs for Julia.
 
 <details> <summary>🏚️ Might not work in the current version of Julia</summary>
 
 - 🏚️ [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) : Easy big data programming in the cloud.
+- [GCloud.jl](https://github.com/sglyon/GCloud.jl) : Tools for working with Google Compute engine via the cloud CLI. (No `Projects.toml`)
 
 </details>
 
 ## Multi-Threading
 
-- [KissThreading.jl](https://github.com/bkamins/KissThreading.jl) : Simple patterns supporting working with threads in Julia.
+- [KissThreading.jl](https://github.com/mohamed82008/KissThreading.jl) : Simple patterns supporting working with threads in Julia.
 - [ThreadsX.jl](https://github.com/tkf/ThreadsX.jl) : Parallelized Base functions.
 
 ---
@@ -80,6 +80,8 @@
 
 - [Wikipedia: SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing).
 - [Julia docs: `@simd`](https://docs.julialang.org/en/v1/base/base/#Base.SimdLoop.@simd) macro.
+
+---
 
 **Packages**
 
@@ -103,6 +105,8 @@
 - [Wikipedia: Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.
 - [Wikipedia: Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 - [Julia at scale](https://discourse.julialang.org/c/domain/parallel/34) topic on discourse.
+
+---
 
 **Packages**
 
@@ -148,6 +152,8 @@
 - Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
 - Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 - Blog post on [High-Performance GPU Computing](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
+
+---
 
 **Packages**
 

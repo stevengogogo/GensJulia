@@ -24,8 +24,6 @@
 
 **Packages**
 
-> General machine learning frameworks and Neural Networks
-
 - [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) : a package to create complex ML pipeline structures using simple expressions.
 - [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) : Bayesian nonparametrics in Julia.
 - [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) : Restricted Boltzmann Machines and Deep Belief Networks in Julia
@@ -134,9 +132,9 @@
 - [JuliaTorch](https://github.com/boathit/JuliaTorch) : Using PyTorch in Julia Language via PyCall.
 - [LIBLINEAR.jl](https://github.com/innerlee/LIBLINEAR.jl) : Julia binding to [Liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/), a library for Large Linear Classification.
 - [LIBSVM.jl](https://github.com/JuliaML/LIBSVM.jl) : Julia bindings for [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) C library.
-- [MXNet.jl](https://github.com/dmlc/MXNet.jl) : Flexible and efficient deep learning in Julia. (*merged into [main MXNet repo](https://github.com/apache/incubator-mxnet)*)
+- [MXNet](https://mxnet.apache.org/versions/1.8.0/api/julia) : Flexible and efficient deep learning in Julia.
 - [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) : Julia implementation of the scikit-learn API via `PyCall.jl`. [Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
-- [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : a Julia interface of [XGBoost](https://github.com/dmlc/xgboost).
+- [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : a Julia interface of [XGBoost](https://github.com/dmlc/xgboost), an efficient and scalable implementation of distributed gradient boosting framework.
 
 ---
 
@@ -150,25 +148,11 @@
 
 </details>
 
-### Spiking neural network
-
-[Wikipedia: Spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
-
-- [SpikeSynchrony.jl](https://github.com/Datseris/SpikeSynchrony.jl) : Measuring distances, synchrony and correlation between spike trains.
-- [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
-- [WaspNet.jl](https://github.com/leaflabs/WaspNet.jl) : fixed-time-step simulations of primarily spiking neural networks (SNNs).
-
-<details> <summary>🏚️ Might not work in the current version of Julia</summary>
-
-- 🏚️ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) : A spiking neural network simulator written in Julia.
-
-</details>
-
 ## Reinforcement Learning (RL)
 
 [Wikipedia: Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
-- [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package.
+- [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package with an [introductary book](https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl).
 
 <details> <summary>🏚️ Might not work in the current version of Julia</summary>
 
@@ -181,13 +165,9 @@
 
 [Wikipedia: Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
-**Organization**
-
-- [JuliaText](https://github.com/JuliaText)
+- [JuliaText organization](https://github.com/JuliaText)
 
 ---
-
-**Packages**
 
 - [AdaGram.jl](https://github.com/sbos/AdaGram.jl) : Adaptive Skip-gram implementation in Julia.
 - [BKTrees.jl](https://github.com/zgornel/BKTrees.jl) : Julia implementation of Burkhard-Keller trees.
@@ -238,7 +218,7 @@
 ## Speech recognition
 
 - [MFCC.jl](https://github.com/JuliaDSP/MFCC.jl) : Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
-- [WORLD.jl](https://github.com/r9y9/WORLD.jl) : A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system.
+- [WORLD.jl](https://github.com/r9y9/WORLD.jl) : A Julia wrapper for [WORLD](https://github.com/mmorise/World) - a high-quality speech analysis, modification and synthesis system.
 
 ---
 
@@ -248,5 +228,19 @@
 - 🏚️ [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 - 🏚️ [SPTK.jl](https://github.com/r9y9/SPTK.jl) : A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 - 🏚️ [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) : Speech Synthesis Filters.
+
+</details>
+
+## Spiking neural network
+
+[Wikipedia: Spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
+
+- [SpikeSynchrony.jl](https://github.com/Datseris/SpikeSynchrony.jl) : Measuring distances, synchrony and correlation between spike trains.
+- [SpikingNeuralNetworks.jl](https://github.com/AStupidBear/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
+- [WaspNet.jl](https://github.com/leaflabs/WaspNet.jl) : fixed-time-step simulations of primarily spiking neural networks (SNNs).
+
+<details> <summary>🏚️ Might not work in the current version of Julia</summary>
+
+- 🏚️ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) : A spiking neural network simulator written in Julia.
 
 </details>

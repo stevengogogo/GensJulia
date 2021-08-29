@@ -5,7 +5,6 @@
 - [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks)
 - [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html)
 - [Chemistry Julia blog ](http://jiahao.github.io/julia-blog/)
-- [JuliaMolSim](https://github.com/JuliaMolSim) organization
 
 **Packages**
 
@@ -75,7 +74,11 @@
 
 </details>
 
-### Molecular  simulation
+### Molecular simulation
+
+- [Julia molecular simulation organization](https://github.com/JuliaMolSim/)
+
+---
 
 - [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) : Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
 - [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) : Flexible Julia code for plane-wave [density-functional theory (DFT)](https://en.wikipedia.org/wiki/Density_functional_theory) and related models.

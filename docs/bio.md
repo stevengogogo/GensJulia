@@ -2,12 +2,10 @@
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...
 
-**Organizations**
+- [BioJulia Organization](https://biojulia.net/)
+- [Julia Health Organization](https://juliahealth.org)
 
-- [BioJulia](https://biojulia.net/)
-- [Julia Health](https://juliahealth.org)
-
-## Accessing databases
+## Accessing biology databases
 
 - [BioFetch.jl](https://github.com/BioJulia/BioFetch.jl) : Easily fetch biological sequences from online sources. Currently supports Entrez (NCBI) Nucleotide and Protein databases, as well as UniProt and Ensembl.
 - [BioMedQuery.jl](https://github.com/JuliaHealth/BioMedQuery.jl) : Julia utilities to process and save results from BioMedical databases/APIs.
@@ -17,24 +15,17 @@
 - [PubMedMiner.jl](https://github.com/JuliaHealth/PubMedMiner.jl) : Julia package for studying co-occurrences in PubMed articles.
 - [RxNav.jl](https://github.com/wherrera10/RxNav.jl) : Julia interface to the National Library of Medicine's online pharmaceutical RxNav API.
 
-## File I/O
-
-- [BED.jl](https://github.com/BioJulia/BED.jl) : I/O and utilities for the BED file format.
-- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files.
-- [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) : Utilities to read/write FASTA format files in Julia.
-- [FASTX.jl](https://github.com/BioJulia/FASTX.jl) : Parse and process FASTA and FASTQ formatted files of biological sequences.
-- [XAM.jl](https://github.com/BioJulia/XAM.jl) : Parse and process SAM and BAM formatted alignment map files.
-
-
 ## Bioinformatics and genomics
 
 - [Ensemble.jl](https://github.com/farr/Ensemble.jl) : Stochastic samplers based on the "stretch move" for ensembles of walkers.
+- [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) : Utilities to read/write FASTA format files in Julia.
 - [MIToS.jl](https://github.com/diegozea/MIToS.jl) : Mutual Information Tools for protein Sequence analysis in Julia.
 - [MMTF.jl](https://github.com/BioJulia/MMTF.jl) : The Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structures for fast 3D visualization and analysis.
 - [NormalizeQuantiles.jl](https://github.com/oheil/NormalizeQuantiles.jl) : implements quantile normalization
 - [PlmDCA](https://github.com/pagnani/PlmDCA) : Pseudo Likelihood Maximization for direct-coupling analysis of protein structure from many homologous amino-acid sequences.
 - [SpeedDate.jl](https://github.com/vanOosterhoutLab/SpeedDate.jl) : A utility for rapidly estimating coalescence times between sequences.
 - [XSim.jl](https://github.com/reworkhow/XSim.jl) : A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
+
 
 ---
 
@@ -75,17 +66,21 @@
 
 > Packages in the [BioJulia](https://biojulia.net/) organization.
 
+- [BED.jl](https://github.com/BioJulia/BED.jl) : I/O and utilities for the BED file format.
 - [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) :  Sequence alignment tools in BioJulia
 - [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl) : Biological sequences for the julia language.
 - [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) : A Julia package to read, write and manipulate macromolecular structures (particularly proteins).
 - [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl) : Nucleic and amino acid primitive types.
 - [BioTools.jl](https://github.com/BioJulia/BioTools.jl) : Interfaces to common external biological tools from julia scripts and programs (e.g. BLAST).
+- [FASTX.jl](https://github.com/BioJulia/FASTX.jl) : Parse and process FASTA and FASTQ formatted files of biological sequences.
 - [GeneticVariation.jl](https://github.com/BioJulia/GeneticVariation.jl) : types and methods for working with genetic variation.
 - [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl) :  A modern genomics framework for julia
 - [GenomicFeatures.jl](https://github.com/BioJulia/GenomicFeatures.jl) : utilities for working with interval based genomic annotations.
 - [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) : A data structure for efficient manipulation of sets of intervals.
 - [KmerAnalysis.jl](https://github.com/BioJulia/KmerAnalysis.jl) :  Kmer counting algorithms and count-data utilities for the BioJulia framework.
 - [Microbiome.jl](https://github.com/BioJulia/Microbiome.jl) : manipulating and analyzing microbiome and microbial community data.
+- [XAM.jl](https://github.com/BioJulia/XAM.jl) : Parse and process SAM and BAM formatted alignment map files.
+
 
 ### Phylogeny
 
@@ -117,7 +112,7 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 **Resources**
 
 - [Wikipedia: list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
-- [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : using R but FYI.
+- [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : with R programming language but FYI.
 
 ## Metabolic networks
 
@@ -129,17 +124,9 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 
 [Wikipedia: Biomedicine](https://en.wikipedia.org/wiki/Category:Biomedicine)
 
+- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files. [DICOMClient.jl](https://github.com/JuliaHealth/DICOMClient.jl)  provides a Julia client for connecting to servers.
 - [openBF](https://github.com/INSIGNEO/openBF) : A finite-volume solver for elastic arterial blood flow networks.
-
-## BioStatistics
-
-- [ROC.jl](https://github.com/diegozea/ROC.jl) : Receiver Operating Characteristic (ROC) Curve for Julia Language.
-
-<details> <summary>🏚️ Might not work in the current version of Julia</summary>
-
-- 🏚️ [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) : Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
-
-</details>
+- [PharmaceuticalClassification.jl](https://github.com/JuliaHealth/PharmaceuticalClassification.jl) : Mappings between different systems for classifying medications.
 
 ## Molecular Biology
 
@@ -162,6 +149,7 @@ Evolution trees deduced from biosequences. [Wikiedia: Phylogenetics](https://en.
 - [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) : Embed annotations in your microscopy images.
 - [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) : Toolbox for calculating optical [PSFs](https://en.wikipedia.org/wiki/Point_spread_function).
 - [View5D.jl](https://github.com/RainerHeintzmann/View5D.jl) : a Java-based viewer for up to 5-dimensional data.
+
 
 ## Neuroscience
 
@@ -192,15 +180,4 @@ See also [Pumas AI](https://github.com/PumasAI), the framework for Pharmaceutica
 
 - [DataInterpolations.jl](https://github.com/PumasAI/DataInterpolations.jl) : A library of data interpolation and smoothing functions.
 - [PumasTutorials.jl](https://github.com/PumasAI/PumasTutorials.jl) : Tutorials for pharmaceutical modeling and simulation with Pumas.jl. http://tutorials.pumas.ai
-
-## Resources and Teaching
-
-- [Python for biologists resources](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) google document by Lenny Teytelman.
-- [Software Carpentry](https://software-carpentry.org/lessons.html) teaching material.
-- [Train online @ EMBL-EBI](https://www.ebi.ac.uk/training/on-demand) provides free courses on Europe's most widely used data resources, created by experts at EMBL-EBI and collaborating institutes.
-- [TrainingPhyloIntro](https://github.com/aidanbudd/trainingPhyloIntro) : Practical exercises and slides for teaching computational molecular evolution.
-- [capetown2014](https://github.com/aidanbudd/capetown2014) : Teaching material for EMBO Practical Course on Computational analysis of protein-protein interactions - From sequences to networks run in Cape Town 2014.
-- [course_EMBO_at_TGAC_PPI_Sep2015](https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015) : Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015.
-- Ian Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio](http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions).
-- [Ubiquitous Genomics](http://ubiquitousgenomics.teamerlich.org) : COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
 
