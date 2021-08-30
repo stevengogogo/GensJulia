@@ -4,7 +4,7 @@
 
 ## Plotting
 
-- [Org: Julia Plots](https://github.com/JuliaPlots)
+- [Julia Plots Organization](https://github.com/JuliaPlots)
 
 **Packages**
 

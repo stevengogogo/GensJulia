@@ -2,12 +2,10 @@
 
 > Physics simulations, Quantum physics
 
-**Organizations**
-
-- [Julia Dynamics](https://github.com/JuliaDynamics)
-- [Julia Energy](https://github.com/JuliaEnergy)
-- [Julia Physics](https://github.com/JuliaPhysics)
-- [QuantumBFS](https://github.com/QuantumBFS)
+- [Julia Dynamics Organization](https://github.com/JuliaDynamics)
+- [Julia Energy Organization](https://github.com/JuliaEnergy)
+- [Julia Physics Organization](https://github.com/JuliaPhysics)
+- [QuantumBFS Organization](https://github.com/QuantumBFS)
 
 ## Plasma Physics
 
@@ -23,13 +21,14 @@
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) : Data structures in Julia to enable power systems analysis.
 - [PowerSimulations.jl](https://github.com/NREL-SIIP/PowerSimulations.jl) : Julia for optimization simulation and modeling of PowerSystems.
 
-
 ## Electromagnetism
 
 **Resources**
 
 - [Wikipedia: Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
 - [Wikipedia: Optics](https://en.wikipedia.org/wiki/Optics)
+
+---
 
 **Packages**
 
@@ -55,6 +54,8 @@
 
 - [Wikipedia: Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
 - Blog post about [CFD tutorial in julia](https://www.juliabloggers.com/cfd-tutorial-in-julia/)
+
+---
 
 **Packages**
 
@@ -93,8 +94,12 @@
 
 ## Statistical Mechanics
 
+<details> <summary>🏚️ Might not work in the current version of Julia</summary>
+
 - 🏚️ [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) : Drawing inexact samples from the Ising model using a Gibbs sampler.
 - 🏚️ [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) : A naive and first try to implement a 2D Square Ising Model using Julia.
+
+</details>
 
 ## Thermodynamics
 
@@ -122,7 +127,6 @@
 - 🏚️ [JuliaPower](https://github.com/prezaei85/JuliaPower) : A package of scripts in Julia to solve power flow and simulate cascading failures in power systems.
 - 🏚️ [JuliBoots](https://github.com/mfpaulos/JuliBoots) : Conformal bootstrap calculations.
 - 🏚️ [LHEF.jl](https://github.com/Keno/LHEF.jl) : Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
-- 🏚️ [Mass.jl](https://github.com/ggggggggg/Mass.jl) : An experimental frameworks for TES pulse analysis.
 - 🏚️ [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 - 🏚️ [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) : Dimensions and Quantities.
 - 🏚️ [ROOT.jl](https://github.com/jpata/ROOT.jl) : A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.

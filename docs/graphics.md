@@ -2,13 +2,11 @@
 
 > Computer Vision, Graphics, games, geometry
 
-**Organization**
-
-- [Julia Geometry](https://github.com/JuliaGeometry)
-- [Julia GL](https://github.com/JuliaGL)
-- [Julia Graphics](https://github.com/JuliaGraphics)
-- [Julia Images](https://github.com/JuliaImages)
-- 🏚️ [Julia Open CV](https://github.com/JuliaOpenCV)
+- [Julia Geometry Organization](https://github.com/JuliaGeometry)
+- [Julia GL Organization](https://github.com/JuliaGL)
+- [Julia Graphics Organization](https://github.com/JuliaGraphics)
+- [Julia Images Organization](https://github.com/JuliaImages)
+- 🏚️ [Julia Open CV Organization](https://github.com/JuliaOpenCV)
 
 ## Computer Vision (CV)
 

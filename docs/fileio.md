@@ -2,9 +2,7 @@
 
 > General file read / write libraries
 
-**Organizations**
-
-- [Julia IO](https://github.com/JuliaIO)
+- [Julia IO Organization](https://github.com/JuliaIO)
 
 ## General IO
 
@@ -25,7 +23,7 @@
 
 Similar to `pickle` in Python.
 
-- [CBOR.jl](https://github.com/JuliaIO/CBOR.jl) : A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
+- [CBOR.jl](https://github.com/JuliaIO/CBOR.jl) : A Concise Binary Object Representation ([RFC 7049](https://tools.ietf.org/html/rfc7049)) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
 - [JLD.jl](https://github.com/JuliaIO/JLD.jl) : High-level interface to HDF5 for saving and loading Julia variables & types
 - [JLD2.jl](https://github.com/JuliaIO/JLD2.jl) : Next-generation successor to JLD.
 
@@ -42,8 +40,8 @@ Similar to `pickle` in Python.
 
 <details> <summary>🏚️ Might not work in the current version of Julia</summary>
 
-- 🏚️ [gzip.jl](https://github.com/jvns/gzip.jl) : GunZip in Julia.
-- 🏚️ [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) : A Julia wrapper for the snappy library - a compression/decompression library focusing on speed. (No `Project.toml`)
+- [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) : A Julia wrapper for the [snappy](https://code.google.com/p/snappy/) library (No `Project.toml`)
+- 🏚️ [gzip.jl](https://github.com/jvns/gzip.jl) : `gunzip` in Julia.
 - 🏚️ [Zlib.jl](https://github.com/dcjones/Zlib.jl) : Zlib bindings for Julia.
 
 </details>
@@ -64,10 +62,13 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) : Allows logging individual frames of data to an HDF5 file over time.
 - [NPZ.jl](https://github.com/fhs/NPZ.jl) : Julia package that provides support for reading and writing Numpy .npy and .npz files.
 - [OIFITS.jl](https://github.com/emmt/OIFITS.jl) : Support for OI-FITS (optical interferometry data format).
-- [PdbTool](https://github.com/christophfeinauer/PdbTool.jl) : An object-oriented Julia tool to parse PDB files and work with them.
+- [PdbTool](https://github.com/christophfeinauer/PdbTool.jl) : An object-oriented Julia tool to parse [PDB files](https://www.rcsb.org) and work with them.
 - [SASLib.jl](https://github.com/tk3369/SASLib.jl) : Provide a Julia library for reading SAS7BDAT data sets.
-- [Shapefile.jl](https://github.com/Keno/Shapefile.jl) : Parsing `.shp` files in Julia.
-- [YAML.jl](https://github.com/JuliaData/YAML.jl) : A flexible data serialization format that is designed to be easily read and written by human beings.
+- [Shapefile.jl](https://github.com/JuliaGeo/Shapefile.jl) : Parsing `.shp` files.
+- [YAML.jl](https://github.com/JuliaData/YAML.jl) : read / write `.yml` files.
+- [RawFile.jl](https://github.com/azraq27/RawFile.jl) by @azraq27 : A simple, fast file format for storing numeric arrays in `.raw` files.
+- [ConfParser.jl](https://github.com/JuliaIO/ConfParser.jl) : Julia package for parsing configuration (`*.ini`) files.
+- [IniFile.jl](https://github.com/JuliaIO/IniFile.jl) : Reading and writing Windows-style INI files. (No `Project.toml`)
 
 ---
 
@@ -89,10 +90,12 @@ Julia itself can [read / write TOML files](https://docs.julialang.org/en/v1/stdl
 - 🏚️ [ObjFileBase.jl](https://github.com/Keno/ObjFileBase.jl) : Common functionality for Object Files.
 - 🏚️ [OpenSlide.jl](https://github.com/ihnorton/OpenSlide.jl) : OpenSlide bindings for Julia.
 - 🏚️ [PLX.jl](https://github.com/simonster/PLX.jl) : Julia module for reading Plexon PLX files.
+- 🏚️ [RawFile.jl](https://github.com/tknopp/RawFile.jl) : `.raw` file by @tknopp (No `Project.toml`)
 - 🏚️ [Silo.jl](https://github.com/jgoldfar/Silo.jl) : Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl.
 - 🏚️ [Spock.jl](https://github.com/jey/Spock.jl) : An interface to Apache Spark for the Julia language.
 - 🏚️ [StrPack.jl](https://github.com/pao/StrPack.jl) : For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 - 🏚️ [XPT.jl](https://github.com/lendle/XPT.jl) : The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
+
 
 </details>
 

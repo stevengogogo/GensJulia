@@ -133,7 +133,7 @@
 
 ## Extreme value theory
 
-[Extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory)
+[Wikipedia: Extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory)
 
 - [ExtremeStats.jl](https://github.com/JuliaEarth/ExtremeStats.jl) : analysing and estimating extreme value distributions.
 
@@ -185,7 +185,7 @@
 - [Divergences.jl](https://github.com/gragusa/Divergences.jl) : A Julia package for evaluating divergences.
 - [FeldtLib.jl](https://github.com/robertfeldt/FeldtLib.jl) : Misc julia code that have not yet found its home in a package...
 - [FreqTables.jl](https://github.com/nalimilan/FreqTables.jl) : Frequency tables.
-- [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) : Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
+- [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) : Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092721)
 - [RankAggregation.jl](https://github.com/JuliaEarth/RankAggregation.jl) : Rank aggregation in Julia.
 - [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) : Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 - [ROC.jl](https://github.com/diegozea/ROC.jl) : Receiver Operating Characteristic (ROC) Curve.

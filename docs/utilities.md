@@ -18,25 +18,6 @@
 
 </details>
 
-## Microsoft Windows
-
-- [ConfParser.jl](https://github.com/JuliaIO/ConfParser.jl) : Julia package for parsing configuration (`*.ini`) files.
-- [IniFile.jl](https://github.com/JuliaIO/IniFile.jl) : Reading and writing Windows-style INI files. (No `Project.toml`)
-
----
-
-<details> <summary>🏚️ Might not work in the current version of Julia</summary>
-
-- 🏚️ [COMCall.jl](https://github.com/ihnorton/COMCall.jl) : COM Interface for Julia.
-- 🏚️ [IUP.jl](https://github.com/joa-quim/IUP.jl) : Julia interface to IUP windowing toolkit.
-- 🏚️ [RawFile.jl](https://github.com/tknopp/RawFile.jl) (No `Project.toml`)
-- 🏚️ [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) : Call the Windows API with these Win32 GUI examples.
-- 🏚️ [Wine.jl](https://github.com/Keno/Wine.jl) : Sniffing the wineserver protocol for fun and profit.
-- 🏚️ [WinReg.jl](https://github.com/simonbyrne/WinReg.jl) :  Windows Registry interface for Julia. (No `Project.toml`)
-- 🏚️ [WinUser.jl](https://github.com/JuliaGL/WinUser.jl) : wrapper for windows native windowing functions.
-
-</details>
-
 ## Terminal and command prompt
 
 - [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) : Package for parsing command-line arguments to Julia programs.
