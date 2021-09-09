@@ -259,6 +259,7 @@ See also [`Base.@kwdef`](https://discourse.julialang.org/t/what-does-kwdef-do/51
 - [Setfield.jl](https://github.com/jw3126/Setfield.jl) : Update deeply nested immutable structs.
 - [SimpleTraits.jl](https://github.com/mauro3/SimpleTraits.jl) : Simple Traits for Julia
 - [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) :  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
+- [TypeParams.jl](https://github.com/synchronoustechnologies/TypeParams.jl) : keeping compile-time type information in `struct` for better performance.
 - [Unpack.jl](https://github.com/mauro3/UnPack.jl) : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable datatypes.
 
 ---
