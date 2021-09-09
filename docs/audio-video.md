@@ -15,6 +15,7 @@
 
 - [FFMPEG.jl][] : Julia Package for the FFMPEG builder binaries.
 - [FLAC.jl](https://github.com/JuliaIO/FLAC.jl) : Julia bindings for libFLAC.
+- [Justly.jl](https://github.com/bramtayl/Justly.jl) : compose and play music using any pitches you want.
 - [LibSndFile.jl](https://github.com/JuliaAudio/LibSndFile.jl) : A wrapper for [libsndfile](http://www.mega-nerd.com/libsndfile/), and supports [a wide variety](http://www.mega-nerd.com/libsndfile/) of file and sample formats.
 - [MIDI.jl](https://github.com/JuliaMusic/MIDI.jl) : A Julia library for reading and writing Midi files.
 - [Mplay.jl](https://github.com/JuliaMusic/Mplay.jl) : A Julia MIDI Mixer / Player with an OpenGL based GUI.
