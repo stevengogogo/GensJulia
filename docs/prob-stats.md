@@ -60,6 +60,7 @@
 - [MixedModels.jl](https://github.com/JuliaStats/MixedModels.jl) : A Julia package for fitting (statistical) mixed-effects models.
 - [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) : Some nonnegative least squares solvers in Julia.
 - [QuantileRegression.jl](https://github.com/pkofod/QuantileRegressions.jl) : Quantile regression in Julia.
+- [Smoothers.jl](https://github.com/viraltux/Smoothers.jl) : a collection of smoothing heuristics, models and smoothing related applications.
 - [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) : Statistical Models with Regularization in Pure Julia.
 
 ---
