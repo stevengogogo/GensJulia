@@ -31,7 +31,7 @@
 [Wikipedia: Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 - [Catalyst.jl](https://github.com/SciML/Catalyst.jl) : Domain-specific language (DSL) for chemical reaction networks.
-- [DiffEqFlux](https://github.com/SciML/DiffEqFlux.jl): Combining DifferentialEquations.jl and Flux.jl as its building blocks to support research in Scientific Machine Learning, specifically neural differential equations and universal differential equations, to add physical information into traditional machine learning.
+- [DiffEqFlux](https://github.com/SciML/DiffEqFlux.jl): Combining DifferentialEquations.jl and Flux.jl as its building blocks to support research in Scientific Machine Learning, specifically neural differential equations and universal differential equations.
 - [DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl) : Data driven modeling and automated discovery of dynamical systems.
 - [DiffEqSensitivity.jl](https://github.com/SciML/DiffEqSensitivity.jl) : A component of the DiffEq ecosystem for sensitivity analysis.
 - [DifferentialEquations.jl][] : High-performance solvers of differential equations.
